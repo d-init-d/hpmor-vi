@@ -1,0 +1,315 @@
+Chương 6: Thiên kiến lập kế hoạch
+E. Y.: Vâng vâng tuyên bố từ chối trách nhiệm vâng vâng Rowling vâng vâng quyền sở hữu.
+Phần "Hậu quả" ở cuối chương này là một phần của câu chuyện, không phải là ngoại truyện.
+---
+Bạn nghĩ ngày của mình thật kỳ ảo ư? Thử ngày của tôi xem.
+Một số đứa trẻ hẳn sẽ đợi cho đến sau chuyến đi đầu tiên tới Hẻm Xéo.
+“Túi nguyên tố 79,” Harry nói, rồi rút bàn tay không từ trong chiếc túi da moke ra.
+Hầu hết trẻ con ít nhất sẽ đợi có được đũa phép trước đã.
+“Túi okane,” Harry nói. Chiếc túi vàng nặng trịch lập tức nảy lên trong tay cậu.
+Harry rút chiếc túi ra, rồi lại nhấn chìm nó vào trong chiếc túi da moke. Cậu rút tay ra, thọc tay vào lại, và nói, “Túi của những ký hiệu trao đổi kinh tế.” Lần này, tay cậu rút ra trống trơn.
+“Trả lại tôi cái túi tôi vừa bỏ vào.” Chiếc túi vàng lại hiện ra lần nữa.
+Harry James Potter-Evans-Verres đã chạm tay được vào ít nhất một món đồ pháp thuật. Việc gì phải đợi?
+“Thưa Giáo sư McGonagall,” Harry nói với vị phù thủy đang đi bên cạnh với vẻ mặt đầy suy tư, “cô có thể cho em hai từ, một từ chỉ vàng, và một từ chỉ thứ gì đó khác không phải là tiền, bằng một ngôn ngữ mà em không biết không ạ? Nhưng đừng nói cho em biết từ nào nghĩa là gì nhé.”
+“Ahava và zahav,” Giáo sư McGonagall nói. “Đó là tiếng Do Thái, và từ còn lại có nghĩa là tình yêu.”
+“Em cảm ơn Giáo sư. Túi ahava.” Trống rỗng.
+“Túi zahav.” Và nó nảy ngay vào tay cậu.
+“Zahav là vàng ạ?” Harry hỏi, và Giáo sư McGonagall gật đầu.
+Harry ngẫm nghĩ về số liệu thực nghiệm thu thập được. Đó chỉ là nỗ lực thô sơ và sơ khởi nhất, nhưng cũng đủ để hỗ trợ cho ít nhất một kết luận:
+“Aaaaaaarrrgh chuyện này chẳng có chút logic nào cả!”
+Vị phù thủy bên cạnh nhướng một bên lông mày lên cao. “Có vấn đề gì sao, Trò Potter?”
+“Em vừa mới bác bỏ mọi giả thuyết của mình rồi! Làm thế nào nó biết được ‘túi 115 Galleons’ thì được mà ‘túi 90 cộng 25 Galleons’ thì không? Nó có thể đếm nhưng không thể cộng ư? Nó có thể hiểu danh từ, nhưng lại không hiểu một số cụm danh từ có cùng ý nghĩa? Người làm ra chiếc túi này chắc chắn không nói tiếng Nhật, và em thì không nói tiếng Do Thái cổ, vì vậy nó không dùng kiến thức của họ, cũng chẳng dùng kiến thức của em—” Harry xua tay bất lực. “Các quy tắc có vẻ khá nhất quán nhưng chúng chẳng mang ý nghĩa gì cả! Em thậm chí sẽ không hỏi làm thế nào một cái túi lại có khả năng nhận dạng giọng nói và thấu hiểu ngôn ngữ tự nhiên trong khi các lập trình viên Trí tuệ Nhân tạo giỏi nhất vẫn không thể bắt những siêu máy tính nhanh nhất làm được điều đó sau ba mươi lăm năm làm việc cật lực,” Harry thở hổn hển, “nhưng chuyện gì đang xảy ra vậy?”
+“Phép thuật,” Giáo sư McGonagall nói.
+“Đó chỉ là một từ thôi! Ngay cả sau khi cô nói thế, em vẫn không thể đưa ra bất kỳ dự đoán mới nào! Chuyện này giống hệt như việc nói ‘phlogiston’ hay ‘élan vital’ hay ‘sự trỗi dậy’ hoặc ‘sự phức tạp’ vậy!”
+Vị phù thủy áo đen cười lớn. “Nhưng nó là phép thuật mà, Trò Potter.”
+Harry hơi xìu xuống. “Với tất cả sự tôn trọng, thưa Giáo sư McGonagall, em không chắc cô hiểu em đang cố gắng làm gì ở đây.”
+“Với tất cả sự tôn trọng, Trò Potter, ta khá chắc là mình không hiểu rồi. Trừ phi—đây chỉ là phỏng đoán thôi nhé—trò đang cố gắng thống trị thế giới?”
+“Dạ không! Ý em là có—à không, không!”
+“Ta nghĩ có lẽ ta nên lo ngại khi trò gặp khó khăn trong việc trả lời câu hỏi đó.”
+Harry ủ rũ nghĩ về Hội nghị Dartmouth về Trí tuệ Nhân tạo năm 1956. Đó là hội nghị đầu tiên trên thế giới về chủ đề này, nơi thuật ngữ “Trí tuệ Nhân tạo” được khai sinh. Họ đã xác định các vấn đề cốt lõi như làm thế nào để máy tính hiểu ngôn ngữ, học hỏi và tự cải thiện. Họ đã đề xuất, với tất cả sự nghiêm túc, rằng những tiến bộ đáng kể về những vấn đề này có thể được thực hiện bởi mười nhà khoa học làm việc cùng nhau trong hai tháng.
+Không. Ngẩng cao đầu lên nào. Mình chỉ mới bắt đầu giải quyết vấn đề khám phá toàn bộ bí mật của phép thuật thôi. Mình chưa thực sự biết liệu việc đó có quá khó để hoàn thành trong hai tháng hay không.
+“Và cô thực sự chưa từng nghe nói về những phù thủy khác đặt ra những câu hỏi kiểu này hay làm loại thực nghiệm khoa học này sao ạ?” Harry hỏi lại. Điều này có vẻ quá rõ ràng đối với cậu.
+Nhưng nghĩ lại thì, phải mất hơn hai trăm năm sau khi phương pháp khoa học được phát minh, các nhà khoa học Muggle mới nghĩ đến việc điều tra một cách hệ thống xem đứa trẻ bốn tuổi có thể hoặc không thể hiểu được những câu nào. Về nguyên tắc, tâm lý học phát triển của ngôn ngữ học đã có thể được phát hiện từ thế kỷ mười tám, nhưng không ai nghĩ đến việc tìm kiếm cho đến tận thế kỷ hai mươi. Vì vậy, ta không thể thực sự trách thế giới phù thủy nhỏ bé hơn nhiều này vì đã không nghiên cứu sâu hơn về Bùa Thu hồi.
+Giáo sư McGonagall bĩu môi, rồi nhún vai. “Ta vẫn không chắc ý trò là gì khi nói ‘thực nghiệm khoa học’, Trò Potter. Như ta đã nói, ta từng thấy những học sinh gốc Muggle cố gắng mang khoa học Muggle vào hoạt động trong Hogwarts, và mọi người vẫn sáng chế ra các bùa chú và độc dược mới mỗi năm đó thôi.”
+Harry lắc đầu. “Công nghệ hoàn toàn không giống với khoa học. Và việc thử nhiều cách khác nhau để làm điều gì đó không giống như làm thực nghiệm để tìm ra các quy luật.” Có rất nhiều người đã cố gắng chế tạo máy bay bằng cách thử nghiệm nhiều thứ có cánh, nhưng chỉ có anh em nhà Wright xây dựng một đường hầm gió để đo lực nâng… “Ừm, mỗi năm Hogwarts nhận bao nhiêu học sinh lớn lên trong thế giới Muggle vậy cô?”
+“Khoảng chừng mười đứa?”
+Harry bước hụt một bước và suýt chút nữa tự vấp chân mình. “Mười đứa sao ạ?”
+Thế giới Muggle có dân số sáu tỷ người và vẫn đang tiếp tục tăng. Nếu bạn là kẻ độc nhất trong một triệu người, thì sẽ có bảy người như bạn ở London và thêm một ngàn người nữa ở Trung Quốc. Việc dân số Muggle sản sinh ra một vài đứa trẻ mười một tuổi biết làm phép tính vi phân và tích phân là điều tất yếu—Harry biết cậu không phải là người duy nhất. Cậu đã gặp những thần đồng khác trong các kỳ thi toán học. Thực tế là cậu đã bị đánh bại thảm hại bởi những đối thủ có lẽ dành cả ngày chỉ để luyện các bài toán, những người chưa bao giờ đọc một cuốn sách khoa học viễn tưởng nào và sẽ kiệt quệ hoàn toàn trước khi dậy thì, rồi chẳng làm nên trò trống gì trong cuộc đời sau này vì họ chỉ thực hành các kỹ thuật đã biết thay vị học cách tư duy sáng tạo. (Harry là kiểu người khá cay cú khi thua cuộc.)
+Nhưng… trong thế giới phù thủy…
+Mười đứa trẻ lớn lên trong thế giới Muggle mỗi năm, tất cả đều kết thúc chương trình giáo dục Muggle ở tuổi mười một? Giáo sư McGonagall có lẽ thiên vị, nhưng cô đã khẳng định rằng Hogwarts là trường phù thủy lớn nhất và nổi tiếng nhất thế giới… và nó chỉ giáo dục cho đến năm mười bảy tuổi.
+Giáo sư McGonagall chắc chắn biết rõ từng chi tiết nhỏ nhất của quá trình biến thành mèo. Nhưng dường như cô chưa bao giờ nghe nói về phương pháp khoa học. Đối với cô, đó chỉ là phép thuật của người Muggle. Và cô thậm chí dường như không tò mò về những bí mật có thể ẩn sau khả năng hiểu ngôn ngữ tự nhiên của Bùa Thu hồi.
+Điều đó thực sự chỉ còn lại hai khả năng.
+Khả năng thứ nhất: Phép thuật quá mờ mịt, rối rắm và bất khả xâm phạm đến mức mặc dù các phù thủy đã cố gắng hết sức để thấu hiểu, họ vẫn đạt được rất ít hoặc không có tiến bộ nào và cuối cùng đã bỏ cuộc; và Harry cũng sẽ chẳng làm tốt hơn.
+Hoặc… 
+Harry bẻ khớp ngón tay đầy quyết tâm, nhưng chúng chỉ phát ra những tiếng rắc khẽ khàng, thay vì vang vọng đầy đe dọa vào các bức tường của Hẻm Xéo.
+Khả năng thứ hai: Cậu sẽ thống trị thế giới.
+Cuối cùng thì sẽ vậy. Có lẽ không phải ngay lập tức.
+Loại việc đó đôi khi mất nhiều thời gian hơn hai tháng. Khoa học Muggle đâu có bay lên mặt trăng ngay trong tuần đầu tiên sau thời Galileo.
+Nhưng Harry vẫn không thể ngăn một nụ cười rộng ngoác ra trên môi, khiến hai má cậu căng tới mức bắt đầu đau nhức.
+Harry luôn lo sợ mình sẽ trở thành một trong những thần đồng trẻ tuổi chẳng bao giờ làm nên trò trống gì và dành phần đời còn lại để khoe khoang về việc họ đã đi trước mọi người xa thế nào vào năm mười tuổi. Nhưng hầu hết những thiên tài trưởng thành cũng chẳng làm nên việc gì lớn lao cả. Có lẽ có tới một ngàn người thông minh như Einstein cho mỗi một Einstein thực sự trong lịch sử. Bởi vì những thiên tài khác đã không chạm tay được vào thứ duy nhất thực sự cần thiết để đạt được sự vĩ đại. Họ chưa bao giờ tìm thấy một vấn đề quan trọng.
+“Bây giờ các ngươi là của ta,” Harry hướng suy nghĩ về phía những bức tường của Hẻm Xéo, tất cả các cửa hàng và hàng hóa, tất cả các chủ tiệm và khách hàng; tất cả các vùng đất và thần dân phù thủy nước Anh, và thế giới phù thủy rộng lớn hơn; và toàn bộ vũ trụ bao la mà các nhà khoa học Muggle hiểu biết ít hơn rất nhiều so với những gì họ tưởng. Ta, Harry James Potter-Evans-Verres, từ nay tuyên bố chủ quyền đối với vùng lãnh thổ này nhân danh Khoa học.
+Sấm sét hoàn toàn không chịu lóe lên và gầm rú trên bầu trời không một gợn mây.
+“Trò đang cười cái gì thế?” Giáo sư McGonagall hỏi, đầy cảnh giác và mệt mỏi.
+“Em đang tự hỏi liệu có câu thần chú nào làm cho sấm sét lóe lên phía sau mỗi khi em đưa ra một quyết tâm đầy đe dọa không,” Harry giải thích. Cậu đang cẩn thận ghi nhớ từng từ chính xác trong quyết tâm đầy đe dọa của mình để các cuốn sách lịch sử trong tương lai chép lại cho đúng.
+“Ta có cảm giác rõ ràng là ta nên làm gì đó về chuyện này,” Giáo sư McGonagall thở dài.
+“Cô cứ lờ nó đi, rồi nó sẽ tự hết thôi ạ. Ôi, lấp lánh quá!” Harry tạm thời gác lại ý nghĩ chinh phục thế giới và nhảy chân sáo đến một cửa hàng trưng bày ngoài trời, và Giáo sư McGonagall đi theo.
+---
+Harry giờ đã mua xong các nguyên liệu độc dược và vạc, và, ồ, thêm một vài thứ nữa. Những món đồ có vẻ rất thích hợp để mang theo trong Chiếc túi Không đáy của Harry (còn gọi là Túi Siêu Cấp Da Moke QX31 với Bùa Nới rộng Không giới hạn, Bùa Thu hồi và Miệng túi Mở rộng). Những khoản mua sắm thông minh và hợp lý.
+Harry thực sự không hiểu tại sao Giáo sư McGonagall lại nhìn mình với vẻ mặt đầy nghi ngờ như vậy.
+Ngay lúc này, Harry đang ở trong một cửa hàng đủ đắt đỏ để có một gian hàng trưng bày ngay trên con phố chính ngoằn ngoèo của Hẻm Xéo. Cửa hàng có mặt tiền mở với hàng hóa được bày trên các kệ gỗ nghiêng, chỉ được bảo vệ bởi những luồng sáng xám nhạt và một cô bán hàng trẻ tuổi mặc phiên bản áo choàng phù thủy ngắn hơn nhiều, để lộ cả đầu gối và khuỷu tay.
+Harry đang kiểm tra món đồ tương đương với hộp sơ cứu của giới phù thủy, bộ Sơ cứu Khẩn cấp Cao cấp. Có hai cái garo tự thắt. Một ống tiêm chứa thứ trông giống như lửa lỏng, được cho là có thể làm giảm mạnh sự tuần hoàn ở vùng được tiêm trong khi vẫn duy trì lượng oxy trong máu tới ba phút, dùng để ngăn chất độc lan ra khắp cơ thể. Băng gạc màu trắng có thể quấn lên cơ thể để giảm đau tạm thời. Thêm vào đó là vô số món đồ khác mà Harry hoàn toàn không hiểu nổi, như “Thuốc trị tổn thương do Giám ngục” trông và ngửi giống hệt sô cô la thông thường. Hay “Thiết bị chống Bafflesnaffle” trông giống như một quả trứng nhỏ đang run rẩy và kèm theo một tấm biển hướng dẫn cách nhét nó vào lỗ mũi của ai đó.
+“Năm Galleons cho món này chắc chắn là đáng mua đúng không cô?” Harry nói với Giáo sư McGonagall, và cô bán hàng tuổi teen đang lượn lờ gần đó gật đầu lia lịa.
+Harry đã kỳ vọng Giáo sư sẽ đưa ra lời nhận xét tán thành nào đó về sự khôn ngoan và chuẩn bị chu đáo của cậu.
+Những gì cậu nhận được thay vào đó chỉ có thể được mô tả bằng một cái nhìn sắc lạnh đầy dò xét.
+“Vài tại sao,” Giáo sư McGonagall nói với vẻ hoài nghi sâu sắc, “trò lại nghĩ mình sẽ cần một bộ sơ cứu hả, cậu bé?” (Sau sự cố đáng tiếc ở cửa hàng Độc dược, Giáo sư McGonagall đang cố gắng tránh gọi “Trò Potter” khi có bất kỳ ai khác ở gần.)
+Harry há hốc mồm rồi lại ngậm vào. “Em không nghĩ mình sẽ cần đến nó! Chỉ là để đề phòng thôi!”
+“Đề phòng cái gì?”
+Harry trợn tròn mắt. “Cô nghĩ em đang lên kế hoạch làm điều gì đó nguy hiểm và đó là lý do em muốn có một bộ sơ cứu ạ?”
+Vẻ mặt nghi ngờ nghiêm nghị và không tin tưởng đầy mỉa mai là câu trả lời.
+“Lạy trời!” Harry nói. (Đây là một câu cửa miệng cậu học được từ nhà khoa học điên Doc Brown trong phim Trở lại tương lai.) “Có phải cô cũng nghĩ như vậy khi em mua Dược giảm rơi, Cỏ Bong bóng và lọ Thuốc viên Thực phẩm và Nước uống không?”
+“Đúng vậy.”
+Harry lắc đầu kinh ngạc. “Thế cô nghĩ em đang có kế hoạch gì ở đây vậy ạ?”
+“Ta không biết,” Giáo sư McGonagall u ám nói, “nhưng nó sẽ kết thúc bằng việc trò mang một tấn bạc đến Gringotts, hoặc là trò sẽ thống trị thế giới.”
+“Thống trị thế giới nghe thật là một cụm từ xấu xí. Em thích gọi nó là tối ưu hóa thế giới hơn.”
+Trò đùa vui nhộn này không hề giúp trấn an vị phù thủy đang ném cho cậu Ánh nhìn Diệt vong.
+“Oa,” Harry nói khi nhận ra cô đang nghiêm túc. “Cô thực sự nghĩ thế sao. Cô thực sự nghĩ em đang định làm điều gì đó nguy hiểm.”
+“Đúng vậy.”
+“Giống như đó là lý do duy nhất người ta mua hộp sơ cứu ấy ạ? Đừng hiểu lầm em nha Giáo sư McGonagall, nhưng trước giờ cô toàn phải đối phó với thể loại trẻ con điên rồ nào thế?”
+“Nhà Gryffindor,” Giáo sư McGonagall nói như nhổ ra, từ ngữ mang theo một gánh nặng cay đắng và tuyệt vọng giáng xuống như một lời nguyền vĩnh cửu lên tất cả sự nhiệt tình và nhuệ khí của tuổi trẻ.
+“Thưa Phó Hiệu trưởng Giáo sư Minerva McGonagall,” Harry nói, chống hai tay lên hông đầy nghiêm nghị. “Em sẽ không vào nhà Gryffindor đâu…”
+Tại thời điểm này, vị Phó Hiệu trưởng xen vào điều gì đó đại loại như nếu cậu mà vào đó thì cô sẽ tìm cách tiêu diệt cái mũ phân loại, một nhận xét kỳ lạ mà Harry đã bỏ qua không bình luận, mặc dù cô bán hàng dường như đang lên cơn ho đột ngột.
+“…Em sẽ vào nhà Ravenclaw. “Nếu cô thực sự nghĩ em đang lên kế hoạch làm điều gì đó nguy hiểm, thì thành thật mà nói, cô chẳng hiểu em chút nào cả. Em không thích sự nguy hiểm, nó rất đáng sợ. Em đang rất khôn ngoan. Em đang rất thận trọng. Em đang chuẩn bị cho những tình huống bất ngờ chưa lường trước. Giống như ba mẹ vẫn hay hát cho em nghe vậy: Hãy chuẩn bị! Đó là bài hành khúc của Hướng đạo sinh! Hãy chuẩn bị! Khi bạn bước đi trên đường đời! Đừng lo lắng, đừng bối rối, đừng sợ hãi — hãy chuẩn bị!”
+(Thực tế thì cha mẹ Harry chỉ hát cho cậu nghe đúng những câu đó trong bài hát của Tom Lehrer, và Harry hoàn toàn không biết phần còn lại của nó.)
+Thái độ của Giáo sư McGonagall đã mềm mỏng hơn đôi chút—nhưng chủ yếu là sau khi Harry nói rằng cậu sẽ vào nhà Ravenclaw. “Trò tưởng tượng bộ sơ cứu này sẽ chuẩn bị cho trò trước tình huống bất ngờ nào đây, cậu bé?”
+“Một người bạn cùng lớp của em bị một con quái vật kinh tởm cắn, và khi em đang cuống cuồng lục lọi trong túi da moke để tìm thứ gì đó có thể giúp bạn ấy, bạn ấy nhìn em đầy buồn bã và nói với hơi thở cuối cùng, ‘Tại sao bồ không chuẩn bị?’ Rồi bạn ấy nhắm mắt xuôi tay, và em biết khi đôi mắt ấy khép lại rằng bạn ấy sẽ không bao giờ tha thứ cho em—”
+Harry nghe thấy cô bán hàng thở gấp, và cậu ngước lên thấy cô đang nhìn mình với đôi môi mím chặt. Sau đó, cô gái trẻ lập tức quay người chạy biến vào sâu bên trong cửa hàng.
+Cái gì vậy…?
+Giáo sư McGonagall cúi xuống, nắm lấy tay Harry, nhẹ nhàng nhưng kiên quyết, dắt cậu ra khỏi con phố chính của Hẻm Xéo, đưa cậu vào một con hẻm nhỏ giữa hai cửa hàng được lát gạch bẩn và cụt đường ở một bức tường đất đen kịt.
+Vị phù thủy cao lớn chỉ đũa phép về phía con phố chính và cất lời: “Quietus,” cô nói, và một màn chắn âm thanh buông xuống xung quanh họ, chặn đứng mọi tiếng ồn từ đường phố.
+Mình đã làm gì sai sao...
+Giáo sư McGonagall quay lại nhìn Harry. Cô không có vẻ mặt phán xét hoàn toàn của người lớn, nhưng biểu cảm của cô rất phẳng lặng và kiềm chế. “Trò phải nhớ rằng, Trò Potter,” cô nói, “chưa đầy mười năm trước ở đất nước này đã xảy ra chiến tranh. Mọi người đều đã mất đi ai đó, và việc nói về chuyện bạn bè chết trong vòng tay mình—không phải là điều có thể mang ra đùa cợt dễ dàng đâu.”
+“Em—em không cố ý—” Suy đoán rơi xuống như một tảng đá đè nặng vào trí tưởng tượng vô cùng phong phú của Harry. Cậu đã nói về việc ai đó trút hơi thở cuối cùng—và rồi cô bán hàng bỏ chạy—chiến tranh đã kết thúc mười năm trước nên cô gái đó lúc ấy mới tối đa tám hoặc chín tuổi, khi, khi... “Em xin lỗi, em không cố ý…” Harry nghẹn lời, quay đi để tránh ánh nhìn của vị phù thủy lớn tuổi nhưng một bức tường đất đã chặn đường cậu, và cậu vẫn chưa có đũa phép. “Em xin lỗi, em xin lỗi, em xin lỗi!”
+Một tiếng thở dài nặng nề vang lên từ phía sau cậu. “Ta biết trò không cố ý, Trò Potter.”
+Harry lấy hết can đảm liếc nhìn ra sau. Lúc này Giáo sư McGonagall chỉ có vẻ buồn bã. “Em xin lỗi,” Harry lại nói, cảm thấy tồi tệ. “Có điều gì giống như vậy xảy ra với—” rồi Harry ngậm chặt môi và lấy tay bịt miệng lại cho chắc ăn.
+Khuôn mặt vị phù thủy lớn tuổi càng buồn hơn. “Trò phải học cách suy nghĩ trước khi nói, Trò Potter, bằng không trò sẽ phải đi qua cuộc đời này mà không có nhiều bạn bè đâu. Đó từng là số phận của không ít người nhà Ravenclaw, và ta hy vọng trò sẽ không giống như họ.”
+Harry chỉ muốn chạy trốn ngay lập tức. Cậu muốn rút đũa phép ra và xóa sạch chuyện này khỏi trí nhớ của Giáo sư McGonagall, để lại được cùng cô đứng bên ngoài cửa hàng, ước gì chuyện đó đã không xảy ra—
+“Nhưng để trả lời câu hỏi của trò, Trò Potter, không, chưa từng có chuyện gì giống như vậy xảy ra với ta cả. Chắc chắn ta từng nhìn thấy bạn mình trút hơi thở cuối cùng, một lần hay đến bảy lần rồi. Nhưng không ai trong số họ oán trách ta khi họ qua đời, và ta chưa bao giờ nghĩ họ sẽ không tha thứ cho ta. Tại sao trò lại nói một điều như vậy, Trò Potter? Tại sao trò lại có thể nghĩ đến nó?”
+“Em, em, em,” Harry nuốt nước bọt. “Chỉ là em luôn cố gắng tưởng tượng ra điều tồi tệ nhất có thể xảy ra,” và có lẽ cậu cũng đã đùa cợt một chút nhưng thà cậu tự cắn đứt lưỡi mình còn hơn nói ra điều đó lúc này.
+“Cái gì?” Giáo sư McGonagall hỏi. “Nhưng tại sao?”
+“Để em có thể ngăn nó xảy ra!”
+“Trò Potter…” Giọng vị phù thủy lớn tuổi nhỏ dần. Sau đó cô thở dài và quỳ xuống bên cạnh cậu. “Trò Potter,” cô nói, giờ đã dịu dàng hơn, “chăm sóc các học sinh ở Hogwarts không phải là trách nhiệm của trò. Đó là trách nhiệm của ta. Ta sẽ không để bất kỳ điều gì tồi tệ xảy ra với trò hay bất kỳ ai khác. Hogwarts là nơi an toàn nhất cho trẻ em pháp thuật trong toàn thế giới phù thủy, và Bà Pomfrey có một phòng y tế đầy đủ trang thiết bị. Trò sẽ không cần bộ sơ cứu nào cả, chưa nói đến bộ trị giá năm Galleons này.”
+“Nhưng em cần mà!” Harry bùng nổ. “Không có nơi nào là hoàn toàn an toàn cả! Và ngộ nhỡ ba mẹ em bị đau tim hoặc gặp tai nạn khi em về nhà nghỉ Giáng sinh—Bà Pomfrey đâu có ở đó, em sẽ cần một bộ sơ cứu của riêng mình—”
+“Nhân danh Merlin, cái gì thế này…” Giáo sư McGonagall nói. Cô đứng dậy, cúi xuống nhìn Harry với biểu cảm giằng xé giữa khó chịu và lo lắng. “Không cần phải nghĩ về những điều tồi tệ như vậy đâu, Trò Potter!”
+Vẻ mặt Harry vặn vẹo đầy cay đắng khi nghe thấy điều đó. “Có chứ ạ! Nếu cô không nghĩ đến, cô không chỉ tự làm mình bị thương mà cuối cùng còn làm tổn thương cả những người khác nữa!”
+Giáo sư McGonagall há miệng rồi lại ngậm vào. Cô day day sống mũi, trông đầy vẻ suy tư. “Trò Potter… nếu ta đề nghị lắng nghe trò một lát… có điều gì trò muốn nói với ta không?”
+“Về chuyện gì ạ?”
+“Về lý do tại sao trò luôn tin rằng mình phải luôn cảnh giác trước những điều tồi tệ xảy đến với mình.”
+Harry bối rối nhìn cô. Đó là một định lý tự hiển nhiên mà. “Thế này…” Harry chậm rãi nói. Cậu cố gắng sắp xếp lại suy nghĩ của mình. Làm thế nào cậu có thể giải thích cho một Giáo sư phù thủy khi cô thậm chí còn không biết những điều cơ bản nhất chứ? “Các nhà nghiên cứu Muggle đã phát hiện ra rằng mọi người luôn rất lạc quan so với thực tế. Giống như họ bảo làm việc gì đó mất hai ngày nhưng thực tế mất mười ngày, hay họ bảo mất hai tháng nhưng thực tế mất hơn ba mươi lăm năm. Ví dụ, trong một thực nghiệm, họ yêu cầu sinh viên đưa ra mốc thời gian mà họ chắc chắn 50%, chắc chắn 75% và chắc chắn 99% sẽ hoàn thành bài tập về nhà, và kết quả là chỉ có 13%, 19% và 45% sinh viên thực sự hoàn thành đúng hạn. Và họ phát hiện ra nguyên nhân là khi họ yêu cầu một nhóm ước lượng trong trường hợp tốt nhất nếu mọi thứ diễn ra suôn sẻ nhất có thể, và một nhóm khác ước lượng trong trường hợp trung bình nếu mọi thứ diễn ra như bình thường, họ nhận lại những câu trả lời hoàn toàn không có sự khác biệt về mặt thống kê. Cô thấy đó, nếu cô hỏi ai đó họ mong đợi điều gì trong trường hợp thông thường, họ sẽ hình dung ra những gì có vẻ là chuỗi xác suất tối đa ở mỗi bước đi—mọi thứ diễn ra đúng kế hoạch, không có bất ngờ nào. Nhưng thực tế là, vì hơn một nửa số sinh viên không hoàn thành đúng thời hạn mà họ chắc chắn đến 99% là sẽ xong, thực tế thường mang lại kết quả tồi tệ hơn một chút so với ‘kịch bản tồi tệ nhất’. Nó được gọi là thiên kiến lập kế hoạch, và cách tốt nhất để khắc phục là hỏi xem những lần trước cô làm việc đó mất bao lâu. Đó gọi là sử dụng góc nhìn bên ngoài thay vì góc nhìn bên trong. Nhưng khi cô làm điều gì đó hoàn toàn mới và không thể làm thế, cô chỉ việc phải thực sự, thực sự, thực sự bi quan thôi. Bi quan đến mức thực tế xảy ra tốt hơn mong đợi cũng thường xuyên và tương đương với mức nó diễn ra tồi tệ hơn. Thật ra việc bi quan đến mức có thể dự đoán thấp hơn thực tế cuộc sống là rất khó. Ví dụ như em đã rất cố gắng để tỏ ra ủ rũ và tưởng tượng ra cảnh một bạn cùng lớp bị cắn, nhưng điều thực sự xảy ra có thể là những Tử thần Thực tử còn sống sót sẽ tấn công toàn bộ ngôi trường để bắt em. Nhưng trên một khía cạnh tươi sáng hơn—”
+“Dừng lại,” Giáo sư McGonagall nói.
+Harry dừng lại. Cậu vừa mới định chỉ ra rằng ít nhất họ biết Chúa tể Hắc ám sẽ không tấn công, vì ông ta đã chết rồi.
+“Ta nghĩ có lẽ ta đã diễn đạt chưa rõ ý,” vị phù thủy nói, giọng Scotland chuẩn xác của cô nghe thậm chí còn cẩn trọng hơn. “Có điều gì xảy ra với cá nhân trò khiến trò sợ hãi không, Trò Potter?”
+“Những gì xảy ra với cá nhân em chỉ là bằng chứng giai thoại thôi ạ,” Harry giải thích. “Nó không mang trọng lượng như một bài báo trên tạp chí khoa học đã được bình duyệt và tái thực nghiệm về một nghiên cứu có kiểm soát với sự phân bổ ngẫu nhiên, nhiều đối tượng nghiên cứu, quy mô ảnh hưởng lớn và ý nghĩa thống kê mạnh mẽ.”
+Giáo sư McGonagall véo sống mũi, hít vào rồi thở ra. “Ta vẫn muốn nghe về chuyện đó,” cô nói.
+“Ừm…” Harry nói. Cậu hít một hơi thật sâu. “Có một vài vụ trấn lột xảy ra trong khu phố của tụi em, và mẹ bảo em mang trả cái chảo mẹ mượn của một người hàng xóm cách đó hai dãy phố. Em nói em không muốn đi vì có thể bị trấn lột, và mẹ bảo, ‘Harry, con đừng nói gở như thế!’ Giống như việc nghĩ về nó sẽ khiến nó xảy ra, nên nếu em không nói đến thì em sẽ an toàn vậy. Em đã cố giải thích tại sao em không yên tâm, nhưng mẹ vẫn bắt em phải mang trả cái chảo. Khi đó em còn quá nhỏ để biết xác suất một kẻ trấn lột nhắm vào mình thấp đến mức nào về mặt thống kê, nhưng em đã đủ lớn để hiểu rằng việc không nghĩ về điều gì đó không ngăn nó xảy ra, vì vậy em đã thực sự rất sợ hãi.”
+“Không còn gì khác sao?” Giáo sư McGonagall nói sau một hồi im lặng khi thấy rõ ràng Harry đã kể xong. “Không còn chuyện gì khác xảy ra với trò sao?”
+“Em biết nghe nó chẳng có gì to tát cả,” Harry tự bào chữa. “Nhưng cô biết đấy, đó chỉ là một trong những khoảnh khắc quan trọng trong đời. Ý em là, em biết việc không nghĩ về chuyện gì đó không ngăn nó xảy ra, em biết chứ, nhưng em có thể thấy Mẹ thực sự nghĩ như vậy.” Harry dừng lại, đấu tranh với cơn giận đang bắt đầu trỗi dậy khi nghĩ về chuyện đó. “Mẹ không chịu lắng nghe. Em đã cố nói với mẹ, em nài nỉ mẹ đừng bắt em đi, và mẹ gạt đi cười trừ. Mọi điều em nói, mẹ đều coi như một trò đùa lớn…” Harry cố gắng nén cơn giận đen tối xuống. “Đó là lúc em nhận ra rằng tất cả những người có nhiệm vụ bảo vệ em thực chất đều mất trí, và họ sẽ không lắng nghe em cho dù em có cầu xin thế nào đi chăng nữa, và em không bao giờ có thể dựa dẫm vào việc họ làm đúng bất kỳ điều gì.” Đôi khi ý định tốt thôi là chưa đủ, đôi khi người ta phải tỉnh táo...
+Có một sự im lặng dài.
+Harry dành thời gian để hít thở sâu và tự trấn tĩnh lại. Chẳng có ích gì khi nổi giận. Chẳng có ích gì khi nổi giận. Tất cả các bậc cha mẹ đều như vậy, không người lớn nào chịu hạ mình xuống ngang hàng với một đứa trẻ để lắng nghe, cha mẹ ruột của cậu cũng sẽ chẳng khác gì. Sự tỉnh táo chỉ là một đốm lửa nhỏ nhoi trong đêm tối, một ngoại lệ hiếm hoi vô cùng trước quy luật của sự điên rồ, nên nổi giận cũng vô ích thôi.
+Harry không thích bản thân mình khi nổi giận.
+“Cảm ơn trò đã chia sẻ điều đó, Trò Potter,” Giáo sư McGonagall nói sau một hồi. Có một vẻ mơ màng hiện lên trên mặt cô (gần như giống hệt vẻ mặt của chính Harry khi làm thực nghiệm với cái túi da, giá như Harry soi gương để nhận ra điều đó). “Ta sẽ phải suy nghĩ về chuyện này.” Cô quay người về phía đầu hẻm và giơ đũa phép lên—
+“Ừm,” Harry nói, “bây giờ chúng ta đi lấy bộ sơ cứu được chưa ạ?”
+Vị phù thủy dừng lại, quay lại nhìn thẳng vào cậu. “Và nếu ta nói không—rằng nó quá đắt và trò sẽ không cần đến nó—thì sao?”
+Khuôn mặt Harry vặn vẹo đầy cay đắng. “Chính xác là những gì cô đang nghĩ đấy, thưa Giáo sư McGonagall. Chính xác là những gì cô đang nghĩ. Em sẽ kết luận cô lại là một người lớn mất trí khác mà em không thể nói chuyện cùng, và em sẽ bắt đầu lên kế hoạch làm thế nào để tự kiếm được một bộ sơ cứu bằng mọi giá.”
+“Ta là người giám hộ của trò trong chuyến đi này,” Giáo sư McGonagall nói với giọng pha chút đe dọa. “Ta sẽ không cho phép trò định hướng ta đâu.”
+“Em hiểu,” Harry nói. Cậu cố giữ cho giọng mình không mang vẻ oán hận, và không nói ra bất kỳ điều gì khác đang nảy sinh trong đầu. Giáo sư McGonagall đã bảo cậu phải nghĩ trước khi nói. Có lẽ ngày mai cậu sẽ không nhớ được điều đó, nhưng ít nhất cậu có thể nhớ nó trong vòng năm phút.
+Cây đũa phép của vị phù thủy vẽ một vòng tròn nhỏ trong tay cô, và những tiếng ồn ào của Hẻm Xéo quay trở lại. “Được rồi, cậu bé,” cô nói. “Chúng ta đi lấy bộ sơ cứu đó nào.”
+Harry há hốc mồm kinh ngạc. Rồi cậu vội vàng đuổi theo cô, suýt vấp ngã trong cơn hấp tấp đột ngột.
+---
+Cửa hàng vẫn y nguyên như khi họ rời đi, những món đồ quen thuộc và xa lạ vẫn được bày trên kệ gỗ nghiêng, luồng sáng xám vẫn bảo vệ chúng và cô bán hàng đã quay lại vị trí cũ của mình. Cô bán hàng ngước lên khi thấy họ đến gần, khuôn mặt hiện vẻ ngạc nhiên.
+“Tôi xin lỗi,” cô nói khi họ đến gần hơn, và Harry cũng cất lời gần như cùng một lúc, “Em xin lỗi vì—”
+Cả hai dừng lại rồi nhìn nhau, và rồi cô bán hàng khẽ cười. “Tôi không cố ý khiến cậu gặp rắc rối với Giáo sư McGonagall đâu,” cô nói. Giọng cô nhỏ xuống đầy vẻ đồng lõa. “Hy vọng cô ấy không quá khắc nghiệt với cậu.”
+“Della!” Giáo sư McGonagall nói, giọng đầy vẻ phẫn nộ.
+“Túi vàng,” Harry nói với cái túi da moke của mình, rồi nhìn lên cô bán hàng trong lúc đếm ra năm đồng Galleons. “Chị đừng lo, em hiểu cô ấy chỉ khắc nghiệt với em vì cô ấy yêu thương em thôi mà.”
+Cậu đếm năm Galleons đưa cho cô bán hàng trong khi Giáo sư McGonagall đang lắp bắp điều gì đó không quan trọng. “Cho em một bộ Sơ cứu Khẩn cấp Cao cấp ạ.”
+Nhìn cái Miệng túi Mở rộng nuốt chửng hộp sơ cứu to bằng chiếc vali thực sự là một cảnh tượng hơi kỳ quái. Harry không khỏi tự hỏi chuyện gì sẽ xảy ra nếu cậu tự trèo vào trong chiếc túi da moke, vì về lý thuyết chỉ có người bỏ món đồ vào mới có thể lấy nó ra.
+Khi cái túi đã... ăn... xong món đồ cậu vất vả mới mua được, Harry thề là cậu nghe thấy một tiếng ợ nhỏ sau đó. Đó chắc chắn là do người ta cố tình yểm bùa vào. Giả thuyết thay thế thì quá kinh hoàng để nghĩ tới… thực ra Harry thậm chí còn chẳng nghĩ ra nổi giả thuyết thay thế nào khác. Harry ngước nhìn Giáo sư khi họ bắt đầu rảo bước trên Hẻm Xéo một lần nữa. “Tiếp theo đi đâu đây ạ?”
+Giáo sư McGonagall chỉ tay về phía một cửa hàng trông như thể được xây bằng thịt thay vì gạch và được bao phủ bởi lông thú thay vì sơn vẽ. “Hogwarts cho phép mang theo thú cưng nhỏ—trò có thể mua một con cú để gửi thư, ví dụ thế—”
+“Em có thể trả một Knut hay gì đó để thuê một con cú khi cần gửi thư không ạ?”
+“Được chứ,” Giáo sư McGonagall nói.
+“Thế thì em dứt khoát là không mua.”
+Giáo sư McGonagall gật đầu, như thể đang tích vào một ô trống. “Ta có thể hỏi tại sao không?”
+“Em từng nuôi một hòn đá cảnh. Nó chết rồi.”
+“Trò nghĩ mình không thể chăm sóc một con thú cưng sao?”
+“Em có thể,” Harry nói, “nhưng cuối cùng em sẽ bị ám ảnh cả ngày về việc liệu mình có quên cho nó ăn hôm nay không, hay liệu nó đang đói dần đói mòn trong lồng, tự hỏi chủ nhân của mình đang ở đâu và tại sao lại không có thức ăn.”
+“Tội nghiệp con cú ấy,” vị phù thủy lớn tuổi nói bằng giọng nhẹ nhàng. “Bị bỏ rơi như vậy. Ta tự hỏi nó sẽ làm gì.”
+“Thì em đoán nó sẽ rất đói và bắt đầu cố cào cấu để thoát khỏi lồng hoặc hộp hoặc bất cứ thứ gì giam giữ nó, mặc dù có lẽ nó sẽ không gặp may lắm với việc đó—” Harry đột ngột dừng lại.
+Vị phù thủy tiếp tục, vẫn bằng giọng nhẹ nhàng đó. “Và chuyện gì sẽ xảy ra với nó sau đó?”
+“Xin cô đợi một chút,” Harry nói, cậu vươn tay nắm lấy tay Giáo sư McGonagall, nhẹ nhàng nhưng kiên quyết, rồi dắt cô vào một con hẻm khác; sau khi tránh né bao nhiêu người chào hỏi nhiệt tình, quy trình này đã trở thành một thói quen tự nhiên lúc nào không hay. “Xin cô hãy yểm bùa im lặng.”
+“Quietus.”
+Giọng Harry run lên. “Con cú đó không đại diện cho em, ba mẹ chưa bao giờ nhốt em vào tủ chén và bỏ đói em cả, em không có nỗi sợ bị bỏ rơi và em không thích hướng suy nghĩ của cô chút nào đâu, thưa Giáo sư McGonagall!”
+Vị phù thủy nhìn xuống cậu một cách nghiêm nghị. ““Và đó là những suy nghĩ gì vậy, Trò Potter?””
+“Cô nghĩ em đã từng,” Harry gặp khó khăn khi nói ra từ đó, “em từng bị ngược đãi sao?”
+“Có phải vậy không?”
+“Không!” Harry hét lên. “Không, chưa bao giờ cả! Cô nghĩ em ngu ngốc sao? Em biết về khái niệm ngược đãi trẻ em, em biết về hành vi động chạm không phù hợp và tất cả những thứ đó, và nếu có chuyện gì tương tự xảy ra, em đã gọi cảnh sát rồi! Và báo cáo với hiệu trưởng! Và tra cứu dịch vụ xã hội trong danh bạ điện thoại! Và kể với Ông Bà cùng bà Figg! Nhưng ba mẹ em chưa bao giờ làm chuyện gì như thế cả, chưa bao giờ, bao giờ, bao giờ! Sao cô dám gợi ý một điều như vậy chứ!”
+Vị phù thủy lớn tuổi nhìn cậu đăm đăm. “Trách nhiệm của Phó Hiệu trưởng là phải điều tra các dấu hiệu ngược đãi có thể xảy ra ở những đứa trẻ dưới sự chăm sóc của ta.”
+Cơn giận của Harry đang xoáy sâu ngoài tầm kiểm soát thành sự phẫn nộ đen tối thuần túy. “Đừng bao giờ cô dám hé răng nửa lời về những lời, những lời ám chỉ này với bất kỳ ai khác! Không một ai, cô nghe rõ chưa hả McGonagall? Một lời cáo buộc như thế có thể hủy hoại cuộc đời và phá nát gia đình người ta ngay cả khi cha mẹ hoàn toàn vô tội! Em đã đọc về chuyện đó trên báo rồi!” Giọng Harry vút lên thành một tiếng hét chói tai. “Hệ thống đó không biết cách dừng lại, nó không tin cha mẹ hay con cái khi họ nói chẳng có chuyện gì xảy ra cả! Cô đừng hòng đe dọa gia đình em bằng điều đó! Em sẽ không để cô hủy hoại mái ấm của em đâu!”
+“Harry,” vị phù thủy lớn tuổi dịu dàng gọi, và cô đưa một bàn tay về phía cậu—
+Harry nhanh chóng lùi lại một bước, và tay cậu vung lên gạt phắt tay cô ra.
+McGonagall khựng lại, rồi cô rút tay về và lùi lại một bước. “Harry, không sao đâu,” cô nói. “Ta tin con.”
+“Thật không,” Harry rít lên. Cơn giận dữ vẫn gầm rú trong máu cậu. “Hay cô chỉ đang chờ để rời khỏi em rồi đi nộp hồ sơ báo cáo?”
+“Harry, ta đã thấy nhà con. Ta đã thấy con ở cùng ba mẹ. Họ yêu con. Con yêu họ. Ta thực sự tin con khi con nói ba mẹ không ngược đãi con. Nhưng ta phải hỏi, vì có điều gì đó kỳ lạ đang diễn ra ở đây.”
+Harry lạnh lùng nhìn cô. “Như chuyện gì?”
+“Harry, ta từng gặp nhiều đứa trẻ bị ngược đãi trong suốt thời gian dạy học ở Hogwarts, con sẽ đau lòng lắm nếu biết số lượng nhiều đến thế nào đâu. Và khi con vui vẻ, con không hề cư xử giống một đứa trẻ bị ngược đãi chút nào. Con mỉm cười với người lạ, con ôm mọi người, ta đặt tay lên vai con và con không hề giật mình né tránh. Nhưng đôi khi, chỉ đôi khi thôi, con nói hoặc làm điều gì đó trông rất giống như... một người đã dành mười một năm đầu đời bị nhốt trong hầm tối. Chứ không phải sống với gia đình yêu thương mà ta đã thấy.” Giáo sư McGonagall nghiêng đầu, biểu cảm của cô lại trở nên bối rối.
+Harry tiếp nhận điều này và xử lý thông tin. Cơn giận đen tối bắt đầu tiêu tan khi cậu nhận ra mình đang được lắng nghe một cách tôn trọng, và gia đình cậu không gặp nguy hiểm.
+“Vậy cô giải thích những quan sát của mình như thế nào, thưa Giáo sư McGonagall?”
+“Ta không biết,” cô nói. “Nhưng có thể có chuyện gì đó đã xảy ra với con mà con không nhớ.”
+Cơn giận lại bùng lên trong Harry. Nghe rất giống những câu chuyện trên báo về các gia đình tan vỡ. “Ký ức bị kìm nén chỉ là một đống ngụy khoa học! Người ta không kìm nén những ký ức đau buồn, họ nhớ chúng quá rõ trong suốt phần đời còn lại thì có!”
+“Không đâu, Trò Potter. Có một bùa chú gọi là Bùa Lú (Obliviation).”
+Harry sững người. “Một câu thần chú xóa ký ức ư?”
+Vị phù thủy lớn tuổi gật đầu. “Nhưng không xóa được tất cả những tác động của trải nghiệm đó, trò hiểu ý ta chứ, Trò Potter.”
+Một luồng khí lạnh chạy dọc sống lưng Harry. Giả thuyết đó… không dễ dàng bác bỏ được. “But ba mẹ em đâu thể làm chuyện đó!”
+“Chắc chắn là không rồi,” Giáo sư McGonagall nói. “Việc đó phải do ai đó từ thế giới phù thủy thực hiện. Ta e là… không có cách nào để chắc chắn cả.”
+Kỹ năng duy lý của Harry bắt đầu khởi động trở lại. “Thưa Giáo sư McGonagall, cô chắc chắn thế nào về các quan sát của mình, và có thể có những giải thích thay thế nào khác?”
+Vị phù thủy xòe tay ra như để thể hiện sự trống trơn. “Chắc chắn ư? Ta chẳng chắc chắn điều gì cả, Trò Potter. Trong suốt cuộc đời mình, ta chưa bao giờ gặp ai giống như trò. Đôi khi trò trông chẳng giống một đứa trẻ mười một tuổi chút nào, hoặc thậm chí trông không giống con người cho lắm.”
+Lông mày Harry nhướng ngược lên trời—
+“Ta xin lỗi!” Giáo sư McGonagall nhanh chóng nói. “Ta rất xin lỗi, Trò Potter. Ta chỉ đang cố gắng làm rõ một điểm và ta e rằng câu vừa rồi nghe có vẻ khác với những gì ta nghĩ trong đầu—”
+“Ngược lại chứ ạ, thưa Giáo sư McGonagall,” Harry nói rồi từ từ mỉm cười. “Em sẽ coi đó là một lời khen ngợi rất lớn. Nhưng cô có phiền không nếu em đưa ra một lời giải thích thay thế?”
+“Cứ tự nhiên.”
+“Trẻ con không nên thông minh hơn cha mẹ quá nhiều,” Harry nói. “Hoặc có lẽ là tỉnh táo hơn quá nhiều—cha em có lẽ có thể qua mặt em nếu ông ấy thực sự cố gắng, thay vì sử dụng trí thông minh của người lớn chủ yếu để nghĩ ra những lý do mới nhằm không thay đổi ý định của mình—” Harry dừng lại. “Em quá thông minh, thưa Giáo sư. Em chẳng có gì để nói với những đứa trẻ bình thường. Người lớn thì không đủ tôn trọng em để thực sự trò chuyện cùng em. Và thành thật mà nói, ngay cả khi họ làm vậy, họ nghe cũng chẳng thông minh bằng Richard Feynman, nên em thà đọc những gì Richard Feynman viết còn hơn. Em bị cô lập, thưa Giáo sư McGonagall. Em đã bị cô lập suốt cả cuộc đời mình. Có lẽ điều đó cũng mang lại một số tác động tương tự như việc bị nhốt dưới hầm tối. Và em quá thông minh để kính trọng ba mẹ theo cách mà trẻ con vốn được lập trình để làm. Ba mẹ yêu em, nhưng họ không cảm thấy có nghĩa vụ phải phản hồi lại các lý lẽ logic, và đôi khi em cảm thấy họ mới là trẻ con—những đứa trẻ không chịu lắng nghe nhưng lại có quyền lực tuyệt đối đối với toàn bộ sự tồn tại của em. Em cố gắng không quá cay cú về chuyện đó, nhưng em cũng cố gắng trung thực với bản thân mình, vì vậy, vâng, em có cay cú. Và em cũng gặp vấn đề trong việc kiểm soát cơn giận dữ, nhưng em đang cố sửa đổi. Chỉ có thế thôi ạ.”
+“Chỉ có thế thôi sao?”
+Harry kiên quyết gật đầu. “Chỉ thế thôi ạ. Chắc chắn là, thưa Giáo sư McGonagall, ngay cả ở nước Anh pháp thuật, lời giải thích bình thường luôn xứng đáng được cân nhắc chứ?”
+---
+Đã muộn hơn trong ngày, mặt trời lặn dần trên bầu trời mùa hè và lượng người mua sắm trên đường phố bắt đầu thưa thớt dần. Một số cửa hàng đã đóng cửa; Harry và Giáo sư McGonagall đã mua xong sách giáo khoa của cậu tại tiệm Phú quý và Sách ngay sát giờ đóng cửa. Chỉ có một vụ nổ nhỏ xảy ra khi Harry đi thẳng tới từ khóa “Số học huyền bí” và phát hiện ra rằng sách giáo khoa năm thứ bảy chẳng viện dẫn đến kiến thức toán học nào tiên tiến hơn lượng giác.
+Tuy nhiên, vào lúc này, những giấc mơ về những thành quả nghiên cứu dễ dàng gặt hái đã hoàn toàn biến mất khỏi tâm trí Harry.
+Ngay lúc này, hai người họ đang bước ra khỏi tiệm Ollivander, và Harry đang đăm đăm nhìn cây đũa phép của mình. Cậu đã vẫy nó và tạo ra những tia lửa nhiều màu sắc, điều lẽ ra không nên là một cú sốc lớn nữa sau tất cả những gì cậu đã chứng kiến, nhưng bằng cách nào đó—
+Mình có thể làm phép thuật.
+Chính mình. Là bản thân mình. Mình có phép thuật; mình là một phù thủy.
+Cậu đã cảm nhận được dòng ma thuật cuộn chảy lên cánh tay mình, và trong khoảnh khắc đó, cậu nhận ra mình luôn có giác quan ấy, cậu đã sở hữu nó suốt cả cuộc đời, giác quan không phải là thị giác, thính giác, khứu giác, vị giác hay xúc giác mà chỉ đơn thuần là phép thuật. Giống như có mắt nhưng luôn nhắm nghiền, khiến bạn thậm chí không nhận ra mình đang nhìn thấy bóng tối; và rồi một ngày đôi mắt mở ra và nhìn thấy thế giới. Cú sốc từ điều đó tràn qua cơ thể cậu, chạm vào từng phần trong con người cậu, đánh thức chúng, rồi tiêu tan đi trong vài giây; chỉ để lại một nhận thức chắc chắn rằng cậu giờ đây là một phù thủy, luôn luôn là vậy, và thậm chí, theo một cách kỳ lạ nào đó, luôn biết rõ điều đó.
+Và—
+“Thật kỳ lạ làm sao khi con lại được định mệnh chọn cho cây đũa phép này khi mà người anh em của nó, ồ, người anh em của nó đã tặng cho con vết sẹo đó.”
+Chuyện đó hoàn toàn không thể là một sự trùng hợp ngẫu nhiên. Có hàng ngàn cây đũa phép trong cửa hàng đó. À, được rồi, thực ra thì đó có thể là sự trùng hợp, có sáu tỷ người trên thế giới và những sự trùng hợp với tỷ lệ một phần nghìn vẫn xảy ra hàng ngày. Nhưng Định lý Bayes chỉ ra rằng bất kỳ giả thuyết hợp lý nào làm cho khả năng cậu có được cây đũa phép anh em với đũa phép của Chúa tể Hắc ám cao hơn tỷ lệ một phần nghìn sẽ có lợi thế hơn.
+Giáo sư McGonagall chỉ đơn giản nhận xét thật kỳ lạ rồi thôi, điều đó khiến Harry rơi vào trạng thái sốc trước sự thờ ơ tột cùng, áp đảo của giới phù thủy. Không có thế giới tưởng tượng nào mà Harry lại chỉ điềm nhiên “Hửm” một tiếng rồi bước ra khỏi cửa tiệm mà không thèm cố gắng đưa ra lấy một giả thuyết xem chuyện gì đang xảy ra cả.
+Bàn tay trái của cậu đưa lên chạm vào vết sẹo.
+Cái gì… chính xác là…
+“Giờ con đã là một phù thủy thực thụ rồi,” Giáo sư McGonagall nói. “Chúc mừng con.”
+Harry gật đầu.
+“Và con nghĩ gì về thế giới phù thủy?” cô hỏi.
+“Kỳ lạ lắm ạ,” Harry nói. “Lẽ ra em nên suy nghĩ về mọi thứ em đã thấy về phép thuật… mọi thứ em giờ đây biết là khả thi, và mọi thứ em biết là dối trá, và toàn bộ công việc còn lại phía trước để thấu hiểu nó. Thế mà em lại thấy mình bị xao nhãng bởi những chuyện tương đối vặt vãnh như,” Harry hạ giọng, “chuyện về Đứa Trẻ Sống Sót.” Dường như không có ai ở gần, nhưng cẩn tắc vô ưu.
+Giáo sư McGonagall hắng giọng. “Thật sao? Ta không ngờ đấy.”
+Harry gật đầu. “Vâng. Chỉ là… kỳ quặc thôi ạ. Việc phát hiện ra mình là một phần của câu chuyện vĩ đại này, cuộc hành trình đánh bại Chúa tể Hắc ám độc ác và đáng sợ, nhưng nó lại xong xuôi rồi. Kết thúc. Hoàn toàn chấm dứt. Giống như việc bạn là Frodo Baggins và phát hiện ra ba mẹ đã đưa bạn đến Núi Diệt Vong rồi bắt bạn ném chiếc Nhẫn vào đó từ khi mới một tuổi, và bạn thậm chí còn chẳng nhớ gì về nó cả.”
+Nụ cười của Giáo sư McGonagall trở nên hơi cứng nhắc.
+“Cô biết đấy, nếu em là bất kỳ ai khác, bất kỳ ai khác đi nữa, em chắc sẽ khá lo lắng về việc sống sao cho xứng đáng với khởi đầu đó. Trời đất, Harry, cháu đã làm được gì kể từ khi đánh bại Chúa tể Hắc ám thế? Mở tiệm sách riêng của cháu hả? Tuyệt vời quá! Này, cháu có biết ta đặt tên con ta theo tên cháu không? Nhưng em hy vọng đây sẽ không phải là một vấn đề.” Harry thở dài. “Dù vậy… chuyện đó gần như đủ khiến em ước gì cuộc hành trình đó vẫn còn sót lại vài đầu mối dở dang, chỉ để em có thể nói rằng mình thực sự, cô biết đấy, có tham gia bằng cách nào đó.”
+“Ồ?” Giáo sư McGonagall hỏi bằng một giọng kỳ lạ. “Con có ý nghĩ gì sao?”
+“Vâng, ví dụ như cô có nhắc đến việc ba mẹ em bị phản bội. Ai đã phản bội họ vậy ạ?”
+“Sirius Black,” vị phù thủy nói, gần như rít lên cái tên đó. “Hắn đang ở Azkaban. Nhà tù phù thủy.”
+“Xác suất Sirius Black sẽ vượt ngục và em sẽ phải truy lùng hắn rồi đánh bại hắn trong một cuộc đấu tay đôi ngoạn mục nào đó, hoặc tốt hơn nữa là treo thưởng một khoản tiền lớn rồi trốn sang Úc trong khi chờ kết quả là bao nhiêu phần trăm ạ?”
+Giáo sư McGonagall chớp mắt. Hai lần. “Không khả thi đâu. Chưa từng có ai trốn thoát khỏi Azkaban cả, và ta nghi ngờ việc hắn sẽ là người đầu tiên làm được điều đó.”
+Harry có chút hoài nghi về câu “chưa từng có ai trốn thoát khỏi Azkaban” đó. Dù sao thì, có lẽ với phép thuật, người ta thực sự có thể tạo ra một nhà tù hoàn hảo gần như 100%, đặc biệt là nếu bạn giữ đũa phép còn họ thì không. Cách tốt nhất để thoát ra ngoài là ngay từ đầu đừng có vào đó.
+“Thế thì tốt rồi ạ,” Harry nói. “Nghe có vẻ như mọi chuyện đã được giải quyết ổn thỏa.” Cậu thở dài, lấy tay vò đầu. “Hoặc có lẽ Chúa tể Hắc ám không thực sự chết vào đêm đó. Không hoàn toàn. Linh hồn ông ta vẫn vất vưởng, thì thầm vào những cơn ác mộng của mọi người rồi lấn sang cả thế giới thực, tìm đường trở lại vùng đất của người sống mà ông ta đã thề sẽ hủy diệt, và giờ đây, theo như lời tiên tri cổ xưa, ông ta và em bị khóa chặt vào một trận quyết chiến sinh tử nơi kẻ thắng sẽ bại và kẻ bại sẽ thắng—”
+Đầu Giáo sư McGonagall quay ngoắt lại, và mắt cô đảo liên hồi như để dò xét xem trên đường có ai đang nghe lén không.
+“Em đùa thôi mà Giáo sư,” Harry nói với vẻ hơi khó chịu. Trời ạ, sao cô lúc nào cũng nghiêm trọng hóa mọi chuyện lên thế—
+Một cảm giác chùng xuống chậm rãi bắt đầu xuất hiện trong lòng Harry.
+Giáo sư McGonagall nhìn Harry với một biểu cảm bình tĩnh. Một biểu cảm cực kỳ, cực kỳ bình tĩnh. Rồi một nụ cười được gượng lên. “Tất nhiên là trò đùa rồi, Trò Potter.”
+Thôi tiêu rồi.
+Nếu Harry cần phải chính thức hóa suy luận không lời vừa mới lóe lên trong đầu mình, nó sẽ có dạng đại loại như: ‘Nếu mình ước lượng xác suất Giáo sư McGonagall làm những gì mình vừa thấy là kết quả của việc cô đang cố gắng tự kiểm soát bản thân một cách cẩn thận, so với phân phối xác suất cho tất cả những điều cô sẽ làm một cách tự nhiên nếu mình đưa ra một trò đùa dở tệ, thì hành vi này là bằng chứng rõ rệt cho thấy cô đang giấu giếm điều gì đó.’
+Nhưng những gì Harry thực sự nghĩ chỉ đơn giản là: Thôi tiêu rồi.
+Harry quay đầu lại quét mắt nhìn quanh con đường. Không, không có ai ở gần. “Ông ta chưa chết, đúng không cô,” Harry thở dài.
+“Trò Potter—”
+“Chúa tể Hắc ám còn sống. Tất nhiên là ông ta còn sống rồi. Thật là một sự lạc quan tột cùng khi em dám mơ về điều ngược lại. Em chắc chắn đã mất trí rồi, em không thể hiểu nổi lúc đó mình đang nghĩ cái gì nữa. Chỉ vì ai đó nói rằng xác của ông ta đã bị cháy rụi thành than, em không thể hiểu tại sao mình lại nghĩ ông ta đã chết. Rõ ràng là em còn phải học hỏi nhiều về nghệ thuật bi quan đúng cách.”
+“Trò Potter—”
+“Ít nhất hãy bảo em là không thực sự có lời tiên tri nào đi…” Giáo sư McGonagall vẫn dành cho cậu nụ cười tươi rói nhưng cứng đờ đó. “Ồ, cô đang đùa em đấy à.”
+“Trò Potter, trò không nên cứ tự vẽ ra những chuyện để lo lắng như thế—”
+“Cô thực sự định nói với em thế sao? Hãy tưởng tượng phản ứng của em sau này khi em phát hiện ra thực chất có thứ để lo lắng đi.”
+Nụ cười cứng nhắc của cô tắt ngóm.
+Hai vai Harry sụp xuống. “Em có cả một thế giới phép thuật để phân tích. Em không có thời gian cho chuyện này đâu.”
+Rồi cả hai người đều im bặt khi một người đàn ông mặc áo choàng màu cam rộng thùng thình xuất hiện trên đường và từ từ đi ngang qua họ; đôi mắt của Giáo sư McGonagall dõi theo ông ta một cách kín đáo. Miệng Harry mấp máy khi cậu cắn chặt môi, và ai đó nếu quan sát kỹ sẽ nhận thấy một vệt máu nhỏ xuất hiện.
+Khi người đàn ông mặc áo choàng cam đã đi khuất, Harry lại nói bằng giọng thì thầm nhỏ nhẹ. “Giờ cô định nói cho em sự thật chưa, thưa Giáo sư McGonagall? Và đừng mất công gạt nó đi, em không ngu đâu.”
+“Con mới mười một tuổi thôi, Trò Potter!” cô nói bằng giọng thì thầm gay gắt.
+“Và vì thế nên chưa được coi là con người đầy đủ. Em xin lỗi… vừa nãy em lỡ quên mất.”
+“Đây là những vấn đề kinh hoàng và hệ trọng! Chúng là bí mật, Trò Potter! Thật là một thảm họa khi con, một đứa trẻ, lại biết được nhiều đến mức này! Con không được nói với bất kỳ ai, con hiểu chứ? Tuyệt đối không một ai!”
+Như đôi khi vẫn xảy ra khi Harry đủ tức giận, máu cậu trở nên lạnh ngắt thay vì nóng lên, và một sự minh mẫn đen tối, đáng sợ bao trùm lấy tâm trí cậu, vạch ra các chiến thuật khả thi và đánh giá hậu quả của chúng với tinh thần thực tế sắt đá.
+Chỉ ra rằng mình có quyền được biết: thất bại. Trẻ em mười một tuổi chẳng có quyền được biết bất cứ thứ gì trong mắt McGonagall.
+Nói rằng hai người sẽ không làm bạn nữa: thất bại. Cô ấy không coi trọng tình bạn của mình đến mức đó.
+Chỉ ra rằng mình sẽ gặp nguy hiểm nếu không biết: thất bại. Các kế hoạch đã được lập sẵn dựa trên sự ngu dốt của mình. Sự bất tiện chắc chắn của việc phải tính toán lại sẽ có vẻ khó nuốt trôi hơn nhiều so với viễn cảnh không chắc chắn của việc mình bị tổn hại.
+Công lý và lý trí đều sẽ thất bại. Mình phải tìm ra thứ gì đó mình có mà cô ấy muốn, hoặc tìm ra việc gì đó mình có thể làm mà cô ấy sợ…
+Ah.
+“Vậy thì, thưa Giáo sư,” Harry nói bằng giọng trầm và lạnh như băng, “nghe có vẻ như em có thứ cô muốn đấy. Nếu cô muốn, cô có thể kể cho em sự thật, toàn bộ sự thật, và đổi lại em sẽ giữ bí mật cho cô. Hoặc cô có thể cố giữ em trong sự ngu dốt để sử dụng em như một con tốt thí, trong trường hợp đó em chẳng nợ nần gì cô cả.”
+McGonagall dừng khựng lại trên đường. Đôi mắt cô bùng cháy và giọng cô hạ xuống thành một tiếng rít dữ dội. “Sao trò dám!”
+“Sao cô dám!” cậu thì thầm rít lại với cô.
+“Trò dám tống tiền ta sao?”
+Harry nhếch môi. “Em đang đề nghị giúp đỡ cô đó chứ. Em đang cho cô cơ hội để bảo vệ bí mật quý giá của cô. Nếu cô từ chối, em sẽ có mọi lý do tự nhiên để dò hỏi ở những nơi khác, không phải để chơi xỏ cô, mà bởi vì em phải biết! Hãy vượt qua cơn giận vô lý với một đứa trẻ mà cô nghĩ là phải phục tùng cô đi, rồi cô sẽ nhận ra bất kỳ người lớn tỉnh táo nào cũng sẽ làm như vậy thôi! Hãy nhìn nhận từ góc độ của em xem! Cô sẽ cảm thấy thế nào nếu đó là cô?”
+Harry quan sát McGonagall, nhận thấy nhịp thở dồn dập của cô. Cậu nghĩ đã đến lúc giảm bớt áp lực, để cô suy ngẫm một lúc. “Cô không cần phải quyết định ngay lập tức đâu ạ,” Harry nói bằng giọng bình thường hơn. “Em hiểu nếu cô muốn có thời gian suy nghĩ về đề nghị của em… nhưng em cảnh báo cô một điều,” Harry nói, giọng cậu lạnh đi. “Đừng cố dùng Bùa Lú lên em. Cách đây một thời gian, em đã thiết lập một tín hiệu, và em đã gửi tín hiệu đó cho chính mình rồi. Nếu em tìm thấy tín hiệu đó mà không nhớ mình đã gửi nó…” Harry cố ý lấp lửng câu nói.
+Khuôn mặt McGonagall biến chuyển liên tục khi các biểu cảm thay đổi. “Ta… không hề có ý định dùng Bùa Lú lên trò, Trò Potter… nhưng tại sao trò lại nghĩ ra một tín hiệu như vậy nếu trò không biết về—”
+“Em nghĩ ra nó khi đọc một cuốn sách khoa học viễn tưởng Muggle, và tự nói với mình, à, để đề phòng thôi… Và không, em sẽ không nói cho cô biết tín hiệu đó là gì đâu, em không ngốc thế đâu.”
+“Ta cũng không có ý định hỏi,” McGonagall nói. Cô dường như thu mình lại, bỗng chốc trông rất già nua và vô cùng mệt mỏi. “Hôm nay quả là một ngày kiệt sức, Trò Potter. Giờ chúng ta đi lấy rương cho trò rồi tiễn trò về nhà nhé? Ta sẽ tin tưởng trò không nói về vấn đề này cho đến khi ta có thời gian suy nghĩ. Hãy nhớ rằng trên đời này chỉ có hai người khác biết chuyện này thôi, đó là Hiệu trưởng Albus Dumbledore và Giáo sư Severus Snape.”
+Vậy là có thông tin mới; đó là một lời cầu hòa. Harry gật đầu chấp nhận, quay đầu nhìn về phía trước và bắt đầu bước tiếp, khi máu trong người cậu từ từ ấm trở lại.
+“Vậy là bây giờ em phải tìm cách tiêu diệt một Phù thủy Hắc ám bất tử,” Harry nói rồi thở dài thất vọng. “Em thực sự ước gì cô nói chuyện đó với em trước khi em bắt đầu đi mua sắm đấy.”
+---
+Cửa hàng bán rương được trang hoàng lộng lẫy hơn bất kỳ cửa hàng nào khác mà Harry từng ghé qua; những bức rèm cửa sang trọng và có hoa văn tinh tế, sàn và tường bằng gỗ nhuộm màu đánh bóng, và những chiếc rương chiếm giữ những vị trí trang trọng trên các bục bằng ngà voi sáng loáng. Người bán hàng mặc bộ lễ phục chỉ kém Lucius Malfoy một bậc, và trò chuyện với cả Harry lẫn Giáo sư McGonagall bằng giọng điệu lịch thiệp đến mức bóng bẩy.
+Harry đã đặt các câu hỏi của mình, và bị thu hút bởi một chiếc rương làm bằng gỗ nặng trịch, không đánh bóng nhưng trông ấm áp và chắc chắn, được chạm khắc hoa văn một con rồng bảo vệ có đôi mắt chuyển động để nhìn bất kỳ ai đến gần nó. Một chiếc rương được yểm bùa để trở nên nhẹ tênh, có thể thu nhỏ lại theo khẩu lệnh, mọc ra những chiếc xúc tu nhỏ có móng vuốt ở dưới đáy và bò lồm ngồm theo sau chủ nhân. Một chiếc rương có hai ngăn kéo ở mỗi bên trong bốn mặt, mỗi ngăn kéo trượt ra để lộ các khoang chứa sâu bằng cả chiều sâu của chiếc rương. Một chiếc nắp với bốn ổ khóa, mỗi ổ khóa sẽ mở ra một không gian khác nhau bên trong. Và—đây mới là phần quan trọng nhất—một chiếc tay cầm ở dưới đáy khi kéo ra sẽ hiện ra một chiếc khung chứa cầu thang dẫn xuống một căn phòng nhỏ tràn ngập ánh sáng, nơi Harry ước tính có thể chứa được khoảng mười hai tủ sách.
+Nếu người ta sản xuất ra những hành lý như thế này, Harry không hiểu tại sao người ta còn tốn công sở hữu một ngôi nhà làm gì nữa.
+Một trăm lẻ tám đồng Galleons vàng. Đó là cái giá cho một chiếc rương tốt, đã qua sử dụng một chút. Với tỷ giá khoảng năm mươi bảng Anh một Galleon, số tiền đó đủ để mua một chiếc ô tô cũ. Nó còn đắt hơn tất cả những thứ khác cộng lại mà Harry từng mua trong suốt cuộc đời từ trước đến nay.
+Chín mươi bảy Galleons. Đó là số tiền còn lại trong túi vàng mà Harry được phép rút ra từ Gringotts.
+Giáo sư McGonagall lộ vẻ buồn bã trên mặt. Sau một ngày dài mua sắm, cô không cần phải hỏi Harry còn bao nhiêu vàng trong túi sau khi người bán hàng báo giá, điều đó có nghĩa là Giáo sư có thể tính nhẩm rất tốt mà không cần bút giấy. Một lần nữa, Harry tự nhắc nhở bản thân rằng mù tịt về khoa học hoàn toàn không đồng nghĩa với ngu ngốc.
+“Ta xin lỗi, cậu bé,” Giáo sư McGonagall thở dài. “Đây hoàn toàn là lỗi của ta. Ta định đề nghị đưa trò quay lại Gringotts, nhưng giờ này ngân hàng đã đóng cửa, chỉ phục vụ các dịch vụ khẩn cấp thôi.”
+Harry nhìn cô, tự hỏi…
+“Thôi,” Giáo sư McGonagall thở dài khi xoay người trên một gót chân, “ta đoán chúng ta cũng nên đi thôi.”
+…cô đã không mất kiểm soát hoàn toàn khi một đứa trẻ dám thách thức mình. Cô không hề vui vẻ gì, nhưng cô đã suy nghĩ thay vì bùng nổ cơn giận. Có thể chỉ vì có một Chúa tể Hắc ám bất tử cần phải chiến đấu—rằng cô cần sự thiện chí của Harry. Nhưng hầu hết người lớn sẽ không thể suy nghĩ được đến thế; họ sẽ không màng đến hậu quả tương lai chút nào nếu một kẻ có địa vị thấp hơn dám từ chối tuân lệnh họ...
+“Thưa Giáo sư?” Harry gọi.
+Vị phù thủy quay lại nhìn cậu.
+Harry hít một hơi thật sâu. Cậu cần phải hơi tức giận một chút cho việc cậu sắp sửa làm bây giờ, bằng không cậu sẽ chẳng bao giờ có đủ dũng khí. Cô ấy đã không lắng nghe mình, cậu tự nhủ, lẽ ra mình đã lấy nhiều vàng hơn nhưng cô ấy không chịu nghe... Tập trung toàn bộ thế giới của mình vào McGonagall và nhu cầu uốn nắn cuộc trò chuyện này theo ý muốn, cậu cất lời.
+“Thưa Giáo sư, cô từng nghĩ một trăm Galleons là quá đủ cho một chiếc rương. Đó là lý do cô không buồn cảnh báo em trước khi số tiền giảm xuống còn chín mươi bảy. Đó chính xác là những gì các nghiên cứu khoa học chỉ ra—chuyện xảy ra khi người ta nghĩ rằng mình đang chừa lại một khoảng dự phòng sai số nhỏ. Họ không đủ bi quan. Nếu quyền quyết định thuộc về em, em đã rút hai trăm Galleons cho chắc ăn rồi. Có rất nhiều tiền trong căn hầm đó, và em có thể trả lại số thừa sau. Nhưng em nghĩ cô sẽ không cho phép em làm vậy. Em nghĩ cô sẽ tức giận với em chỉ vì em hỏi xin. Em có sai không ạ?”
+“Ta đoán ta phải thừa nhận trò đúng,” Giáo sư McGonagall nói. “Nhưng, cậu bé—”
+“Chuyện kiểu đó là lý do tại sao em gặp khó khăn trong việc tin tưởng người lớn.” Bằng cách nào đó, Harry vẫn giữ được giọng mình bình tĩnh. “Bởi vì họ sẽ tức giận nếu mình thậm chí chỉ cố gắng lý luận với họ. Đối với họ, đó là sự thách thức, láo xược và là mối đe dọa đối với địa vị bộ tộc cao hơn của họ. Nếu mình cố nói chuyện với họ, họ sẽ nổi giận. Nên nếu em có việc gì thực sự quan trọng cần làm, em sẽ không thể tin tưởng cô được. Ngay cả khi cô lắng nghe với sự quan tâm sâu sắc đối với bất kỳ điều gì em nói—vì đó cũng là một phần của vai diễn của một người lớn đang đóng vai quan tâm—cô cũng sẽ chẳng bao giờ thay đổi hành động của mình, cô sẽ không thực sự hành xử khác đi vì bất cứ điều gì em nói cả.”
+Người bán hàng đang theo dõi cả hai với sự mê mẩn không hề giấu diếm.
+“Ta có thể hiểu quan điểm của trò,” Giáo sư McGonagall cuối cùng nói. “Nếu đôi khi ta có vẻ quá nghiêm khắc, xin hãy nhớ rằng ta đã làm Chủ nhiệm nhà Gryffindor trong khoảng thời gian có cảm giác như vài ngàn năm rồi.”
+Harry gật đầu và tiếp tục. “Vậy—giả sử em có cách để lấy thêm Galleons từ hầm của mình mà không cần chúng ta phải quay lại Gringotts, nhưng nó đòi hỏi em phải phá vỡ vai diễn của một đứa trẻ vâng lời. Liệu em có thể tin tưởng cô trong chuyện đó không, mặc dù cô sẽ phải bước ra ngoài vai diễn Giáo sư McGonagall của chính mình để tận dụng điều đó?”
+“Cái gì cơ?” Giáo sư McGonagall hỏi.
+“Nói cách khác, nếu em có thể khiến cho ngày hôm nay diễn ra khác đi, để chúng ta không mang theo quá ít tiền, thì điều đó có ổn không, ngay cả khi nó liên quan đến việc một đứa trẻ tỏ ra láo xược với người lớn khi nhìn lại?”
+“Ta… đoán là vậy…” vị phù thủy nói, trông khá bối rối.
+Harry lấy chiếc túi da moke ra và nói: “Mười mốt Galleons ban đầu nằm trong hầm gia đình tôi.”
+Và có vàng xuất hiện trong tay Harry.
+Trong một khoảnh khắc, miệng Giáo sư McGonagall há hốc ra, rồi hàm cô bặm chặt lại, đôi mắt cô nheo lại và vị phù thủy gằn giọng: “Trò lấy thứ đó ở đâu ra—”
+“Từ căn hầm của gia đình em, như em đã nói đó ạ.”
+“Bằng cách nào?”
+“Phép thuật ạ.”
+“Đó khó có thể coi là câu trả lời!” Giáo sư McGonagall cất giọng, rồi dừng lại, chớp mắt.
+“Không phải đúng không ạ? Lẽ ra em nên tuyên bố rằng đó là vì em đã thực nghiệm khám phá ra bí mật thực sự về cách hoạt động của chiếc túi này, và nó thực sự có thể thu hồi các vật thể từ bất cứ đâu chứ không chỉ từ bên trong chính nó nếu cô diễn đạt yêu cầu đúng cách. Nhưng thực ra là từ lúc em ngã vào đống vàng trước đó và em đã nhét một số đồng Galleons vào túi quần. Bất kỳ ai hiểu rõ sự bi quan đều biết rằng tiền là thứ cô có thể cần đến một cách nhanh chóng và không có nhiều cảnh báo trước. Vậy giờ cô đang tức giận với em vì đã bất tuân quyền lực của cô? Hay vui mừng vì chúng ta đã thành công trong nhiệm vụ quan trọng của mình?”
+Người bán hàng có đôi mắt mở to như chiếc đĩa.
+Và vị phù thủy cao lớn đứng đó, im lặng.
+“Kỷ luật ở Hogwarts phải được thực thi,” cô nói sau gần một phút im lặng. “Vì lợi ích của tất cả học sinh. Và điều đó phải bao gồm cả sự lịch thiệp và vâng lời từ trò đối với tất cả các giáo sư.”
+“Em hiểu, thưa Giáo sư McGonagall.”
+“Tốt. Giờ hãy mua chiếc rương đó rồi về nhà nào.”
+Harry cảm thấy như muốn nôn mửa, hoặc reo hò, hoặc ngất xỉu, hay điều gì đó tương tự. Đó là lần đầu tiên lý luận cẩn thận của cậu có tác dụng với ai đó. Có lẽ vì đây cũng là lần đầu tiên cậu có thứ gì đó thực sự nghiêm túc mà một người lớn cần ở cậu, nhưng dù sao thì—
+Minerva McGonagall, +1 điểm.
+Harry cúi đầu, trao túi vàng và mười mốt đồng Galleons thêm vào tay McGonagall. “Em cảm ơn Giáo sư rất nhiều. Cô có thể hoàn tất việc mua bán giúp em được không ạ? Em phải đi nhà vệ sinh một chút.”
+Người bán hàng lại khúm núm chỉ về phía một cánh cửa gắn trên tường có núm tay cầm mạ vàng. Khi Harry bắt đầu bước đi, cậu nghe thấy người bán hàng hỏi bằng giọng bóng bẩy: “Tôi có thể hỏi đó là ai không, thưa Phu nhân McGonagall? Tôi đoán cậu ấy thuộc nhà Slytherin—năm thứ ba chăng?—và đến từ một gia đình danh giá, nhưng tôi lại không nhận ra—”
+Tiếng đóng sầm cửa nhà vệ sinh cắt đứt lời gã, và sau khi Harry định vị được chốt cửa và ấn nó vào vị trí, cậu vớ lấy chiếc khăn tự làm sạch bằng phép thuật và lau những giọt mồ hôi trên trán bằng đôi tay run rẩy. Toàn thân Harry đầm đìa mồ hôi ướt đẫm cả quần áo Muggle bên trong, dù ít nhất nó không lộ ra ngoài lớp áo choàng phù thủy.
+---
+Mặt trời đang lặn và trời đã thực sự rất muộn khi họ đứng lại ở sân sau của quán Chiếc Vạc Lủng, giao diện im lìm đầy lá rụng giữa Hẻm Xéo của nước Anh phép thuật và toàn bộ thế giới Muggle. (Đó quả là một nền kinh tế bị chia tách khủng khiếp…)
+Harry phải đi đến bốt điện thoại công cộng và gọi cho ba mình ngay khi sang tới thế giới bên kia. Rõ ràng là cậu không cần phải lo lắng về việc hành lý của mình bị đánh cắp. Chiếc rương của cậu có cấp độ của một món đồ ma thuật quan trọng, thứ mà hầu hết người Muggle sẽ không để ý tới; đó là một phần những gì bạn có thể sở hữu trong thế giới phù thủy nếu sẵn lòng trả cái giá bằng một chiếc xe hơi cũ.
+“Vậy là ở đây chúng ta tạm chia tay nhau một thời gian,” Giáo sư McGonagall nói. Cô lắc đầu kinh ngạc. “Đây là ngày kỳ lạ nhất trong cuộc đời ta suốt… nhiều năm qua. Kể từ ngày ta biết tin một đứa trẻ đã đánh bại Kẻ-Mà-Ai-Cũng-Biết-Là-Ai-Đó. Bây giờ nhìn lại, ta tự hỏi liệu đó có phải là ngày duy lý cuối cùng của thế giới hay không.”
+Ồ, cứ như cô có thứ để phàn nàn vậy. Cô nghĩ ngày của mình thật kỳ ảo ư? Thử ngày của em xem.
+“Hôm nay em rất ấn tượng với cô đấy ạ,” Harry nói với cô. “Lẽ ra em nên nhớ khen ngợi cô thành lời, em đã cộng điểm cho cô trong đầu mình và đủ thứ nữa.”
+“Cảm ơn con, Trò Potter,” Giáo sư McGonagall nói. “Nếu con đã được phân loại vào một Nhà, ta đã trừ nhiều điểm đến mức con cháu của con vẫn sẽ tiếp tục làm mất Cúp Nhà đấy.”
+“Em cảm ơn Giáo sư.” Có lẽ vẫn còn quá sớm để gọi cô là Minnie.
+Người phụ nữ này rất có thể là người lớn tỉnh táo nhất mà Harry từng gặp, bất chấp việc cô thiếu nền tảng kiến thức khoa học. Harry thậm chí còn cân nhắc việc đề nghị cô đảm nhận vị trí số hai trong bất kỳ hội nhóm nào cậu thành lập để chiến đấu với Chúa tể Hắc ám, dù cậu không ngốc đến mức nói thẳng điều đó ra. Giờ thì tên nào sẽ hay cho nhóm đó nhỉ…? Hội Ăn Tử thần Thực tử chăng?
+“Ta sẽ sớm gặp lại con khi năm học bắt đầu,” Giáo sư McGonagall nói. “Và, Trò Potter, về cây đũa phép của con—”
+“Em biết cô định yêu cầu gì rồi,” Harry nói. Cậu lấy cây đũa phép quý giá của mình ra và với một cơn nhói lòng sâu sắc, cậu xoay nó trong tay, chìa phần cán đũa cho cô. “Cô cầm lấy đi ạ. Em đã không định làm bất kỳ điều gì, một điều nhỏ cũng không, nhưng em không muốn cô phải gặp ác mộng về việc em làm nổ tung nhà mình.”
+Giáo sư McGonagall nhanh chóng xua tay lắc đầu. “Ồ không, Trò Potter! Không ai làm thế cả. Ta chỉ muốn cảnh báo trò không được sử dụng đũa phép ở nhà, vì Bộ có thể phát hiện phép thuật của trẻ vị thành niên và việc đó bị cấm nếu không có sự giám sát.”
+“À,” Harry nói. “Nghe có vẻ là một quy tắc rất hợp lý. Em rất vui khi thấy thế giới phù thủy coi trọng những chuyện như thế.”
+Giáo sư McGonagall nhìn chăm chú vào cậu. “Con thực sự nghĩ thế sao.”
+“Vâng,” Harry nói. “Phép thuật rất nguy hiểm và các quy tắc được đặt ra vì những lý do chính đáng. Một số vấn đề khác cũng nguy hiểm. Em cũng hiểu điều đó. Xin nhớ là em không ngu ngốc.”
+“Ta chắc chắn sẽ không bao giờ quên được điều đó đâu. Cảm ơn con, Harry, điều đó quả thực khiến ta cảm thấy an tâm hơn khi giao phó cho con một số việc. Tạm biệt con.”
+Harry quay đi, bước vào quán Chiếc Vạc Lủng và hướng ra thế giới Muggle.
+Khi tay cậu vừa chạm vào tay nắm cửa sau, cậu nghe thấy tiếng thì thầm cuối cùng từ phía sau lưng.
+“Hermione Granger.”
+“Ai cơ ạ?” Harry nói, tay vẫn đặt trên nắm cửa.
+“Hãy tìm một cô bé năm thứ nhất tên là Hermione Granger trên tàu đến Hogwarts.”
+“Bạn ấy là ai thế ạ?”
+Không có câu trả lời, và khi Harry quay người lại, Giáo sư McGonagall đã biến mất.
+---
+Hậu quả
+Hiệu trưởng Albus Dumbledore rướn người về phía trước bàn làm việc. Đôi mắt lấp lánh tinh anh của cụ nhìn Minerva đăm đăm. “Vậy, Minerva thân mến của ta, cô thấy cậu bé Harry thế nào?”
+Minerva há miệng. Rồi cô ngậm miệng lại. Rồi cô lại há miệng ra lần nữa. Không có bất kỳ từ ngữ nào phát ra cả.
+“Ta hiểu rồi,” Albus nghiêm nghị nói. “Cảm ơn báo cáo của cô, Minerva. Cô có thể lui ra.”

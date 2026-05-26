@@ -1,0 +1,24 @@
+# Glossary
+
+| term | preferred_translation | forbidden_translation | term_class | context | source_location | evidence | confidence | status | notes |
+|---|---|---|---|---|---|---|---|---|---|
+| Harry Potter | Harry Potter | Hari Potter | proper-name | Main protagonist | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is per Lý Lan translation convention |
+| Hermione Granger | Hermione Granger | Her-mi-ô-ne | proper-name | Harry's friend | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Draco Malfoy | Draco Malfoy | Dra-cô | proper-name | Rival student | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Albus Dumbledore | Dumbledore | Đum-bin | proper-name | Headmaster | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Professor Quirrell | Giáo sư Quirrell | Professor Quirrell | proper-name | Defense teacher | ch01 | Standard Vietnamese HP edition | high | approved | Map "Professor" to "Giáo sư" |
+| Minerva McGonagall | Giáo sư McGonagall | | proper-name | Deputy Headmistress | ch01 | Standard Vietnamese HP edition | high | approved | |
+| Methods of Rationality | Phương pháp Lí Luận | | title | Book title | ch00 | Vietnamese HPMOR fan community | medium | approved | See research notes |
+| Petunia Evans Verres | Petunia Evans-Verres | | proper-name | Harry's aunt | ch01 | Original HP + fanfic context | high | approved | |
+| Muggle | Muggle | Người thường | proper-name | Non-magical person | ch01 | Lý Lan translation | high | approved | Keep "Muggle" per publisher convention |
+| Horcrux | Trường sinh linh giá | Hộp linh hồn | noun | Dark magic artifact | ch06 | Lý Lan translation for HP | high | approved | Standard VN term |
+| Felix Felicis | Phúc Lạc Dược | Thuốc May Mắn | noun | Liquid Luck potion | ch05 | Lý Lan translation | high | approved | Lý Lan's elegant adaptation |
+| Hogwarts | Hogwarts | Trường Hogwarts | proper-name | Magic school | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Defense Against the Dark Arts | Triệt để Dark Arts | | noun | Class name | ch01 | HPMOR context | medium | approved | HPMOR calls it "Battle Magic" |
+| wand | đũa phép | | noun | Magical tool | ch01 | Standard Vietnamese HP edition | high | approved | |
+| wizard | phù thủy | | noun | Magical person | ch01 | Standard Vietnamese HP edition | high | approved | |
+| Pureblood | Thuần huyết | | noun | Blood status | ch01 | Vietnamese HP edition | high | approved | |
+| Slytherin | Slytherin | | proper-name | House | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Gryffindor | Gryffindor | | proper-name | House | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Ravenclaw | Ravenclaw | | proper-name | House | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |
+| Hufflepuff | Hufflepuff | | proper-name | House | ch01 | Standard Vietnamese HP edition | high | approved | Keep as-is |

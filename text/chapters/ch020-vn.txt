@@ -1,0 +1,376 @@
+18. Hệ thống phân cấp thống trị
+E. Y.: Bất kỳ J. K. Rowling nào đủ tiến bộ đều không thể phân biệt được với phép thuật.
+---
+Nghe có vẻ giống việc tôi sẽ làm, phải không?
+Tôi đang ăn sáng vào sáng thứ Sáu. Harry cắn một miếng bánh mì nướng lớn nữa và cố nhắc nhở bộ não rằng ăn vội bữa sáng sẽ không giúp anh vào ngục tối nhanh hơn. Dù sao thì giữa bữa sáng và lúc bắt đầu môn Độc dược, họ có cả tiếng đồng hồ để học.
+Nhưng ngục tối! Ở Hogwarts! Trí tưởng tượng của Harry đã phác họa những vực sâu, những cây cầu hẹp, những ngọn đèn treo tường được thắp sáng bằng đuốc và những mảng rêu phát sáng. Liệu có chuột không? Sẽ có rồng không?
+"Harry Potter," một giọng nói trầm lặng vang lên từ phía sau cậu.
+Harry nhìn qua vai và thấy Ernie Macmillan, mặc áo choàng viền vàng sang trọng và trông có vẻ hơi lo lắng.
+"Neville nghĩ tôi nên cảnh báo cậu," Ernie nói nhỏ nhẹ. "Tôi nghĩ anh ấy đúng. Hãy cẩn thận với Bậc thầy Độc dược trong buổi học hôm nay. Các Hufflepuff lớn tuổi hơn nói với chúng tôi rằng Giáo sư Snape có thể rất độc ác với những người mà ông ấy không thích, và ông ấy không thích hầu hết những người không thuộc Slytherin. Nếu cậu nói điều gì thông minh với ông ấy thì... theo những gì tôi nghe được, điều đó có thể thực sự tệ cho cậu. Cứ cúi đầu xuống và đừng cho ông ấy bất kỳ lý do gì để chú ý đến cậu."
+Harry dừng lại một nhịp để xử lý điều này, rồi nhướn mày. (Harry ước gì mình có thể nhướng một bên mày lên như Spock, nhưng anh chưa bao giờ làm được.) "Cảm ơn," Harry nói. "Có lẽ cậu vừa cứu tôi khỏi một đống rắc rối đấy."
+Ernie gật đầu rồi quay về bàn Hufflepuff.
+Harry tiếp tục ăn bánh mì nướng.
+Khoảng bốn miếng sau, có người nói "Xin thứ lỗi," và Harry quay lại thì thấy một Ravenclaw lớn tuổi hơn, trông có vẻ hơi lo lắng—
+Một lúc sau, Harry đang hoàn thành đĩa thứ ba của mình. (Anh đã học cách ăn no vào bữa sáng. Anh luôn có thể ăn nhẹ vào bữa trưa nếu không cần dùng Vòng quay thời gian.) Và lại có một giọng nói khác từ phía sau anh, "Harry?"
+"Ừ," Harry nói mệt mỏi, "tôi sẽ cố không thu hút sự chú ý của Giáo sư Snape—"
+"Ồ, thật vô vọng," Fred nói.
+"Hoàn toàn vô vọng," George nói.
+"Tụi nó nhờ gia tinh nướng cho cậu một chiếc bánh," Fred nói tiếp.
+"Tụi nó sẽ thắp một ngọn nến lên mỗi điểm mà Ravenclaw đánh mất," George nói.
+"Và tổ chức một bữa tiệc cho cậu tại bàn Gryffindor vào bữa trưa nhé," Fred nói.
+"Tụi nó hy vọng điều đó sẽ làm cậu vui lên sau đó," George kết thúc.
+Harry nuốt miếng bánh mì cuối cùng và quay lại. "Được rồi," Harry nói. "Tôi không định hỏi điều này sau Giáo sư Binns, thực sự là không, nhưng nếu Giáo sư Snape tệ đến thế thì tại sao ông ấy vẫn chưa bị sa thải?"
+"Sao thải?" Fred nói.
+"Ý anh là, sa thải?" George nói.
+"Ừ," Harry nói. "Đó là những gì người ta làm với những giáo viên tồi. Người ta sa thải họ. Rồi thuê một giáo viên giỏi hơn thay thế. Ở đây không có công đoàn hay nhiệm kỳ, phải không?"
+Fred và George cau mày giống như cách trưởng lão bộ lạc săn bắt hái lượm có thể cau mày nếu ai đó cố nói với họ về phép tính.
+"Tôi không biết," một lúc sau Fred nói. "Tôi chưa bao giờ nghĩ về điều đó."
+"Tôi cũng vậy," George nói.
+"Ừ," Harry nói, "tôi hiểu điều đó. Hẹn gặp các cậu vào bữa trưa nhé, và đừng trách tôi nếu không có ngọn nến nào trên chiếc bánh đó."
+Fred và George đều cười lớn, như thể Harry vừa nói điều gì đó buồn cười, cúi chào cậu rồi quay về Gryffindor.
+Harry quay lại bàn ăn sáng và lấy một chiếc bánh nướng nhỏ. Bụng anh đã no rồi nhưng anh có cảm giác sáng nay có thể sẽ tiêu tốn rất nhiều calo.
+Khi ăn bánh, Harry nghĩ đến người giáo viên tồi tệ nhất mà cậu từng gặp cho đến nay: Giáo sư Lịch sử Binns. Giáo sư Binns là một con ma. Theo những gì Hermione đã nói về ma, có vẻ như họ không hoàn toàn tự nhận thức được. Không có khám phá nổi tiếng nào do hồn ma thực hiện hay phần lớn tác phẩm gốc nào, bất kể họ là ai khi còn sống. Hồn ma có xu hướng gặp khó khăn trong việc ghi nhớ thế kỷ hiện tại. Hermione đã nói rằng chúng giống như những bức chân dung tình cờ, được in vào vật chất xung quanh bởi một luồng năng lượng tâm linh bùng nổ đi kèm với cái chết bất ngờ của một phù thủy.
+Harry đã gặp một số giáo viên ngu ngốc trong quá trình đột phá vào nền giáo dục Muggle tiêu chuẩn của anh — dĩ nhiên là cha anh rất kén chọn khi chọn gia sư — nhưng lớp Lịch sử là lần đầu tiên anh gặp một giáo viên thực sự không có tri giác.
+Và nó cũng cho thấy. Harry đã bỏ cuộc sau năm phút và bắt đầu đọc sách giáo khoa. Khi biết rõ rằng "Giáo sư Binns" sẽ không phản đối, Harry cũng đã thò tay vào túi và rút nút bịt tai ra.
+Ma quỷ không cần lương sao? Đó có phải là nó không? Hay theo nghĩa đen là không thể sa thải bất kỳ ai ở Hogwarts, ngay cả khi họ đã chết?
+Bây giờ có vẻ như Giáo sư Snape sắp trở nên cực kỳ tệ hại đối với tất cả những ai không phải Slytherin, và việc chấm dứt hợp đồng với ông ấy thậm chí còn chưa xảy ra.
+Và thầy hiệu trưởng đã đốt một con gà.
+"Xin lỗi," một giọng nói lo lắng vang lên từ phía sau anh.
+"Con thề," Harry nói mà không quay lại, "nơi này tệ gần tám phần trăm rưỡi so với những gì bố nói về Oxford."
+---
+Harry giậm chân dọc hành lang lát đá, vừa bị xúc phạm, vừa khó chịu, vừa tức giận.
+"Hầm ngục!" Harry rít lên. "Ngục tối! Đây không phải ngục tối! Đây là tầng hầm! Tầng hầm!"
+Một số cô gái Nhà Ravenclaw nhìn cậu với ánh mắt kỳ quặc. Bây giờ các chàng trai đã quen với anh ta.
+Có vẻ như tầng mà lớp học Độc dược tọa lạc được gọi là "ngục tối" không vì lý do gì hơn ngoài việc nó nằm dưới mặt đất và lạnh hơn một chút so với lâu đài chính.
+Ở Hogwarts! Ở Hogwarts! Harry đã chờ đợi cả đời và bây giờ cậu vẫn đang chờ đợi, và nếu có bất cứ nơi nào trên bề mặt Trái đất có ngục tối tươm tất thì đó phải là Hogwarts! Harry có phải xây dựng lâu đài của riêng mình nếu muốn nhìn thấy một vực thẳm nhỏ không đáy không?
+Một lúc sau họ đến lớp học Độc dược thực sự và Harry vui lên đáng kể.
+Lớp học Độc dược có những sinh vật kỳ lạ được bảo quản trôi nổi trong những chiếc lọ khổng lồ trên kệ, che kín từng centimet trên bức tường giữa các tủ. Giờ đây Harry đã đọc đủ xa để có thể thực sự xác định được một số sinh vật, như Zabriskan Fontema. Mặc dù con nhện dài 50 cm trông giống Acromantula nhưng nó quá nhỏ để trở thành. Anh đã thử hỏi Hermione, nhưng cô ấy dường như không mấy quan tâm đến việc nhìn bất cứ nơi nào gần nơi anh đang chỉ.
+Harry đang nhìn một quả cầu bụi lớn bằng mắt và chân thì tên sát thủ lao vào phòng.
+
+Đó là suy nghĩ đầu tiên thoáng qua trong đầu Harry khi cậu nhìn thấy giáo sư Severus Snape. Có điều gì đó lặng lẽ và chết chóc trong cách người đàn ông đi giữa các bàn học của trẻ em. Áo choàng của anh ta nhếch nhác, tóc anh ta lốm đốm và nhờn. Có điều gì đó ở anh ta dường như gợi nhớ đến Lucius, mặc dù hai người họ trông chẳng giống nhau chút nào, và bạn có ấn tượng rằng khi Lucius giết bạn với sự tao nhã hoàn hảo thì người đàn ông này sẽ đơn giản giết bạn.
+"Ngồi xuống," giáo sư Severus Snape nói. "Ngay bây giờ."
+Harry và một vài đứa trẻ khác đang đứng xung quanh nói chuyện tranh giành bàn học. Harry đã định ngồi cạnh Hermione nhưng không hiểu sao cậu lại thấy mình ngồi xuống chiếc bàn trống gần nhất cạnh Justin Finch-Fletchley (đó là buổi thi Đôi, Ravenclaw và Hufflepuff), khiến cậu ngồi ở hai bàn bên trái Hermione.
+Severus ngồi sau bàn giáo viên và không hề chuyển tiếp hay giới thiệu một chút nào, nói: "Hannah Abbott."
+"Đây," Hannah nói với giọng hơi run.
+"Xương Susan."
+"Hiện tại."
+Và mọi chuyện diễn ra như vậy, không ai dám nói một lời nào cho đến khi:
+"À, vâng. Harry Potter. Người nổi tiếng… mới của chúng ta."
+"Người nổi tiếng đang có mặt, thưa ngài."
+Một nửa lớp nao núng, và một số bạn thông minh hơn đột nhiên có vẻ muốn chạy ra khỏi cửa trong khi lớp học vẫn còn ở đó.
+Severus mỉm cười theo kiểu đoán trước và gọi cái tên tiếp theo trong danh sách của mình.
+Harry thở dài trong lòng. Chuyện đó xảy ra quá nhanh khiến anh không thể làm gì được. Ồ, được rồi. Rõ ràng người đàn ông này đã không thích anh ta rồi, vì bất cứ lý do gì. Và khi Harry nghĩ về điều đó, tốt hơn hết là vị giáo sư Độc dược này nên chỉ trích cậu ấy thay vì, chẳng hạn như Neville hay Hermione. Harry có khả năng tự vệ tốt hơn rất nhiều. Đúng, có lẽ tất cả là tốt nhất.
+Khi đã điểm danh đầy đủ, Severus liếc nhìn toàn bộ lớp học. Đôi mắt anh trống rỗng như bầu trời đêm không có sao.
+"Các người đang ở đây," Severus nói bằng một giọng nhỏ nhẹ khiến các học sinh ở phía sau căng thẳng để nghe, "để tìm hiểu khoa học tinh tế và nghệ thuật chế tạo độc dược chính xác. Vì có một chút vẫy đũa ngu ngốc ở đây, nhiều người trong các người sẽ khó tin đây là phép thuật. Tôi không hy vọng các người sẽ thực sự hiểu được vẻ đẹp của cái vạc sôi nhẹ nhàng với làn khói lung linh, sức mạnh tinh tế của chất lỏng chảy trong huyết quản con người," điều này với một giọng điệu khá mơn trớn, hả hê, "làm mê mẩn tâm trí, đang gài bẫy các giác quan," chuyện này càng ngày càng rùng rợn hơn. "Tôi có thể dạy các người cách đóng chai danh tiếng, pha chế vinh quang, thậm chí ngăn chặn cái chết—nếu các người không phải là một lũ ngu ngốc như tôi thường phải dạy."
+Severus bằng cách nào đó dường như nhận thấy vẻ hoài nghi trên khuôn mặt Harry, hoặc ít nhất là mắt ông đột nhiên liếc sang chỗ Harry đang ngồi.
+"Thợ gốm!" giáo sư Độc dược ngắt lời. "Tôi sẽ nhận được gì nếu thêm bột rễ cây asphodel vào dịch ngải cứu?"
+Harry chớp mắt. "Điều đó có trong Thuốc ma thuật và Độc dược không?" anh nói. "Tôi vừa đọc xong và không nhớ có bài nào dùng ngải cứu—"
+Bàn tay của Hermione giơ lên và Harry ném cho cô một cái nhìn trừng trừng khiến cô phải giơ tay cao hơn nữa.
+"Chậc, chậc," Severus nói một cách mượt mà. "Rõ ràng danh tiếng không phải là tất cả."
+"Thật sự?" Harry nói. "Nhưng thầy vừa nói với chúng em rằng thầy sẽ dạy chúng em cách đóng chai danh tiếng. Nói xem, chính xác thì nó hoạt động như thế nào? Thầy uống nó và trở thành người nổi tiếng à?"
+Ba phần tư lớp rùng mình.
+Bàn tay của Hermione đang từ từ thả xuống. Chà, điều đó không có gì đáng ngạc nhiên. Cô ấy có thể là đối thủ của anh, nhưng cô ấy không phải là loại con gái sẽ chơi theo sau khi biết rõ rằng giáo sư đang cố tình làm bẽ mặt anh.
+Harry đang cố gắng hết sức để kiểm soát cơn nóng giận của mình. Lời đáp lại đầu tiên anh nghĩ đến là 'Abracadabra'.
+"Hãy thử lại," Severus nói. "Potter, nếu tôi bảo cậu tìm cho tôi một viên bezoar thì cậu sẽ tìm ở đâu?"
+"Điều đó cũng không có trong sách giáo khoa," Harry nói, "nhưng trong một cuốn sách Muggle tôi đọc được rằng trichinobezoar là một khối lông cứng được tìm thấy trong dạ dày con người, và Muggle từng tin rằng nó có thể chữa được mọi chất độc—"
+"Sai," Severus nói. "Một viên bezoar được tìm thấy trong dạ dày của một con dê, nó không được làm từ lông và nó có thể chữa được hầu hết các chất độc nhưng không phải tất cả."
+"Tôi không nói sẽ như vậy, tôi nói đó là điều tôi đã đọc trong một cuốn sách Muggle—"
+"Không ai ở đây quan tâm đến những cuốn sách Muggle thảm hại của cậu. Lần thử cuối cùng. Sự khác biệt giữa máu tu sĩ và thuốc độc sói là gì, Potter?"
+Điều đó đã làm được điều đó.
+"Thầy biết đấy," Harry lạnh lùng, "trong một trong những cuốn sách Muggle khá hấp dẫn của tôi, họ mô tả một nghiên cứu trong đó mọi người cố gắng tỏ ra rất thông minh bằng cách đặt câu hỏi về những sự kiện ngẫu nhiên mà chỉ họ biết. Rõ ràng là những người xem chỉ để ý rằng người hỏi biết còn người trả lời thì không, và không điều chỉnh được sự bất công của trò chơi cơ bản. Vì vậy, Giáo sư, thầy có thể cho tôi biết có bao nhiêu electron ở quỹ đạo ngoài cùng của một nguyên tử carbon không?"
+Nụ cười của Severus mở rộng. "Bốn," anh nói. "Tuy nhiên, đó là một sự thật vô ích mà không ai nên bận tâm viết ra. Và để cho cậu biết, Potter, asphodel và ngải cứu tạo ra một loại thuốc ngủ mạnh đến mức nó được gọi là Bản thảo của Tử thần sống. Còn đối với tu sĩ và thuốc độc sói, chúng là cùng một loại cây, cũng có tên là cây phụ tử, như cậu sẽ biết nếu cậu đã đọc Một ngàn loại thảo mộc và nấm ma thuật. Tôi nghĩ cậu không cần phải mở sách trước khi đến, eh, Potter? Tất cả những người còn lại nên chép lại để không ngu dốt như hắn." Severus dừng lại, trông khá hài lòng với chính mình. "Và đó sẽ là... năm điểm? Không, chúng ta hãy tính cho Ravenclaw mười điểm chẵn cho việc trò chuyện qua lại."
+Hermione thở hổn hển, cùng với một số người khác.
+"Giáo sư Severus Snape," Harry ngắt lời. "Tôi không biết mình đã làm gì để gây thù hận với thầy. Nếu thầy có vấn đề gì với tôi mà tôi không biết, tôi đề nghị chúng ta..."
+"Im đi, Potter. Ravenclaw thêm mười điểm. Những người còn lại, mở sách đến trang 3."
+Chỉ có một chút cảm giác nóng rát rất nhẹ ở sau cổ họng Harry và không có chút hơi nước nào trong mắt anh. Nếu khóc không phải là một chiến lược hiệu quả để tiêu diệt vị giáo sư Độc dược này thì khóc lóc cũng chẳng ích gì.
+Dần dần, Harry ngồi thẳng dậy. Toàn bộ máu của anh ta dường như đã bị rút hết và thay thế bằng nitơ lỏng. Anh biết mình đang cố gắng giữ bình tĩnh nhưng dường như anh không thể nhớ được tại sao.
+"Harry," Hermione điên cuồng thì thầm từ hai cái bàn phía trên, "dừng lại, làm ơn, không sao đâu, chúng tôi sẽ không đếm nó—"
+"Nói chuyện trong lớp à, Granger? Ba—"
+"Vậy," một giọng lạnh lùng hơn 0 độ Kelvin nói, "làm thế nào để nộp đơn khiếu nại chính thức chống lại một giáo sư lạm dụng? Người ta có nói chuyện với Phó hiệu trưởng, viết thư cho Hội đồng Thống đốc... thầy có muốn giải thích nó hoạt động như thế nào không?"
+Lớp học hoàn toàn đóng băng.
+"Giam giữ một tháng, Potter," Severus nói, cười tươi hơn nữa.
+"Tôi từ chối công nhận quyền hạn của thầy với tư cách là một giáo viên và tôi sẽ không chấp hành bất kỳ hình phạt giam giữ nào mà thầy đưa ra."
+Mọi người ngừng thở.
+Nụ cười của Severus biến mất. "Vậy thì em sẽ…" giọng anh chợt ngừng lại.
+"Bị đuổi học, cậu định nói thế à?" Mặt khác, Harry hiện đang mỉm cười nhẹ. "Nhưng sau đó, thầy dường như nghi ngờ khả năng thực hiện lời đe dọa của mình hoặc lo sợ hậu quả nếu thầy làm vậy. Mặt khác, tôi không nghi ngờ hay sợ hãi viễn cảnh tìm được một ngôi trường với những giáo sư ít lạm dụng hơn. Hoặc có lẽ tôi nên thuê gia sư riêng, như thói quen của tôi, và được dạy với tốc độ học tập tối đa. Tôi có đủ tiền trong kho. Có điều gì đó về tiền thưởng cho Chúa tể Hắc ám mà tôi đã đánh bại. Nhưng có những giáo viên ở Hogwarts mà tôi khá thích, nên tôi nghĩ sẽ dễ dàng hơn nếu tìm thấy thay vào đó hãy tìm cách nào đó để loại bỏ thầy."
+"Thoát khỏi tôi?" Severus nói, lúc này cũng cười nhạt. "Thật là một sự tự phụ thú vị. Cậu nghĩ cậu sẽ làm điều đó như thế nào hả Potter?"
+"Tôi hiểu rằng đã có một số học sinh và phụ huynh phàn nàn về thầy," một lời phỏng đoán nhưng an toàn, "điều này chỉ để lại câu hỏi tại sao thầy vẫn chưa rời đi. Liệu trường Hogwarts có quá khó khăn về tài chính để có thể thuê một giáo sư Độc dược thực sự không? Nếu vậy thì tôi có thể tham gia. Tôi chắc chắn rằng họ có thể tìm được một lớp giáo viên tốt hơn nếu họ đề nghị mức lương gấp đôi hiện tại của thầy."
+Hai cột băng tỏa mùa đông lạnh giá khắp lớp học.
+"Thầy sẽ thấy," Severus nhẹ nhàng nói, "Hội đồng Thống đốc không hề thông cảm chút nào với lời đề nghị của thầy."
+"Lucius…" Harry nói. "Đó là lý do tại sao thầy vẫn ở đây. Có lẽ tôi nên trò chuyện với Lucius về điều đó. Tôi tin rằng anh ấy muốn gặp tôi. Tôi không biết liệu anh ấy có muốn gì không."
+Hermione điên cuồng lắc đầu. Harry liếc mắt để ý, nhưng sự chú ý của anh đều đổ dồn vào Severus.
+"Con là một cậu bé rất ngu ngốc," Severus nói. Bây giờ anh không hề cười chút nào. "Lucius không có gì quý trọng hơn tình bạn của tôi. Và nếu cậu làm vậy, tôi có những đồng minh khác." Giọng anh trở nên cứng cỏi. "Và tôi thấy ngày càng khó có khả năng là cậu không được phân loại vào Slytherin. Làm thế nào mà cậu có thể tránh xa Nhà của tôi? À, vâng, bởi vì Mũ phân loại tuyên bố rằng đó là nói đùa. Lần đầu tiên trong lịch sử được ghi lại. Cậu thực sự đang trò chuyện về chuyện gì với Mũ phân loại vậy, Potter? Cậu có thứ gì mà nó muốn à?"
+Harry nhìn chằm chằm vào ánh mắt lạnh lùng của Severus và nhớ rằng Mũ phân loại đã cảnh báo anh không được nhìn vào mắt bất kỳ ai trong khi nghĩ về—Harry đưa ánh mắt xuống bàn của Severus.
+"Có vẻ cậu miễn cưỡng nhìn vào mắt tôi một cách kỳ lạ, Potter!"
+Một sự hiểu biết bất ngờ khiến tôi choáng váng—"Vậy ra chính thầy mà Mũ phân loại đã cảnh báo tôi!"
+"Cái gì?" Giọng Severus vang lên, nghe có vẻ thực sự ngạc nhiên, mặc dù tất nhiên là Harry không nhìn vào mặt ông ấy.
+Harry đứng dậy khỏi bàn làm việc.
+"Ngồi xuống đi, Potter," một giọng nói giận dữ vang lên từ đâu đó mà cậu không để ý.
+Harry phớt lờ nó và nhìn quanh lớp học. "Tôi không có ý định để một giáo viên thiếu chuyên nghiệp làm hỏng thời gian của tôi ở Hogwarts," Harry nói với sự bình tĩnh chết người. "Tôi nghĩ tôi sẽ rời khỏi lớp học này và thuê một gia sư dạy Độc dược khi tôi ở đây, hoặc nếu Hội đồng thực sự bị khóa, hãy học trong mùa hè. Nếu bất kỳ ai trong số các bạn quyết định rằng mình không muốn bị người đàn ông này bắt nạt, các buổi học của tôi sẽ được mở cho các bạn."
+"Ngồi xuống đi, Potter!"
+Harry sải bước ngang qua phòng và nắm lấy tay nắm cửa.
+Nó không quay lại.
+Harry từ từ quay lại và thoáng thấy Severus đang cười nham hiểm trước khi nhớ ra phải quay đi.
+"Mở cánh cửa này ra."
+"Không," Severus nói.
+"Thầy đang khiến tôi cảm thấy bị đe dọa," một giọng nói lạnh lùng đến nỗi nó chẳng giống Harry chút nào, "và đó là một sai lầm."
+Giọng Severus cười lớn. "Cậu định làm gì đây, cậu bé?"
+Harry bước sáu bước dài ra khỏi cửa cho đến khi đứng gần dãy bàn phía sau.
+Sau đó, Harry đứng thẳng dậy và giơ tay phải lên với một chuyển động khủng khiếp, những ngón tay sẵn sàng búng.
+Neville hét lên và chui xuống gầm bàn. Những đứa trẻ khác lùi lại hoặc giơ tay lên để che chắn theo bản năng.
+"Harry đừng!" Hermione hét lên. "Dù bạn định làm gì với anh ấy, đừng làm điều đó!"
+"Tất cả các bạn đã phát điên chưa?" giọng của Severus sủa.
+Harry chậm rãi hạ tay xuống. "Tôi không định làm tổn thương anh ấy, Hermione," Harry nói, giọng trầm hơn một chút. "Tôi vừa định cho nổ tung cánh cửa."
+Mặc dù bây giờ Harry đã nhớ ra, bạn không được phép Biến hình những thứ sắp bị đốt, điều đó có nghĩa là việc quay ngược thời gian sau đó và nhờ Fred hoặc George Biến hình một lượng thuốc nổ được đo lường cẩn thận có thể không thực sự là một ý tưởng hay…
+"Silencio," giọng Severus vang lên.
+Harry cố gắng nói "Cái gì?" và nhận ra rằng không có âm thanh nào phát ra.
+"Chuyện này thật nực cười. Tôi nghĩ cậu đã được phép gây rắc rối cho mình một ngày đủ rồi, Potter. Cậu là học sinh quậy phá và ngỗ ngược nhất mà tôi từng thấy, và tôi không nhớ Ravenclaw hiện có bao nhiêu điểm, nhưng tôi chắc chắn rằng tôi có thể xóa sạch tất cả. Ravenclaw mười điểm. Ravenclaw mười điểm. Ravenclaw mười điểm! Ravenclaw năm mươi điểm! Bây giờ hãy ngồi xuống và xem cả lớp học bài!"
+Harry đút tay vào túi và cố nói 'điểm đánh dấu' nhưng tất nhiên không có từ nào phát ra. Trong một khoảnh khắc ngắn ngủi đã khiến anh dừng lại; và rồi Harry chợt nghĩ đến việc đánh vần M-A-R-K-E-R bằng cách cử động ngón tay, và cách này đã có tác dụng. P-A-D và anh có một tập giấy. Harry sải bước tới một chiếc bàn trống, không phải chiếc bàn anh ngồi ban đầu và viết nguệch ngoạc một tin nhắn ngắn gọn. Anh xé tờ giấy đó, cất bút và tập giấy vào túi áo choàng để lấy nhanh hơn, rồi giơ thông điệp của mình lên, không phải gửi cho Snape mà cho cả lớp.
+TÔI SẼ ĐI
+CÓ AI KHÁC
+CẦN RA NGOÀI KHÔNG?
+"Mày điên rồi, Potter," Severus nói với vẻ khinh thường lạnh lùng.
+Ngoài ra không có ai lên tiếng.
+Harry cúi đầu mỉa mai trước bàn giáo viên, bước tới bức tường và bằng một động tác nhẹ nhàng, giật mở cánh cửa tủ, bước vào và đóng sầm cửa lại sau lưng.
+Có âm thanh nghèn nghẹt của ai đó búng ngón tay, và sau đó không còn gì nữa.
+Trong lớp, học sinh nhìn nhau với vẻ bối rối và sợ hãi.
+Khuôn mặt của Bậc thầy Độc dược lúc này hoàn toàn tức giận. Anh ta bước những bước dài khủng khiếp băng qua phòng và giật mạnh cánh cửa tủ.
+Chiếc tủ trống rỗng.
+---
+Một giờ trước đó, Harry lắng nghe từ trong tủ đóng kín. Không có âm thanh nào từ bên ngoài, và cũng chẳng ích gì khi mạo hiểm.
+C-L-O-A-K, những ngón tay anh đánh vần.
+Khi đã tàng hình, anh rất cẩn thận và từ từ mở cửa tủ rồi lén nhìn ra ngoài. Có vẻ như không có ai ở trong lớp học.
+Cửa không khóa.
+Chỉ đến khi Harry ở bên ngoài nơi nguy hiểm và ở bên trong hành lang, vô hình một cách an toàn, cơn giận mới nguôi ngoai và anh nhận ra điều mình vừa làm.
+Những gì anh vừa làm.
+Khuôn mặt vô hình của Harry cứng đờ trong nỗi kinh hoàng tột độ.
+Anh đã chống lại một giáo viên ba cấp độ lớn hơn bất cứ điều gì anh từng quản lý trước đây. Anh đã đe dọa sẽ rời khỏi Hogwarts và có thể phải làm theo điều đó. Anh đã mất hết số điểm mà Ravenclaw có và sau đó anh đã sử dụng Xoay thời gian…
+Trí tưởng tượng của cậu cho thấy bố mẹ cậu mắng cậu sau khi cậu bị đuổi học, Giáo sư McGonagall thất vọng về cậu, và điều đó quá đau đớn và cậu không thể chịu đựng được và cậu không thể nghĩ ra cách nào để tự cứu mình—
+Ý nghĩ mà Harry cho phép mình nghĩ đến là nếu việc tức giận khiến anh gặp phải tất cả những rắc rối này, thì có lẽ khi anh tức giận anh sẽ nghĩ ra lối thoát, mọi thứ dường như rõ ràng hơn bằng cách nào đó khi anh tức giận.
+Và ý nghĩ mà Harry không cho phép mình nghĩ đến là anh sẽ không thể đối mặt với tương lai này nếu không tức giận.
+Thế là hắn ném suy nghĩ của mình trở lại và nhớ lại sự nhục nhã cháy bỏng…
+Chậc, chậc. Danh tiếng rõ ràng không phải là tất cả.
+Ravenclaw mười điểm cho trò chuyện ngược.
+Cái lạnh êm dịu tràn qua huyết quản của anh như một làn sóng phản chiếu và quay trở lại từ một con sóng nào đó, và Harry thở ra.
+Được rồi. Trở lại bình thường ngay bây giờ.
+Anh cảm thấy hơi thất vọng vì bản thân không tức giận vì đã gục ngã như vậy và chỉ muốn thoát khỏi rắc rối. Giáo sư Severus Snape là vấn đề của mọi người. Bình thường-Harry đã quên điều đó và ước có cách nào đó để bảo vệ chính mình. Và để tất cả các nạn nhân khác bị treo cổ? Câu hỏi không phải là làm thế nào để tự bảo vệ mình, câu hỏi là làm thế nào để tiêu diệt vị giáo sư Độc dược này.
+Vậy đây chính là mặt tối của tôi phải không? Một thuật ngữ hơi định kiến mà, mặt sáng của tôi có vẻ ích kỷ và hèn nhát hơn, chưa kể còn bối rối và hoảng loạn.
+Và bây giờ khi anh đã suy nghĩ rõ ràng, anh cũng rõ ràng phải làm gì tiếp theo. Anh đã cho mình thêm một giờ để chuẩn bị và có thể có thêm năm giờ nữa nếu cần…
+---
+Minerva McGonagall đợi trong văn phòng Hiệu trưởng.
+Cụ Dumbledore ngồi trên chiếc ngai có đệm phía sau bàn làm việc, mặc bốn lớp áo choàng trang trọng màu hoa oải hương. Minerva ngồi trên chiếc ghế trước mặt anh, đối diện với Severus trên một chiếc ghế khác. Đối diện với ba người họ là một chiếc ghế gỗ trống.
+Họ đang đợi Harry Potter.
+Harry, Minerva tuyệt vọng nghĩ, cậu đã hứa là sẽ không cắn bất kỳ giáo viên nào!
+Và trong tâm trí cô có thể thấy rất rõ câu trả lời, khuôn mặt giận dữ của Harry và câu trả lời đầy phẫn nộ của anh: Tôi đã nói là tôi sẽ không cắn ai không cắn tôi trước!
+Có tiếng gõ cửa.
+"Mời vào!" Cụ Dumbledore gọi.
+Cánh cửa mở ra và Harry Potter bước vào. Minerva gần như thở hổn hển. Cậu bé trông rất điềm tĩnh, tự chủ và hoàn toàn làm chủ được bản thân.
+"Chào buổi sáng…" Giọng Harry đột ngột cắt ngang. Hàm anh rớt xuống.
+Minerva theo dõi ánh mắt của Harry và cô thấy Harry đang nhìn chằm chằm vào Fawkes nơi con phượng hoàng đậu trên cành vàng của nó. Fawkes vỗ đôi cánh vàng đỏ rực của mình như ngọn lửa bập bùng và cúi đầu chào cậu bé.
+Harry quay lại nhìn chằm chằm vào cụ Dumbledore.
+Cụ Dumbledore nháy mắt với nó.
+Minerva cảm thấy mình đang thiếu thứ gì đó.
+Sự không chắc chắn đột nhiên hiện lên trên khuôn mặt Harry. Sự lạnh lùng của anh dao động. Sự sợ hãi hiện lên trong mắt cậu, rồi sự tức giận, rồi cậu bé bình tĩnh trở lại.
+Một cơn ớn lạnh chạy dọc sống lưng Minerva. Có điều gì đó không ổn ở đây.
+"Xin mời ngồi," cụ Dumbledore nói. Khuôn mặt anh lúc này lại trở nên nghiêm túc hơn.
+Harry ngồi xuống.
+"Vậy, Harry," cụ Dumbledore nói. "Tôi đã nghe một báo cáo trong ngày này từ Giáo sư Snape. Cậu có muốn kể cho tôi nghe chuyện gì đã xảy ra bằng lời nói của cậu không?"
+Ánh mắt của Harry liếc nhìn Severus một cách khinh miệt. "Nó không phức tạp đâu," cậu bé nói, mỉm cười nhẹ. "Anh ta đã cố gắng bắt nạt tôi theo cách anh ta đã bắt nạt mọi người không phải Slytherin trong trường kể từ ngày Lucius giao anh ta cho cậu. Về các chi tiết khác, tôi yêu cầu một cuộc trò chuyện riêng với thầy về chúng. Rốt cuộc, một học sinh đang báo cáo hành vi lạm dụng từ một giáo sư khó có thể nói chuyện thẳng thắn trước mặt giáo sư đó."
+Lần này Minerva không thể ngăn mình thở hổn hển.
+Severus chỉ cười.
+Và khuôn mặt của Hiệu trưởng trở nên nghiêm trọng. "Cậu Potter," Hiệu trưởng nói, "người ta không nói về một giáo sư Hogwarts bằng những từ ngữ như vậy. Tôi e rằng cậu đang phải chịu một sự hiểu lầm khủng khiếp. Tôi hoàn toàn tin tưởng giáo sư Severus Snape, và phục vụ Hogwarts theo lệnh của tôi, không phải của Lucius Malfoy."
+Có sự im lặng trong một vài khoảnh khắc.
+Khi cậu bé lên tiếng lần nữa, giọng cậu lạnh băng. "Tôi có thiếu thứ gì ở đây không?"
+"Có khá nhiều thứ đấy, cậu Potter," Hiệu trưởng nói. "Trước hết, cậu nên hiểu rằng mục đích của cuộc họp này là để thảo luận về cách kỷ luật cậu vì sự việc xảy ra sáng nay."
+"Người đàn ông này đã khủng bố trường học của thầy trong nhiều năm. Tôi đã nói chuyện với các học sinh và thu thập các câu chuyện để đảm bảo rằng sẽ có đủ thông tin để một chiến dịch báo chí kêu gọi phụ huynh chống lại anh ta. Một số học sinh nhỏ tuổi đã khóc khi kể cho tôi nghe. Tôi gần như đã khóc khi nghe chúng! Thầy đã cho phép kẻ bạo hành này được thả tự do? Thầy đã làm điều này với học sinh của mình? Tại sao?"
+Minerva nuốt cục nghẹn trong cổ họng. Cô đã—đôi khi nghĩ vậy, nhưng không hiểu sao cô chưa bao giờ—
+"Cậu Potter," Hiệu trưởng nói, giọng ông bây giờ nghiêm nghị, "cuộc họp này không phải về Giáo sư Snape. Nó là về cậu và việc cậu coi thường kỷ luật nhà trường. Giáo sư Snape đã đề nghị, và tôi đã đồng ý, rằng ba tháng cấm túc là thích hợp—"
+"Từ chối," Harry lạnh lùng nói.
+Minerva không nói nên lời.
+"Đây không phải là một yêu cầu, cậu Potter," Hiệu trưởng nói. Toàn bộ ánh nhìn của ông phù thủy đổ dồn vào cậu bé. "Đây là hình phạt của cậu—"
+"Thầy sẽ giải thích cho tôi lý do tại sao thầy cho phép người đàn ông này làm tổn thương những đứa trẻ được thầy chăm sóc và nếu lời giải thích của thầy vẫn chưa đủ thì tôi sẽ bắt đầu chiến dịch báo chí của mình với thầy là mục tiêu."
+Cơ thể của Minerva lắc lư theo lực của cú đánh đó, với irré majesté thuần khiết.
+Ngay cả Severus cũng có vẻ sốc.
+"Điều đó, Harry, sẽ là cực kỳ thiếu khôn ngoan," cụ Dumbledore chậm rãi nói. "Tôi là quân cờ chính chống lại Lucius trên bàn cờ. Việc cậu làm như vậy sẽ tiếp thêm sức mạnh cho anh ta rất nhiều, và tôi không nghĩ đó là phe cậu đã chọn."
+Cậu bé vẫn đứng đó một lúc lâu.
+"Cuộc trò chuyện này trở nên riêng tư," Harry nói. Bàn tay anh hất về phía Severus. "Đuổi anh ta đi."
+Cụ Dumbledore lắc đầu. "Harry, chẳng phải tôi đã nói với cậu rằng Severus Snape được tôi tin tưởng nhất sao?"
+Khuôn mặt của cậu bé hiện rõ sự sốc. "Sự bắt nạt của người đàn ông này khiến thầy dễ bị tổn thương! Tôi không phải là người duy nhất có thể bắt đầu một chiến dịch báo chí chống lại thầy! Điều này thật điên rồ! Tại sao thầy lại làm điều này?"
+Cụ Dumbledore thở dài. "Tôi xin lỗi, Harry. Nó liên quan đến những điều mà anh chưa sẵn sàng nghe vào lúc này."
+Cậu bé nhìn chằm chằm vào cụ Dumbledore. Rồi anh quay lại nhìn Severus. Sau đó quay lại với cụ Dumbledore một lần nữa.
+"Thật là điên rồ," cậu bé nói chậm rãi. "Thầy chưa kiềm chế được anh ta vì thầy nghĩ rằng anh ta là một phần của khuôn mẫu. Rằng Hogwarts cần một Bậc thầy Độc dược độc ác để trở thành một ngôi trường phép thuật đúng nghĩa, cũng giống như nó cần một con ma để dạy Lịch sử."
+"Điều đó nghe có vẻ giống việc tôi sẽ làm, phải không?" cụ Dumbledore mỉm cười nói.
+"Không thể chấp nhận được," Harry nói thẳng thừng. Ánh nhìn của anh lúc này lạnh lùng và tối tăm. "Tôi sẽ không tha thứ cho việc bắt nạt hoặc lạm dụng. Tôi đã cân nhắc nhiều cách có thể giải quyết vấn đề này, nhưng tôi sẽ làm cho nó đơn giản. Hoặc là người đàn ông này đi, hoặc tôi sẽ đi."
+Minerva lại thở hổn hển. Có điều gì đó kỳ lạ lóe lên trong mắt Severus.
+Lúc này ánh mắt của cụ Dumbledore cũng dần trở nên lạnh lùng. "Đuổi học, cậu Potter, là lời đe dọa cuối cùng có thể được sử dụng đối với một học sinh. Nó không phải là thông lệ được học sinh sử dụng như một lời đe dọa chống lại Hiệu trưởng. Đây là ngôi trường phép thuật tốt nhất trên toàn thế giới, và nền giáo dục ở đây không phải là cơ hội được trao cho tất cả mọi người. Cậu có ấn tượng rằng Hogwarts không thể tồn tại nếu không có cậu không?"
+Và Harry ngồi đó, mỉm cười nhẹ.
+Nỗi kinh hoàng bất ngờ ập đến với Minerva. Chắc chắn Harry sẽ không—
+"Anh quên," Harry nói, "rằng anh không phải là người duy nhất có thể nhìn thấy các mẫu. Việc này trở nên riêng tư. Bây giờ hãy gửi anh ấy đi—" Harry lại búng tay với Severus, rồi dừng lại ở giữa câu và giữa cử chỉ.
+Minerva có thể nhìn thấy điều đó trên gương mặt Harry vào khoảnh khắc cậu nhớ lại.
+Rốt cuộc thì cô đã nói với anh rồi.
+"Cậu Potter," Hiệu trưởng nói, "một lần nữa, Severus Snape có được sự tin tưởng tuyệt đối của tôi."
+"Anh đã nói với anh ấy rồi," cậu bé thì thầm. "Anh thật ngu ngốc."
+Cụ Dumbledore không phản ứng với sự xúc phạm. "Nói với anh ấy điều gì cơ?"
+"Rằng Chúa tể Hắc ám vẫn còn sống."
+"Cậu đang nói cái quái gì vậy, Potter?" Severus kêu lên với giọng điệu hoàn toàn ngạc nhiên và phẫn nộ.
+Harry liếc nhanh về phía anh, mỉm cười nhăn nhó. "Ồ, vậy chúng ta là Slytherin," Harry nói. "Tôi bắt đầu thắc mắc."
+Và sau đó là sự im lặng.
+Cuối cùng cụ Dumbledore cũng lên tiếng. Giọng anh nhẹ nhàng. "Harry, cậu đang nói về cái gì thế?"
+"Tôi xin lỗi, Albus," Minerva thì thầm.
+Severus và cụ Dumbledore quay lại nhìn cô.
+"Giáo sư McGonagall không nói cho con biết," giọng Harry vang lên, nhanh và kém bình tĩnh hơn trước. "Tôi đoán rồi. Tôi đã nói với thầy rồi, tôi cũng có thể nhìn thấy các kiểu mẫu. Tôi đoán vậy, và cô ấy kiểm soát phản ứng của mình giống như Severus đã làm. Nhưng khả năng kiểm soát của cô ấy chưa đến mức hoàn hảo, và tôi có thể nói đó là sự kiểm soát, không phải sự thật."
+"Và tôi đã nói với anh ấy," Minerva nói, giọng cô hơi run, "rằng anh, tôi và Severus là những người duy nhất biết."
+Harry nói: "Điều mà cô ấy làm như một sự nhượng bộ để ngăn cản tôi đi loanh quanh đặt câu hỏi, như tôi đã đe dọa sẽ làm nếu cô ấy không nói chuyện. Cậu bé cười khúc khích ngắn gọn. "Đáng lẽ tôi nên gặp riêng một trong số các thầy và nói với thầy rằng cô ấy đã kể cho tôi nghe mọi chuyện, để xem liệu thầy có sơ sót điều gì không. Có lẽ sẽ không hiệu quả nhưng đáng để thử." Cậu bé lại mỉm cười. "Mối đe dọa vẫn còn trên bàn và tôi thực sự hy vọng sẽ được thông báo tóm tắt đầy đủ vào một lúc nào đó."
+Severus đang ném cho cô một cái nhìn khinh miệt hoàn toàn. Minerva nâng cằm lên và chịu đựng nó. Cô biết điều đó là xứng đáng.
+Cụ Dumbledore tựa lưng vào chiếc ngai có đệm của mình. Đôi mắt anh lạnh lùng như bất cứ điều gì Minerva từng thấy ở anh kể từ ngày anh trai anh qua đời. "Và ngài đe dọa sẽ bỏ rơi chúng tôi cho Voldemort nếu chúng tôi không tuân theo mong muốn của ngài."
+Giọng của Harry sắc như dao cạo. "Tôi rất tiếc phải thông báo với thầy rằng thầy không phải là trung tâm của vũ trụ. Tôi không đe dọa rời bỏ nước Anh huyền diệu. Tôi đang đe dọa sẽ rời bỏ thầy. Tôi không phải là Frodo bé nhỏ hiền lành. Đây là nhiệm vụ của tôi và nếu muốn tham gia, thầy sẽ chơi theo quy tắc của tôi."
+Sắc mặt cụ Dumbledore vẫn lạnh lùng. "Tôi bắt đầu nghi ngờ khả năng thích hợp của anh với tư cách anh hùng, anh Potter."
+Ánh mắt đáp lại của Harry cũng lạnh lùng không kém. "Tôi bắt đầu nghi ngờ sự phù hợp của thầy với tư cách là Gandalf của tôi, Mr Dumbledore. Boromir ít nhất là một sai lầm chính đáng. Nazgûl này đang làm gì trong Hiệp hội của tôi?"
+Minerva đã hoàn toàn mất tích. Cô nhìn Severus để xem anh ta có theo dõi điều này không, và cô thấy Severus đã quay mặt ra khỏi tầm nhìn của Harry và đang mỉm cười.
+"Tôi cho rằng," cụ Dumbledore nói chậm rãi, "từ quan điểm của trò, đây là một câu hỏi hợp lý. Vì vậy, trò Potter, nếu giáo sư Snape để trò yên sau đó, liệu đó có phải là lần cuối cùng vấn đề này nảy sinh hay tôi sẽ tìm thấy trò ở đây mỗi tuần với một yêu cầu mới?"
+"Hãy để tôi yên?" Giọng Harry đầy phẫn nộ. "Tôi không phải là nạn nhân duy nhất của hắn và chắc chắn không phải là người dễ bị tổn thương nhất! Thầy đã quên những đứa trẻ không có khả năng tự vệ như thế nào chưa? Chúng bị tổn thương đến mức nào? Từ nay trở đi Severus sẽ đối xử với mọi học sinh của Hogwarts bằng phép lịch sự phù hợp và chuyên nghiệp, hoặc thầy sẽ tìm một Bậc thầy Độc dược khác, hoặc thầy sẽ tìm một anh hùng khác!"
+Cụ Dumbledore bắt đầu cười lớn. Tiếng cười sảng khoái, ấm áp, hài hước, như thể Harry vừa biểu diễn một điệu nhảy hài hước trước mặt.
+Minerva không dám cử động. Đôi mắt cô chớp chớp và cô thấy Severus cũng bất động không kém.
+Vẻ mặt của Harry càng trở nên lạnh lùng hơn. "Thầy nhầm tôi rồi, Hiệu trưởng, nếu thầy nghĩ rằng đây là một trò đùa. Đây không phải là một yêu cầu. Đây là hình phạt của thầy."
+"Cậu Potter…" Minerva nói. Cô thậm chí còn không biết mình sẽ nói gì. Đơn giản là cô không thể để chuyện đó trôi qua được.
+Harry làm một cử chỉ im lặng với cô và tiếp tục nói chuyện với cụ Dumbledore. "Và nếu điều đó có vẻ bất lịch sự với thầy," Harry nói, giọng anh bây giờ đã bớt gay gắt hơn một chút, "nó dường như không kém phần bất lịch sự khi thầy nói điều đó với tôi. Thầy sẽ không nói điều đó với bất kỳ ai mà thầy coi là một con người thực sự thay vì một đứa trẻ cấp dưới, và tôi sẽ đối xử lịch sự với thầy giống như cách thầy đối xử với tôi—"
+"Ồ, thực sự, đây thực sự là hình phạt của tôi nếu có! Tất nhiên thầy đang ở đây tống tiền tôi để cứu các bạn học của thầy chứ không phải để cứu chính mình! Tôi không thể tưởng tượng được tại sao tôi lại nghĩ khác!" Cụ Dumbledore bây giờ còn cười dữ hơn. Anh đập tay xuống bàn ba lần.
+Ánh mắt của Harry trở nên không chắc chắn. Khuôn mặt anh quay về phía cô, lần đầu tiên xưng hô với cô. "Xin lỗi," Harry nói. Giọng nói của anh dường như đang dao động. "Anh ấy có cần uống thuốc hay gì không?"
+"À…" Minerva không biết mình có thể nói gì.
+"Ồ," cụ Dumbledore nói. Anh lau đi những giọt nước mắt đã hình thành trong mắt mình. "Xin thứ lỗi cho tôi. Tôi xin lỗi vì đã làm gián đoạn. Vui lòng tiếp tục việc tống tiền."
+Harry mở miệng, rồi lại ngậm lại. Hiện tại hắn tựa hồ có chút không ổn định. "À… anh ấy cũng sẽ ngừng đọc suy nghĩ của học sinh."
+"Minerva," Severus nói, giọng đầy chết chóc, "cậu—"
+"Mũ phân loại đã cảnh báo tôi," Harry nói.
+"Cái gì?"
+"Không thể nói gì khác. Dù sao thì tôi nghĩ thế là xong. Tôi xong rồi."
+Im lặng.
+"Bây giờ thì sao?" Minerva nói khi rõ ràng là không có ai khác sẽ nói gì cả.
+"Bây giờ thì sao?" Cụ Dumbledore lặp lại. "Sao vậy, bây giờ anh hùng đương nhiên là thắng rồi."
+"Cái gì?" Severus, Minerva và Harry nói.
+"Chà, chắc chắn là ông đã dồn chúng ta vào chân tường," cụ Dumbledore nói, mỉm cười hạnh phúc. "Nhưng Hogwarts cần một Bậc thầy Độc dược độc ác, nếu không thì đó sẽ không phải là một trường học phép thuật đúng nghĩa nữa phải không? Vậy nếu Giáo sư Snape chỉ tệ hại với học sinh từ năm thứ năm trở lên thì sao?"
+"Cái gì?" cả ba người họ lại nói.
+"Nếu đó là những nạn nhân dễ bị tổn thương nhất mà các bạn quan tâm. Có lẽ bạn đúng, Harry. Có lẽ trong nhiều thập kỷ tôi đã quên mất cảm giác là một đứa trẻ là như thế nào. Vì vậy, hãy thỏa hiệp. Severus sẽ tiếp tục cộng điểm một cách không công bằng cho Slytherin và áp đặt kỷ luật lỏng lẻo trong Nhà của ông ấy, và ông ấy sẽ rất tệ đối với những học sinh không phải Slytherin vào năm thứ năm trở lên. Đối với những người khác, ông ấy sẽ đáng sợ, nhưng không lạm dụng. Ông ấy sẽ hứa chỉ đọc suy nghĩ khi sự an toàn của một học sinh đòi hỏi điều đó. Hogwarts sẽ có Bậc thầy Độc dược độc ác, và những nạn nhân dễ bị tổn thương nhất, như bạn đã nói, sẽ được an toàn."
+Minerva McGonagall sốc chưa từng thấy trong đời. Cô ngập ngừng liếc nhìn Severus, người có khuôn mặt hoàn toàn trung lập, như thể anh không thể quyết định mình nên mang biểu cảm gì.
+"Tôi cho rằng điều đó có thể chấp nhận được," Harry nói. Giọng anh nghe có vẻ hơi kì lạ.
+"Anh không thể nghiêm túc được," Severus nói, giọng anh vô cảm như khuôn mặt anh.
+"Tôi rất ủng hộ việc này," Minerva chậm rãi nói. Cô được sủng ái nhiều đến nỗi tim cô đập thình thịch dưới lớp áo choàng. "Nhưng chúng ta có thể nói gì với các học sinh? Họ có thể không thắc mắc điều này trong khi Severus đang... đối xử tệ với mọi người, nhưng—"
+"Harry có thể nói với các học sinh khác rằng cậu ấy đã phát hiện ra một bí mật khủng khiếp của Severus và đã thực hiện một số hành vi tống tiền," cụ Dumbledore nói. "Rốt cuộc thì đó là sự thật; hắn đã phát hiện ra rằng Severus có khả năng đọc được suy nghĩ và chắc chắn hắn đã tống tiền chúng ta."
+"Điều này thật điên rồ!" Severus nổ sung.
+"Ồ ha ha!" cụ Dumbledore nói.
+"À…" Harry nói một cách không chắc chắn. "Và nếu có ai hỏi tôi tại sao học sinh năm thứ năm trở lên lại bị đánh đòn? Tôi sẽ không trách họ vì đã giận dữ, và phần đó không hẳn là ý của tôi..."
+"Hãy nói với họ," cụ Dumbledore nói, "rằng không phải ông đề nghị thỏa hiệp, rằng đó là tất cả những gì ông có thể đạt được. Và sau đó từ chối nói thêm bất cứ điều gì. Điều đó cũng đúng. Đó là một nghệ thuật, ông sẽ học được nó khi thực hành."
+Harry chậm rãi gật đầu. "Và số điểm anh ta lấy được từ Ravenclaw?"
+"Chúng không được phép trả lại."
+Chính Minerva đã nói điều đó.
+Harry nhìn cô.
+"Tôi xin lỗi, cậu Potter," cô nói. Cô đã xin lỗi, nhưng việc đó phải được thực hiện. "Phải nhận một số hậu quả đối với hành vi sai trái của cậu nếu không ngôi trường này sẽ tan rã."
+Harry nhún vai. "Có thể chấp nhận được," anh nói thẳng thừng. "Nhưng trong tương lai Severus sẽ không tấn công các mối quan hệ của Nhà tôi bằng cách lấy điểm của tôi, ông cũng sẽ không lãng phí thời gian quý báu của tôi bằng việc cấm túc. Nếu ông cảm thấy rằng hành vi của tôi cần phải sửa chữa, ông có thể truyền đạt mối quan ngại của mình với Giáo sư McGonagall."
+"Harry," Minerva nói, "con sẽ tiếp tục tuân theo kỷ luật của trường hay bây giờ con sẽ đứng trên pháp luật, như Severus?"
+Harry nhìn cô. Có thứ gì đó ấm áp chạm vào ánh mắt anh, trong thoáng chốc trước khi nó bị dập tắt. "Tôi sẽ tiếp tục là một học sinh bình thường đối với mọi thành viên trong đội ngũ nhân viên không điên rồ hay xấu xa, miễn là họ không chịu áp lực từ những người khác." Harry liếc nhanh về phía Severus, rồi quay lại nhìn cụ Dumbledore. "Hãy để Minerva yên, tôi sẽ là học sinh Hogwarts bình thường khi có mặt cô ấy. Không có đặc quyền hay miễn trừ đặc biệt nào cả."
+"Đẹp," cụ Dumbledore nói một cách chân thành. "Nói như một anh hùng thực sự."
+"Và," cô nói, "Cậu Potter phải công khai xin lỗi về hành động của mình ngày hôm nay."
+Harry nhìn cô lần nữa. Điều này có một chút hoài nghi.
+"Kỷ luật của trường đã bị tổn hại nghiêm trọng bởi hành động của cậu, cậu Potter," Minerva nói. "Nó phải được phục hồi."
+"Tôi nghĩ, Giáo sư McGonagall, rằng thầy đã đánh giá quá cao tầm quan trọng của cái mà thầy gọi là kỷ luật trường học, so với việc để Lịch sử được dạy bởi một giáo viên trực tiếp hoặc không tra tấn học sinh của mình. Việc duy trì hệ thống phân cấp địa vị hiện tại và thực thi các quy tắc của nó dường như khôn ngoan, đạo đức và quan trọng hơn bao giờ hết khi bạn ở trên cùng và thực hiện việc thực thi so với khi bạn ở dưới cùng, và tôi có thể trích dẫn các nghiên cứu về tác dụng này nếu cần. Tôi có thể tiếp tục trong vài giờ về điểm này, nhưng tôi sẽ dừng lại ở đó."
+Minerva lắc đầu. "Anh Potter, anh đánh giá thấp tầm quan trọng của kỷ luật vì bản thân anh cũng không cần đến nó…" Cô dừng lại. Điều đó không ổn chút nào, và Severus, cụ Dumbledore, và thậm chí cả Harry đều đang nhìn cô một cách kỳ lạ. "Ý tôi là để học. Không phải mọi đứa trẻ đều có thể học khi không có sự cho phép. Và chính những đứa trẻ khác sẽ bị tổn thương, cậu Potter ạ, nếu chúng coi tấm gương của cậu là đáng để noi theo."
+Môi Harry cong lên thành một nụ cười méo mó. "Phương án đầu tiên và cuối cùng là sự thật. Sự thật là tôi không nên tức giận, tôi không nên làm gián đoạn lớp học, tôi không nên làm những gì tôi đã làm, và tôi đã làm gương xấu cho mọi người. Sự thật cũng là Severus Snape đã cư xử theo cách không phù hợp với một giáo sư Hogwarts, và từ giờ trở đi ông sẽ lưu tâm hơn đến những cảm xúc bị tổn thương của học sinh từ năm thứ tư trở xuống. Hai chúng ta có thể đứng dậy và nói ra sự thật. Tôi có thể chấp nhận điều đó."
+"Trong giấc mơ của cậu, Potter!" nhổ nước bọt Severus.
+"Xét cho cùng," Harry nói, mỉm cười nhăn nhó, "nếu sinh viên thấy rằng các quy tắc đó dành cho tất cả mọi người… cho cả các giáo sư nữa, không chỉ dành cho những sinh viên nghèo bất lực, những người không nhận được gì ngoài việc phải chịu đựng hệ thống… tại sao, những tác động tích cực đến kỷ luật nhà trường sẽ là to lớn."
+Có một khoảng dừng ngắn, rồi cụ Dumbledore cười khúc khích. "Minerva đang nghĩ rằng bạn đúng hơn bất kỳ quyền gì mà bạn có."
+Ánh mắt của Harry rời khỏi cụ Dumbledore và nhìn xuống sàn nhà. "Có phải thầy đang đọc suy nghĩ của cô ấy không?"
+"Lý trí thông thường thường bị nhầm lẫn với Tính chính đáng," cụ Dumbledore nói. "Tôi sẽ nói chuyện này với Severus, và thầy sẽ không cần phải xin lỗi trừ khi anh ấy cũng xin lỗi. Và bây giờ tôi tuyên bố vấn đề này đã kết thúc, ít nhất là cho đến giờ ăn trưa." Anh dừng lại. "Mặc dù vậy, Harry, tôi e rằng Minerva muốn nói chuyện với cậu về một vấn đề khác. Và đó không phải là kết quả của bất kỳ áp lực nào từ phía tôi. Minerva, cậu có muốn không?"
+Minerva đứng dậy khỏi ghế và suýt ngã. Có quá nhiều adrenaline trong máu, tim cô đập quá nhanh.
+"Fawkes," cụ Dumbledore nói, "làm ơn đi cùng cô ấy."
+"Tôi không—" cô bắt đầu nói.
+Cụ Dumbledore liếc nhìn cô và cô im lặng.
+Con phượng hoàng bay ngang qua căn phòng như một chiếc lưỡi lửa mượt mà phóng ra và đáp xuống vai cô. Cô cảm nhận được hơi ấm xuyên qua chiếc áo choàng, khắp cơ thể.
+"Xin hãy đi theo tôi, cậu Potter," bây giờ cô nói một cách kiên quyết và họ bước ra khỏi cửa.
+---
+Họ đứng trên cầu thang xoay, đi xuống trong im lặng.
+Minerva không biết phải nói gì. Cô không biết người đứng bên cạnh mình này.
+Và Fawkes bắt đầu ngâm nga.
+Nó dịu dàng và mềm mại, giống như âm thanh của lò sưởi nếu có giai điệu, và nó lướt qua tâm trí Minerva, xoa dịu, làm dịu, dịu dàng những gì nó chạm vào…
+"đó là gì?" Harry thì thầm bên cạnh cô. Giọng nói của anh không ổn định, lung lay, thay đổi cao độ.
+"Bài hát của đàn phượng," Minerva nói, thực sự không biết mình đang nói gì, sự chú ý của cô đều dồn vào thứ âm nhạc yên tĩnh kỳ lạ đó. "Nó cũng lành lại."
+Harry quay mặt đi, nhưng cô thoáng thấy điều gì đó đau đớn.
+Việc đi xuống dường như mất một thời gian rất dài, hoặc có thể chỉ là âm nhạc dường như mất một thời gian rất dài, và khi họ bước ra qua khoảng trống nơi từng có một tượng đầu thú, cô đang nắm chặt tay Harry.
+Khi tượng đầu thú bước trở lại vị trí của nó, Fawkes rời khỏi vai cô và lao đến trước mặt Harry.
+Harry nhìn chằm chằm vào Fawkes như thể bị thôi miên bởi ánh sáng luôn thay đổi của ngọn lửa.
+"Tôi phải làm gì đây, Fawkes?" Harry thì thầm. "Tôi không thể bảo vệ họ nếu tôi không tức giận."
+Đôi cánh của con phượng hoàng tiếp tục vỗ, nó tiếp tục bay lơ lửng tại chỗ. Không có âm thanh nào ngoài tiếng đập cánh. Sau đó có một tia chớp lóe lên như ngọn lửa bùng lên rồi tắt và Fawkes đã biến mất.
+Cả hai chớp mắt, như vừa tỉnh dậy từ một giấc mơ, hoặc có thể như lại chìm vào giấc ngủ.
+Minerva nhìn xuống.
+Khuôn mặt trẻ trung tươi sáng của Harry Potter ngước lên nhìn cô.
+"Phœnix có phải là người không?" Harry nói. "Ý tôi là, họ có đủ thông minh để được coi là người không? Tôi có thể nói chuyện với Fawkes nếu tôi biết cách không?"
+Minerva chớp mắt khó nhọc. Rồi cô lại chớp mắt. "Không," Minerva nói, giọng cô dao động. "Phœnix là sinh vật có phép thuật mạnh mẽ. Phép thuật đó mang lại cho sự tồn tại của chúng một ý nghĩa quan trọng mà không một loài động vật đơn giản nào có thể sở hữu được. Chúng là lửa, ánh sáng, sự chữa lành, sự tái sinh. Nhưng cuối cùng thì không."
+"Tôi có thể lấy nó ở đâu?"
+Minerva cúi xuống ôm lấy anh. Cô không cố ý, nhưng dường như cô không có nhiều lựa chọn trong vấn đề này.
+Khi đứng dậy, cô cảm thấy khó nói. Nhưng cô phải hỏi. "Hôm nay có chuyện gì thế, Harry?"
+"Tôi cũng không biết câu trả lời cho bất kỳ câu hỏi quan trọng nào. Ngoài ra, tôi thực sự không muốn nghĩ về nó trong một thời gian."
+Minerva lại nắm lấy tay anh và họ bước đi trong im lặng suốt quãng đường còn lại.
+Đó chỉ là một chuyến đi ngắn ngủi, vì đương nhiên phòng Phó ở gần phòng Hiệu trưởng.
+Minerva ngồi sau bàn làm việc của mình.
+Harry ngồi trước bàn làm việc của cô.
+"Vậy," Minerva thì thầm. Cô sẽ gần như đánh đổi mọi thứ để không làm điều này, hoặc để không trở thành người phải làm điều đó, hoặc để nó xảy ra bất cứ lúc nào ngoại trừ ngay bây giờ. "Có vấn đề về kỷ luật của trường, cậu không được miễn trừ."
+"Cụ thể là?" Harry nói.
+Anh không biết. Anh vẫn chưa tìm ra nó. Cô cảm thấy cổ họng mình nghẹn lại. Nhưng có việc phải làm và cô sẽ không trốn tránh.
+"Cậu Potter," giáo sư McGonagall nói, "làm ơn cho tôi xem cái Xoay thời gian của cậu."
+Tất cả sự bình yên của con phượng hoàng biến mất khỏi khuôn mặt anh ngay lập tức và Minerva có cảm giác như cô vừa đâm anh.
+"Không!" Harry nói. Giọng anh hoảng hốt. "Tôi cần nó, tôi sẽ không thể tham dự Hogwarts, tôi sẽ không thể ngủ được!"
+"Thầy sẽ ngủ được," cô nói. "Bộ đã giao lớp vỏ bảo vệ cho Xoay thời gian của thầy. Tôi sẽ phù phép nó chỉ mở trong khoảng thời gian từ 9 giờ tối đến nửa đêm."
+Mặt Harry nhăn lại. "Nhưng—nhưng tôi—"
+"Cậu Potter, cậu đã sử dụng Xoay thời gian bao nhiêu lần kể từ thứ Hai rồi? Bao nhiêu giờ rồi?"
+"Tôi…" Harry nói. "Đợi đã, để tôi cộng lại—" Anh liếc xuống đồng hồ.
+Minerva cảm thấy một nỗi buồn dâng trào. Cô đã nghĩ vậy. "Vậy thì không chỉ có hai lần mỗi ngày. Tôi nghi ngờ rằng nếu tôi hỏi bạn cùng phòng của thầy, tôi sẽ thấy rằng thầy đang phải vật lộn để thức đủ lâu để đi ngủ vào một thời điểm hợp lý và thức dậy ngày càng sớm hơn mỗi sáng. Đúng không?"
+Khuôn mặt của Harry đã nói lên tất cả những gì cô cần biết.
+"Cậu Potter," cô nhẹ nhàng nói, "có những học sinh không thể tin tưởng sử dụng Vòng xoay thời gian vì họ nghiện chúng. Chúng tôi đưa cho họ một loại thuốc kéo dài chu kỳ giấc ngủ của họ với số lượng cần thiết, nhưng cuối cùng họ lại sử dụng Vòng quay thời gian không chỉ để tham gia lớp học. Và vì vậy chúng tôi phải đưa họ trở lại. Cậu Potter, cậu đã coi việc sử dụng Vòng xoay thời gian như một giải pháp cho mọi thứ, thường là rất ngu ngốc. Cậu đã dùng nó để lấy lại một Kỷ niệm. Cậu đã biến mất khỏi một tủ theo cách dễ thấy đối với các sinh viên khác, thay vì quay lại sau khi thầy ra ngoài và nhờ tôi hoặc người khác đến mở cửa."
+Từ vẻ mặt của Harry, anh đã không nghĩ tới điều đó.
+"Và quan trọng hơn," cô nói, "thầy chỉ cần ngồi trong lớp của Giáo sư Snape. Và quan sát. Và rời đi khi lớp học kết thúc. Như thầy sẽ làm nếu thầy không sở hữu một chiếc Xoay thời gian. Có một số học sinh không thể được giao phó cho Người xoay thời gian, cậu Potter. Thầy là một trong số họ. Tôi xin lỗi."
+"Nhưng tôi cần nó!" Harry buột miệng. "Điều gì sẽ xảy ra nếu có bọn Slytherin đe dọa tôi và tôi phải trốn thoát? Điều đó giúp tôi an toàn—"
+"Mọi học sinh khác trong lâu đài này đều gặp rủi ro như nhau, và tôi đảm bảo với thầy rằng họ sẽ sống sót. Không có học sinh nào chết trong lâu đài này trong 50 năm qua. Cậu Potter, thầy sẽ giao lại Chiếc xoay thời gian của mình và làm như vậy ngay bây giờ."
+Khuôn mặt của Harry nhăn lại vì đau đớn, nhưng anh rút chiếc Xoay thời gian từ dưới áo choàng ra và đưa nó cho cô.
+Từ bàn làm việc của mình, Minerva lấy ra một trong những chiếc vỏ bảo vệ đã được gửi đến Hogwarts. Cô đặt nắp vào đúng vị trí xung quanh chiếc đồng hồ cát đang quay của Xoay thời gian, sau đó cô đặt cây đũa phép của mình lên nắp để hoàn thành bùa chú.
+"Điều này thật không công bằng!" Harry hét lên. "Hôm nay tôi đã cứu một nửa trường Hogwarts khỏi tay Giáo sư Snape, tôi bị trừng phạt vì điều đó có đúng không? Tôi đã nhìn thấy vẻ mặt của cô, cô ghét những gì ông ấy đang làm!"
+Minerva không nói gì trong một lúc. Cô thật quyến rũ.
+Nói xong, ngẩng đầu lên mới biết sắc mặt của mình nghiêm nghị. Có lẽ đó là điều sai lầm để làm. Và một lần nữa có lẽ đó là điều đúng đắn nên làm. Trước mặt cô là một đứa trẻ bướng bỉnh, và điều đó không có nghĩa là vũ trụ đã tan vỡ.
+"Đẹp đấy, cậu Potter?" cô cáu kỉnh. "Tôi đã phải nộp hai báo cáo cho Bộ về việc sử dụng Công cụ xoay thời gian trong hai ngày liên tiếp! Hãy vô cùng biết ơn vì thầy đã được phép giữ lại Xoay thời gian ngay cả ở dạng hạn chế! Hiệu trưởng đã gọi điện qua Floo để cầu xin cá nhân họ và nếu thầy không phải là Cậu bé sống sót thì điều đó cũng không đủ!"
+Harry há hốc mồm nhìn cô.
+Cô biết rằng anh đang nhìn thấy khuôn mặt giận dữ của giáo sư McGonagall.
+Đôi mắt của Harry tràn đầy nước mắt.
+"Tôi xin lỗi," anh thì thầm, giọng bây giờ nghẹn ngào và vỡ vụn. "Tôi xin lỗi, đã làm cô thất vọng…"
+"Tôi cũng xin lỗi, cậu Potter," cô nghiêm khắc nói và đưa cho cậu chiếc Xoay thời gian mới bị hạn chế. "Thầy có thể đi."
+Harry quay người và chạy ra khỏi văn phòng của cô, khóc nức nở. Cô nghe thấy tiếng bước chân anh lê bước dọc hành lang, rồi âm thanh đó tắt hẳn khi cánh cửa đóng lại.
+"Tôi cũng xin lỗi, Harry," cô thì thầm với căn phòng yên tĩnh. "Tôi cũng xin lỗi."
+---
+Mười lăm phút nữa là giờ ăn trưa.
+Không ai nói chuyện với Harry. Một số học sinh Nhà Ravenclaw ném cho anh những cái nhìn giận dữ, những người khác thì thông cảm, một số học sinh nhỏ tuổi nhất thậm chí còn có ánh mắt ngưỡng mộ, nhưng không ai nói chuyện với anh. Ngay cả Hermione cũng không cố gắng đến gần.
+Fred và George đã rón rén bước lại gần. Họ đã không nói gì cả. Lời đề nghị rất rõ ràng và có tính tùy chọn. Harry đã nói với họ rằng anh sẽ ghé qua khi món tráng miệng bắt đầu, không sớm hơn. Họ gật đầu rồi nhanh chóng rời đi.
+Có lẽ chính vẻ mặt vô cảm đó đã làm nên điều đó.
+Những người khác có lẽ nghĩ rằng anh ta đang kiềm chế cơn tức giận hoặc mất tinh thần. Họ biết, vì họ đã thấy Flitwick đến đón cậu nên cậu đã được gọi đến văn phòng Hiệu trưởng.
+Harry đang cố gắng không cười, bởi vì nếu cười, anh sẽ bắt đầu cười, và nếu bắt đầu cười, anh sẽ không dừng lại cho đến khi những người tốt bụng mặc áo khoác trắng đến lôi anh đi.
+Nó quá nhiều. Tất cả chỉ là quá nhiều. Harry gần như đã đi đến Mặt tối, mặt tối của anh đã làm những điều mà nhìn lại có vẻ điên rồ, mặt tối của anh đã giành được một chiến thắng bất khả thi mà có thể là có thật và có thể chỉ là ý thích thuần túy của một Hiệu trưởng điên rồ, mặt tối của anh đã bảo vệ bạn bè của mình. Anh không thể xử lý được nữa. Anh cần Fawkes hát lại cho anh nghe. Anh cần sử dụng Xoay thời gian để nghỉ ngơi và dành một giờ yên tĩnh để hồi phục nhưng đó không còn là một lựa chọn nữa và sự mất mát giống như một lỗ hổng trong sự tồn tại của anh nhưng anh không thể nghĩ về điều đó vì khi đó anh có thể bắt đầu cười.
+Hai mươi phút. Tất cả học sinh định ăn trưa đều đã đến, hầu như không ai rời đi.
+Tiếng thìa gõ vang khắp Đại Sảnh Đường.
+"Xin vui lòng thu hút sự chú ý của tôi," cụ Dumbledore nói. "Harry Potter có điều gì đó muốn chia sẻ với chúng ta."
+Harry hít một hơi thật sâu và đứng dậy. Anh bước tới bàn đầu, mọi ánh mắt đều nhìn chằm chằm vào anh.
+Harry quay lại và nhìn ra bốn cái bàn.
+Việc không mỉm cười ngày càng trở nên khó khăn hơn, nhưng Harry vẫn giữ khuôn mặt vô cảm khi nói bài phát biểu ngắn gọn và thuộc lòng của mình.
+"Sự thật là thiêng liêng," Harry nói không có giọng điệu. "Một trong những tài sản quý giá nhất của tôi là một chiếc nút có dòng chữ 'Nói sự thật, ngay cả khi giọng bạn run lên'. Đây là sự thật. Hãy nhớ điều đó. Tôi không nói điều đó bởi vì tôi bị buộc phải nói điều đó, tôi nói điều đó vì đó là sự thật. Những gì tôi đã làm trong lớp của Giáo sư Snape là ngu ngốc, ngu ngốc, trẻ con và là một sự vi phạm không thể tha thứ được đối với các quy tắc của Hogwarts. Tôi đã phá rối lớp học và tước đi thời gian học tập không thể thay thế của các bạn học của tôi. Tất cả chỉ vì tôi đã thất bại trong việc kiểm soát tính khí của tôi. Tôi hy vọng rằng không một ai trong số các bạn sẽ noi gương tôi. Tôi chắc chắn có ý định cố gắng không bao giờ làm theo nó nữa."
+Nhiều học sinh đang nhìn Harry giờ có vẻ mặt trang trọng, buồn bã, giống như người ta có thể thấy tại buổi lễ đánh dấu sự ra đi của một nhà vô địch đã ngã xuống. Ở những phần trẻ hơn của bàn Gryffindor, diện mạo gần như phổ biến.
+Cho đến khi Harry giơ tay.
+Anh không nâng nó lên cao. Điều đó có vẻ hống hách. Anh chắc chắn không hề đề cập đến Severus. Harry chỉ đơn giản giơ tay lên ngang ngực và nhẹ nhàng búng ngón tay, một cử chỉ được nhìn thấy nhiều hơn là nghe thấy. Có thể hầu hết các thành viên ở Head Table đều không nhìn thấy nó.
+Cử chỉ có vẻ thách thức này đã bất ngờ khiến các học sinh nhỏ tuổi và Gryffindor mỉm cười, và những lời chế nhạo lạnh lùng cấp trên từ Slytherin, cũng như những cái cau mày và ánh mắt lo lắng từ tất cả những người khác.
+Harry giữ vẻ mặt vô cảm. "Cảm ơn," anh nói. "Đó là tất cả."
+"Cảm ơn cậu Potter," Hiệu trưởng nói. "Và bây giờ Giáo sư Snape cũng có điều muốn chia sẻ với chúng ta."
+Severus nhẹ nhàng đứng dậy khỏi vị trí của mình ở Bàn Đầu. "Tôi được lưu ý," anh nói, "rằng hành động của chính tôi đã góp phần kích động sự tức giận phải thừa nhận là không thể tha thứ được của Mr Potter, và trong cuộc thảo luận sau đó, tôi nhận ra rằng tôi đã quên mất cảm xúc của những đứa trẻ và non nớt dễ bị tổn thương đến mức nào—"
+Có âm thanh của nhiều người phát ra những tiếng nghẹn ngào cùng một lúc.
+Severus tiếp tục như thể ông chưa hề nghe thấy. "Lớp học Độc dược là một nơi nguy hiểm, và tôi vẫn cảm thấy kỷ luật nghiêm khắc là cần thiết, nhưng từ nay trở đi tôi sẽ nhận thức rõ hơn về... sự mong manh về mặt cảm xúc... của những học sinh từ năm thứ tư trở xuống. Việc trừ điểm Ravenclaw của tôi vẫn có hiệu lực, nhưng tôi sẽ thu hồi lệnh cấm túc của cậu Potter. Cảm ơn cậu."
+Có một tiếng vỗ tay từ phía Gryffindor và nhanh như chớp, cây đũa phép của Severus đã ở trong tay anh ta và "Im lặng!" khiến kẻ phạm tội phải im lặng.
+"Tôi vẫn sẽ yêu cầu kỷ luật và sự tôn trọng trong tất cả lớp học của mình," Severus lạnh lùng nói, "và bất cứ ai coi thường tôi sẽ phải hối hận."
+Anh ngồi xuống.
+"Cảm ơn bạn quá!" Hiệu trưởng Dumbledore vui vẻ nói. "Tiếp tục đi!"
+Và Harry, vẫn vô cảm, bắt đầu bước về chỗ ngồi của mình ở Ravenclaw.
+Có một cuộc trò chuyện bùng nổ. Hai từ đã được xác định rõ ràng ngay từ đầu. Câu đầu tiên là "Cái gì—" bắt đầu nhiều câu khác nhau như "Chuyện gì vừa xảy ra—" và "Cái quái gì vậy—" Câu thứ hai là "Scourgify!" khi học sinh dọn dẹp thức ăn rơi vãi và nhổ đồ uống ra khỏi mình, khăn trải bàn và lẫn nhau.
+Một số học sinh đã khóc một cách công khai. Giáo sư Sprout cũng vậy.
+Tại bàn Gryffindor, nơi có một chiếc bánh ngọt với 51 ngọn nến chưa thắp, Fred thì thầm, "Tôi nghĩ chúng ta có thể không còn phù hợp ở đây, George."
+Và kể từ ngày đó trở đi, cho dù Hermione có cố nói với ai điều gì đi chăng nữa thì ở Hogwarts vẫn có một truyền thuyết được chấp nhận rằng Harry Potter có thể khiến bất cứ điều gì xảy ra chỉ bằng một cái búng tay.

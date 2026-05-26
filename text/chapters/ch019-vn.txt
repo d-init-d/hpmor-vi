@@ -1,0 +1,454 @@
+17. Xác định giả thuyết
+E. Y.: Bạn luôn là J. K. Rowling.
+Ghi chú lịch sử: Trong lịch La Mã, “Ides” của một tháng ám chỉ ngày 15 của tháng 3, tháng 5, tháng 7 và tháng 10 và ngày 13 của tất cả các tháng khác.
+---
+Bạn bắt đầu nhìn thấy khuôn mẫu, nghe thấy nhịp điệu của thế giới.
+Thứ sáu.
+Nếu bạn muốn nói cụ thể hơn thì 7:24 sáng thứ Năm.
+Harry đang ngồi trên giường, cuốn sách giáo khoa nằm rũ xuống trong đôi tay bất động.
+Harry vừa nảy ra ý tưởng về một thử nghiệm thực sự xuất sắc.
+Điều đó có nghĩa là phải đợi thêm một giờ nữa mới được ăn sáng, nhưng đó là lý do cậu có thanh ngũ cốc. Không, ý tưởng này thực sự tuyệt vời và phải được thử ngay lập tức, ngay bây giờ.
+Harry đặt cuốn sách sang một bên, nhảy ra khỏi giường, chạy quanh giường, kéo cái rương ra khỏi hang, chạy xuống cầu thang và bắt đầu di chuyển những hộp sách xung quanh. (Anh ấy thực sự cần phải dỡ đồ và lấy tủ sách vào một lúc nào đó nhưng anh ấy đang trong cuộc thi đọc sách giáo khoa với Hermione và bị tụt lại phía sau nên không có thời gian.)
+Harry tìm thấy cuốn sách cậu muốn và chạy trở lại tầng trên.
+Những cậu bé khác đang chuẩn bị đi xuống ăn sáng ở Đại sảnh đường và bắt đầu ngày mới.
+“Xin lỗi, bạn có thể làm gì đó cho tôi được không?” Harry nói. Anh ta đang lật qua mục lục của cuốn sách khi nói, tìm thấy trang có mười nghìn số nguyên tố đầu tiên, lật sang trang đó và đẩy cuốn sách về phía Anthony Goldstein. "Chọn hai số có ba chữ số từ danh sách này. Đừng nói cho tôi biết chúng là gì. Chỉ cần nhân chúng lại với nhau và cho tôi biết kết quả. Ồ, và bạn có thể thực hiện phép tính hai lần để kiểm tra lại không? Hãy đảm bảo rằng bạn đã có câu trả lời đúng. Tôi không chắc điều gì sẽ xảy ra với tôi hoặc vũ trụ nếu bạn mắc lỗi phép nhân."
+Nó nói lên rất nhiều điều về cuộc sống trong ký túc xá mấy ngày qua như thế nào đến nỗi Anthony thậm chí còn không buồn nói những câu như "Sao cậu đột nhiên bỏ ra ngoài vậy?" hoặc “Điều đó có vẻ rất kỳ lạ, lý do bạn hỏi là gì?” hoặc “Ý bạn là gì, bạn không chắc điều gì sẽ xảy ra với vũ trụ?”
+Anthony không nói một lời nhận cuốn sách và lấy ra một tờ giấy da và một cây bút lông. Harry quay người lại và nhắm mắt lại, đảm bảo không nhìn thấy gì cả, nhảy tới nhảy lui và nảy lên thiếu kiên nhẫn. Anh ấy lấy một tập giấy và một cây bút chì cơ và chuẩn bị viết.
+“Được rồi,” Anthony nói, “Một trăm tám mươi mốt nghìn, bốn trăm hai mươi chín.”
+Harry đã viết ra 181.429. Anh ấy lặp lại những gì anh ấy vừa viết ra và Anthony đã xác nhận điều đó.
+Sau đó Harry chạy trở lại tầng hầm trong rương của mình, liếc nhìn đồng hồ (đồng hồ chỉ 4:28 nghĩa là 7:28) rồi nhắm mắt lại.
+Khoảng ba mươi giây sau, Harry nghe thấy tiếng bước chân, tiếp theo là âm thanh của cái rương trượt xuống. (Harry không lo lắng về việc bị ngạt thở. Bùa làm mát không khí tự động là một phần trong số những gì bạn có nếu sẵn lòng mua một chiếc rương thực sự tốt. Phép thuật chẳng phải là tuyệt vời sao, nó không phải lo lắng về hóa đơn tiền điện.)
+Và khi Harry mở mắt ra, anh nhìn thấy đúng thứ mà anh hằng mong được thấy, một mảnh giấy gấp lại nằm trên sàn, món quà của bản thân anh trong tương lai.
+Gọi mảnh giấy đó là “Giấy-2”.
+Harry xé một mảnh giấy ra khỏi cuốn tập của mình.
+Gọi đó là “Giấy-1”. Tất nhiên, đó là cùng một mảnh giấy. Bạn thậm chí có thể thấy, nếu nhìn kỹ, các cạnh rách rưới đều khớp với nhau.
+Harry ôn lại trong đầu thuật toán mà cậu sẽ làm theo.
+Nếu Harry mở Giấy-2 và nó trống, thì cậu ấy sẽ viết “101×101” xuống Giấy-1, gấp nó lại, học trong một giờ, quay ngược thời gian, thả Giấy-1 (do đó sẽ trở thành Giấy-2) và đi lên khỏi tầng hầm để cùng bạn cùng phòng ăn sáng.
+Nếu Harry mở Tờ giấy số 2 và thấy trên đó có viết hai số, Harry sẽ nhân các số đó với nhau.
+Nếu tích của họ bằng 181.429, Harry sẽ viết hai số đó lên Giấy-1 và gửi Giấy-1 về ngược thời gian.
+Nếu không thì Harry sẽ cộng 2 vào số ở bên phải và viết cặp số mới vào Giấy-1. Trừ khi điều đó làm cho số ở bên phải lớn hơn 997, trong trường hợp đó Harry sẽ cộng 2 vào số ở bên trái và viết 101 ở bên phải.
+Và nếu Giấy-2 nói 997×997, Harry sẽ để trống Giấy-1.
+Điều đó có nghĩa là vòng lặp thời gian ổn định duy nhất có thể là vòng lặp trong đó Giấy-2 chứa hai thừa số nguyên tố của 181.429.
+Nếu cách này hiệu quả, Harry có thể dùng nó để tìm ra bất kỳ câu trả lời nào dễ kiểm tra nhưng khó tìm. Cậu sẽ không chỉ chứng minh rằng `P = NP` khi có Đồng Hồ Thời Gian, mà mẹo này còn tổng quát hơn thế. Harry có thể dùng nó để tìm ra mã số của các ổ khóa kết hợp hay đủ loại mật khẩu. Cậu thậm chí có thể tìm ra lối vào Phòng Chứa Bí Mật của Slytherin, nếu cậu mô tả được một cách có hệ thống tất cả các địa điểm ở Hogwarts. Đó sẽ là một trò gian lận cực kỳ ngoạn mục, ngay cả theo tiêu chuẩn của Harry.
+Harry cầm tờ giấy-2 bằng bàn tay run rẩy của mình và mở nó ra.
+Giấy-2 nói bằng nét chữ hơi run:
+Đừng làm phiền thời gian
+Harry viết “Đừng làm rối tung thời gian” trên Giấy-1 với nét chữ hơi run, gấp lại gọn gàng và quyết tâm không thực hiện thêm bất kỳ thí nghiệm thực sự xuất sắc nào về Thời gian cho đến khi cậu ít nhất mười lăm tuổi.
+Theo hiểu biết tốt nhất của Harry, đó là kết quả thí nghiệm đáng sợ nhất trong toàn bộ lịch sử khoa học.
+Harry hơi khó tập trung đọc sách giáo khoa trong giờ tiếp theo.
+Ngày thứ Năm của Harry bắt đầu như thế đó.
+---
+Thứ năm.
+Nếu bạn muốn nói cụ thể, 3:32 chiều. vào chiều thứ Năm.
+Harry và tất cả các nam sinh năm nhất khác đang ở ngoài bãi cỏ với bà Hooch, đứng cạnh nguồn cung cấp chổi của trường Hogwarts. Các cô gái sẽ học bay riêng. Rõ ràng, vì lý do nào đó, các cô gái không muốn học cách bay trên chổi trước sự chứng kiến ​​​​của các chàng trai.
+Suốt cả ngày hôm đó Harry cứ thấy lâng lâng. Cậu không tài nào ngừng tự hỏi tại sao chính cái vòng lặp thời gian ổn định cụ thể đó lại được chọn giữa vô số khả năng, mà giờ nhìn lại thì hóa ra khá rộng.
+Ngoài ra: nghiêm túc đấy, chổi sao? Về cơ bản thì cậu sẽ bay bằng một cây gậy dài. Chẳng phải đó là hình dạng thiếu ổn định nhất có thể nghĩ ra, trừ phi bạn còn cố giữ thăng bằng trên một viên bi nhọn? Ai lại chọn cái thiết kế đó cho một thiết bị bay giữa muôn vàn khả năng khác? Harry đã hy vọng đó chỉ là một cách nói ví von, nhưng không, họ thực sự đang đứng trước những thứ trông giống hệt chổi quét bếp bằng gỗ. Hẳn là có ai đó bị ám bởi ý tưởng chổi bay đến mức không sao nghĩ sang phương án khác được. Chứ không thể nào thiết kế tối ưu cho việc quét bếp và thiết kế tối ưu cho máy bay lại trùng nhau nếu bạn thật sự tính từ đầu.
+Đó là một ngày quang đãng với bầu trời trong xanh và mặt trời rực rỡ chỉ muốn lọt vào mắt bạn và khiến bạn không thể nhìn thấy nếu bạn đang cố bay vòng quanh bầu trời. Mặt đất rất đẹp và khô ráo, có mùi nướng nồng nặc, và không hiểu sao nó có cảm giác rất, rất cứng dưới đôi giày của Harry.
+Harry liên tục nhắc nhở bản thân rằng mẫu số chung thấp nhất của những đứa trẻ mười một tuổi phải học được điều này và nó không thể khó đến thế.
+Bà Hooch gọi: “Hãy đưa tay phải của bạn lên trên chổi hoặc tay trái nếu bạn thuận tay trái”. “Và nói,Lên!”
+“Lên!” mọi người hét lên.
+Cây chổi háo hức nhảy vào tay Harry.
+Điều đó đã một lần đưa anh ấy đứng đầu lớp. Rõ ràng việc nói “Lên!” khó hơn rất nhiều so với vẻ ngoài của nó và hầu hết các cây chổi đều lăn tròn trên mặt đất hoặc cố gắng nhích ra xa khỏi những người sẽ cầm chổi của chúng.
+(Tất nhiên là Harry sẵn sàng đặt cược cả đống tiền rằng Hermione ít nhất cũng sẽ làm được ngay lần đầu khi đến lượt cô ấy thử, sớm hơn trong ngày. Không thể có chuyện Harry thành thạo thứ gì đó ngay lần thử đầu mà Hermione lại bối rối được; còn nếu thật sự có, mà thứ đó lại là cưỡi chổi chứ không phải một lĩnh vực trí tuệ nào đó, thì Harry thà chết còn hơn.)
+Phải mất một lúc lâu mọi người mới có được một cây chổi trước mặt. Bà Hooch chỉ cho họ cách cưỡi ngựa rồi đi vòng quanh sân, điều chỉnh cách cầm và thế đứng. Rõ ràng ngay cả trong số ít trẻ em được phép bay ở nhà, chúng cũng chưa được dạy cách làm điều đó một cách chính xác.
+Bà Hooch quan sát khu vực các chàng trai và gật đầu. “Bây giờ, khi tôi thổi còi, bạn sẽ đạp mạnh lên khỏi mặt đất.”
+Harry nuốt khan, cố gắng đè nén cảm giác khó chịu trong bụng.
+"Giữ vững chổi, đứng lên vài feet rồi đi thẳng xuống bằng cách hơi nghiêng người về phía trước. Theo tiếng còi của tôi—ba—hai—"
+Một trong những cây chổi bay lên trời, kèm theo tiếng hét của một cậu bé - vì kinh hãi chứ không phải vì vui sướng. Cậu bé quay với tốc độ khủng khiếp khi bay lên, họ chỉ thoáng thấy khuôn mặt trắng bệch của cậu—
+Như thể trong một thước phim quay chậm, Harry bật khỏi cây chổi của mình và luống cuống mò cây đũa phép, dù cậu hoàn toàn không biết mình sẽ làm gì với nó. Cậu mới học đúng hai buổi Bùa chú, buổi gần nhất lại là Bùa Bay, nhưng Harry chỉ thành công một lần trong ba lượt thử và chắc chắn không thể nào nâng bổng cả một con người—
+Nếu trong tôi có bất kỳ sức mạnh tiềm ẩn nào, hãy để nó bộc lộ ngay bây giờ!
+“Trở lại đi, cậu bé!” bà Hooch hét lên. Đó hẳn là câu chỉ dẫn vô ích nhất có thể tưởng tượng ra để đối phó với một cây chổi mất kiểm soát, nhất là từ chính người dạy bay; và một phần hoàn toàn tự động trong não Harry lập tức thêm bà Hooch vào danh sách những kẻ ngu ngốc.
+Và cậu bé bị ném khỏi cán chổi.
+Lúc đầu, anh ta dường như di chuyển rất chậm trong không khí.
+“Wingardium Leviosa!” Harry hét lên.
+Phép thuật đã thất bại. Anh có thể cảm thấy nó thất bại.
+Có một tiếngbịchvà một âm thanh nứt xa xa, và cậu bé nằm úp mặt xuống cỏ thành một đống.
+Harry tra đũa phép vào vỏ và lao về phía trước với tốc độ tối đa. Anh ta đến bên cạnh cậu bé cùng lúc với bà Hooch, và Harry thò tay vào túi và cố nhớ lại, Chúa ơi, cái tên đó là gì, đừng bận tâm, anh ta sẽ thử “Gói chữa lành!” và nó xuất hiện trong tay anh ấy và—
+“Gãy cổ tay,” bà Hooch nói. “Bình tĩnh nào cậu bé, anh ấy chỉ bị gãy cổ tay thôi!”
+Có một sự chao đảo về mặt tinh thần khi tâm trí Harry thoát ra khỏi Chế độ hoảng loạn.
+Gói Chữa bệnh Khẩn cấp Plus nằm mở trước mặt cậu, và có một ống tiêm lửa lỏng trong tay Harry, thứ sẽ giúp não cậu bé được cung cấp đủ oxy nếu cậu có thể bẻ cổ cậu.
+“À…” Harry nói với giọng dao động. Tim anh đập mạnh đến mức anh gần như không thể nghe thấy mình đang thở hổn hển. “Gãy xương… đúng không… Dây buộc?”
+“Cái đó chỉ dành cho những trường hợp khẩn cấp thôi,” bà Hooch ngắt lời. “Bỏ nó đi, anh ấy ổn.” Cô nghiêng người về phía cậu bé, đưa tay cho cậu. “Nào, cậu bé, không sao đâu, cậu đứng dậy đi!”
+“Anh không định bắt anh ấy cưỡi chổi lần nữa chứ?” Harry kinh hãi nói.
+Bà Hooch lườm Harry. “Tất nhiên là không!” Cô kéo cậu bé đứng dậy bằng cánh tay lành lặn của mình—Harry bị sốc khi thấy đó lại là Neville Longbottom,có chuyện gì vớicậu ấy vậy?—và cô quay sang tất cả những đứa trẻ đang quan sát. "Không ai được phép di chuyển trong khi tôi đưa cậu bé này đến bệnh viện! Các em hãy để những cây chổi đó ở đó nếu không các em sẽ rời khỏi Hogwarts trước khi kịp nói 'Quidditch'. Đi nào, em yêu."
+Và bà Hooch bước đi cùng với Neville, người đang nắm chặt cổ tay cậu và cố gắng kiểm soát tiếng sụt sịt của cậu.
+Khi họ đã ra khỏi tầm nghe, một trong những học sinh Slytherin bắt đầu cười khúc khích.
+Điều đó làm nổi bật những người khác.
+Harry quay lại và nhìn họ. Có vẻ như đây là thời điểm tốt để ghi nhớ một số khuôn mặt.
+Và Harry thấy Draco đang đi về phía mình, cùng với ông Crabbe và ông Goyle. Ông Crabbe không cười. Ông Goyle quả quyết là như vậy. Bản thân Draco đang mang một khuôn mặt rất tự chủ và thỉnh thoảng co giật, từ đó Harry suy ra rằng Draco nghĩ điều đó thật buồn cười nhưng lại không thấy lợi ích chính trị nào khi cười về nó bây giờ thay vì sau đó trong ngục tối Slytherin.
+“Chà, Potter,” Draco nói với giọng trầm không có gì nổi bật, vẫn với khuôn mặt rất kiềm chế và thỉnh thoảng co giật, “Chỉ muốn nói rằng, khi cậu lợi dụng những tình huống khẩn cấp để thể hiện khả năng lãnh đạo, cậu muốn trông như thể mình hoàn toàn kiểm soát được tình hình, thay vì, chẳng hạn, rơi vào trạng thái hoảng loạn hoàn toàn.” Ngài Goyle cười khúc khích, và Draco ném cho ông một cái nhìn trấn áp. "Nhưng dù sao thì bạn cũng có thể ghi được một vài điểm. Bạn có cần giúp gì để cất bộ dụng cụ chữa bệnh đó không?"
+Harry quay lại nhìn Gói Chữa bệnh, khuôn mặt của chính anh ấy quay lưng lại với Draco. “Tôi nghĩ tôi ổn,” Harry nói. Anh đặt ống tiêm vào chỗ cũ, cài lại chốt rồi đứng dậy.
+Ernie Macmillan đến đúng lúc Harry đang nhét cái gói lại vào chiếc túi da mokeskin của mình.
+“Cảm ơn Harry Potter, thay mặt Hufflepuff,” Ernie Macmillan trang trọng nói. “Đó là một nỗ lực tốt và một suy nghĩ tốt.”
+“Đúng là một ý nghĩ hay,” Draco dài giọng. "Tại sao không ai trong Hufflepuff rút đũa phép ra? Có lẽ nếutất cảgiúp đỡ thay vì chỉ Potter, bạn đã có thể bắt được anh ta. Tôi tưởng Hufflepuff phải gắn bó với nhau chứ?"
+Ernie trông như bị giằng xé giữa việc tức giận và muốn chết vì xấu hổ. “Chúng ta đã không nghĩ ra kịp lúc…”
+“À,” Draco nói, “khôngnghĩvề điều đó, tôi đoán đó là lý do tại sao có một Ravenclaw làm bạn thì tốt hơn tất cả Hufflepuff.”
+Ôi, chết tiệt, làm sao Harry có thể tung hứng được điều này… “Anh chẳng giúp được gì cả,” Harry nói với giọng nhẹ nhàng. Hy vọng Draco sẽ hiểu điều đó làcậu đang can thiệp vào kế hoạch của tôi, làm ơn im đi.
+“Này, cái gì thế này?” ông Goyle nói. Anh ta cúi xuống bãi cỏ và nhặt một thứ gì đó có kích thước bằng một viên bi lớn, một quả cầu thủy tinh dường như được lấp đầy bởi một làn sương trắng xoáy tròn.
+Ernie chớp mắt. “Kỷ niệm của Neville!”
+“Tưởng nhớ là gì?” Harry hỏi.
+Ernie nói: “Nó sẽ chuyển sang màu đỏ nếu bạn quên thứ gì đó. "Tuy nhiên, nó không cho bạn biết bạn đã quên thứ gì. Làm ơn đưa nó lại đây và tôi sẽ đưa lại cho Neville sau." Ernie đưa tay ra.
+Một nụ cười toe toét chợt thoáng qua trên khuôn mặt ông Goyle và ông quay người bỏ chạy.
+Ernie ngạc nhiên đứng yên một lúc rồi hét lên "Này!" và chạy theo ông Goyle.
+Và ông Goyle chộp lấy một cây chổi, nhảy lên bằng một động tác nhẹ nhàng và bay lên không trung.
+Quai hàm của Harry rớt xuống. Chẳng phải bà Hooch đã nói rằng điều đó sẽ khiến anh tabị đuổi họcsao?
+“Tên ngốc đó!” Draco rít lên. Anh mở miệng định hét lên—
+“Này!” Ernie hét lên. "Đó là của Neville!Trả lại đây!"
+Các Slytherin bắt đầu cổ vũ và reo hò.
+Miệng Draco há hốc. Harry đột nhiên nhận thấy vẻ do dự trên khuôn mặt anh ta.
+“Draco,” Harry nói với giọng trầm, “nếu cậu không ra lệnh cho tên ngốc đó nằm xuống đất, giáo viên sẽ quay lại và—”
+“Hãy đến lấy nó đi, Hufflepuffle!” Ông Goyle hét lên, và một tràng reo hò vang dội từ các học sinh Slytherin.
+“Tôikhông thể!” Draco thì thầm. “Mọi người trong Slytherin sẽ nghĩ tôiyếu!”
+“Và nếu ông Goyle bị đuổi học,” Harry rít lên, “cha của cậusẽ nghĩ cậu là mộtđồ ngốc!”
+Mặt Draco nhăn lại vì đau đớn.
+Vào lúc đó—
+“Này,Slytherslime,” Ernie hét lên, “không ai nói với cậu rằng Hufflepuff luôn gắn bó với nhau phải không?Rút đũa phép ra, Hufflepuff!”
+Và đột nhiên có rất nhiều cây đũa phép chĩa về phía ông Goyle.
+Ba giây sau—
+“Đuổi ra, Slytherin!” khoảng năm Slytherin khác nhau nói.
+Và có rất nhiều cây đũa phép chĩa về phía Hufflepuff.
+Hai giây sau—
+“Đuổi ra, Gryffindor!”
+“Làm gì đó đi, Potter!” Draco thì thầm. "Tôi không thể là người ngăn chặn điều này, phải là bạn! Tôi sẽ nợ bạn một ân huệ chỉ cần nghĩ ra điều gì đó mà bạn cho là xuất sắc phải không?"
+Trong khoảng năm giây rưỡi, Harry nhận ra, ai đó sẽ thi triển bùa tấn công đơn giản của người Sumer và khi nó kết thúc và các giáo viên đã đuổi học xong thì những nam sinh duy nhất còn lại trong năm của anh ấy sẽ là Ravenclaws.
+“Đuổi ra, Ravenclaw!” Michael Corner hét lên, người dường như cảm thấy bị bỏ rơi khỏi thảm họa.
+“GREGORY GOYLE!” Harry hét lên. “Tôi thách bạn tham gia một cuộc thi để sở hữu Neville's Remembrall!"
+Có một sự tạm dừng đột ngột.
+"Ồ vậy ư?" Draco nói bằng giọng lè nhè to nhất mà Harry từng nghe. "Nghe có vẻ thú vị. Cuộc thi kiểu gì vậy, Potter?"
+Ờ…
+“Cuộc thi” chính là nguồn cảm hứng của Harry. Cuộc thi kiểu gì thế này, cậu không thể nói “cờ vua” vì Draco sẽ không thể chấp nhận nếu không trông nó có vẻ kỳ lạ, cậu không thể nói “vật tay” vì Mr Goyle sẽ nghiền nát cậu—
+“Cái này thì thế nào?” Harry lớn tiếng nói. "Gregory Goyle và tôi đứng cách xa nhau, và không ai khác được phép đến gần chúng tôi. Chúng tôi không sử dụng đũa phép của mình và bất kỳ ai khác cũng vậy. Tôi không di chuyển khỏi nơi tôi đang đứng, và anh ấy cũng vậy. Và nếu tôi có thể chạm tay vào Remembrall của Neville, thì Gregory Goyle sẽ từ bỏ mọi quyền sở hữu chiếc Remembrall mà anh ấy đang giữ và đưa nó cho tôi."
+Lại có một khoảng dừng nữa khi vẻ nhẹ nhõm của mọi người chuyển sang bối rối.
+“Ha, Potter!” Draco nói to. "Tôi muốn thấy bạn làmđiều đó! Ông Goyle chấp nhận!"
+“Nó bật rồi!” Harry nói.
+“Potter,cái gì?” Draco thì thầm, bằng cách nào đó cậu ấy đã làm vậy mà không cử động môi.
+Harry không biết trả lời thế nào nếu không cử động.
+Mọi người đang cất đũa phép đi và ông Goyle duyên dáng cúi xuống đất, trông khá bối rối. Một số học sinh Hufflepuff tiến về phía ông Goyle, nhưng Harry ném cho họ một cái nhìn cầu xin tuyệt vọng và họ lùi lại.
+Harry đi về phía ông Goyle và dừng lại khi ông còn cách ông vài bước, đủ xa để họ không thể chạm tới nhau.
+Một cách chậm rãi và thận trọng, Harry tra cây đũa phép của mình vào vỏ.
+Mọi người khác lùi lại.
+Harry nuốt khan. Anh ấy biết đại khái những gì anh ấymuốnlàm, nhưng nó phải được thực hiện theo cách mà không ai hiểu đượcnhững gìanh ấy đã làm—
+“Được rồi,” Harry nói to. “Và bây giờ…” Anh hít một hơi thật sâu và giơ một tay lên, những ngón tay sẵn sàng bẻ gãy. Có những tiếng thở dài từ bất kỳ ai từng nghe về bánh nướng, thực tế là tất cả mọi người. "Tôi kêu gọi sự điên rồ của Hogwarts! Chúc mừng hạnh phúc bùng nổ đầm lầy đầm lầy!" Và Harry búng ngón tay.
+Rất nhiều người rùng mình.
+Và không có gì xảy ra.
+Harry để sự im lặng kéo dài một lúc, dần dần phát triển, cho đến khi…
+“Ừm,” ai đó nói. “Có phải vậy không?”
+Harry nhìn cậu bé vừa nói. "Nhìn phía trước, ngươi có thấy mảnh đất trông cằn cỗi, không có cỏ không?"
+“Ừm, vâng,” cậu bé nói, một học sinh Gryffindor (Dean gì đó?).
+“Đào nó lên.”
+Bây giờ Harry đang nhận được rất nhiều cái nhìn kỳ lạ.
+“Ơ, tại sao vậy?” Dean nói gì đó.
+“Cứ làm đi,” Terry Boot nói với giọng mệt mỏi. “Không cần hỏi tại sao đâu, hãy tin tôi vào điều này.”
+Dean có thứ gì đó quỳ xuống và bắt đầu xúc đất.
+Khoảng một phút sau, Dean lại đứng dậy. “Không có gì ở đó cả,” Dean nói.
+Hừ. Harry đã lên kế hoạch quay ngược thời gian và chôn một bản đồ kho báu sẽ dẫn đến một bản đồ kho báu khác dẫn đến Đài tưởng niệm của Neville mà cậu ấy sẽ đặt ở đó sau khi lấy lại được từ ông Goyle…
+Sau đó Harry nhận ra có một cách đơn giản hơn nhiều mà không đe dọa nhiều đến bí mật của Máy xoay thời gian.
+“Cảm ơn, Dean!” Harry lớn tiếng nói. “Ernie, bạn có thể nhìn quanh mặt đất nơi Neville ngã xuống và xem liệu bạn có thể tìm thấy Bản ghi nhớ của Neville không?”
+Mọi người càng có vẻ bối rối hơn.
+“Cứ làm đi,” Terry Boot nói. “Anh ấy sẽ tiếp tục cố gắng cho đến khi có gì đó hiệu quả, và điều đáng sợ là—”
+“Merlin!” Ernie thở hổn hển. Anh ấy đang giơ cuốn Remembrall của Neville lên. "Nó ởđây! Ngay nơi anh ấy ngã xuống!"
+“Cái gì?” ông Goyle kêu lên. Anh nhìn xuống và thấy…
+…rằng anh ấy vẫn đang cầm cuốn Remebrall của Neville.
+Có một khoảng dừng khá dài.
+“Ơ,” Dean nói gì đó, “điều đó là không thể, phải không?”
+“Đó là một lỗ hổng trong âm mưu,” Harry nói. “Tôi đã biến mình trở nên kỳ lạ đủ để đánh lạc hướng vũ trụ trong giây lát và nó quên mất rằng Goyle đã nhặt được Remembrall.”
+"Không, chờ đã, ý tôi là, điều đó hoàn toàn không thể—"
+Harry đưa tay ra hiệu cho Ernie. “Chỉ cần lăn nó lại đây thôi, vì không ai được phép đến gần tôi, được chứ?”
+"Giữ lấy!" một Slytherin hét lên - Blaise Zabini, Harry khó mà quên được cái tên đó. "Làm sao chúng ta biết đó là Quả cầu Gợi nhớ của Neville? Cậu có thể bỏ một quả khác vào đó—"
+“Slytherin mạnh với cái này,” Harry mỉm cười nói. "Nhưng tôi xin cam đoan rằng cái Ernie đang giữ là của Neville. Không bình luận gì về cái mà Gregory Goyle đang giữ."
+Zabini quay sang Draco. "Malfoy!Cậu sẽ không để anh ta thoát khỏi chuyện đó đâu—"
+“Im đi, ngươi,” ông Crabbe gầm lên, đứng đằng sau Draco. “Ông Malfoy không cầnbạnbảo ông ấy phải làm gì!”
+Tay saitốt.
+“Tôi đặt cược với Draco, thuộc Gia tộc Cao quý và Cổ xưa nhất của Malfoy,” Harry nói. "Không phải với cậu, Zabini. Tôi đã làm những gì mà ngài Malfoy nói rằng ông ấy muốn tôi làm, và về việc phán quyết vụ cá cược, tôi giao việc đó cho ngài Malfoy." Harry nghiêng đầu về phía Draco và hơi nhướng mày. Điều đó chắc chắn sẽ giúp Draco giữ được đủ thể diện.
+Có một sự tạm dừng.
+“Bạn có hứa rằng thực ralàTưởng nhớ của Neville không?” Draco nói.
+“Ừ,” Harry nói. "Đó là cái sẽ thuộc về Neville và nó vốn là của anh ấy. Và cái mà Gregory Goyle đang giữ sẽ thuộc về tôi."
+Draco gật đầu, trông có vẻ quả quyết. "Vậy thì tôi sẽ không thắc mắc về lời nói của Gia tộc Quý tộc Potter, cho dù mọi chuyện có kỳ lạ đến thế nào đi nữa. Và Gia tộc Cao quý và Cổ xưa nhất của Malfoy cũng giữ lời hứa. Ngài Goyle, hãy đưa điều đó cho Ngài Potter—"
+"Chào!" Zabini nói. “Anh ấy vẫn chưa thắng, anh ấy chưa nhúng tay vào—”
+“Bắt lấy, Harry!” Ernie nói và ném tấm Remembrall đi.
+Harry dễ dàng hất tung Remembrall ra khỏi không trung, anh ấy luôn có phản xạ tốt theo cách đó. “Này,” Harry nói, “tôi thắng…”
+Harry lạc giọng. Mọi cuộc trò chuyện đều dừng lại.
+Remembrall đang phát sáng màu đỏ tươi trong tay anh, rực sáng như một mặt trời thu nhỏ đổ bóng xuống mặt đất trong ánh sáng ban ngày.
+---
+Thứ năm.
+Nếu bạn muốn nói cụ thể, 5:09 chiều. vào chiều thứ năm, trong văn phòng của giáo sư McGonagall, sau giờ học lái máy bay. (Có thêm một giờ dành cho Harry xen vào giữa.)
+Giáo sư McGonagall đang ngồi trên ghế đẩu của mình. Harry ngồi trên ghế nóng trước bàn làm việc của cô.
+"Giáo sư," Harry nói chặt chẽ, "Slytherin đang chĩa đũa phép vào Hufflepuff, Gryffindor đang chĩa đũa phép của họ vào Slytherin, một sốthằng ngốcđã gọi đũa phép ở Ravenclaw, và tôi có lẽ có năm giây để giữ cho toàn bộ sự việc không bị thổi bay quá cao! Đó là tất cả những gì tôi có thể nghĩ ra!"
+Khuôn mặt của giáo sư McGonagall nhăn nhó và tức giận. "Cậu không được sử dụng Xoay thời gian theo cách đó, cậu Potter!Khái niệm bí mật không phải là điều cậu hiểu sao?"
+"Họ khôngbiếttôi đã làm điều đó như thế nào! Họ chỉ nghĩ rằng tôi có thể làm những điều thực sự kỳ lạ bằng cách búng ngón tay! Tôi đã làm những điều kỳ lạ khác mà ngay cả Máy quay thời gian cũng không thể làm được, và tôi sẽ làmthêmnhững điều như thế nữa, vàtrường hợpnày thậm chí sẽ không nổi bật! Tôiphải làm điều đó, Giáo sư!"
+“Bạn đãkhôngphải làm điều đó!” Giáo sư McGonagall ngắt lời. "Tất cả những gì bạn cần làm là đưatên Slytherinẩn danh này trở lại mặt đất và cất đũa phép đi! Bạn có thể thách đấu anh ta trong trò chơi Exploding Snap nhưng không, bạn phải sử dụng Xoay thời gian một cách trắng trợn và không cần thiết!"
+"Đó là tất cả những gì tôi có thể nghĩ ra! Tôi thậm chí còn không biết Exploding Snaplà gì, họ sẽ không chấp nhận một ván cờ và nếu tôi chọn vật tay thì tôi sẽ thua!"
+“Thế thì lẽ ra bạn nên chọn đấu vật!”
+Harry chớp mắt. “Nhưng thế thì tôi đãmất—”
+Harry dừng lại.
+Giáo sư McGonagall trôngrấttức giận.
+“Tôi xin lỗi, giáo sư McGonagall,” Harry nói nhỏ. “Thành thật mà nói, tôi không nghĩ đến điều đó, và bạn nói đúng, lẽ ra tôi nên làm vậy, nếu có thì thật tuyệt vời, nhưng tôi hoàn toàn không nghĩ đến điều đó…”
+Giọng Harry nhỏ dần. Anh ấy chợt nhận ra rằng mình córất nhiềulựa chọn khác. Anh ấy có thể yêu cầuDracođề xuất điều gì đó, anh ấy có thể yêu cầu đám đông… việc sử dụng Vòng xoay thời giancủa anh ấylà trắng trợn và không cần thiết. Đã có rất nhiều khả năng, tại sao anh ấy lại chọncái đó?
+Bởi vì anh ấy đã tìm ra cách đểthắng. Giành được quyền sở hữu một món đồ trang sức không quan trọng mà dù sao thì các giáo viên cũng đã lấy lại từ ông Goyle.
+Có ý định giành chiến thắng. Đó là những gì đã có được anh ấy.
+“Tôi xin lỗi,” Harry nói lại. “Vì niềm tự hào và sự ngu ngốc của tôi.”
+Giáo sư McGonagall đưa tay lau trán. Một phần cơn giận của cô dường như đã tan biến. Nhưng giọng nói của cô ấy vẫn phát ra rất khó khăn. "Thêm một lần trưng bày như vậy nữa, cậu Potter, và cậu sẽ trả lại cái Xoay thời gian đó. Tôi đã nói rõ chưa?"
+“Ừ,” Harry nói. “Tôi hiểu và tôi xin lỗi.”
+"Vậy thì, cậu Potter, bây giờ cậu sẽ được phép giữ lại Chiếc Xoay Thời Gian. Và xem xét mức độ thất bại mà cậu đã gây ra, trên thực tế, có thể tránh được, tôi sẽ không trừ bất kỳ điểm nào từ Ravenclaw."
+Ngoài ra, bạn không thể giải thích lý do bị trừ điểm.Nhưng Harry không ngốc đến mức nói ra điều đó.
+“Quan trọng hơn, tại sao Lễ tưởng niệm lại diễn ra như vậy?” Harry nói. “Điều đó có nghĩa là tôi đã bị Lãng quên phải không?”
+“Điều đó cũng làm tôi bối rối,” giáo sư McGonagall chậm rãi nói. "Nếu chuyện đơn giản như vậy, tôi nghĩ tòa án sẽ sử dụng Remembralls, còn họ thì không. Tôi sẽ xem xét việc đó, cậu Potter." Cô thở dài. “Bây giờ cậu có thể đi rồi.”
+Harry bắt đầu đứng dậy khỏi ghế, rồi dừng lại. “Ừm, xin lỗi, tôi có chuyện khác muốn nói với cậu—”
+Bạn khó có thể nhìn thấy sự nao núng. “Có chuyện gì vậy, cậu Potter?”
+“Đó là về giáo sư Quirrell…”
+“Tôi chắc chắn, cậu Potter, chuyện đó chẳng có gì quan trọng cả.” Giáo sư McGonagall nói những lời đó một cách vội vàng. “Chắc chắn bạn đã nghe Hiệu trưởng nói với học sinh rằng bạn không được làm phiền chúng tôi với bất kỳ lời phàn nàn không quan trọng nào về Giáo sư Phòng thủ phải không?”
+Harry khá bối rối. “Nhưng điều này có thểquan trọng, hôm qua tôi đột nhiên có cảm giác sắp chết khi—”
+"Cậu Potter! Tôi cũng có cảm giác về sự diệt vong! Và cảm giác về sự diệt vong của tôi gợi ý rằngbạn không được nói hết câu đó!"
+Miệng Harry há hốc. Giáo sư McGonagall đã thành công; Harry không nói nên lời.
+"Cậu Potter," giáo sư McGonagall nói, "nếu cậu phát hiện ra bất cứ điều gì có vẻ thú vị về giáo sư Quirrell, xin vui lòng không chia sẻ nó với tôi hoặc bất kỳ ai khác. Bây giờ tôi nghĩ rằng cậu đã chiếm đủ thời gian quý báu của tôi rồi—"
+“Điều này không giống bạn!” Harry bật ra. "Tôi xin lỗi nhưng điều đó có vẻkhông thể tin đượcvô trách nhiệm! Theo những gì tôi nghe được thì có một điềm xui xẻo nào đó đối với quan điểm Phòng thủ, và nếu các bạn đãbiếtcó điều gì đó không ổn, tôi nghĩ tất cả các bạn nên cảnh giác—"
+“Đãsai, cậu Potter?Tôi chắc chắn hy vọng là không.” Khuôn mặt của giáo sư McGonagall vô cảm. “Sau khi Giáo sư Blake bị bắt trong tủ có không dưới ba học sinh Slytherin năm thứ năm vào tháng 2 năm ngoái, và một năm trước đó, Giáo sư Summers đã thất bại hoàn toàn trong vai trò một nhà giáo dục đến nỗi học sinh của bà nghĩ rằng ông kẹ là một loại đồ nội thất, sẽ làthảm họanếu bây giờ tôi chú ý đến một vấn đề nào đó với Giáo sư Quirrell cực kỳ tài năng, và tôi dám nói rằng hầu hết học sinh của chúng ta sẽ trượt kỳ thi O.W.L. Phòng thủ và N.E.W.T..”
+"Tôi hiểu rồi," Harry chậm rãi nói, hiểu ra tất cả. "Vậy nói cách khác, dù Giáo sư Quirrell có chuyện gì thì cậu cũng không muốn biết về nó cho đến cuối năm học. Và vì hiện tại đang là tháng 9, ông ta có thể ám sát Thủ tướng trên truyền hình trực tiếp và thoát khỏi chuyện đó cho đến khi cậu lo lắng."
+Giáo sư McGonagall nhìn anh không chớp mắt. "Tôi chắc chắn rằng tôi không bao giờ có thể nghe thấy người ta tán thành một tuyên bố như vậy, thưa cậu Potter. Tại Hogwarts, chúng tôi cố gắng chủ động đối vớibất cứ điều gìđe dọa đến trình độ học vấn của học sinh chúng tôi."
+Chẳng hạn như Ravenclaw năm thứ nhất không thể giữ im lặng.“Tôi tin rằng tôi hoàn toàn hiểu giáo sư McGonagall.”
+"Ồ, tôi nghi ngờ điều đó, cậu Potter. Tôi rất nghi ngờ điều đó." Giáo sư McGonagall nghiêng người về phía trước, mặt bà lại nhăn lại. "Vì bạn và tôi đã thảo luận về những vấn đề nhạy cảm hơn nhiều so với những điều này, nên tôi sẽ nói thẳng thắn. Bạn và chỉ riêng bạn đã kể lại cảm giác diệt vong bí ẩn này. Bạn và chỉ mình bạn là một nam châm hỗn loạn mà tôi chưa từng thấy. Sau chuyến đi mua sắm nhỏ của chúng ta đến Hẻm Xéo, vàsau đó làMũ phân loại, và sau đó làtập phim nhỏhôm nay, tôi có thể thấy trước rằng định mệnh của tôi là phải ngồi trong văn phòng Hiệu trưởng và nghe một câu chuyện vui nhộn nào đó về Giáo sư Quirrell trong đó chỉ có cậu và cậu đóng vai chính, sau đó sẽ không còn lựa chọn nào khác ngoài việc sa thải hắn. Tôi đã chấp nhận điều đó rồi, cậu Potter. Và nếu sự kiện đáng buồn này diễn ra sớm hơn Ides of May, tôi sẽ trói cậu lại trước cổng trường Hogwarts bằng chính ruột của cậu và đổ bọ lửa vào mũi cậu.
+Harry gật đầu, đôi mắt anh ấy rất mở to. Sau đó, sau một giây, “Tôi sẽ nhận được gì nếu có thể thực hiện được điều đó vào ngày cuối cùng của năm học?”
+“Biến khỏi văn phòng của tôi!”
+---
+Thứ năm.
+Chắc hẳn phải có điều gì đó về ngày thứ Năm ở Hogwarts.
+Lúc đó là 5:32 chiều. vào chiều thứ năm, và Harry đang đứng cạnh giáo sư Flitwick, trước tượng tượng đầu thú bằng đá lớn bảo vệ lối vào văn phòng Hiệu trưởng.
+Ngay khi cậu từ văn phòng Giáo sư McGonagall trở lại phòng học của Ravenclaw thì một trong những học sinh đã bảo cậu báo cáo với văn phòng của Giáo sư Flitwick, và ở đó Harry đã biết rằng cụ Dumbledore muốn nói chuyện với cậu.
+Harry, cảm thấy khá e ngại, đã hỏi giáo sư Flitwick xem Hiệu trưởng có nói chuyện này là về chuyện gì không.
+Giáo sư Flitwick đã nhún vai một cách bất lực.
+Rõ ràng cụ Dumbledore đã nói rằng Harry còn quá trẻ để có thể sử dụng những từ ngữ quyền lực và điên rồ.
+Hạnh phúc vui vẻ bùng nổ đầm lầy đầm lầy?Harry đã suy nghĩ nhưng không nói thành lời.
+“Xin đừng lo lắng quá, cậu Potter,” giáo sư Flitwick rít lên từ đâu đó ngang tầm vai Harry. (Harry rất biết ơn vì bộ râu sưng húp khổng lồ của Giáo sư Flitwick, thật khó để làm quen với một Giáo sư không chỉ thấp hơn cậu ấy mà còn nói với giọng the thé hơn cậu ấy.) “Hiệu trưởng Dumbledore có thể có vẻ hơi kỳ quặc, hoặc rất kỳ quặc, hoặc thậm chí cực kỳ kỳ quặc, nhưng ông ấy chưa bao giờ làm tổn thương một học sinh nào dù là nhỏ nhất, và tôi không tin ông ấy sẽ làm như vậy.” Giáo sư Flitwick nở một nụ cười khích lệ với Harry. “Chỉ cần luôn ghi nhớ điều đó và bạn chắc chắn sẽ không hoảng sợ!”
+Điều này không giúp được gì.
+"Chúc may mắn!" Giáo sư Flitwick rít lên, nghiêng người về phía tượng đầu thú và nói điều gì đó mà bằng cách nào đó Harry không thể nghe được. (Tất nhiên, mật khẩu sẽ không tốt lắm nếu bạn có thể nghe thấy ai đó nói nó.) Và tượng đầu thú bằng đá bước sang một bên với một chuyển động rất tự nhiên và bình thường khiến Harry thấy khá sốc, vì tượng đầu thú vẫn trông giống như một hòn đá rắn chắc, bất động trong suốt thời gian qua.
+Phía sau tượng đầu thú là một dãy cầu thang xoắn ốc quay chậm. Có điều gì đó thôi miên một cách đáng lo ngại về nó, và thậm chí còn đáng lo ngại hơn nữa làviệc quay vònghình xoắn ốc sẽ không đưa bạn đến đâu cả.
+“Cố lên nào!” Flitwick rít lên.
+Harry khá lo lắng bước lên đường xoắn ốc và thấy mình, vì một lý do nào đó mà não cậu dường như không thể hình dung được, đang di chuyển lên trên.
+Con tượng đầu thú rơi phịch trở lại vị trí phía sau nó, cầu thang xoắn ốc tiếp tục quay và Harry cứ lên cao hơn, và sau một khoảng thời gian khá chóng mặt, Harry thấy mình đang đứng trước một cánh cửa gỗ sồi có một cái vòng gõ cửa hình đầu chim bằng đồng.
+Harry đưa tay ra và xoay tay nắm cửa.
+Cánh cửa bật mở.
+Và Harry nhìn thấy căn phòng thú vị nhất mà anh từng thấy trong đời.
+Có những cơ cấu kim loại nhỏ xíu kêu vo vo, kêu tích tắc hoặc từ từ thay đổi hình dạng hoặc phát ra những làn khói nhỏ. Có hàng chục chất lỏng bí ẩn trong hàng chục thùng chứa có hình dạng kỳ lạ, tất cả đều sủi bọt, sôi, rỉ ra, đổi màu hoặc tạo thành những hình dạng thú vị và biến mất nửa giây sau khi bạn nhìn thấy chúng. Có những thứ trông giống như những chiếc đồng hồ có nhiều kim, được khắc số hoặc bằng những ngôn ngữ không thể nhận dạng được. Có một chiếc vòng tay chứa một viên pha lê dạng thấu kính lấp lánh hàng nghìn màu sắc, một con chim đậu trên bục vàng, một chiếc cốc gỗ chứa đầy thứ trông giống như máu và một bức tượng chim ưng được nạm men đen. Trên tường treo đầy hình ảnh mọi người đang ngủ, còn Mũ phân loại thì thản nhiên đặt trên giá treo mũ, trên đó có hai chiếc ô và ba chiếc dép màu đỏ cho chân trái.
+Giữa sự hỗn loạn này là một chiếc bàn gỗ sồi đen sạch sẽ. Trước bàn làm việc là một chiếc ghế đẩu bằng gỗ sồi. Và phía sau bàn làm việc là một chiếc ngai được đệm êm ái trong đó có Albus Percival Wulfric Brian Dumbledore, người được trang trí với bộ râu dài màu bạc, một chiếc mũ giống như một cây nấm khổng lồ bị bẹp, và thứ trông giống như ba lớp đồ ngủ màu hồng rực rỡ trong mắt Muggle.
+Cụ Dumbledore đang mỉm cười, và đôi mắt sáng của cụ lấp lánh một cách điên cuồng.
+Với chút lo lắng, Harry ngồi xuống trước bàn làm việc. Cánh cửa đóng lại sau lưng anh ta với một tiếngthịchlớn.
+“Xin chào, Harry,” cụ Dumbledore nói.
+“Chào hiệu trưởng,” Harry trả lời. Vậy họ dựa trên cơ sở tên riêng? Liệu bây giờ cụ Dumbledore có bảo gọi ông ấy—
+“Làm ơn đi, Harry!” cụ Dumbledore nói. "Hiệu trưởng nghe có vẻ trịnh trọng quá. Gọi tắt là Heh là được."
+“Chắc chắn là vậy, Heh,” Harry nói.
+Có một sự tạm dừng nhẹ.
+“Bạn có biết,” cụ Dumbledore nói, “bạn là người đầu tiên đề cập đến vấn đề đó với tôi không?”
+“À…” Harry nói. Anh cố gắng kiểm soát giọng nói của mình bất chấp cảm giác bất chợt thắt lại trong bụng. “Tôi xin lỗi, tôi, à, Hiệu trưởng, thầy bảo tôi làm vậy nên tôi đã làm—”
+“Này, làm ơn đi!” cụ Dumbledore vui vẻ nói. "Và không cần phải lo lắng đến thế đâu, tôi sẽ không ném bạn ra ngoài cửa sổ chỉ vì bạn mắc một sai lầm. Trước tiên tôi sẽ cảnh báo bạn rất nhiều lần nếu bạn làm sai điều gì đó! Hơn nữa, điều quan trọng không phải là cách mọi người nói chuyện với bạn, mà là họ nghĩ gì về bạn."
+Anh ấy không bao giờ làm tổn thương học sinh, chỉ cần ghi nhớ điều đó và bạn chắc chắn sẽ không hoảng sợ.
+Cụ Dumbledore lấy ra một chiếc hộp kim loại nhỏ và mở nó ra, để lộ ra vài cục nhỏ màu vàng. “Sherbet chanh?” Hiệu trưởng nói.
+“Ờ, không, cảm ơn, Heh,” Harry nói.Việc đánh rơi LSD của học sinh có được coi là làm tổn thương họ hay được xếp vào loại trò vui vô hại?“Bạn, ừm, đã nói điều gì đó về việc tôi còn quá trẻ để có thể sử dụng những lời quyền lực và sự điên rồ?”
+“Chắc chắn là như vậy rồi!” Cụ Dumbledore nói. "May mắn là Từ ngữ Quyền lực và Sự điên rồ đã bị thất lạc bảy thế kỷ trước và không ai biết chúng là gì nữa. Đó chỉ là một nhận xét nhỏ thôi."
+“À…” Harry nói. Anh nhận thức được rằng miệng mình đang há hốc. “Vậy tại sao cậu lại gọi tôi tới đây?”
+“Tại sao?” cụ Dumbledore lặp lại. "À, Harry, nếu tôi suốt ngày hỏitại saotôi làm việc này, tôi sẽ không bao giờ có thời gian để làm một việc nào cả! Tôi là một người khá bận rộn, bạn biết đấy."
+Harry gật đầu, mỉm cười. "Đúng, đó là một danh sách rất ấn tượng. Hiệu trưởng trường Hogwarts, Pháp sư trưởng của Wizengamot và Mugwump tối cao của Liên đoàn Pháp sư Quốc tế. Xin lỗi phải hỏi nhưng tôi đang tự hỏi, liệu có thể có nhiều hơn sáu giờ nếu bạn sử dụng nhiều hơn một Xoay thời gian không? Bởi vì nó khá ấn tượng nếu bạn làm tất cả những điều đó chỉ trong ba mươi giờ một ngày."
+Có một khoảng dừng nhẹ nữa, trong lúc đó Harry vẫn tiếp tục mỉm cười. Anh ta hơi e ngại, thực ra là rất e ngại, nhưng một khi đã rõ ràng rằng cụ Dumbledore đang cố tình trêu chọc anh ta, có điều gì đó bên trong anh tahoàn toàn từ chốingồi xuống và coi nó như một cục u không có khả năng tự vệ.
+“Tôi e rằng Thời gian không thích bị kéo dài ra quá nhiều,” cụ Dumbledore nói sau một lúc im lặng, “và bản thân chúng ta dường như hơi quá lớn đối với nó, và vì vậy chúng ta phải đấu tranh không ngừng để phù hợp với cuộc sống của chúng ta với Thời gian.”
+“Thật vậy,” Harry nói với vẻ trang trọng nghiêm túc. “Đó là lý do tại sao tốt nhất chúng ta nên nhanh chóng đi đến quan điểm của mình.”
+Trong giây lát, Harry tự hỏi liệu mình có đi quá xa không.
+Sau đó cụ Dumbledore cười khúc khích. “Phải đi thẳng vào vấn đề.” Thầy hiệu trưởng nghiêng người về phía trước, nghiêng chiếc mũ nấm bẹp dúm và vuốt râu lên bàn. "Harry, thứ Hai tuần này con đã làm một điều mà lẽ ra là không thể ngay cả với một chiếc Xoay thời gian. Hay đúng hơn là không thể vớichỉ cómột chiếc Xoay thời gian. Tôi tự hỏi hai chiếc bánh đó đến từ đâu vậy?"
+Một luồng adrenaline chạy khắp người Harry. Anh ấy đã làm điều đó bằng cách sử dụng Áo choàng Tàng hình, chiếc áo được tặng cho anh ấy trong hộp Giáng sinh cùng với một tờ giấy nhắn, và tờ giấy đó có nội dung:Nếu cụ Dumbledore nhìn thấy cơ hội sở hữu một trong những Bảo bối Tử thần, cụ sẽ không bao giờ để nó thoát khỏi tầm tay của mình….
+"Một ý nghĩ tự nhiên," cụ Dumbledore tiếp tục, "là vì không ai trong số những học sinh năm nhất có thể sử dụng một câu thần chú như vậy, nên có người khác đã có mặt, nhưng vẫn chưa bị nhìn thấy. Và nếu không ai có thể nhìn thấy họ, thì sao, họ sẽ dễ dàng ném bánh đi. Người ta có thể nghi ngờ thêm rằng vì con có Xoay thời gian nên con là người vô hình; và rằng vì phép thuật Vỡ mộng vượt xa khả năng hiện tại của con nên con có một chiếc áo choàng tàng hình." Cụ Dumbledore mỉm cười đầy ẩn ý. “Cho đến giờ tôi có đi đúng hướng không, Harry?”
+Harry đã bị đóng băng. Anh có cảm giác rằng một lời nói dối trắng trợn sẽ không khôn ngoan chút nào, và có thể không hữu ích chút nào, và anh không thể nghĩ ra điều gì khác để nói.
+Cụ Dumbledore vẫy tay thân thiện. "Đừng lo lắng, Harry, cậu không làm gì sai cả. Áo choàng tàng hình không vi phạm quy tắc - tôi cho rằng chúng đủ hiếm để không ai có thể đưa chúng vào danh sách. Nhưng thực sự tôi đang thắc mắc một điều hoàn toàn khác."
+"Ồ?" Harry nói bằng giọng bình thường nhất mà anh có thể làm được.
+Đôi mắt cụ Dumbledore ánh lên sự nhiệt tình. "Bạn thấy đấy, Harry, sau khi trải qua một vài cuộc phiêu lưu, bạn có xu hướng nắm bắt được những điều này. Bạn bắt đầu nhìn thấy khuôn mẫu, nghe thấy nhịp điệu của thế giới. Bạn bắt đầu nuôi dưỡng những nghi ngờtrướcthời điểm được tiết lộ. Bạn là Cậu bé sống sót, và bằng cách nào đó, một chiếc áo choàng tàng hình đã lọt vào tay bạn chỉ bốn ngày sau khi bạn phát hiện ra nước Anh huyền diệu của chúng ta. Những chiếc áo choàng như vậy không được bán ở Hẻm Xéo, nhưng cómột chiếccó thể tìm thấy nó con đường riêng cho người mặc định mệnh. Và vì vậy tôi không thể không tự hỏi liệu có phải do một cơ hội kỳ lạ nào đó mà bạn đã tìm thấy không chỉmột chiếc áo choàng tàng hìnhmà còn cảChiếc áo choàng tàng hình, một trong ba Bảo bối Tử thần và được cho là có thể che giấu người mặc khỏi cái nhìn của Thần chết.” Ánh mắt của cụ Dumbledore sáng ngời và háo hức. “Tôi có thể xem nó được không, Harry?”
+Harry nuốt khan. Lúc này, adrenaline tràn ngập trong cơ thể anh và nó hoàn toàn vô dụng, đây là pháp sư mạnh nhất trên thế giới và không đời nào anh có thể bước ra khỏi cửa và không có nơi nào ở Hogwarts để anh trốn nếu anh làm vậy, anh sắp đánh mất chiếc Áo choàng đã được truyền lại cho các Potters trong bao lâu—
+Cụ Dumbledore từ từ tựa lưng vào chiếc ghế cao của mình. Ánh sáng rực rỡ đã vụt tắt khỏi mắt anh, anh trông bối rối và có chút đau buồn. “Harry,” cụ Dumbledore nói, “nếu con không muốn, con có thể nói không.”
+“Tôi có thể?” Harry càu nhàu.
+“Ừ, Harry,” cụ Dumbledore nói. Giọng anh lúc này nghe có vẻ buồn bã và lo lắng. "Có vẻ như cậu sợ tôi, Harry. Tôi có thể hỏi tôi đã làm gì khiến cậu mất lòng tin không?"
+Harry nuốt khan. “Có cách nào để bạn có thể thề một lời thề ma thuật ràng buộc rằng bạn sẽ không lấy áo choàng của tôi không?”
+Cụ Dumbledore chậm rãi lắc đầu. "Những lời thề không thể phá vỡ không được phép sử dụng một cách nhẹ nhàng như vậy. Và hơn nữa, Harry, nếu con chưa biết câu thần chú đó, con sẽ chỉ nghe lời của ta rằng câu thần chú đó có tính ràng buộc. Tuy nhiên, chắc chắn con nhận ra rằng ta khôngcầnsự cho phép của con để xem Áo choàng. Ta đủ mạnh để tự mình rút nó ra, dù có túi da mokeskin hay không." Khuôn mặt của cụ Dumbledore rất nghiêm trang. "Nhưng điều này tôi sẽ không làm. Chiếc áo choàng là của cậu, Harry. Tôi sẽ không tước nó khỏi tay cậu. Thậm chí không được nhìn dù chỉ một giây, trừ khi cậu quyết định cho tôi xem. Đó là một lời hứa và một lời thề. Nếu tôi cần cấm cậu sử dụng nó trong khuôn viên trường, tôi sẽ yêu cầu cậu đến kho tiền của cậu ở Gringotts và cất nó ở đó."
+“À…” Harry nói. Anh nuốt khan, cố gắng làm dịu cơn lũ adrenaline và suy nghĩ hợp lý. Anh ta lấy chiếc túi da mokeskin ra khỏi thắt lưng. “Nếu bạn thực sựkhôngcần sự cho phép của tôi… thì bạn có nó.” Harry đưa cái túi cho cụ Dumbledore và cắn mạnh vào môi cụ, gửi tín hiệu đó cho chính mình đề phòng sau đó nó bị Lãng quên.
+Ông phù thủy già thò tay vào trong túi và không nói một lời đòi lấy, ông lấy ra Chiếc áo choàng tàng hình.
+“À,” cụ Dumbledore thở ra. “Tôi đã đúng…” Anh đổ tấm lưới nhung đen lấp lánh vào tay mình. "Đã hàng thế kỷ rồi mà vẫn hoàn hảo như ngày nó được tạo ra. Chúng ta đã đánh mất phần lớn tác phẩm nghệ thuật của mình qua nhiều năm, và giờ tôi không thể tự mình làm ra một thứ như vậy, không ai có thể làm được. Tôi có thể cảm nhận được sức mạnh của nó như tiếng vang trong tâm trí mình, như một bài hát mãi mãi được hát mà không có ai nghe thấy..." Người pháp sư nhìn lên từ Áo choàng. "Đừng bán nó," ông nói, "đừng đưa nó cho bất cứ ai như vật sở hữu. Hãy suy nghĩ kỹ trước khi đưa nó cho bất kỳ ai và cân nhắc lại ba lần trước khi bạn tiết lộ nó là Bảo bối Tử thần. Hãy đối xử với nó một cách tôn trọng, vì đây thực sự là một Vật có Quyền năng."
+Trong một khoảnh khắc khuôn mặt của cụ Dumbledore trở nên đăm chiêu…
+…và sau đó ông ấy trao lại Chiếc áo choàng cho Harry.
+Harry đặt nó trở lại túi của mình.
+Khuôn mặt của cụ Dumbledore lại trở nên nghiêm trọng. “Tôi có thể hỏi lại được không, Harry, tại sao cậu lại nghi ngờ tôi như vậy?”
+Đột nhiên Harry cảm thấy khá xấu hổ.
+“Có một lời nhắn gửi tấm Áo choàng,” Harry nói nhỏ. "Nó nói rằng nếu cậu biết thì cậu sẽ cố lấy chiếc Áo choàng khỏi tay tôi. Tuy nhiên, tôi không biết ai đã để lại lời nhắn, nhưng tôi thực sự không biết."
+“Tôi… hiểu rồi,” cụ Dumbledore chậm rãi nói. "Chà, Harry, tôi sẽ không nghi ngờ động cơ của bất cứ ai để lại cho cậu lá thư đó. Ai biết được rằng chính họ có thể có ý định tốt nhất? Rốt cuộc thì họ đã đưa cho cậu chiếc Áo choàng."
+Harry gật đầu, ấn tượng trước lòng từ thiện của cụ Dumbledore, và bối rối trước sự tương phản rõ rệt với thái độ của chính mình.
+Ông phù thủy già tiếp tục. "Nhưng tôi và cậu đều là những quân cờ có cùng một màu sắc, tôi nghĩ vậy. Cậu bé cuối cùng đã đánh bại Voldemort và ông già đã cầm chân hắn đủ lâu để cậu cứu thế giới. Tôi sẽ không cảnh giác với cậu, Harry, tất cả chúng ta phải cố gắng hết sức để trở nên khôn ngoan. Tôi chỉ yêu cầu cậu suy nghĩ hai lần và cân nhắc lại ba lần, lần sau khi có ai đó bảo cậu không tin tưởng tôi."
+“Tôi xin lỗi,” Harry nói. Anh ấy cảm thấy tồi tệ vào thời điểm này, về cơ bản anh ấy vừa nói với Gandalf, và lòng tốt của cụ Dumbledore chỉ khiến anh ấy cảm thấy tồi tệ hơn. “Đáng lẽ tôi không nên nghi ngờ anh.”
+“Chao ôi, Harry, ở thế giới này…” Vị pháp sư già lắc đầu. "Tôi thậm chí không thể nói rằng bạn không khôn ngoan. Bạn không biết tôi. Và sự thật là có một số người ở Hogwarts mà bạn không nên tin tưởng. Thậm chí có thể có một số người mà bạn gọi là bạn bè."
+Harry nuốt khan. Điều đó nghe có vẻ khá đáng lo ngại. “Giống ai?”
+Cụ Dumbledore đứng dậy khỏi ghế và bắt đầu kiểm tra một trong những dụng cụ của cụ, một mặt đồng hồ có tám kim có chiều dài khác nhau.
+Một lát sau, lão phù thủy lại lên tiếng. “Có lẽ đối với bạn, anh ấy có vẻ khá quyến rũ,” cụ Dumbledore nói. "Lịch sự - ít nhất là với bạn. Ăn nói khéo léo, thậm chí có thể ngưỡng mộ. Luôn sẵn sàng giúp đỡ, giúp đỡ, một lời khuyên..."
+"Ồ,Draco Malfoy!" Harry nói, cảm thấy khá nhẹ nhõm vì đó không phải là Hermione hay gì đó. “Ồ không, không không không, bạn hiểu sai rồi, anh ấy không chuyển giao cho tôi, tôi đang chuyển giao anh ấy.”
+Cụ Dumbledore đứng hình khi đang nhìn vào mặt đồng hồ. “Bạn làgì?”
+“Tôi sẽ biến Draco Malfoy khỏi Mặt tối,” Harry nói. “Bạn biết đấy, hãy biến anh ấy thành một chàng trai tốt.”
+Cụ Dumbledore đứng thẳng lên và quay sang Harry. Ông ta đang mang một trong những biểu cảm kinh ngạc nhất mà Harry từng thấy ở bất kỳ ai, chứ đừng nói đến người có bộ râu dài màu bạc. "Bạn có chắc chắn không," ông phù thủy già nói sau một lúc, "rằng anh ta đã sẵn sàng để được cứu chuộc? Tôi sợ rằng bất cứ điều gì tốt đẹp mà bạn nghĩ rằng bạn nhìn thấy ở anh ta chỉ là mơ tưởng - hoặc tệ hơn, một mồi nhử, một miếng mồi..."
+“Ờ, không có khả năng đâu,” Harry nói. "Ý tôi là nếu anh ta cố gắng cải trang thành một người tốt thì anh ta cực kỳ tệ trong việc đó. Đây không phải là vấn đề Draco đến với tôi và tỏ ra rất quyến rũ còn tôi quyết định rằng anh ta phải có một cốt lõi tốt đẹp tiềm ẩn trong sâu thẳm. Tôi đã chọn anh ta để chuộc lỗi đặc biệt vì anh ta là người thừa kế của Nhà Malfoy và nếu bạn phải chọn một người để chuộc lỗi, thì rõ ràng đó sẽ là anh ta."
+Mắt trái của cụ Dumbledore giật giật. “Anh định gieo hạt giống tình yêu và lòng tốt trong trái tim Draco Malfoy vì anh mong đợi người thừa kế của Malfoy tỏ ra có giá trị đối với anh?”
+“Không chỉ vớitôi!” Harry phẫn nộ nói. "Gửi tới toàn bộ nước Anh phép thuật, nếu điều này thành công!Vàanh ấy sẽ có một cuộc sống hạnh phúc hơn và khỏe mạnh hơn về mặt tinh thần! Hãy nhìn xem, tôi không có đủ thời gian để khiếnmọi ngườirời xa Mặt tối và tôi phải hỏi xem Ánh sáng có thể giành được nhiều lợi thế nhất nhanh nhất ở đâu—"
+Cụ Dumbledore bắt đầu cười lớn. Cười nhiều hơn Harry tưởng, gần như hú lên. Có vẻ như chắc chắn làkhông được tôn trọng. Một pháp sư cổ xưa và mạnh mẽ phải cười thầm với giọng trầm trầm, không nên cười đến mức thở hổn hển. Harry đã từng té khỏi ghế theo đúng nghĩa đen khi đang xem bộ phim Anh em nhà MarxDuck Soup,và đó chính là lúc mà cụ Dumbledore đang cười ngặt nghẽo.
+“Nó khôngbuồn cười đến thế đâu,” một lúc sau Harry nói. Nó lại bắt đầu lo lắng về sự tỉnh táo của cụ Dumbledore.
+Cụ Dumbledore đã tự chủ lại được bằng một nỗ lực rõ ràng. “À, Harry, một triệu chứng của căn bệnh mang tên trí tuệ là cậu bắt đầu cười vào những điều mà không ai khác cho là buồn cười, bởi vì khi cậu khôn ngoan, Harry, cậu bắt đầu biết đùa!” Vị pháp sư già lau nước mắt trên mắt. "À, tôi. À, tôi. Ý chí xấu xa thường sẽ làm điều ác thực sự xảy ra, trong chính hành động đó."
+Não của Harry mất một lúc để sắp xếp những từ quen thuộc… "Này, đó là một câu trích dẫn củaTolkien!Gandalfđã nói thế!"
+“Thực ra là Théoden,” cụ Dumbledore nói.
+“Bạn làgốc Muggle?” Harry kinh ngạc nói.
+“Tôi e là không,” cụ Dumbledore nói, lại mỉm cười. "Tôi sinh ra bảy mươi năm trước khi cuốn sách đó được xuất bản, con yêu. Nhưng có vẻ như những học sinh gốc Muggle của tôi có xu hướng suy nghĩ giống nhau theo một số cách nhất định. Tôi đã tích lũy được không dưới hai mươi bản sao củaChúa tể của những chiếc nhẫnvà ba bộ sưu tập toàn bộ tác phẩm của Tolkien, và tôi trân trọng từng bộ trong số đó." Cụ Dumbledore rút cây đũa phép của mình ra và giơ nó lên và tạo dáng. "Bạn không thể vượt qua!Trông nó thế nào?"
+“À,” Harry nói như thể não sắp ngừng hoạt động hoàn toàn, “Tôi nghĩ bạn đang thiếu Balrog.” Và bộ đồ ngủ màu hồng và chiếc mũ nấm bẹt chẳng giúp ích được gì cả.
+"Tôi hiểu rồi." Cụ Dumbledore thở dài và ủ rũ nhét cây đũa phép vào thắt lưng. "Tôi e rằng đã có rất ít Balrog quý giá trong cuộc đời tôi gần đây. Ngày nay, tất cả đều là các cuộc họp ở Wizengamot, nơi tôi phải cố gắng hết sức để ngăn chặn bất kỳ công việc nào được hoàn thành, và những bữa tối trang trọng nơi các chính trị gia nước ngoài cạnh tranh xem ai có thể là kẻ ngốc ngoan cố nhất. Và bí ẩn với mọi người, biết những điều mà tôi không có cách nào biết được, đưa ra những tuyên bố khó hiểu mà chỉ có thể hiểu được khi nhận thức muộn màng, và tất cả những cách nhỏ nhặt khác mà các pháp sư quyền năng tự giải trí sau khi họ rời khỏi phần khuôn mẫu cho phép họ để trở thành những anh hùng. Nhắc mới nhớ, Harry, tôi có một thứ nhất định muốn tặng cho cậu, một thứ thuộc về cha cậu.”
+“Anh biết à?” Harry nói. “Chúa ơi, ai mà đoán ra được.”
+“Đúng vậy,” cụ Dumbledore nói. “Tôi cho rằng điều đó có thể đoán trước được một chút, phải không?” Vẻ mặt anh trở nên trang nghiêm. “Tuy nhiên…”
+Cụ Dumbledore quay trở lại bàn làm việc của mình và ngồi xuống, đồng thời kéo một trong các ngăn kéo ra. Anh ta dùng cả hai tay và hơi căng người, rút ​​ra khỏi ngăn kéo một vật khá to và nặng, sau đó anh ta đặt vật đó xuống chiếc bàn gỗ sồi của mình với một tiếng thịch lớn.
+“Đây,” cụ Dumbledore nói, “là hòn đá của cha con.”
+Harry nhìn chằm chằm vào nó. Nó có màu xám nhạt, đổi màu, hình dạng không đều, cạnh sắc và rất giống một tảng đá lớn bình thường, cũ kỹ. Cụ Dumbledore đã đặt nó ở vị trí có mặt cắt rộng nhất có thể, nhưng nó vẫn lắc lư không vững trên bàn của cụ.
+Harry nhìn lên. “Đây là một trò đùa phải không?”
+“Không phải vậy,” cụ Dumbledore nói, lắc đầu và trông rất nghiêm túc. “Tôi lấy cái này từ đống đổ nát của ngôi nhà của James và Lily ở Thung lũng Godric, nơi tôi cũng tìm thấy bạn; và tôi đã giữ nó từ đó đến nay, cho đến ngày tôi có thể đưa nó cho bạn.”
+Trong sự kết hợp của các giả thuyết được dùng làm hình mẫu cho thế giới của Harry, khả năng bệnh điên của cụ Dumbledore đang tăng lên nhanh chóng. Nhưngvẫn cóxác suất đáng kể được phân bổ cho các lựa chọn thay thế khác… “Ừm, đó có phải là một tảng đáma thuậtkhông?”
+“Theo như tôi biết thì không,” cụ Dumbledore nói. “Nhưng tôi khuyên bạn với sự nghiêm ngặt nhất có thể là hãy luôn giữ bí mật về con người bạn.”
+Được rồi. Cụ Dumbledorecó lẽ làmất trí nhưng nếu cụkhông phải là… à, sẽ quáxấu hổnếu gặp rắc rối nếu phớt lờ lời khuyên của ông phù thủy già khó hiểu. Điều đó hẳn phải đứng thứ 4 trong danh sách 100 kiểu lỗi hiển nhiên nhất.
+Harry bước tới trước và đặt tay lên tảng đá, cố gắng tìm một góc nào đó để nâng nó lên mà không làm mình bị thương. “Vậy tôi sẽ bỏ nó vào túi của mình.”
+Cụ Dumbledore cau mày. "Điều đó có thể không đủ gần với con người bạn. Và nếu túi da mokeskin của bạn bị mất hoặc bị đánh cắp thì sao?"
+“Bạn nghĩ tôi nên mang theo một tảng đá lớn đi khắp nơi à?”
+Cụ Dumbledore nhìn Harry một cách nghiêm túc. “Điều đó có thể tỏ ra khôn ngoan.”
+“À…” Harry nói. Nó trông khá nặng nề. “Tôi nghĩ những học sinh khác sẽ có xu hướng hỏi tôi những câu hỏi về điều đó.”
+“Hãy nói với họ rằng tôi đã ra lệnh cho bạn làm điều đó,” cụ Dumbledore nói. “Sẽ không ai thắc mắc điều đó đâu, vì tất cả họ đều nghĩ tôi điên.” Vẻ mặt anh vẫn vô cùng nghiêm túc.
+“Ừm, thành thật mà nói nếu bạn ra lệnh cho học sinh của mình mang những tảng đá lớn thì tôi có thể hiểu tại sao mọi người lại nghĩ như vậy.”
+“À, Harry,” cụ Dumbledore nói. Ông phù thủy già ra hiệu, một cái vung tay dường như thu hút tất cả những dụng cụ bí ẩn xung quanh phòng. "Khi chúng ta còn trẻ, chúng ta tin rằng chúng ta biết mọi thứ, và vì thế chúng ta tin rằng nếu chúng ta không thấy lời giải thích nào cho điều gì đó thì không có lời giải thích nào tồn tại. Khi lớn lên, chúng ta nhận ra rằng toàn bộ vũ trụ vận hành theo một nhịp điệu và một lý do, ngay cả khi chính chúng ta cũng không biết điều đó. Đối với chúng ta, chỉ có sự thiếu hiểu biết của chính chúng ta mới có vẻ điên rồ."
+“Thực tế luôn hợp pháp,” Harry nói, “ngay cả khi chúng ta không biết luật.”
+“Chính xác đấy, Harry,” cụ Dumbledore nói. “Hiểu được điều này—và tôi thấy rằng bạnthực sựhiểu nó—là bản chất của sự khôn ngoan.”
+“Vậy…tại saochính xác là tôi phải mang hòn đá này?”
+“Thật ra tôi không thể nghĩ ra lý do,” cụ Dumbledore nói.
+“…bạn không thể.”
+Cụ Dumbledore gật đầu. “Nhưng chỉ vì tôi không thể nghĩ ra lý do không có nghĩa làkhông cólý do.”
+Các nhạc cụ bắt đầu hoạt động.
+“Được rồi,” Harry nói, “tôi thậm chí không chắc mình có nên nói điều này hay không, nhưng đó đơn giản không phải là cách đúng đắn để giải quyết sự thiếu hiểu biết được thừa nhận của chúng ta về cách thức vũ trụ vận hành.”
+“Không phải à?” ông phù thủy già nói, trông có vẻ ngạc nhiên và thất vọng.
+Harry có cảm giác cuộc trò chuyện này sẽ không có lợi cho anh, nhưng anh vẫn tiếp tục. "Không. Tôi thậm chí còn không biết liệu ngụy biện đó có tên chính thức hay không, nhưng nếu tôi phải tự nghĩ ra một cái tên thì nó sẽ là 'ưu tiên giả thuyết' hay gì đó tương tự. Làm sao tôi có thể đặt tên này một cách chính thức... ừm... giả sử bạn có một triệu chiếc hộp, và chỉ một trong số những chiếc hộp đó chứa một viên kim cương. Và bạn có một hộp chứa đầy máy dò kim cương, và mỗi máy dò kim cương luôn phát nổ khi có một viên kim cương, và nửa thời gian phát nổ trên những chiếc hộp không có kim cương. Nếu bạn chạy hai mươi máy dò trên tất cả các hộp, trung bình, bạn sẽ còn lại một ứng cử viên sai và một ứng cử viên đúng. Và sau đó sẽ chỉ cần một hoặc hai máy dò nữa trước khi bạn chỉ còn lại một ứng cử viên đúng. Vấn đề là khi có nhiều câu trả lời có thể xảy ra,hầu hếtbằng chứng bạn cần chỉ cầnxác địnhgiả thuyết thực trong số hàng triệu khả năng—làm cho bạn chú ý ngay từ đầu số lượng bằng chứng bạn cần để đánh giá. Nếu so sánh thì những ứng cử viên hợp lý sẽ nhỏ hơn nhiều. Vì vậy, nếu bạn cứ tiếp tục mà không có bằng chứng và tập trung vào một khả năng cụ thể, bạn sẽ bỏ qua hầu hết công việc. Giống như, bạn sống ở một thành phố có hàng triệu người, và có một vụ giết người, và một thám tử nói rằng, chúng tôi không có bằng chứng nào cả, vậy chúng tôi đã xem xét khả năng Mortimer Snodgrass đã làm điều đó chưa?
+“Có phải vậy không?” cụ Dumbledore nói.
+“Không,” Harry nói. "Nhưng sau đó hóa ra kẻ sát nhân có tóc đen, còn Mortimer có tóc đen, nên mọi người đều nói, à, có vẻ như Mortimer rốt cuộc đã làm điều đó. Vì vậy, thật không công bằng cho Mortimer khi cảnh sátthu hút sự chú ý của anh tamà không có sẵn lý do chính đáng để nghi ngờ anh ta. Khi có rất nhiều khả năng, hầu hết công việc chỉ tập trung vào việctìm racâu trả lời thực sự—bắt đầu chú ý đến nó. Bạn không cầnbằng chứng, hoặc loại bằng chứng chính thức mà các nhà khoa học hoặc tòa án yêu cầu, nhưng bạn cần một loạigợi ý nào đóvà gợi ý đó phải phân biệt khả năng cụ thể đó với hàng triệu người khác. Nếu không, bạn không thể tự nhiên tìm được câu trả lời đúng. Tôi không chắc mình nên suy luận như thế nào trước sự không chắc chắn của mình. Những quy luật suy nghĩ với xác suất cũng sắt đá không kém những quy luật chi phối logic lỗi thời, và những gì bạn vừa làm làkhông được phép” Harry dừng lại. “Trừ khi, tất nhiên, bạn cógợi ý nào đómà bạn chưa đề cập đến.”
+“À,” cụ Dumbledore nói. Anh vỗ nhẹ vào má mình, tỏ vẻ suy nghĩ. "Một lập luận thú vị, chắc chắn rồi, nhưng không phải nó bị phá vỡ ở điểm mà bạn đưa ra sự so sánh giữa một triệu kẻ sát nhân tiềm năng mà chỉ một trong số họ thực hiện vụ giết người, và việc chọn một trong số nhiều phương án hành động có thể xảy ra, khi nhiều phương án hành động có thể đều có thể là khôn ngoan? Tôi không nói rằng mang theo hòn đá của cha bạn là phương án hành động tốt nhất có thể, chỉ có điều rằng làm thì khôn ngoan hơn là không làm."
+Cụ Dumbledore một lần nữa thò tay vào ngăn kéo bàn mà cụ đã mở trước đó, lần này dường như nó đã cắm rễ vào bên trong - ít nhất thì cánh tay của cụ dường như đang cử động. "Tôi sẽ nhận xét," cụ Dumbledore nói trong khi Harry vẫn đang cố gắng nghĩ ra cách trả lời câu trả lời hoàn toàn bất ngờ này, "rằng có một quan niệm sai lầm phổ biến ở Ravenclaw là tất cả những đứa trẻ thông minh đều được phân loại ở đó, không để lại ai cho các Nhà khác. Điều này không phải vậy; việc được phân loại vào Ravenclaw cho thấy rằng con bị thúc đẩy bởi mong muốn biết nhiều thứ, điều này hoàn toàn không giống với phẩm chất của sự thông minh." Người phù thủy mỉm cười khi cúi xuống ngăn kéo. "Tuy nhiên, concó vẻkhá thông minh. Ít giống một anh hùng trẻ bình thường mà giống một phù thủy cổ xưa bí ẩn trẻ tuổi hơn. Tôi nghĩ có thể tôi đã tiếp cận sai với con, Harry, và rằng con có thể hiểu được những điều mà ít người khác có thể nắm bắt được. Vì vậy, tôi sẽ táo bạo và tặng con mộtvật gia truyềnkhác."
+“Ý cậu không phải là…” Harry thở hổn hển. “Cha tôi…sở hữu một tảng đá khác?”
+“Xin lỗi,” cụ Dumbledore nói, “tôivẫn già hơn và bí ẩn hơn bạn và nếu có bất kỳ tiết lộ nào được thực hiện thìtôisẽ tiết lộ, cảm ơn bạn… ồ,ở đâuthứ đó!” Cụ Dumbledore đưa tay xuống sâu hơn vào ngăn kéo bàn, và còn sâu hơn nữa. Đầu, vai và toàn bộ thân mình biến mất vào trong cho đến khi chỉ còn hông và chân thò ra ngoài, như thể ngăn kéo bàn đang ăn thịt anh ta.
+Harry không thể không tự hỏi có bao nhiêu thứ trong đó và toàn bộ kho đồ sẽ trông như thế nào.
+Cuối cùng, cụ Dumbledore đứng dậy ra khỏi ngăn kéo, cầm vật cần tìm và đặt nó xuống bàn cạnh tảng đá.
+Đó là một cuốn sách giáo khoa đã qua sử dụng, mép rách, gáy đã mòn:Làm thuốc trung cấpcủa Libatius Borage. Trên bìa có hình một lọ thuốc đang hút thuốc.
+“Đây,” cụ Dumbledore nói, “là cuốn sách giáo khoa Độc dược năm thứ năm của mẹ con.”
+“Thứ mà tôi phải luôn mang theo bên mình,” Harry nói.
+"Chứa đựng một bí mật khủng khiếp. Một bí mật mà sự tiết lộ của nó có thể gây tai hại đến mức tôi phải yêu cầu cậu thề - và tôi yêu cầu cậu phải thề một cách nghiêm túc, Harry, bất kể cậu nghĩ gì về tất cả những điều này - không bao giờ được kể cho bất kỳ ai hay bất cứ điều gì khác."
+Harry xem xét cuốn sách giáo khoa Độc dược năm thứ năm của mẹ mình, trong đó dường như chứa đựng một bí mật khủng khiếp.
+Vấn đề là Harryđãthực hiện lời thề như vậy một cách rất nghiêm túc. Bất kỳ lời thề nào cũng là Lời thề không thể phá vỡ nếu được thực hiện bởi đúng người.
+Và…
+“Tôi thấy khát,” Harry nói, “và đó không phải là một dấu hiệu tốt chút nào.”
+Cụ Dumbledore hoàn toàn không hỏi bất kỳ câu hỏi nào về câu nói khó hiểu này. “cậu có thề không, Harry?” cụ Dumbledore nói. Đôi mắt anh nhìn chăm chú vào mắt Harry. “Nếu không thì tôi không thể nói cho bạn biết.”
+“Ừ,” Harry nói. “Tôi thề.” Đó chính là rắc rối khi trở thành Ravenclaw. Bạn không thể từ chối một lời đề nghị như vậy nếu không sự tò mò sẽ ăn sống bạn và mọi người khác đều biết điều đó.
+“Và đến lượt tôi xin thề,” cụ Dumbledore nói, “rằng những gì tôi sắp nói với bạn là sự thật.”
+Cụ Dumbledore mở cuốn sách ra một cách ngẫu nhiên và Harry nghiêng người lại để xem.
+“Con có thấy những ghi chú này không,” cụ Dumbledore nói với giọng trầm gần như thì thầm, “được viết ở lề cuốn sách?”
+Harry hơi nheo mắt. Những trang giấy ố vàng dường như đang mô tả một thứ gọi làlọ thuốc đại bàng lộng lẫy, nhiều thành phần là những món mà Harry hoàn toàn không nhận ra và tên của chúng dường như không bắt nguồn từ tiếng Anh. Viết nguệch ngoạc bên lề là một chú thích viết tay có nội dung:Tôi tự hỏi điều gì sẽ xảy ra nếu bạn sử dụng máu Thestral ở đây thay vì quả việt quất?và ngay bên dưới là câu trả lời bằng nét chữ khác,Bạn sẽ ốm trong nhiều tuần và có thể chết.
+“Tôi thấy họ,” Harry nói. “Còn họ thì sao?”
+Cụ Dumbledore chỉ vào dòng chữ nguệch ngoạc thứ hai. "Những chữ viết tay này," anh nói, vẫn bằng giọng trầm đó, "được viết bởi mẹ em. Và những chữ viết taynày," di chuyển ngón tay để chỉ nét nguệch ngoạc đầu tiên, "là do tôi viết. Tôi sẽ biến mình thành vô hình và lẻn vào ký túc xá của cô ấy khi cô ấy đang ngủ. Lily nghĩ rằng một trong những người bạn của cô ấy đang viết chúng và họ đã có những trận đánh nhau kinh hoàng nhất."
+Đó chính xác là thời điểm mà Harry nhận ra rằng Hiệu trưởng trường Hogwartsthực sự là một kẻ điên rồ.
+Cụ Dumbledore đang nhìn anh với vẻ mặt nghiêm túc. “Con có hiểu ý nghĩa của điều ta vừa nói với con không, Harry?”
+“Ơ…” Harry nói. Giọng anh dường như bị mắc kẹt. “Xin lỗi… tôi… không thực sự…”
+“Ồ,” cụ Dumbledore nói và thở dài. "Tôi cho rằng sự thông minh của anh rốt cuộc cũng có giới hạn. Chúng ta có nên giả vờ như tôi chưa nói gì không?"
+Harry đứng dậy khỏi ghế, nở một nụ cười cố định. “Tất nhiên,” Harry nói. “Bạn biết đấy, thực ra hôm nay đã khá muộn và tôi hơi đói nên tôi thực sự nên xuống ăn tối” và Harry đi thẳng ra cửa.
+Tay nắm cửa hoàn toàn không xoay được.
+“Con đã làm ta tổn thương, Harry,” giọng cụ Dumbledore trầm trầm vang lên ngay sau lưng cụ. “Ít nhất thì bạn không nhận ra rằng những gì tôi đã nói với bạn là dấu hiệu của sự tin tưởng sao?”
+Harry từ từ quay lại.
+Trước mặt anh ta là một pháp sư rất mạnh mẽ và rất điên rồ với bộ râu dài màu bạc, chiếc mũ giống như một cây nấm khổng lồ bị đè bẹp và mặc thứ mà Muggle nhìn thấy giống như ba lớp đồ ngủ màu hồng sáng.
+Đằng sau anh ta là một cánh cửa dường như không hoạt động vào lúc này.
+Cụ Dumbledore trông khá buồn bã và mệt mỏi, như thể cụ muốn dựa vào cây trượng phù thủy mà cụ không có. “Thực sự,” cụ Dumbledore nói, “bạn thử bất cứ điều gì mới thay vì lần nào cũng đi theo cùng một khuôn mẫu trong suốt một trăm mười năm, và tất cả mọi người đều bắt đầu bỏ chạy.” Vị pháp sư già lắc đầu buồn bã. "Tôi đã hy vọng điều tốt hơn từ cậu, Harry Potter. Tôi nghe nói rằng bạn bè của cậu cũng nghĩ rằng cậu điên. Tôi biết họ đã nhầm. Cậu sẽ không tin tôi như vậy chứ?"
+“Xin hãy mở cửa,” Harry nói, giọng run run. “Nếu bạn muốn tôi tin tưởng bạn lần nữa, hãy mở cửa ra.”
+Sau lưng anh có tiếng mở cửa.
+“Còn nhiều điều ta định nói với con,” cụ Dumbledore nói, “và nếu con rời đi bây giờ, con sẽ không biết chúng là gì.”
+Đôi khi Harry cực kỳghét việctrở thành Ravenclaw.
+Anh ấy không bao giờ làm tổn thương học sinh,phía Gryffindor của Harry nói.Chỉ cần nhớ điều đó thì chắc chắn bạn sẽ không hoảng sợ. Bạn sẽ không bỏ chạy chỉ vì mọi chuyện đang trở nên thú vị phải không?
+Bạn không thể bỏ rơi Hiệu trưởng được!phần Hufflepuff nói.Điều gì sẽ xảy ra nếu anh ấy bắt đầu trừ điểm Nhà? Anh ấy có thể khiến cuộc sống học đường của bạn trở nên rất khó khăn nếu anh ấy quyết định không thích bạn!
+Và một phần của anh mà Harry không thích lắm nhưng không thể im lặng được là đang cân nhắc những lợi thế tiềm ẩn khi trở thành một trong số ít bạn bè của lão phù thủy già điên khùng này, người đồng thời cũng là Hiệu trưởng, Thủ lĩnh Warlock và Mugwump tối cao. Và thật không may, Slytherin nội tâm của anh ấy dường như giỏi hơn Draco rất nhiều trong việc biến mọi người sang Mặt tối, bởi vì nó đang nói những điều nhưanh bạn tội nghiệp, anh ấy có vẻ như cần ai đó để nói chuyện, phải không?vàbạn sẽ không muốn một người đàn ông quyền lực như vậy lại tin tưởng một người kém đạo đức hơn phải không?vàTôi tự hỏi cụ Dumbledore có thể tiết lộ những bí mật đáng kinh ngạc nào nếu bạn biết đấy, bạn trở thành bạn với cụ ấyvà thậm chítôi cá là cụ ấy có một bộ sưu tập sách thực sự thú vị.
+Các người đều là một lũ mất trí,Harry nghĩ trong toàn bộ cuộc họp, nhưng anh ấy đã bị mọi bộ phận trong cơ thể mình nhất trí bỏ phiếu.
+Harry quay lại, bước một bước về phía cánh cửa đang mở, đưa tay ra và cố tình đóng nó lại. Đó là một sự hy sinh vô giá vì dù sao thì ông ấy vẫn ở lại, cụ Dumbledore có thể kiểm soát chuyển động của mình bất chấp điều đó, nhưng có lẽ nó sẽ gây ấn tượng với cụ Dumbledore.
+Khi Harry quay lại, cậu thấy tên pháp sư điên loạn mạnh mẽ lại một lần nữa mỉm cười và trông thân thiện. Có lẽ điều đó tốt.
+“Làm ơn đừng làm thế nữa,” Harry nói. “Tôi không thích bị mắc kẹt.”
+“Tôixin lỗi về điều đó, Harry,” cụ Dumbledore nói với giọng điệu như một lời xin lỗi chân thành. “Nhưng sẽ thật là thiếu khôn ngoan nếu để cậu rời đi mà không có hòn đá của cha cậu.”
+“Tất nhiên,” Harry nói. “Tôi thật không hợp lý khi mong đợi cánh cửa sẽ mở trước khi tôi đặt các vật phẩm nhiệm vụ vào kho của mình.”
+Cụ Dumbledore mỉm cười và gật đầu.
+Harry đi đến bàn làm việc, xoắn chiếc túi da mokeskin của mình ra phía trước thắt lưng và, với một chút nỗ lực, đã nâng được tảng đá lên trong cánh tay của đứa trẻ mười một tuổi và nhét nó vào.
+Anh ấy thực sự có thể cảm thấy trọng lượng đang giảm dần khi bùa Mở rộng Môi ăn vào tảng đá, và tiếng ợ sau đó khá ồn ào và có âm thanh phàn nàn rõ ràng.
+Cuốn sách giáo khoa Độc dược năm thứ năm của mẹ anh (trong đó chứa đựng một bí mật thực sự khá khủng khiếp) được ra mắt ngay sau đó.
+Và sau đó, nội tâm Slytherin của Harry đã đưa ra một đề nghị ranh mãnh là lấy lòng Hiệu trưởng, thật không may, điều này đã được đưa ra một cách hoàn hảo theo cách để có được sự ủng hộ của đa số phe Ravenclaw.
+“Vậy,” Harry nói. "Ừm. Khi tôi còn loanh quanh, tôi không nghĩ bạn sẽ muốn cho tôi đi tham quan văn phòng của bạn một chút phải không? Tôi hơi tò mò về một số thứ trong số này là gì," và đó là cách nói nhẹ nhàng của anh ấy trong tháng Chín.
+Cụ Dumbledore nhìn chằm chằm vào ông, rồi gật đầu với một nụ cười nhẹ. “Tôi rất vui vì sự quan tâm của bạn,” cụ Dumbledore nói, “nhưng tôi e rằng không có gì nhiều để nói.” Cụ Dumbledore bước một bước lại gần bức tường và chỉ vào bức tranh vẽ một người đàn ông đang ngủ. “Đây là chân dung của các Hiệu trưởng trước đây của Hogwarts.” Anh quay lại và chỉ vào bàn làm việc của mình. “Đây là bàn của tôi.” Anh chỉ vào chiếc ghế của mình. “Đây là ghế của tôi—”
+“Xin lỗi,” Harry nói, “thực ra tôi đang thắc mắc về những điều đó.” Harry chỉ vào một khối lập phương nhỏ đang thì thầm nhẹ nhàng “blorp… blorple… blople”.
+“Ồ, những điều nhỏ nhặt à?” cụ Dumbledore nói. "Họ đến cùng với văn phòng Hiệu trưởng và tôi hoàn toàn không biết hầu hết họ làm gì. Mặc dùchiếc mặt sốnày có tám kim đếm số lượng, hãy gọi chúng là những cú hắt hơi, bởi những phù thủy thuận tay trái trong phạm vi biên giới nước Pháp, nhưng bạn sẽ không thể tin được là phải mất bao nhiêu công sức để giải quyết được điều đó. Vàchiếcnày với những chiếc gạt nước bằng vàng là phát minh của riêng tôi và Minerva sẽ không bao giờ tìm ra được nó đang làm gì."
+Cụ Dumbledore bước tới giá để mũ trong khi Harry vẫn đang xử lý việc này. "Ở đây tất nhiên chúng ta có Mũ phân loại, tôi tin rằng hai bạn đã gặp nhau. Nó nói với tôi rằng nó sẽ không bao giờ được đội lên đầu bạn trong bất kỳ hoàn cảnh nào nữa. Bạn chỉ là học sinh thứ mười bốn trong lịch sử, người ta nói rằng Baba Yaga là một người khác và tôi sẽ kể cho bạn nghe về mười hai chiếc còn lại khi bạn lớn hơn. Đây là một chiếc ô. Đây là một chiếc ô khác." Cụ Dumbledore bước thêm vài bước nữa và quay lại, mỉm cười khá tươi. “Và tất nhiên, hầu hết mọi người đến văn phòng của tôi đều muốn gặp Fawkes.”
+Cụ Dumbledore đang đứng cạnh con chim trên bục vàng.
+Harry bước tới, khá bối rối. “Đây là Fawkes?”
+“Fawkes là một con phượng hoàng,” cụ Dumbledore nói. “Những sinh vật ma thuật rất hiếm, rất mạnh mẽ.”
+“À…” Harry nói. Anh cúi đầu xuống và nhìn chằm chằm vào đôi mắt đen nhỏ xíu, trong đó không hề biểu lộ một chút sức mạnh hay trí thông minh nào.
+“Ahhh…” Harry lại nói.
+Anh ấy khá chắc chắn rằng mình đã nhận ra hình dạng của con chim. Thật khó để bỏ lỡ.
+“Ừm…”
+Hãy nói điều gì đó thông minh!Tâm trí Harry gầm lên.Đừng chỉ đứng đó nói lắp bắp như một tên ngốc!
+Tôiphảinói cái quái gì đây?Tâm trí Harry quay trở lại.
+Bất cứ điều gì!
+Ý bạn là bất cứ điều gì ngoài “Fawkes là một con gà”—
+Có! Bất cứ điều gì ngoại trừ điều đó!
+“Vậy, à, vậy thì phượng hoàng làm được loại phép thuật gì?”
+“Nước mắt của họ có khả năng chữa lành,” cụ Dumbledore nói. "Chúng là những sinh vật của lửa, và di chuyển giữa mọi nơi dễ dàng như lửa có thể tự dập tắt ở nơi này và bùng lên ở nơi khác. Sức mạnh ma thuật bẩm sinh to lớn của chúng khiến cơ thể chúng già đi nhanh chóng, nhưng chúng gần như bất tử như bất kỳ sinh vật nào tồn tại trên thế giới này, vì bất cứ khi nào cơ thể chúng không hoạt động, chúng sẽ tự thiêu trong một vụ nổ lửa và để lại một con non, hoặc đôi khi là một quả trứng." Cụ Dumbledore đến gần hơn và kiểm tra con gà, cau mày. “Hm… tôi có thể nói là nhìn có vẻ hơi cao hứng ở đó.”
+Vào thời điểm câu nói này được ghi nhớ đầy đủ trong tâm trí Harry thì con gà đã bốc cháy.
+Mỏ của con gà mở ra, nhưng nó không kịp kêu một tiếng nào trước khi bắt đầu khô héo và cháy thành than. Ngọn lửa diễn ra trong thời gian ngắn, dữ dội và hoàn toàn khép kín; không có mùi cháy.
+Và rồi ngọn lửa tắt chỉ vài giây sau khi bắt đầu, để lại một đống tro nhỏ xíu thảm hại trên bục vàng.
+“Đừng tỏ ra kinh hoàng thế, Harry!” cụ Dumbledore nói. “Fawkes không bị thương.” Bàn tay của cụ Dumbledore thọc vào túi, rồi cũng chính bàn tay đó rây qua lớp tro và lấy ra một quả trứng nhỏ màu vàng nhạt. “Nhìn kìa, đây là một quả trứng!”
+“Ồ… ồ… tuyệt vời…”
+“Nhưng bây giờ chúng ta thực sự nên tiếp tục mọi việc,” cụ Dumbledore nói. Để lại quả trứng trong đống tro của con gà, anh quay trở lại ngai vàng và ngồi xuống. “Rốt cuộc thì cũng gần đến giờ ăn tối rồi, và chúng ta không muốn phải sử dụng Máy Xoay Thời Gian đâu.”
+Có một cuộc tranh giành quyền lực dữ dội đang diễn ra trong Chính phủ của Harry. Slytherin và Hufflepuff đã đổi phe sau khi chứng kiến ​​Hiệu trưởng trường Hogwarts đốt một con gà.
+“Ừ, có chuyện,” môi Harry nói. “Và sau đó là bữa tối.”
+Bạn lại nói giống như một kẻ ngu ngốc đang nói lắp bắpNhà phê bình nội bộ của Harry nhận xét.
+“Ồ,” cụ Dumbledore nói. "Tôi e là tôi phải thú nhận, Harry. Một lời thú nhận và một lời xin lỗi."
+“Xin lỗi là tốt”điều đó thậm chí còn vô nghĩa! Tôi đang nói về cái gì vậy?
+Lão phù thủy thở dài thật sâu. "Có thể cậu vẫn không nghĩ như vậy sau khi hiểu những gì tôi muốn nói. Tôi e rằng, Harry, rằng tôi đã thao túng cậu suốt cuộc đời. Chính tôi là người đã giao cậu cho cha mẹ kế độc ác của cậu chăm sóc—"
+“Cha mẹ kế của tôi không hề độc ác!” Harry buột miệng. “Ý tôi làcha mẹcủa tôi!”
+“Không phải vậy à?” Cụ Dumbledore nói, trông có vẻ ngạc nhiên và thất vọng. "Không một chút xấu xa nào cả? Điều đó không phù hợp với khuôn mẫu..."
+Slytherin bên trong của Harry hét lên đến tận cùng lá phổi tinh thần của nó,MÀY CÂM MẬT MÀ NGỪNG NÓ SẼ ĐƯA BẠN TỪ XA HỌ!
+“Không, không,” Harry nói, môi đông cứng lại với vẻ nhăn nhó khủng khiếp, “Tôi chỉ đang cố gắng tha thứ cho cảm xúc của bạn, chúng thực sự rất độc ác…”
+“Họ là ai?” Cụ Dumbledore nghiêng người về phía trước, nhìn nó chăm chú. “Họ làm gì?”
+Nói nhanh“họ, à, tôi phải rửa bát và rửa bát và họ không cho tôi đọc nhiều sách và—”
+“À, tốt, nghe thật vui,” cụ Dumbledore nói, ngả người ra sau. Anh mỉm cười một cách buồn bã. "Vậy thì tôi xin lỗi vìđiều đó. Bây giờ tôi đã ở đâu? À, vâng. Tôi rất tiếc phải nói, Harry, rằng tôi phải chịu trách nhiệm về hầu hết mọi điều tồi tệ đã từng xảy ra với cậu. Tôi biết rằng điều này có thể sẽ khiến cậu rất tức giận."
+Có, tôi rất tức giận! Harry nói. “Grr!”
+Nhà phê bình nội bộ của Harry đã nhanh chóng trao cho anh ấy Giải thưởng mọi thời đại cho diễn xuất tệ nhất trong lịch sử từ trước đến nay.
+"Và ta chỉ muốn con biết," cụ Dumbledore nói, "ta muốn nói với con càng sớm càng tốt, đề phòng sau này có chuyện gì xảy ra với một trong chúng ta, rằng ta thực sự, thực sự xin lỗi. Vì tất cả những gì đã xảy ra và mọi thứ sẽ xảy ra."
+Hơi ẩm lấp lánh trong mắt ông phù thủy già.
+“Và tôi rất tức giận!” Harry nói. “Tức giận đến mức tôi muốn rời đi ngay bây giờ trừ khi bạn còn gì để nói!”
+Chỉ cầnđitrước khi hắn đốt bạn!Slytherin, Hufflepuff và Gryffindor hét lên.
+“Tôi hiểu,” cụ Dumbledore nói. "Điều cuối cùng, Harry. Cậukhông đượcthử mở cánh cửa cấm trên hành lang tầng ba. Không có cách nào cậu có thể vượt qua tất cả các bẫy, và tôi không muốn nghe rằng cậu sẽ bị thương khi cố gắng. Tại sao, tôi nghi ngờ rằng cậu có thể mở được cánh cửa đầu tiên, vì nó bị khóa và cậu không biết câu thần chúAlohomora—"
+Harry quay người và lao về phía lối ra với tốc độ tối đa, tay nắm cửa xoay một cách dễ chịu và sau đó cậu ấy lao xuống cầu thang xoắn ốc ngay khi họ rẽ, chân cậu ấy gần như vấp ngã, chỉ trong chốc lát cậu ấy đã ở phía dưới và con tượng đầu thú bước sang một bên và Harry bắn ra khỏi cầu thang như một quả đạn đại bác.
+---
+Harry Potter.
+Chắc chắn phải có điều gì đó về Harry Potter.
+Dù sao thì hôm nay cũng là thứ Năm đối với tất cả mọi người, nhưng những chuyện như thế này dường như không xảy ra với bất kỳ ai khác.
+Lúc đó là 6:21 chiều. vào chiều thứ Năm khi Harry Potter lao ra khỏi cầu thang như một quả đạn đại bác và tăng tốc với tốc độ tối đa, tông thẳng vào Minerva McGonagall khi cô đang rẽ ở một góc đường trên đường đến văn phòng Hiệu trưởng.
+Rất may cả hai đều không bị thương nặng. Như đã được giải thích cho Harry trước đó một chút - khi cậu từ chối đến gần chổi lần nữa - Quidditch cần những trái Bludger bằng sắt đặc chỉ để có cơ hội gây thương tích cho người chơi, vì phù thủy có xu hướng chống chịu va đập tốt hơn nhiều so với Muggles.
+Cuối cùng, Harry và giáo sư McGonagall đều nằm trên sàn, còn những tờ giấy da mà cô mang theo văng khắp hành lang.
+Có một sự tạm dừng khủng khiếp, khủng khiếp.
+“Harry Potter,” giáo sư McGonagall thở ra từ nơi bà đang nằm trên sàn ngay cạnh Harry. Giọng cô ấy cao lên gần như một tiếng thét. “Bạn đang làm gì trong văn phòng Hiệu trưởng?”
+"Không có gì!" Harry rít lên.
+“Bạn đang nói về Giáo sư Phòng thủ phải không?”
+"Không! Cụ Dumbledore gọi tôi lên đó và ông đưa cho tôi hòn đá lớn này và nói nó là của bố tôi và tôi nên mang nó đi khắp nơi!"
+Có một sự tạm dừng khủng khiếp khác.
+“Tôi hiểu rồi,” giáo sư McGonagall nói, giọng bà bình tĩnh hơn một chút. Cô đứng dậy, phủi phủi người và nhìn chằm chằm vào những tờ giấy da vương vãi, chúng nhảy thành một chồng gọn gàng và chạy vội về phía bức tường hành lang như thể để trốn tránh ánh mắt của cô. “Tôi xin thông cảm, cậu Potter, và tôi xin lỗi vì đã nghi ngờ cậu.”
+“Giáo sư McGonagall,” Harry nói. Giọng anh run run. Anh đẩy mình ra khỏi sàn, đứng dậy và nhìn lên khuôn mặttỉnh táođáng tin cậy của cô. “Giáo sư McGonagall…”
+“Vâng, thưa cậu Potter?”
+“Bạn có nghĩ tôi nên làm vậy không?” Harry nói với giọng nhỏ nhẹ. “Mang tảng đá của cha tôi đi khắp mọi nơi?”
+Giáo sư McGonagall thở dài. “Tôi e rằng đó là chuyện giữa cậu và Hiệu trưởng.” Cô ấy lưỡng lự. "Tôi sẽ nói rằng việc phớt lờ hoàn toàn Hiệu trưởng gần như không bao giờ là điều khôn ngoan. Tôirất tiếc khi nghe về tình thế khó xử của cậu, cậu Potter, và nếu có cách nào đó tôicó thểgiúp cậu với bất cứ điều gì cậu quyết định làm—"
+“Ừm,” Harry nói. "Thực ra tôi đang nghĩ rằng một khi tôi biết cách, tôi có thể Biến tảng đá thành một chiếc nhẫn và đeo nó vào ngón tay. Nếu bạn có thể dạy tôi cách duy trì Biến hình—"
+“Thật tốt là cậu đã hỏi tôi trước,” giáo sư McGonagall nói, khuôn mặt cô trở nên nghiêm nghị hơn một chút. "Nếu bạn mất kiểm soát Biến hình, sự đảo ngược sẽ cắt đứt ngón tay của bạn và có thể xé đôi bàn tay của bạn. Và ở tuổi của bạn, ngay cả một chiếc nhẫn cũng là mục tiêu quá lớn để bạn có thể duy trì vô thời hạn mà không làm hao tổn nghiêm trọng phép thuật của bạn. Nhưng tôi có thể rèn cho bạn một chiếc nhẫn có gắn một viên ngọc, một viên ngọcnhỏ, tiếp xúc với da của bạn và bạn có thể thực hành duy trì một vật thể an toàn, chẳng hạn như kẹo dẻo. Khi bạn đã giữ nó thành công, ngay cả trong giấc ngủ, trong một cả tháng, ta sẽ cho phép ngươi Biến hình, à, tảng đá của cha ngươi…” Giọng giáo sư McGonagall nhỏ dần. “Có phải Hiệu trưởngthực sự—”
+"Ừ. À... ừm..."
+Giáo sư McGonagall thở dài. “Điều đó hơi lạ ngay cả đối với anh ấy.” Cô cúi xuống nhặt chồng giấy da lên. "Tôi xin lỗi về điều này, cậu Potter. Tôi xin lỗi một lần nữa vì đã không tin tưởng cậu. Nhưng bây giờ đến lượt tôi gặp Hiệu trưởng."
+"À...chúc may mắn, tôi đoán vậy. Ờ..."
+“Cám ơn, ngài Potter.”
+“Ừm…”
+Giáo sư McGonagall bước tới chỗ tượng đầu thú, nói mật khẩu một cách không nghe rõ, và bước vào cầu thang xoắn ốc xoay. Cô ấy bắt đầu khuất dạng, và tượng đầu thú bắt đầu lùi lại—
+“Giáo sư McGonagall Hiệu trưởng đốt một con gà!”
+“Anh ấycái—”

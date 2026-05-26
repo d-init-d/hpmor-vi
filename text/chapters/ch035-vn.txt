@@ -1,0 +1,360 @@
+33. Vấn đề phối hợp, Phần I
+E. Y.: Tôi chỉ đọc đi đọc lại cho chính mình nghe, cho đến khi tôi có thể chọn giấc ngủ: Tất cả đều phụ thuộc vào J. K. Rowling.
+Phiên bản lý thuyết quyết định được sử dụng trong chương này không phải là phiên bản chiếm ưu thế về mặt học thuật. Nó dựa trên thứ gọi là “lý thuyết quyết định vượt thời gian” đang được phát triển bởi (trong số những người khác) Gary Drescher, Wei Dai, Vladimir Nesov, và, à… (ho vài lần) tôi.
+---
+Tanh ấy phần đáng sợ nhất là toàn bộ sự việc đã vượt khỏi tầm kiểm soát nhanh đến mức nào.
+“Albus,” Minerva nói, thậm chí không cố giấu đi sự lo lắng trong giọng nói khi hai người họ bước vào Đại Sảnh, “phải làm gì đó thôi.”
+Không khí ở Hogwarts trước Giáng sinh thường tươi sáng và vui vẻ. Đại Sảnh đã được trang trí với màu xanh lá cây và đỏ, theo tên một Slytherin và một Gryffindor mà đám cưới Yule của họ đã trở thành biểu tượng của tình bạn vượt qua các Gia tộc và lòng trung thành, một truyền thống gần như cổ xưa như chính trường Hogwarts và thậm chí đã lan rộng đến các quốc gia Muggle.
+Bây giờ các sinh viên đang ăn tối đang liếc nhìn qua vai một cách lo lắng, hoặc gửi những ánh mắt hằn học về phía các bàn khác, hoặc vào một số bàn đang tranh cãi nảy lửa. Có lẽ bạn có thể mô tả bầu không khí là căng thẳngnhưng cụm từ hiện lên trong đầu Minerva là mức độ thận trọng thứ năm.
+Lấy một ngôi trường, thành bốn ngôi nhà được chia…
+Bây giờ vào mỗi năm, thêm ba đội quân tham chiến.
+Và sự hợp tác của Dragon, Sunshine và Chaos đã lan rộng hơn những năm đầu tiên; họ đã trở thành quân đội của những người không có quân đội. Các học sinh đeo băng tay có biểu tượng lửa hoặc nụ cười hoặc bàn tay giơ lên ​​và nguyền rủa nhau trên hành lang. Cả ba vị tướng năm nhất đều bảo họ dừng lại—ngay cả Draco Malfoy cũng nghe thấy cô nói và sau đó gật đầu dứt khoát—nhưng những người được cho là thuộc hạ của họ đã không nghe.
+Cụ Dumbledore nhìn ra những chiếc bàn với ánh mắt xa xăm. “Ở mọi thành phố,” ông phù thủy già nhẹ nhàng trích dẫn, “dân cư từ lâu đã bị chia thành hai phe Xanh lam và Xanh lục… Và họ chiến đấu chống lại đối thủ của mình mà không biết vì mục đích gì mà họ tự gây nguy hiểm cho mình… Vì vậy, trong họ lớn lên một sự thù địch vô cớ, không có nguyên nhân, và không bao giờ chấm dứt hay biến mất, vì nó không nhường chỗ cho những ràng buộc hôn nhân, mối quan hệ hay tình bạn, và trường hợp này cũng giống nhau ngay cả khi những người có quan điểm khác nhau về những màu sắc này là anh em hay bất kỳ họ hàng nào khác, về phần tôi, tôi không thể gọi điều này là gì ngoại trừ căn bệnh của tâm hồn…”
+“Tôi xin lỗi,” Minerva nói, “tôi không—”
+“Procopius,” cụ Dumbledore nói. "Họ rất coi trọng việc đua xe ngựa ở Đế chế La Mã. Đúng vậy, Minerva, tôi đồng ý rằng phải làm gì đó."
+“Sớm thôi,” Minerva nói, giọng cô ấy còn trầm hơn nữa. “Albus, tôi nghĩ việc này phải xong trước thứ bảy.”
+Vào Chủ nhật, hầu hết học sinh sẽ rời Hogwarts để ở lại nghỉ lễ cùng gia đình; Thứ Bảy sau đó là trận chiến cuối cùng của ba đội quân năm nhất sẽ quyết định việc trao tặng điều ước Giáng sinh ba lần bị nguyền rủa của Giáo sư Quirrell.
+Cụ Dumbledore liếc nhìn cô, nghiên cứu cô một cách nghiêm túc. “Bạn sợ rằng vụ nổ sẽ xảy ra và có người sẽ bị thương.”
+Minerva gật đầu.
+“Và giáo sư Quirrell sẽ bị đổ lỗi.”
+Minerva lại gật đầu, mặt cô căng thẳng. Từ lâu cô đã trở nên khôn ngoan trong cách sa thải các Giáo sư Phòng thủ. "Albus," Minerva nói, "bây giờ chúng ta không thể mất Giáo sư Quirrell, chúng ta không thể! Nếu ông ấy ở lại đến tháng Một, những học sinh năm thứ năm của chúng ta sẽ vượt qua OWL, nếu ông ấy ở lại đến tháng Ba, những học sinh năm thứ bảy của chúng ta sẽ vượt qua NEWT, ông ấy sẽ khắc phục những năm bị lãng quên trong nhiều tháng, cả một thế hệ sẽ lớn lên có khả năng tự vệ bất chấp lời nguyền của Chúa tể Hắc ám—cậu phải dừng trận chiến, Albus! Hãy cấm quân đội ngay bây giờ!"
+“Tôi không chắc Giáo sư Phòng thủ sẽ chấp nhận điều đó một cách tử tế,” cụ Dumbledore nói, liếc nhìn về phía Bàn Trưởng, nơi Quirrell đang chảy nước miếng vào món súp của mình. “Anh ấy có vẻ gắn bó nhất với đội quân của mình, mặc dù khi tôi đồng ý, tôi nghĩ sẽ có bốn đội mỗi năm.” Lão phù thủy thở dài. "Một người thông minh, có lẽ có ý định tốt nhất; nhưng tôi e rằng có lẽ không đủ thông minh. Và việc cấm quân đội cũng có thể gây ra vụ nổ."
+“Nhưng vậy Albus, cậu sẽlàm gì?”
+Vị phù thủy già ưu ái cô bằng một nụ cười nhân từ. "Ồ, tất nhiên là tôi sẽ âm mưu. Đó là mốt mới ở Hogwarts."
+Và họ đã đến quá gần Bàn Đầu để Minerva có thể nói gì thêm.
+---
+Điều đáng sợ là toàn bộ sự việc đã vượt khỏi tầm kiểm soát nhanh đến mức nào.
+Trận chiến đầu tiên vào tháng 12 đã… lộn xộn, hoặc Draco đã nghe như vậy.
+Trận chiến thứ hai đãloạn trí.
+Và trận tiếp theo sẽ còntệ hơn, trừ khi ba người họ cùng nhau thành công trong nỗ lực tuyệt vọng cuối cùng nhằm ngăn chặn nó.
+“Giáo sư Quirrell, điều này thật điên rồ,” Draco nói thẳng thừng. “Đây không còn là Slytherin nữa, chỉ là…” Draco không nói nên lời. Anh bất lực xua tay. "Bạn không thể thực hiện bất kỳ âm mưu thực sự nào với tất cả những thứ này đang diễn ra. Trận chiến trước, một trong những người lính của tôi đã giả tự sát. Chúng tôi cóHufflepuffsđang cố gắng lập âm mưu, và họ nghĩ rằng họ có thể, nhưng họkhông thể. Mọi thứ bây giờ chỉ xảy ra một cách ngẫu nhiên, nó không liên quan gì đến ai thông minh nhất hoặc đội quân nào chiến đấu tốt nhất, đó là..." Anh ấy thậm chí không thể mô tả nó.
+“Tôi đồng ý với ngài Malfoy,” Granger nói với giọng của một người chưa bao giờ mong đợi được nghe chính mình nói những lời đó. “Cho phép những kẻ phản bội không có tác dụng đâu, giáo sư Quirrell.”
+Draco đã cố gắng cấm bất kỳ ai trong quân đội của mình âm mưu ngoại trừ anh ta, và điều đó chỉ khiến các âm mưu hoạt động ngầm, không ai muốn bị bỏ rơi khi những người lính ởđội quânkhác lên kế hoạch. Sau khi thua thảm hại trong trận chiến cuối cùng, cuối cùng anh ta đã nhượng bộ và thu hồi sắc lệnh của mình; nhưng lúc đó binh lính của ông đã bắt đầu thực hiện các kế hoạch cá nhân của riêng họ mà không có bất kỳ hình thức phối hợp trung tâm nào.
+Sau khi được thông báo tất cả các kế hoạch, hoặc những gì binh lính của anh tuyên bố là kế hoạch của họ, Draco đã cố gắng phác thảo một âm mưu để giành chiến thắng trong trận chiến cuối cùng. Cần nhiều hơn ba thứ khác nhau để làm đúng, và Draco đã sử dụngIncendiotrên giấy vàEvertođể làm tan tro, bởi vì nếu Cha nhìn thấy nó thì ông sẽ bị từ chối.
+Mí mắt của giáo sư Quirrell khép lại, cằm tựa lên tay khi ông nghiêng người về phía bàn làm việc. “Còn cậu, cậu Potter?” Giáo sư Phòng thủ cho biết. “Anh cũng đồng ý chứ?”
+Harry nói: “Tất cả những gì chúng ta cần làm là bắn Franz Ferdinand và chúng ta có thể bắt đầu Thế chiến thứ nhất. "Mọi chuyện đã hoàn toàn hỗn loạn. Tôi ủng hộ điều đó."
+“Harry!” Draco nói trong sự kinh ngạc tột độ.
+Anh thậm chí còn không nhận ra cho đến một giây sau rằng mình đã nói điều đó vào cùng một thời điểm và với cùng một giọng điệu phẫn nộ giống như Granger.
+Granger giật mình liếc nhìn anh, và Draco cẩn thận giữ vẻ mặt trung lập. Ối.
+“Đúng vậy!” Harry nói. "Tôi đang phản bội bạn! Cả hai bạn! Một lần nữa! Ha ha!"
+Giáo sư Quirrell đang mỉm cười nhẹ, dù mắt ông vẫn nhắm hờ. “Và tại sao vậy, cậu Potter?”
+“Bởi vì tôi nghĩ tôi có thể đương đầu với sự hỗn loạn tốt hơn cô Granger hay ông Malfoy,” kẻ phản bội nói. “Cuộc chiến của chúng ta là một trò chơi có tổng bằng 0, dễ hay khó theo nghĩa tuyệt đối không quan trọng, chỉ quan trọng là ai làm tốt hơn hay kém hơn.”
+Harry Potter học quá nhanh.
+Đôi mắt của giáo sư Quirrell di chuyển dưới mí mắt để nhìn Draco, rồi đến Granger. "Thật sự, thưa ông Malfoy, cô Granger, tôi đơn giản là không thể sống yên ổn nếu dập tắt được sự cố lớn trước khi nó lên đến đỉnh điểm. Một trong những người lính của ông thậm chí đã trở thành bốn đặc vụ."
+“Gấp bốn?” Granger nói. “Nhưng chỉ có ba bên trong cuộc chiến!”
+"Đúng," giáo sư Quirrell nói, "bạn sẽ nghĩ vậy phải không. Tôi không chắc trong lịch sử từng có một điệp viên bốn người hay bất kỳ đội quân nào có tỷ lệ kẻ phản bội thật và giả cao như vậy. Chúng ta đang khám phá những thế giới mới, cô Granger, và bây giờ chúng ta không thể quay lại."
+Draco rời khỏi văn phòng Giáo sư Phòng thủ với hàm răng nghiến chặt vào nhau, và Granger trông thậm chí còn khó chịu hơn khi ở bên cạnh anh ta.
+“Tôi không thể tin được là cậu đã làm điều đó, Harry!” Granger nói.
+“Xin lỗi,” Harry nói, không có vẻ xin lỗi chút nào, môi anh cong lên thành một nụ cười vui vẻ của ác quỷ. "Hãy nhớ, Hermione, đâychỉ làmột trò chơi, và tại sao những vị tướng như chúng ta lại là những người duy nhất lên kế hoạch? Và ngoài ra, hai bạn sẽ làm gì với việc đó? Lập nhóm chống lại tôi?"
+Draco liếc nhìn Granger, biết rằng khuôn mặt của anh cũng căng cứng như cô. Harry ngày càng tin tưởng một cách công khai và hả hê hơn vào việc Draco từ chối có lý tưởng chung với một cô gái máu bùn; và Draco bắt đầuphát ốmvì điều đó đã được dùng để chống lại anh ta. Nếu tình trạng này kéo dài lâu hơn nữa thì anh ấysẽliên minh với Granger chỉ để đè bẹp Harry Potter, và xem con trai của một tên máu bùn thíchđiều đó đến mức nào.
+---
+Điều đáng sợ là toàn bộ sự việc đã vượt khỏi tầm kiểm soát nhanh đến mức nào.
+Hermione nhìn chằm chằm vào tờ giấy da mà Zabini đã đưa cho cô, cảm thấy hoàn toàn bất lực.
+Có những cái tên và những đường nối tên với những cái tên khác, và một số đường có màu sắc khác nhau và…
+“Hãy cho tôi biết,” Tướng Granger nói, “có ai trong quân đội của tôikhông phải làgián điệp không?”
+Hai người họ không ở trong văn phòng mà ở một lớp học vắng vẻ khác, và họ chỉ có một mình; bởi vì, Đại tá Zabini đã nói, bây giờ gần như chắc chắn rằng ít nhất một trong số các thuyền trưởng là kẻ phản bội. Có lẽ là Thuyền trưởng Goldstein, nhưng Zabini không biết chắc chắn.
+Câu hỏi của cô đã khiến cậu bé Slytherin nở một nụ cười mỉa mai. Blaise Zabini luôn có vẻ hơi khinh thường cô, nhưng anh dường như không thực sự ghét cô; không có gì giống như sự chế nhạo mà anh dành cho Draco Malfoy, hay sự oán giận mà anh dành cho Harry Potter. Lúc đầu cô lo lắng về việc Zabini sẽ phản bội cô, nhưng cậu bé dường như liều lĩnh chứng tỏ rằng hai vị tướng còn lại cũng không hơn mình; và Hermione nghĩ rằng mặc dù Zabini có thể sẽ vui lòng bán cô ấy cho bất kỳ aikhácnhưng anh ấy sẽ không bao giờ để Malfoy hoặc Harry thắng.
+“Hầu hết binh lính của bạnđềuvẫn trung thành với bạn, tôi khá chắc chắn,” Zabini nói. “Chỉ là không ai muốn bị loại khỏi cuộc vui thôi.” Vẻ khinh bỉ trên khuôn mặt của Slytherin cho thấy rõ hắn nghĩ gì về những người không coi trọng việc âm mưu. “Vì vậy, họ nghĩ rằng họ có thể là điệp viên hai mang và bí mật làm việc cho phe chúng tôi trong khi giả vờ phản bội chúng tôi.”
+“Và điều đó cũng sẽ áp dụng cho bất kỳ ai trongđội quânkhác nói rằng họ muốn trở thànhgián điệpcủa chúng tôi,” Hermione cẩn thận nói.
+Cậu bé Slytherin nhún vai. "Tôi nghĩ tôi đã làm rất tốt khi nói ra những người thực sự muốn bán đứng Malfoy, tôi không chắccó aithực sự muốn bán đứng Potter cho bạn. Nhưng Nott chắc chắn sẽ phản bội Potter vì Malfoy và vì tôi đã để Entwhistle tiếp cận anh ta được cho là thay mặt cho Malfoy và Entwhistle thực sự báo cáo cho chúng tôi, điều đó gần như tốt—"
+Hermione nhắm mắt lại một lúc. “Chúng ta sẽ thua, phải không?”
+"Nhìn này," Zabini kiên nhẫn nói, "Hiện tại bạn đang dẫn đầu về số điểm Quirrell. Chúng ta chỉ cần không thua trận chiến cuối cùng này hoàn toànvà bạn sẽ có đủ điểm Quirrell để giành được điều ước Giáng sinh."
+Giáo sư Quirrell đã thông báo rằng trận chiến cuối cùng sẽ diễn ra dựa trên một hệ thống tính điểm chính thức, hệ thống này đã được yêu cầu ông thực hiện để tránh bị buộc tội lại sau đó. Mỗi lần bạn bắn ai đó, tướng quân của bạn sẽ nhận được hai điểm Quirrell. Một tiếng cồng sẽ vang lên khắp khu vực chiến đấu (họ vẫn chưa biết mình sẽ chiến đấu ở đâu, mặc dù Hermione đang hy vọng vào khu rừng một lần nữa, nơi Sunshine đã làm tốt) và âm vực của nó sẽ cho biết đội quân nào đã giành được điểm. Và nếu ai đó giả vờ bị đánh, thì chiêng sẽ vang lên, và sau đó một chiêng đôi sẽ vang lên, không sau một thời gian cố định, để báo hiệu sự rút lại. Và nếu bạn gọi tên một đội quân, hãy kêu lên “Vì Nắng!” hoặc "Vì sự hỗn loạn!" hoặc “Vì Rồng!”, nó chuyển lòng trung thành của bạn với đội quân đó…
+Ngay cả Hermione cũng có thể nhìn ra lỗ hổng trong bộ quy tắcđó. Nhưng Giáo sư Quirrell đã tiếp tục thông báo rằng nếu ban đầu bạn được phân công vào Sunshine, không ai có thể bắn bạn dưới danh nghĩa Sunshine—hay đúng hơn là họ có thể, nhưng sau đó Sunshine đã mất một điểm Quirrell duy nhất, tượng trưng bằng một chiếc chiêng ba. Điều đó ngăn cản bạn bắn lính của chính mình để lấy điểm và không khuyến khích tự sát trước khi kẻ thù bắt được bạn, nhưng bạn vẫn có thể bắn gián điệp nếu cần.
+Hiện tại, Hermione có 244 điểm Quirrell, Malfoy có 219 điểm, còn Harry có 221 điểm; và có 24 người lính trong mỗi đội quân.
+“Vì thế chúng ta chiến đấu cẩn thận,” Hermione nói, “và cố gắng đừng thua quá nặng.”
+“Không,” Zabini nói. Khuôn mặt của cậu bé Slytherin bây giờ trở nên nghiêm túc. "Vấn đề là, Malfoy và Potter đều biết rằng cách duy nhất để giành chiến thắng là kết hợp và đè bẹp chúng ta, sau đó tự mình chiến đấu. Vì vậy, đây là điều tôi nghĩ chúng ta nên làm—"
+Hermione rời khỏi lớp học trong tâm trạng bàng hoàng. Kế hoạch của Zabini không phải là kế hoạch rõ ràng, nó kỳ lạ, phức tạp và nhiều tầng lớp và là thứ mà cô mong đợi Harry sẽ nghĩ ra chứ không phải Zabini. Cô ấy cảm thấy thật sai lầm khi có thểhiểumột kế hoạch như vậy. Những cô gái trẻ không thể hiểu được những kế hoạch như thế. Chiếc Mũ sẽ sắp xếp cô vào Slytherin nếu nó thấy rằng cô có thể hiểu được những kế hoạch như thế…
+---
+Điều tuyệt vời là anh ấy có thể khiến tình trạng hỗn loạn leo thang nhanh đến mức nào khi anh ấy bắt đầu cố tình làm điều đó.
+Harry ngồi trong văn phòng của mình; anh ấy đã được trao quyền đặt hàng đồ nội thất từ ​​gia tinh, vì vậy anh ấy đã đặt mua một chiếc ngai vàng và những tấm rèm có hoa văn màu đen và đỏ thẫm. Ánh sáng đỏ tươi như máu, trộn lẫn với bóng tối, đổ xuống sàn nhà.
+Có điều gì đó trong Harry cảm giác như cuối cùng anh cũng đã về nhà.
+Trước mặt anh là bốn Trung úy của Chaos, những tay sai đáng tin cậy nhất của anh, một trong số họ là kẻ phản bội.
+Cái này. Cuộc sống lẽ ra phải như thế này.
+“Chúng ta đã tập hợp rồi,” Harry nói.
+“Hãy để sự hỗn loạn ngự trị,” bốn Trung úy của anh ta đồng thanh.
+“Tàu bay của tôi đầy lươn,” Harry nói.
+Bốn trung úy của anh đồng thanh: “Tôi sẽ không mua chiếc đĩa này, nó bị xước rồi”.
+“Tất cả đều là những khu rừng nhỏ.”
+“Và bà mẹ thích outgrabe hơn!”
+Thế là xong các thủ tục.
+“Sự nhầm lẫn diễn ra như thế nào?” Harry nói bằng giọng thì thầm khô khan giống như Hoàng đế Palpatine.
+“Mọi việc suôn sẻ, Tướng quân Chaos,” Neville nói với giọng điệu mà anh luôn sử dụng cho các vấn đề quân sự, một giọng điệu trầm đến nỗi cậu bé thường xuyên phải dừng lại và ho. Vị Trung úy Chaotic ăn mặc gọn gàng trong bộ áo choàng đi học màu đen, được trang trí bằng màu vàng của Nhà Hufflepuff, mái tóc được rẽ ngôi và chải chuốt theo phong cách thường thấy của một cậu bé nghiêm túc. Harry thích sự khác biệt này hơn bất kỳ chiếc áo choàng nào họ từng thử. “Quân đoàn của chúng tôi đã bắt đầu năm âm mưu mới kể từ tối hôm qua.”
+Harry cười nham hiểm. “Có ai trong số họ có cơ hội làm việc không?”
+“Tôi không nghĩ vậy,” Neville of Chaos nói. “Đây là báo cáo.”
+“Tuyệt vời,” Harry nói, và cười lạnh lùng khi lấy tờ giấy da từ tay Neville, cố gắng hết sức để làm cho nó nghe như thể cậu đang bị nghẹn vì bụi. Điều đó nâng tổng số lên sáu mươi.
+Hãy để Dracothửxử lý việc đó. Hãy để anh ấythử.
+Và về phần Blaise Zabini…
+Harry lại cười, và lần này thậm chí không cần phải cố gắng để tỏ ra ác độc. Anh ấy thực sự cần mượn con vật cưng Kneazle của ai đó cho các cuộc họp với nhân viên của mình, vì vậy anh ấy sẽ có một con mèo để vuốt ve trong khi làm việc này.
+“Quân đoàn có thể ngừng âm mưu ngay bây giờ không?” Finnigan xứ Hỗn loạn nói. “Ý tôi là, chẳng phải chúng ta đã có đủ rồi sao—“
+“Không,” Harry nói thẳng thừng. “Chúng tôi có thểkhông bao giờcó đủ lô đất.”
+Giáo sư Quirrell đã diễn đạt nó một cách hoàn hảo. Có lẽ họ đang đẩy các ranh giới đi xa hơn mức họ từng bị đẩy; và Harry sẽ không thể sống với chính mình nếu quay lại lúc này.
+Có tiếng gõ cửa.
+“Đó sẽ là Tướng Rồng,” Harry nói, mỉm cười với một linh cảm xấu xa. "Anh ấy đến đúng như tôi mong đợi. Hãy dẫn anh ấy vào và các bạn hãy ra ngoài."
+Và bốn Trung úy của Hỗn loạn lê bước ra ngoài, ném ánh mắt đen tối về phía Draco khi tướng địch tiến vào hang ổ bí mật của Harry.
+Nếu không được phép làm điều này khi lớn hơn, Harry sẽ ở lại lớp mười một mãi mãi.
+---
+Mặt trời đang nhỏ giọt qua những tấm rèm đỏ, chiếu những tia máu nhảy múa khắp sàn từ phía sau chiếc ghế đệm cỡ người lớn của Harry Potter, mà cậu đã phủ những ánh vàng và bạc lấp lánh và nhất quyết gọi nó là ngai vàng của mình.
+(Draco bắt đầu cảm thấy tự tin hơn rất nhiều rằng mình đã làm điều đúng đắn khi quyết định lật đổ Harry Potter trước khi hắn có thể thống trị thế giới. Draco thậm chí không thểtưởng tượngsống dưới sự cai trị của hắn sẽ như thế nào.)
+“Chào buổi tối, Tướng Rồng,” Harry Potter nói bằng giọng thì thầm lạnh lùng. “Bạn đã đến đúng như tôi mong đợi.”
+Điều này không có gì đáng ngạc nhiên, vì Draco và Harry đã thống nhất trước về thời gian gặp mặt.
+Và cũng không phải buổi tối, nhưng lúc này Draco biết rõ hơn là không nên nói gì.
+“Tướng Potter,” Draco nói với vẻ nghiêm túc nhất có thể, “anh biết rằng hai đội quân của chúng ta phải hợp tác cùng nhau đểmột trong haitrong chúng ta đạt được mong muốn của Giáo sư Quirrell, phải không?”
+“Đúng vậy,” Harry rít lên, cứ như thể cậu bé nghĩ mình là một Parselmouth. "Chúng ta phải hợp tác để tiêu diệt Sunshine, và chỉ sau đó mới chiến đấu giữa chúng ta. Nhưng nếu một trong chúng ta phản bội người kia sớm hơn, người đó có thể giành được lợi thế trong trận chiến sau này. Và Sunshine General, người biết tất cả những điều này, sẽ cố gắng lừa mỗi người trong chúng ta nghĩ rằng người kia đã phản bội họ. Và bạn và tôi, những người biết điều đó, sẽ bị cám dỗ để phản bội người kia và giả vờ rằng đó là mánh khóe của Granger. Và Granger cũng biếtđiều đó."
+Draco gật đầu. Điều đó là hiển nhiên. “Và… cả hai chúng tôichỉmuốn giành chiến thắng, và không ai khác sẽ trừng phạt một trong hai chúng tôi nếu chúng tôi phản bội…”
+“Chính xác,” Harry Potter nói, khuôn mặt cậu bây giờ trở nên nghiêm túc. “Chúng ta đang phải đối mặt với một tình thế tiến thoái lưỡng nan của tù nhânthực sự.”
+Thế tiến thoái lưỡng nan của người tù, theo lời dạy của Harry, diễn ra như vậy. Hai tù nhân đã bị nhốt trong các phòng giam riêng biệt. Có bằng chứng chống lại từng tù nhân, nhưng chỉ là những bằng chứng nhỏ, đủ để nhận mức án hai năm tù cho mỗi người. Mỗi tù nhân có thể chọnđào ngũ, phản bội người khác, làm chứng chống lại họ trước tòa; và điều này sẽ giảm án tù cho họ một năm, nhưng cộng thêm hai năm cho người kia. Hoặc một tù nhân có thểhợp tác, giữ im lặng. Vì vậy, nếu cả hai tù nhân đào tẩu, mỗi người làm chứng chống lại người kia, mỗi người sẽ phải thụ án ba năm; nếu cả hai hợp tác hoặc giữ im lặng, mỗi người sẽ phải ngồi tù hai năm; nhưng nếu một người đào tẩu và người kia hợp tác, người đào tẩu sẽ thụ án một năm và người hợp tác sẽ thụ án bốn năm.
+Và cả hai tù nhân đều phải đưa ra quyết định của mình mà không biết lựa chọn của đối phương, và sau đó không ai có cơ hội thay đổi quyết định của mình.
+Draco đã quan sát thấy rằng nếu hai tù nhân là Tử thần Thực tử trong Chiến tranh Phù thủy, Chúa tể Hắc ám sẽ giết bất kỳ kẻ phản bội nào.
+Harry đã gật đầu và nói rằng đó làmộtcách để giải quyết Thế tiến thoái lưỡng nan của Tù nhân—và trên thực tế, cả hai Tử thần Thực tử đềumuốncó Chúa tể Hắc ám vì chính lý do đó.
+(Draco đã yêu cầu Harry dừng lại và để cậu ấy suy nghĩ về điều này một lúc trước khi họ tiếp tục. Điều đó đã giải thíchrất nhiềuvề lý do tại sao Cha và những người bạn của ông lại đồng ý phục vụ dưới quyền một Chúa tể Hắc ám, kẻ thường không tốt với họ…)
+Trên thực tế, Harry đã nói, đây gần như là lý do tại sao người ta có chính phủ—bạncó thể sẽ được lợi hơn nếu bạn ăn trộm của người khác, giống như mỗi tù nhân sẽ có lợi hơn nếu họ đào tẩu trong Thế tiến thoái lưỡng nan của tù nhân. Nhưng nếumọi ngườiđều nghĩ như vậy thì đất nước sẽ rơi vào hỗn loạn và mọi người sẽ trở nên tồi tệ hơn, giống như điều gì sẽ xảy ra nếu cả hai tù nhân đào tẩu. Vì thế người ta để chính phủ cai trị mình, giống như bọn Tử thần Thực tử đã để mình bị Chúa tể Hắc ám cai trị.
+(Draco đã yêu cầu Harry dừng lại lần nữa. Draco luôn cho rằng những pháp sư đầy tham vọng tự đặt mình vào quyền lực vì họ muốn cai trị, và mọi người để mình bị cai trị vì họ sợ những đứa Hufflepuff bé nhỏ. Và điều này, nếu ngẫm lại, vẫn có vẻ đúng; nhưng quan điểm của Harry thật hấp dẫn ngay cả khi nó sai.)
+Tuy nhiên, sau đó Harry đã tiếp tục, nỗi sợ bị bên thứ ba trừng phạt không phải là lý doduy nhấtcó thể để hợp tác trong Thế tiến thoái lưỡng nan của tù nhân.
+Giả sử, Harry đã nói, bạn đang chơi trò chơi với một bản sao giống hệt của chính bạn được tạo ra bằng phép thuật.
+Draco đã nói rằng nếu có hai người Draco, tất nhiên cả Draco đều không muốn điều gì xấu xảy ra với người kia, chưa kể rằng không một Malfoy nào để mình bị coi là kẻ phản bội.
+Harry lại gật đầu và nói rằng đây làmộtgiải pháp khác cho Thế lưỡng nan của tù nhân—mọi người có thể hợp tác vì họ quan tâm đến nhau, hoặc vì họ có ý thức về danh dự, hoặc vì họ muốn bảo vệ danh tiếng của mình. Quả thực, Harry đã nói, khá khó để xây dựng mộtThế tiến thoái lưỡng nan của tù nhân thực sự—trong đời thực, mọi Muggle quan tâm đến người khác, danh dự hay danh tiếng của họ hay sự trừng phạt của Chúa tể Hắc ám hayđiều gì đóngoài án tù. Nhưng giả sử bản sao đó là của ai đóhoàn toàních kỷ—
+(Pansy Parkinson là ví dụ mà họ đã sử dụng)
+—vì vậy mỗi Pansy chỉ quan tâm đến điều gì đã xảy ra vớicô ấychứ không quan tâm đến Pansy khác.
+Cho rằngđây là tất cả những gì Pansy quan tâm… và không có Chúa tể Hắc ám… và Pansy không lo lắng về danh tiếng của mình… và Pansy hoặc không có ý thức về danh dự hoặc không coi mình có nghĩa vụ với tù nhân kia…thìliệu Pansy hợp tác hay phản bội?
+Harry nói, một số người cho rằng điều hợp lý cần làm là để Pansy phản bội lại bản sao của cô ấy, nhưng Harry, cùng với một người tên là Douglas Hofstadter, cho rằng những người này đã sai. Bởi vì, Harry đã nói, nếu Pansy đào tẩu—không phải ngẫu nhiên, mà vì những gì mà cô ấy thấy giống nhưlý do hợp lý—thì Pansy kia cũng sẽ nghĩ giống hệt như vậy. Hai bản sao giống hệt nhau sẽ không quyết định những điều khác nhau. Vì vậy, Pansy phải lựa chọn giữa một thế giới trong đó cả hai Pansies hợp tác hoặc một thế giới trong đó cả hai Pansies đều đào tẩu, và cô ấy sẽ tốt hơn nếu cả hai bản sao hợp tác. Và nếu Harry nghĩ rằng những người 'có lý trí'đãđào ngũ trong Thế tiến thoái lưỡng nan của người tù, thì anh ấy sẽ không làm bất cứ điều gì để truyền bá loại 'lý trí' đó, bởi vì một đất nước hoặc một âm mưu toàn những người 'có lý trí' sẽ tan thành hỗn loạn. Bạn sẽ nói vớikẻ thùcủa mình về 'tính hợp lý'.
+Điều mà tất cảnghe có vẻhợp lý vào thời điểm đó, nhưngbây giờDraco đang nghĩ rằng…
+"Bạn đã nói," Draco nói, "rằng giải pháp hợp lý cho Thế lưỡng nan của tù nhân là hợp tác. Nhưng tất nhiên bạnmuốn tôi tin điều đó, phải không?" Và nếu Draco bị lừa hợp tác, Harry sẽ chỉ nói,Ha ha, lại phản bội cậu nữa rồi!và cười nhạo anh ấy về điều đó sau đó.
+“Tôi sẽ không giả mạo bài học của bạn,” Harry nghiêm túc nói. "Nhưng tôi phải nhắc cậu, Draco, rằng tôi không nói rằng cậu chỉ nên tự động hợp tác. Không phải trên mộtsự thậtThế tiến thoái lưỡng nan của tù nhân như thế này. Điều tôi đã nói là khi cậu chọn, cậu không nên nghĩ như thể cậu đang chọn chỉ cho chính mình,haygiống như cậu đang chọn cho tất cả mọi người. Cậu nên nghĩ như thể cậu đang chọn cho tất cả những ngườiđủ tương tựvới cậu rằng họ có thể sẽ làm điều tương tự như cậu làm cho những lý do tương tự. Và cũng chọn những dự đoán được đưa ra bởi những người biết đủ rõ về bạn để dự đoán chính xác về bạn, để bạn không bao giờ phải hối hận vì đã tỏ ra lý trí vì những dự đoán đúng mà người khác đưa ra về bạn—nhắc tôi giải thích về Vấn đề của Newcomb vào một lúc nào đó. Vì vậy, câu hỏi mà bạn và tôi phải hỏi, Draco, là: liệu chúng ta có đủ giống nhau để có thể làmđiều tương tựbất kể đó là gì, đưa ra các quyết định gần như giống nhau hay chúng ta biết nhau đủ rõ để dự đoán lẫn nhau? khác, đểtôicó thể dự đoán liệu bạn sẽ hợp tác hay phản bội, vàbạncó thể dự đoán rằng tôi đã quyết định làm điều tương tự mà tôi dự đoán bạn sẽ làm, bởi vìtôibiết rằng bạn có thể dự đoán tôi sẽ quyết định điều đó?”
+…và Draco không thể không nghĩ rằng vì anh phải cố gắng lắm mới hiểu đượcmột nửađiều đó nên câu trả lời rõ ràng là ‘Không’.
+“Ừ,” Draco nói.
+Có một sự tạm dừng.
+“Tôi hiểu rồi,” Harry nói, nghe có vẻ thất vọng. "Ồ, vậy thì tôi đoán chúng ta sẽ phải nghĩ ra cách khác."
+Draco đã không nghĩ rằng điều đó sẽ thành công.
+Draco và Harry đã nói đi nói lại về chuyện đó. Cả hai đã đồng ý từ rất lâu trước đó rằng những gì họ làm trên chiến trường sẽkhôngđược coi là thất hứa trong đời thực—mặc dù Draco hơi tức giận về những gì Harry đã làm trong văn phòng của Giáo sư Quirrell và đã nói như vậy.
+Nhưng nếu cả hai không thể dựa vào danh dự hay tình bạn, thìđãđể lại câu hỏi làm thế nào để quân đội của họ hợp tác cùng nhau để đánh bại Sunshine, bất chấp mọi thứ mà Granger có thể cố gắng chia rẽ họ. Các quy tắc của Giáo sư Quirrell không khiến việc để Sunshine giết binh sĩ của quân đội khác trở nên hấp dẫn—điều đó chỉ làm tăng thêm rào cản mà bạn phải vượt qua chính mình—nhưng nó đã cám dỗ mỗi bên cướp mạng thay vì hành động như một đội quân riêng lẻ, hoặc bắn một số binh lính của bên kia trong lúc trận chiến hỗn loạn…
+---
+Hermione đang đi bộ về Ravenclaw mà không thực sự nhìn xem mình đang đi đâu, tâm trí cô bận tâm đến chiến tranh, sự phản bội và những khái niệm không phù hợp với lứa tuổi khác, cô rẽ vào một góc phố và đâm thẳng vào một người trưởng thành.
+“Xin lỗi,” cô ấy nói một cách máy móc và sau đó, hoàn toàn không cần suy nghĩ, “Eeeeek!”
+“Đừng lo lắng, cô Granger,” nụ cười vui vẻ vang lên dưới đôi mắt lấp lánh và phía trên bộ râu bạc củaHiệu trưởng trường Hogwarts. “Anh đã được tha thứ rồi.”
+Ánh mắt cô bất lực dán chặt vào khuôn mặt hiền lành của pháp sư quyền năng nhất thế giới, đồng thời là Thủ lĩnh Warlock, cũng là Mugwump tối cao, người đã phát điên nhiều năm trước do căng thẳng khi chiến đấu với Chúa tể Hắc ám, và vô số sự thật khác lần lượt hiện lên trong tâm trí cô trong khi cổ họng cô liên tục phát ra những tiếng rít đáng xấu hổ.
+"Thật ra, cô Granger," Albus Percival Wulfric Brian Dumbledore nói, "Thật may mắn khi chúng ta gặp nhau. Tại sao, tôi vừa mới tò mò tự hỏi ba người các bạn đang nghĩ gì để thực hiện mong muốn của mình..."
+---
+Bình minh thứ bảy sáng sủa và trong trẻo với các học sinh đang nói thầm, như thể người hét lên đầu tiên có thể gây ra vụ nổ.
+---
+Draco đã hy vọng rằng họ sẽ lại được chiến đấu ở các tầng trên của Hogwarts. Giáo sư Quirrell đã nói rằng các cuộc đánh nhau thực sự có nhiều khả năng diễn ra ở thành phố hơn là trong rừng, và đánh nhau trong phòng học và hành lang được cho là mô phỏng điều đó, với những dải ruy băng để đánh dấu các khu vực được phép. Quân đội Rồng đã làm rất tốt trong những trận chiến đó.
+Thay vào đó, đúng như Draco lo sợ, Giáo sư Quirrell đã nghĩ ra một thứđặc biệtcho trận chiến này.
+Chiến trường là hồ Hogwarts.
+Và cũng không phải trên thuyền.
+Họ đang chiến đấudưới nước.
+Mực khổng lồ đã bị tê liệt tạm thời; các phép thuật đã được đặt ra để xua đuổi bọn xay lúa; Giáo sư Quirrell đã đến nói chuyện với người cá; và tất cả binh lính đã được cấpthuốc tác động dưới nướccho phép họ thở, nhìn rõ, nói chuyện với nhau và bơi không nhanh bằng đi bộ nhanh bằng cách đá chân.
+Một quả cầu bạc khổng lồ treo ở giữa chiến trường, tỏa sáng như một mặt trăng nhỏ dưới nước. Lúc đầu, nó sẽ giúp mang lại cảm giác về phương hướng. Mặt trăng sẽ dần dần đi vào nhật thực khi trận chiến diễn ra và khi trời tối hoàn toàn, trận chiến sẽ kết thúc nếu nó chưa kết thúc.
+Chiến tranh trong nước. Bạn không thể bảo vệ vành đai, những kẻ tấn công có thể tấn công bạn từ mọi hướng, và ngay cả khi có lọ thuốc, bạn cũng không thể nhìn thấy xa trong bóng tối của hồ.
+Và nếu bạn bơi quá xa nơi diễn ra trận đấu, sau một thời gian bạn sẽ bắt đầu phát sáng và rất dễ bị săn lùng—thông thường nếu một đội quân chạy tán loạn và bỏ chạy thay vì chiến đấu, Giáo sư Quirrell sẽ chỉ tuyên bố họ đã đánh bại; nhưng hôm nay họ đang làm việc trên một hệ thống tính điểm. Tất nhiên bạn vẫn còn một khoảng thời giantrước khibạn bắt đầu phát sáng nếu bạn muốn chơi sát thủ.
+Đội quân Rồng đã bị hạ gục khi bắt đầu trò chơi; trên cao xa xa, vầng trăng dưới nước xa xăm tỏa sáng. Mặt nước u ám chủ yếu được thắp sáng bởi BùaLumos, mặc dù binh lính của anh ta sẽ tắt đèn ngay khi họ bắt đầu diễn tập. Chẳng ích gì khi để kẻ thù nhìn thấy bạn trước khi bạn nhìn thấy chúng.
+Draco đá chân anh vài lần, đẩy anh lên vị trí cao hơn, từ đó anh có thể nhìn xuống nơi những người lính của anh đang lơ lửng trên mặt nước.
+Các cuộc trò chuyện gần như kết thúc ngay lập tức dưới cái nhìn lạnh lùng của Draco, những người lính của anh ngước nhìn anh với vẻ mặt vừa sợ hãi vừa lo lắng.
+“Hãy nghe tôi nói thật cẩn thận,” Tướng Malfoy nói. Giọng anh ấy phát ra thấp hơn một chút, hơi khàn khàn với bong bóng,nói với tôi một cách cẩn thận, nhưng âm thanh truyền đi rõ ràng. "Chỉ có một cách duy nhất để chúng ta thắng trận này. Chúng ta phải hành quân đến Sunshine cùng với Chaos và đánh bại Sunshine.Sau đó,chúng ta chiến đấu với Potter và giành chiến thắng. Đó làphải cóxảy ra, hiểu không? Dù có chuyện gì xảy ra đi nữa, phần đóphảixảy ra theo cách đó—"
+Và Draco giải thích kế hoạch mà anh và Harry đã nghĩ ra.
+Những cái nhìn kinh ngạc được trao đổi giữa những người lính.
+“—và nếu bất kỳâm mưunào của anh cản trở việc đó,” Draco kết thúc, “sau khi chúng ta ra khỏi bờ, tôi sẽ đốt anhlửa.”
+Có một điệp khúc lo lắng của Yessirs.
+“Và tất cả những người có mệnh lệnh bí mật, hãy đảm bảo thực hiện chúngđến tận từng lá thư,” Draco nói.
+Khoảng một nửa binh lính của hắngật đầu công khaivà Draco đã đánh dấu cái chết của họ sau khi hắn lên nắm quyền.
+Tất nhiên, tất cả các mệnh lệnh riêng tư đều là giả mạo, chẳng hạn như một con Rồng được yêu cầu giao nhiệm vụ phản bội giả cho một con Rồng khác, và con Rồng thứ hai được yêu cầu im lặng báo cáo bất cứ điều gì mà con Rồng đầu tiên nói. Draco đã nói với mỗi con Rồng rằng toàn bộ cuộc chiến có thể phụ thuộc vào một điều duy nhất đó và anh hy vọng họ hiểu rằng nó quan trọng hơn những kế hoạch mà họ đã lập trước đó. Với may mắn, điều đó sẽ khiến tất cả những kẻ ngu ngốc vui vẻ và có thể loại bỏ một vài điệp viên để bắt nếu các báo cáo không khớp với hướng dẫn.
+Kế hoạch thực sự của Draco để chiến thắng Chaos… à, nó đơn giản hơn kế hoạch mà anh đã đốt cháy, nhưng cha vẫn không thích nó. Dù đã cố gắng nhưng Draco vẫn không thể nghĩ ra điều gì tốt hơn. Đó là một âm mưu màcó lẽkhông thể chống lại bất kỳ ai ngoại trừ Harry Potter. Trên thực tế, đólà kế hoạch ban đầu củaHarry, theo kẻ phản bội, mặc dù Draco đã đoán được điều đó mà không được nói. Draco và kẻ phản bội vừa sửa đổi nó một chút…
+---
+Harry hít một hơi thật sâu, cảm thấy tiếng nước róc rách vô hại trong phổi mình.
+Họ đã chiến đấu trong rừng và anh chưa có cơ hội để nói điều đó.
+Họ đã chiến đấu trên hành lang của Hogwarts và anh chưa có cơ hội để nói điều đó.
+Họ đã chiến đấu trên không, mỗi người lính đều được phát chổi, và việc nói điều đó vẫn chẳng có ý nghĩa gì.
+Harry đã nghĩ rằng cậu sẽ không bao giờ có thể nói được những lời đó, nhất là khi cậu vẫn còn đủ trẻ để chúng trở thành hiện thực…
+Quân đoàn hỗn loạn đang nhìn Harry bối rối, khi vị tướng của họ bơi với đôi chân hướng lên phía ánh sáng xa xăm của bề mặt, và đầu hướng xuống vực sâu âm u.
+“Tại sao các bạn lại bị lộn ngược?” người chỉ huy trẻ hét vào mặt quân đội của mình và bắt đầu giải thích cách chiến đấu sau khi các bạn từ bỏ định hướng đặc quyền của trọng lực.
+---
+Một tiếng chuông rỗng, vang vọng khắp mặt nước, và ngay lập tức, Zabini, Anthony cùng năm người lính khác lao xuống phía dưới, vào vùng sâu âm u của hồ. Parvati Patil, học sinh Gryffindor duy nhất trong nhóm, quay đầu lại một lúc và vẫy tay vui vẻ với tất cả họ khi cô ấy lặn xuống; và một lúc sau, Scott và Matt cũng làm như vậy. Phần còn lại chìm xuống và biến mất.
+Tướng Granger nuốt khan trong cổ họng khi nhìn họ rời đi. Cô ấy đang mạo hiểm mọi thứ vào việc này, chia rẽ quân đội của mình thay vì chỉ cố gắng mang theo càng nhiều quân địch càng tốt.
+Điều cần nhận ra, Zabini đã nói với cô, là sẽ không có đội quân nào di chuyển cho đến khi họ có một kế hoạch cho phép họ mong đợi chiến thắng. Sunshine không thể chỉ lập kế hoạch để giành chiến thắng mà còn phải làm cho cả hai đội quân khácnghĩ rằnghọ sẽ giành chiến thắng cho đến khi quá muộn.
+Ernie và Ron trông vẫn còn sốc. Susan đang nhìn theo những người lính đang biến mất với ánh mắt đầy tính toán. Đội quân của cô, những gì còn lại, trông ngơ ngác, những vệt sáng lốm đốm trên quân phục của họ khi tất cả đều trôi dạt ngay dưới mặt hồ đầy nắng.
+“Bây giờthì sao?” Ron nói.
+“Bây giờ chúng ta đợi,” Hermione nói, đủ lớn để tất cả binh lính nghe thấy. Thật kỳ lạ khi nói chuyện với miệng đầy nước, cô ấy cứ có cảm giác như mình đang phạm phải một hành vi bất lịch sự khủng khiếp nào đó trên bàn ăn và sắp chảy nước dãi khắp người. "Tất cả chúng ta còn lại ở đây sẽ bị hạ gục, nhưng dù sao thì điều đó cũng sẽ xảy ra khi Dragon và Chaos tấn công chúng ta. Chúng ta chỉ cần mang theo càng nhiều người trong số họ càng tốt."
+“Tôi có một kế hoạch,” một trong những Chiến binh Ánh dương của cô ấy nói… Hannah, giọng nói của cô ấy lúc đầu hơi khó nhận ra. “Mọi chuyện có vẻ phức tạp, nhưng tôi biết làm thế nào chúng ta có thể khiến Rồng và Hỗn loạn bắt đầu chiến đấu với nhau—“
+"Tôi cũng vậy!" Fay nói. "Tôi cũng có một kế hoạch! Thấy chưa, Neville Longbottom đang bí mật đứng về phía chúng ta—"
+“Bạnđang nói chuyện với Neville?” Ernie nói. “Điều đó không đúng,tôilà người—”
+Daphne Greengrass và một vài học sinh Slytherin khác không đi cùng Zabini đang cười khúc khích bất lực khi những tiếng kêu "Không, chờ đã,tôilà người đã bắt được Longbottom" vang lên từ hết người lính này đến người khác.
+Hermione chỉ nhìn họ một cách mệt mỏi.
+"Được rồi," Hermione nói khi mọi chuyện đã lắng xuống, "mọi người hiểu chưa? Tất cả các âm mưu của các cậu đều bị Quân đoàn hỗn loạn làm giả, hoặc có thể một số là của Dragon. Bất cứ aithực sự muốn phản bội Harry hoặc Malfoy đã đến gặp thẳng tôi hoặc Zabini, không phải cậu. Chỉ cần tiếp tục và so sánh các ghi chú về tất cả các âm mưu bí mật của các cậu và các cậu sẽ tự mình nhìn thấy." Cô ấy có thể không giỏi âm mưu như Zabini, nhưng cô ấy luôn có thể hiểu những gì tất cả các sĩ quan của cô ấy nói với cô ấy, đó là lý do tại sao Giáo sư Quirrell đã phong cô ấy làm tướng quân. "Vì vậy đừng bận tâm đến việc thực hiện bất kỳ âm mưu nào khi các đội quân khác đến đây. Hãy chiến đấu thôi, được chứ? Làm ơn nhé?"
+"Nhưng," Ernie nói với vẻ mặt sửng sốt, "Neville đang ở trong Hufflepuff!Ý bạn là anh ấy đã nói dốichúng tôi à?"
+Daphne cười ngặt nghẽo và bất lực đến mức những tiếng thở ra khiến cô lộn ngược trong nước.
+Ron u ám nói: "Tôi không chắcLongbottom là gì, nhưng tôi không nghĩ anh ấy là Hufflepuff nữa. Không phải bây giờHarry Potterđã đến với anh ấy."
+“Bạn có biết,” Susan nói, “tôiđã hỏianh ấy điều đó và Neville nói với tôi rằng anh ấy đã trở thành Chaos Hufflepuff?”
+“Dù sao thì,” Hermione nói to. “Zabini đã mang theo tất cả những người mà chúng tôi nghĩ là gián điệp đi cùng, vì vậy trong đội quâncủa chúng tôi, chúng tôi có thể ngừng theo dõi nhau quá nhiều, tôi hy vọng vậy.”
+“Anthonylà gián điệp?” Ron hét lên.
+“Parvatilà gián điệp?” Hannah thở hổn hển.
+Daphne nói: “Parvatihoàn toàn làmột điệp viên. “Cô ấy mua sắm ở cửa hàng giày gián điệp và tô son môi gián điệp, và một ngày nào đó cô ấy sẽ cưới một người chồng điệp viên tốt bụng và có rất nhiều điệp viên nhỏ.”
+Sau đó một tiếng cồng vang vọng trong nước, báo hiệu Sunshine vừa ghi được hai điểm.
+Ngay sau đó là ba chiêng của Rồng mất một điểm.
+Kẻ phản bội không được phép giết tướng, nhất là sau thảm họa trận đầu vào tháng 12 khi cả ba tướng đều bị bắn ngay phút đầu tiên. Nhưng với bất kỳ may mắn nào…
+“Ồ,” Hermione nói. “Có vẻ như ông Crabbe đang chợp mắt một chút.”
+---
+Giống như hai đàn cá, đoàn quân bơi theo.
+Neville Longbottom đá chân một cách chậm rãi và đều đặn. Lặn, luôn lặn theo bất cứ hướng nào bạn đang di chuyển. Bạn muốn cho kẻ thù thấy hình dáng nhỏ nhất của bạn, trình bày chúng bằng đầu hoặc chân của bạn. Vì vậy, bạn luôn lao xuống, lao xuống và hướng đầu về phía trước, còn kẻ thù luôn ở vị tríxuống.
+Giống như mọi Chaos Legionnaire trong quân đội, đầu của Neville liên tục quay khi cậu bơi, nhìn lên, nhìn xuống, xung quanh, mọi phía. Không chỉ theo dõi Sunshine Soldiers mà còn theo dõi bất kỳ dấu hiệu nào cho thấy Chaos Legionnaire đã rút đũa phép và chuẩn bị phản bội họ. Thông thường, những kẻ phản bội sẽ đợi cho đến khi trận chiến hỗn loạn rồi mới hành động, nhưng tiếng chuông sớm đó đã khiến tất cả bọn chúng phải cảnh giác.
+…sự thật là Neville đang cảm thấy buồn về điều đó. Vào tháng 11, anh ấy là một người lính trong một quân đội thống nhất, tất cả đều đoàn kết và giúp đỡ lẫn nhau, và bây giờ tất cả họ đều liên tục theo dõi nhau để tìm những dấu hiệu phản bội đầu tiên. Nó có thể vui hơn đối với General Chaos, nhưng gần như không vui bằng với Neville.
+Hướng trước đây được gọi là 'lên' ngày càng sáng hơn khi họ đến gần bề mặt và Ánh nắng hơn.
+“Ra tay,” Tướng Chaos nói.
+Đội của Neville rút đũa phép ra, chĩa thẳng về phía kẻ thù, trong khi đầu của họ quét xung quanh nhanh hơn. Nếu có những kẻ phản bội Sunny thì thời điểm chúng ra tay đang đến gần.
+Đàn cá còn lại, Đội quân Rồng, cũng đang làm điều tương tự.
+“Bây giờ!” giọng nói xa xa của Tướng Rồng hét lên.
+“Ngay bây giờ!” Tướng Chaos hét lên.
+“Vì Ánh Nắng!” tất cả binh lính của cả hai đội quân đều hét lên và lao xuống.
+---
+“Cái gì?” Minerva vô tình nói khi nhìn màn hình từ cạnh hồ, tiếng kêu vang vọng ở nhiều nơi khác; toàn bộ trường Hogwarts đang theo dõi trận chiến này như họ đã xem trận đầu tiên.
+Giáo sư Quirrell cười khô khốc. "Tôi đã cảnh báo thầy rồi, Hiệu trưởng. Không thể có luật lệ nếu không bị Potter lợi dụng."
+---
+Trong những giây phút quý giá, khi 47 người lính tấn công 17 người của cô, tâm trí Hermione trở nên trống rỗng.
+Tại sao…
+Sau đó, tất cả đã vào đúng vị trí.
+Mỗi khi một người lính gốc Sunshine bị ai đó gọi tên Sunshine bắn, cô ấy sẽ mất một điểm Quirrell. Khi hai Chiến binh Ánh Dương bị một trong hai đội quân bắn chết,cả hai đội quâncủa đối phương sẽ tiến gần hơn đến việc vượt qua cô ấy hai điểm, đó là cùng một lợi ích chỉđược chia sẻ. Và nếu ai bắn một người lính kháckhông phảinhân danh Nắng, thì chiêng đósẽ khônglạc vào cảnh hỗn loạn…
+Hermione đột nhiên rất mừng vì Zabini đã không thực hiện kế hoạch rõ ràng là gây rắc rối giữa hai đội quân còn lại khi họ tấn công Sunshine.
+Tuy nhiên, điều đó vẫn khiến bạn nản lòng khi cảm giác cơ hội của bạn đang vụt tắt, hy vọng bị tước đi.
+Hầu hết binh lính của Hermione vẫn tỏ ra bối rối, nhưng một số lại tỏ ra kinh hãi khi họ hiểu được điều đó.
+“Không sao đâu,” Susan Bones nói chắc nịch. Những cái đầu quay lại nhìn Thuyền trưởng Ánh Dương. "Công việc của chúng ta giống nhau, mang càng nhiều tên theo càng tốt. Và hãy nhớ, Zabini đã bắt hết bọn gián điệp! Chúng ta không cần phải cảnh giác nhưhọlàm!" Cô gái đang mỉm cười thách thức, khiến nhiều người lính khác cũng phải mỉm cười đáp lại, thậm chí cả chính Hermione. “Nó có thể giống như hồi tháng 11. Chúng ta chỉ cần ngẩng cao đầu, chiến đấu hết mình và tin tưởng lẫn nhau—”
+Daphne đã bắn cô ấy.
+---
+"Máu cho thần máu!" Neville of Chaos hét lên, mặc dù vì cậu ấy đang ở dưới nước nên nó phát ra giống như 'Blubbled for the blubbled glub!'
+Đội trưởng Weasley quay lại và giơ cây đũa phép của mình về phía Neville và bắn. Nhưng Neville đang bơihướng xuốngvề phía anh ta, cây đũa phép chỉ thẳng về phía trước, và điều đó có nghĩa là Khiên Đơn giản có thể che chắn toàn bộ hình dáng của Neville; nếu có ai bắn anh ấy bây giờ thì đó sẽ không phải là Sunny Ron.
+Một cái nhìn kiên quyết hiện rõ trên khuôn mặt của Thuyền trưởng Weasley, và ông ta lao thẳng về phía Neville, lẩm nhẩm từContego,mặc dù tấm khiên không hiện rõ dưới nước.
+Hai tướng địch bắn về phía nhau như những mũi tên được bắn ra khỏi cung, mỗi người đều nhằm mục đích xẻ đôi đối phương. Họ đã đấu tay đôi nhiều lần trước đó, nhưng lần này sẽ phải trả giá cho tất cả.
+(Ở xa bờ hồ, trăm hơi thở đang nín thở.)
+“Cầu vồng và kỳ lân!” Thuyền trưởng Ánh Dương gầm lên.
+“Dê đen có hàng nghìn con!”
+“Làm bài tập về nhà của bạn!”
+Càng ngày càng gần hơn, hai nhà vô địch lao tới, không sẵn sàng chuyển hướng, người đầu tiên quay đầu sẽ tạo ra một góc rộng dễ bị tổn thương và bị bắn, tuy nhiên nếu không mất bình tĩnh, họ sẽ đâm thẳng vào nhau…
+Rơi thẳng xuống khi kẻ thù lao thẳng lên đón mình, búa lao xuống gặp đe trong con đường không chịu rời…
+“Đòn tấn công đặc biệt, Chaotic Twist!”
+Neville nhìn thấy vẻ kinh hoàng trên khuôn mặt của Đội trưởng Weasley khi Bùa Bay bắt được anh ta. Họ đã thử nghiệm nó trước khi trận chiến bắt đầu; và đúng như Harry đã nghi ngờ,Wingardium Leviosađã trở thành một loại vũ khí hoàn toàn mới khi mọi người đang bơi dưới nước.
+"Nguyền rủa anh, Longbottom!" Ron Weasley hét lên, "Anh không thể chiến đấu nếu không có những đòn tấn công đặc biệt ngu ngốc của mình—"
+Và vào lúc đó, Thuyền trưởng Ánh Dương đã bị xoay sang một bên và Neville đã bắn vào chân anh ta.
+“Tôi không đấu tranh công bằng,” Neville nói với hình thể đang ngủ, “Tôi chiến đấu như Harry Potter.”
+---
+Granger: 237 / Malfoy: 217 / Potter: 220
+Nó vẫn còn đau mỗi lần anh phải bắn Hermione. Harry khó có thể đứng nhìn vẻ bình yên hiện lên trên khuôn mặt đang say ngủ của cô, cánh tay giờ đây buông thõng vô mục đích khi những đường cong của ánh nắng di chuyển trên bộ đồng phục rằn ri và đám mây trên mái tóc màu hạt dẻ của cô.
+Và nếu Harry cố gắng né tránh việc trở thành người bắn cô ấy… thì không chỉ Draco biết điều đó có nghĩa là gì, màHermionecũng sẽ cảm thấy bị xúc phạm.
+Cô ấy chưa chết,Harry tự nhủ trong đầu khi đôi chân đá đẩy anh ra xa,cô ấy chỉ đang nghỉ ngơi.Đồ ngốc.
+Bạn có chắc chắn không?bộ não của anh ấy nói.Nếu cô ấy là cựu Hermione thì sao? Chúng ta có thể quay lại và kiểm tra được không?
+Harry liếc nhìn lại một lúc.
+Thấy chưa, cô ấy ổn, có bong bóng chảy ra từ miệng cô ấy.
+Có thể đó là hơi thở cuối cùng của cô ấy thoát ra.
+Ôi hãy im lặng. Dù sao thì tại sao bạn lại hoang tưởng và bảo vệ như vậy?
+Ơ, người bạn thực sự đầu tiên mà chúng ta từng có trong đời? Này, nhớ chuyện gì đã xảy ra với hòn đá cưng của chúng ta không?
+Bạn có thểim đivề đống đổ nát vô giá trị đó không, nó thậm chí còn không còn sống chứ đừng nói đến có tri giác, đó giống như chấn thương thời thơ ấu thảm hại nhất từ ​​trước đến nay—
+Hai đội quân nhanh chóng tách ra, một lần nữa trở thành hai đàn cá.
+Tướng Granger đã giảm mười bảy điểm và mang theo ba con Chaotics và hai con Rồng; và một Chaotic và hai con Rồng đã bị bắn vì tội phản bội. Vậy là cô ấy đã mất bảy điểm, Harry mất một điểm, Draco mất hai điểm; điều đó giúp Sunshine tăng 20 điểm cho Dragon và 17 điểm cho Chaos. Chaos vẫn có thể giành chiến thắng dễ dàng nếu họ tiêu diệt hết 20 con Rồng còn lại. Tất nhiên, thẻ hoang dã là bảy Chiến binh Ánh Dương còn lại…
+…nếu bạn có thể gọi họ như vậy.
+Hai bãi cạn bơi cạnh nhau một cách khó khăn, binh lính của mỗi đội quân đang chờ lệnh bày tỏ lòng trung thành thực sự của mình và tấn công…
+"Những ai đã nhận được chúng," Harry nói to, "hãy nhớ các Lệnh Đặc biệt từ Một đến Ba. Và đừng quên đó là Merlin Says on Three. Đừng thừa nhận."
+Hai phần ba quân đội đáng tin cậy không gật đầu, và phần ba còn lại chỉ tỏ ra khó hiểu.
+Lệnh đặc biệt thứ nhất: Đừng bận tâm đến việc gọi ra bất kỳ mật khẩu nào trong trận chiến này, đừng tốn công sức vào bất kỳ âm mưu nào không được người chỉ huy đặc biệt phê duyệt; chỉ cần bơi, che chắn và bắn.
+Hermione và Draco đều đã chiến đấu với binh lính của mình, cố gắng khiến họ ngừng âm mưu trong suốt tháng 12. Harry đã khuyến khích binh lính của mình tiếp tục và ủng hộ âm mưu của họ trong hai trận chiến vừa qua… đồng thời nói với họ rằng vào một thời điểmtrong tương lainào đó, anh ấy có thể yêu cầu họ tạm dừng một hoặc hai âm mưu, và tất cả họ đều sẵn sàng đồng ý. Vì thế bây giờ, trong trận chiến quan trọng này, họ vui vẻ tuân lệnh.
+Harry chắc chắn rằng cả Hermione và Draco đều không thể ra lệnh đó thành công. Đó là sự khác biệt giữa việc những người lính của bạn coi bạn như một đồng minh trong âm mưu của họ và coi bạn như một ông già hư hỏng không muốn họ có bất kỳ niềm vui nào. Việc áp đặt trật tự đồng nghĩa với việc leo thang hỗn loạn, và nó cũng có tác dụng ngược lại…
+“Họ đây rồi!” ai đó hét lên và chỉ tay.
+Từ đáy hồ trỗi dậy những kẻ bị lãng quên, những người đã bỏ rơi trận chiến cuối cùng, bảy Chiến binh Ánh Dương mất tích, rực sáng hào quang của những kẻ hèn nhát, giờ đang lụi tàn khi họ quay trở lại trận chiến.
+Hai đàn cá dao động, chĩa đũa phép một cách khó chịu.
+“Hãy giữ lửa!” Harry hét lên, và một tiếng kêu tương tự phát ra từ Tướng Malfoy.
+Có khoảnh khắc nín thở.
+Sau đó bảy Chiến binh Ánh Dương bơi lên gia nhập Quân đoàn Rồng.
+Có một tiếng reo hò chiến thắng từ Quân đội Rồng.
+Có những tiếng kêu thất vọng từ một phần ba Quân đoàn hỗn loạn.
+Một số trong hai phần ba còn lại mỉm cười, mặc dù lẽ ra họ không nên làm vậy.
+Harry không cười.
+Ồ, điều này hoàn toàn không hiệu quả…
+Nhưng Harry không thể nghĩ ra điều gì tốt hơn.
+“Lệnh đặc biệt thứ hai và thứ ba vẫn được áp dụng!” Harry hét lên. "Trận đánh!"
+“Vì Quân đoàn hỗn loạn!” hai mươi Quân đoàn hỗn loạn gầm lên.
+“Vì Quân đội Rồng!” hai mươi Chiến binh Rồng và bảy Chiến binh Ánh dương gầm lên.
+Và lũ Chaotics lao thẳng xuống dưới, khi tất cả những kẻ phản bội đã sẵn sàng tấn công.
+---
+Granger: 237 / Malfoy: 220 / Potter: 226
+Đầu Draco quay cuồng điên cuồng, cố gắng cân nhắc chuyện gì đang xảy ra; bằng cách nào đó, mặc dù có lực lượng đông đảo hơn, anh ta vẫnmất thế chủ động. Bốn lực lượng Hỗn loạn nhỏ đang bị truy đuổi bởi bốn lực lượng Rồng lớn hơn, nhưng vì lực lượng của Draco là những kẻ đang cố gắng giao chiến, điều đó có nghĩa là họ phảiđi theonơi Hỗn loạnchạy, và bằng cách nào đó điều đó đang tạo ra sự tập trung lực Hỗn loạn sẽ bắn vào các mặt lộ ra của Rồng—
+Nó lại xảy ralần nữa!
+"Prismatis!" Draco hét lên, giơ cao đũa phép và tấm khiên mà bạn có thể nhìn thấy ngay cả trong nước, một bức tường phẳng nhiều màu lấp lánh đủ rộng để che chắn cho Draco và năm con Rồng khác đi cùng anh ta khỏi Lực lượng Hỗn loạn vừa bắt đầu bắn vào họ khi chúng bơi qua, vàkhiến năm con Rồng còn lại chuyểnsự chú ý của chúng trở lại Lực lượng Hỗn loạn mà chúng đang đuổi theo—
+Có một khoảnh khắc căng thẳng khi bùa ngủ nối tiếp bùa ngủ đâm vào Bức tường lăng kính của Draco, và Draco đang hy vọng với Merlin rằng không ai trong số bốn Chaotics đó học được Phép thuật đột phá—
+Sau đó là tiếng chuông chiến thắng của Rồng, lực lượng Hỗn loạn quay đầu đối chân và bắt đầu bơi đi; và Draco, tay anh ấy giờ hơi run, thả Bức tường lăng trụ xuống và hạ đũa phép xuống.
+Chiến đấu dưới nước thậm chí còn mệt mỏi hơn cả chiến đấu trên chổi.
+"Đừng đuổi theo!" Draco kêu lên với binh lính của mình khi họ bắt đầu đi theo, sau đó, "Sonorus! CẢI CÁCH CHO TÔI!"
+Lực lượng Rồng bắt đầu tập trung vào Draco, và lực lượng Hỗn loạn quay vòng và bắt đầutruy đuổinhững con Rồng ngay lập tức—Draco đã chửi thề lớn khi nghe thấy tiếng chuông chiến thắng của Hỗn loạn, ai đó đã không định hướng đúng Khiên Đơn giản của họ—và sau đó lực lượng Rồng ở trong phạm vi hỗ trợ của nhau và các Hỗn loạn đang di chuyển trở lại khoảng không âm u.
+Bằng cách nào đó, bất chấp ưu thế về quân số, đội Dragons đã ghi ba bàn vào lưới Chaotics và đội Chaotics đã ghi bốn bàn trở lại, và anh ta đã nghe thấy một điệp viên của Dragon bị xử tử. Hoặc là Harry Potter đã nghĩ ra rất nhiều ý tưởng rất hay rất nhanh, hoặc vì lý do không thể tưởng tượng được nào đó mà cậu ấy đã dành rất nhiều thời gian để tìm ra cách chiến đấu dưới nước. Việc này không hiệu quả và Draco cần phải suy nghĩ lại mọi việc.
+Có vẻ như mọi người cũng gặp khó khăn trong việc nhắm mục tiêu khi bơi, trận chiến có thể kéo dài đủ lâu để gọi là thời gian đó… mặt trăng dưới nước xa xôi bây giờ mới tròn một nửa, điều đó không tốt… anh ấy phải suy nghĩ lại mọi thứ nhanh…
+"Nó là gì vậy?" Padma Patil nói khi cô và lực lượng của mình bơi về phía Draco.
+Padma là người chỉ huy thứ hai của anh ta; cô ấy thông minh và mạnh mẽ, và hơn thế nữa, cô ấy ghét Granger và coi Harry như đối thủ, điều này khiến cô ấyđáng tin cậy. Làm việc với Padma khiến anh nhận ra sự thật của câu ngạn ngữ cổ rằng Ravenclaw là em gái của Slytherin; Draco đã rất ngạc nhiên khi cha anh nói với anh rằng đây là một ngôi nhà có thể chấp nhận được đối với người vợ tương lai của anh, nhưng giờ anh đã hiểu được ý nghĩa của nó.
+“Đợi cho đến khi tất cả chúng ta ở đây,” Draco nói. Sự thật là anh cần phải lấy lại hơi thở. Đó là vấn đề khi trở thành tướng quânvàpháp sư mạnh nhất, bạn phải tiếp tục sử dụng phép thuật.
+Zabini đến tiếp theo, chỉ huy một lực lượng gồm hai người Sunni và bốn con Rồng, một trong số đó là Gregory đang để mắt đến Zabini. Draco không tin tưởng Zabini. Và cả Draco và Zabini đều không tin tưởng người Sunni đủ để biến họ thành đa số trong bất kỳ đơn vị nào; họđược cho làtrung thành trực tiếp với Draco hoặc với Granger, người đã bị lừa bởi lời hứa rằng những con Rồng cuối cùng sẽ bị phản bội sau khi cả hai lực lượng đều đã cạn kiệt, cũng giống như những Chaotics đáng tin cậy hơn của Harry lẽ ra đã bị lừa không bắn vào người Sunni bởi lời hứa rằng họ sẽ bắn bùa Ngủ giả và chuyển sang hỗ trợ Chaos sau đó; nhưng có thể một số người Sunnitrung thành với Chaos vàkhôngbắn bùa ngủ thực sự và đó là lý do tại sao Dragon đã không giành chiến thắng theo cách lợi thế về số lượng lẽ ra phải giúp họ giành chiến thắng…
+Đơn vị tiếp theo đến gần đã bị tiêu hao, ba người lính cầm đũa phép trên hai người lính khác, những người đang bơi tay không.
+Draco nghiến răng. Thêm vấn đề về kẻ phản bội. Anh ấy cần nói chuyện với Giáo sư Quirrell về việc ít nhất phải có cách nào đó đểtrừng phạtnhững kẻ phản bội, những điều kiện như thế này làphi thực tế, trong đời thực, bạn tra tấn những kẻ phản bội của mình đến chết.
+“Tướng Malfoy!” người chỉ huy đơn vị gặp sự cố hét lên khi nó bơi lên, một cậu bé Nhà Ravenclaw tên là Terry. “Chúng tôi không biết phải làm gì—Cesi đã bắn Bogdan, nhưng Cesi nói Kellah đã nói với anh ấy rằng Bogdan đã bắn Spectre—”
+“Tôikhông!” Kellah nói.
+“Có, bạnđã làm!” Cesi hét lên. “Tướng quân Malfoy,cô ấy làgián điệp, lẽ ra tôi nên—”
+“Somnium,” Draco nói.
+Có tiếng chuông ba lần về việc Dragon mất một điểm, và sau đó cơ thể khập khiễng của Kellah bắt đầu trôi đi trong nước.
+Vào thời điểm này, Dracođãnghe thấy từ 'đệ quy' và anh ấy biết cốt truyện của Harry Potter khi nhìn thấy nó.
+(Thật không may, Dracochưanghe nói về chứng rối loạn tự miễn dịch, và ý nghĩkhôngdễ dàng xuất hiện trong đầu anh ta rằng một loại virus thông minh sẽ bắt đầu tấn công bằng cách tạo ra các triệu chứng của chứng rối loạn tự miễn dịch để khiến cơ thể mất lòng tin vào hệ thống miễn dịch của chính nó…)
+“Lệnh chung!” Draco cao giọng nói. "Không ai được phép bắn gián điệp ngoại trừ tôi, Gregory, Padma và Terry. Nếu có ai thấy điều gì khả nghi thì họ sẽ đến gặp một trong sốchúng tôi."
+Và sau đó—
+Có tiếng chuông của Sunshine ghi được hai điểm.
+“Cái gì?” Draco và Zabini nói cùng lúc; đầu họ quay vòng vòng. Có vẻ như không ai bị trúng đạn, và tất cả binh lính của Sunshine đều có mặt và tính toán. (Ngoại trừ Parvati, người đã bị bắn bởi một kẻ phản bội nào đó vẫn chưa rõ danh tính trong đội của Padma; và tất nhiên Padma đã bắn Parvati một lần nữa trong trường hợp cô ấy giả vờ, nên đó không phải là cô ấy…)
+“Kẻ phản bội Sunny trong Hỗn loạn?” Zabini nói, có vẻ bối rối. “Nhưng tất cả những thứ tôi biết đều tấn công trong cuộc tấn công của Chaos vào Sunshine—“
+"KHÔNG!" Padma nói với giọng chợt nhận ra. “Đó làChaosđang hành quyết một điệp viên!”
+“Cái gì?” Zabini nói. “Nhưng tại sao—”
+Và Draco đã hiểu được nó.Chết tiệt!"Bởi vì Potter nghĩ rằng anh ấy an toàn với việc anh ấy đánh bại Sunshine bao nhiêu, nhưng không an toàn với việc anh ấy đánh bạichúng tabao nhiêu! Vì vậy, anh ấy không muốn mất một điểm nào khi hành quyết một kẻ phản bội!Lệnh chung!Nếu bạn phải xử tử một kẻ phản bội, hãy gọi cho Sunshine trước! Và đừng quên quay lại Dragon sau đó—"
+---
+Granger: 253 / Malfoy: 252 / Potter: 252
+Cơ thể của Longbottom trôi dạt hỗn loạn trên mặt nước, tay chân loạng choạng. Cuối cùng, sau khi Draco bắn trúng thì tất cả bọn họ sẽ bắn anh ấylần nữachỉ để chắc chắn.
+Gần đó là Harry Potter, giờ được bảo vệ bởi một quả cầu lăng trụ, nhìn họ một cách nhăn nhó khi mảnh trăng lưỡi liềm cuối cùng đang dần thu nhỏ lại, ở một nơi nào đó rất xa. Nếu Longbottom bắn được thêm một tên lính nữa (Draco biết Harry đang nghĩ), nếu hai tên Chaotics có thể cầm cự được lâu hơn một chút, chúng có thể đãthắng…
+Sau khi Draco cải tổ lực lượng của mình và tấn công lần nữa, trận chiến tiếp theo và cuộc hành quyết các điệp viên dưới danh nghĩa của Sunshine đã khiến Sunshine dẫn trước Dragon và Chaos đúng một điểm. Một khi Harry đã bắt đầu làm việc đó, Draco không còn lựa chọn nào khác ngoài việc làm theo.
+Nhưng giờ họ có Tướng Chaos đông hơn gấp ba lần, những người sống sót của Quân đoàn Rồng và kẻ phản bội Sunny cuối cùng còn sót lại: Draco, Padma và Zabini.
+Và Draco, người không hề ngốc, đã ra lệnh cho Padma lấy cây đũa phép của Zabini sau khi Longbottom bắn Gregory và lần lượt rơi vào tay Draco. Cậu bé đã ném cho anh một cái nhìn xúc phạm, nói với Draco rằng anh nợ anh điều này và giao nó ra.
+Điều đó khiến Draco và Padma phải hạ gục Tướng Chaos.
+“Tôi không nghĩ là anh muốn đầu hàng?” Draco nói, mỉm cười nham hiểm như bất kỳ nụ cười nào hắn từng hướng tới Harry Potter.
+“Ngủ trước khi đầu hàng!” Tướng Chaos hét lên.
+"Cho bạn biết," Draco nói, "Zabini thực sự không cómột người chị gái để bạn giải cứu khỏi những kẻ bắt nạt Nhà Gryffindor. Nhưng Zabinicómột người mẹ không chấp nhận những đứa trẻ gốc Muggle như Granger, và tôi đã viết cho cô ấy một vài ghi chú và đề nghị Zabini một vài ân huệ—không liên quan gì đến bố tôi, chỉ là những thứ tôicó thể làm ở trường. Và nhân tiện, Zabini's mẹ cũng không chấp nhận Cậu bé sống sót, phòng trường hợp cậu vẫn nghĩ Zabini thực sự đứng về phía cậu.”
+Khuôn mặt Harry càng trở nên nhăn nhó hơn.
+Draco giơ đũa phép của mình lên và bắt đầu thở đều đặn, tích lũy sức mạnh để thực hiện bùa chú Breaking Drill. Quả cầu lăng trụ của Granger gần như mạnh bằng của Draco bây giờ, và của Harry cũng không yếu hơn là bao, hai người đó đã tìm đâu rathời gian?
+“Lagann!” Draco nói, dồn mọi thứ mình có vào đó, và vòng xoắn ốc màu xanh lá cây bùng cháy và khiên của Harry vỡ tan, và gần như cùng lúc—
+“Somnium!” Padma nói.
+---
+Granger: 253 / Malfoy: 252 / Potter: 254
+Harry thở ra một hơi dài nhẹ nhõm, không phải chỉ vì cậu không còn phải cầm Quả cầu Lăng trụ nữa. Tay anh run rẩy khi hạ cây đũa phép xuống.
+“Bạn biết đấy,” Harry nói, “có lúc tôi khá lo lắng.”
+Lệnh đặc biệt thứ hai: Nếu kẻ phản bội Sunny dường như không thực sự bắn vào bạn, thỉnh thoảng giả vờ bị bắn. Thích nhắm mục tiêu Rồng hơn người Sunni nhưng hãy tiếp tục bắn người Sunni nếu bạn không thể bắn Rồng.
+Lệnh đặc biệt thứ ba: Merlin nói không được bắn Blaise Zabini hoặc Patil.
+Với nụ cười toe toét, Parvati Patil cởi bỏ miếng vá Biến hình trên phù hiệu đồng phục của cô ấy và để nó trôi đi trong nước.
+“Gryffindors for Chaos,” cô nói và đưa lại cây đũa phép cho Zabini.
+“Cảm ơn bạn rất nhiều,” Harry nói và cúi đầu chào cô gái Gryffindor. “Và cũng cảm ơn bạn,” cúi chào Zabini. "Bạn biết đấy, khi bạn đến gặp tôi với kế hoạch đó, tôi đã tự hỏi liệu bạn thông minh hay điên rồ, và tôi đã quyết định rằng cả hai bạn đều như vậy. Và nhân tiện," Harry nói, giờ quay lại như thể đang nói với cơ thể của Draco, "Zabini có một người anh họ—"
+“Somnium,” giọng Zabini vang lên.
+---
+Granger: 255 / Malfoy: 252 / Potter: 254
+Và cơ thể của Harry Potter bay đi, vẻ mặt sốc và kinh hoàng nhanh chóng chìm vào giấc ngủ.
+“Nghĩ lại,” Parvati vui vẻ nói, “làm Gryffindors đó cho Sunshine.”
+Cô ấy bắt đầu cười, hồ hởi hơn bao giờ hết trong đời, cô ấycuối cùngđã ám sát và thay thế người chị song sinh của mình và cô ấy đã muốn làm điều đó kể từmãi mãi, và điều này đãhoàn hảo, tất cả đềuhoàn hảo—
+—và sau đó cây đũa phép của cô ấy xoay tròn theo chuyển động chớp nhoáng ngay khi cây đũa phép của Zabini quay lại chỉ vào cô ấy.
+"Chờ đợi!" Zabini nói. "Không được bắn, không được chống cự. Đó là mệnh lệnh."
+“Cái gì?” Parvati nói.
+"Xin lỗi," Zabini nói, trông có vẻ xin lỗi không mấy chân thành, "nhưng tôi không thể hoàn toàn chắc chắn rằngbạn ủng hộ Sunshine. Vì vậy, tôi ra lệnh cho bạn để tôi bắn bạn."
+“Đợi đã!” Parvati nói. "Chúng ta chỉ hơn Chaos một điểm thôi! Nếu bây giờ anh bắn tôi—"
+“Tôi sẽ bắn anh nhân danh Rồng,rõ ràng là,” Zabini nói, bây giờ nghe có vẻ trịch thượng hơn một chút. “Chỉ vì chúng tôi đã lừahọlàm việc đó không có nghĩa là nó sẽ không có tác dụng với chúng tôi.”
+Parvati nhìn chằm chằm vào anh, mắt cô nheo lại. “Tướng quân Malfoy nói mẹ cậu không thích Hermione.”
+“Tôi cho là vậy,” Zabini nói, vẫn với nụ cười tự mãn cao ngạo đó. “Nhưng một số người trong chúng tôi sẵn sàng hơn Draco Malfoy trong việc làm phiền phụ huynh.”
+“Và Harry Potter nói cậu có một người anh họ…”
+“Không,” Zabini nói.
+Parvati nhìn chằm chằm vào anh, cố gắng suy nghĩ, nhưng cô thực sự không giỏi bày mưu; Zabini đã nói kế hoạch là bí mật giữ điểm số của Chaos và Dragon càng đồng đều càng tốt để họ sử dụng tên của Sunshine để hành quyết những kẻ phản bội thay vì mất dù chỉ một điểm, và điều đó đãcó hiệu quả… nhưng… cô ấy có cảm giác mình đang thiếu thứ gì đó, cô ấy không phải là Slytherin…
+“Tại saotôibắnbạnnhân danh Rồng?” Parvati nói.
+“Bởi vì tôi cấp cao hơn anh,” Zabini nói.
+Parvati có linh cảm xấu về điều này.
+Cô nhìn anh chằm chằm một lúc lâu.
+Và sau đó—
+“Somni—” cô ấy bắt đầu nói, rồi nhận ra mình chưa nóicho Dragon,và cuống cuồng cắt ngang—
+---
+Granger: 255 / Malfoy: 254 / Potter: 254
+“Này mọi người,” khuôn mặt của Blaise Zabini trên màn hình nói, trông khá thích thú, “đoán là tất cả là do tôi.”
+Bên bờ hồ, mọi người nín thở.
+Sunshine dẫn trước Dragon và Chaos đúng một điểm.
+Blaise Zabini có thể tự bắn mình dưới danh nghĩa Rồng hoặc Hỗn loạn, hoặc cứ để mọi thứ như cũ.
+Một loạt tiếng chuông báo hiệu thời gian sắp hết.
+Và tên Slytherin đang mỉm một nụ cười méo mó kỳ lạ và thản nhiên nghịch ngợm cây đũa phép của mình, lớp gỗ tối màu hầu như không nhìn thấy được trong làn nước tối.
+"Bạn biết đấy," giọng của Blaise Zabini nói, với tông giọng của một người đã luyện tập các từ đó một lúc, "thực ra đó chỉ là một trò chơi. Và trò chơi phảivui vẻ. Vậy nếu tôi chỉ làm bất cứ điều gì tôi cảm thấy thích thì sao?"

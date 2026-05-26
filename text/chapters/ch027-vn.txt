@@ -1,0 +1,224 @@
+25. Trì hoãn việc đề xuất giải pháp
+E. Y.: Vì khoa học trong câu chuyện này thường hoàn toàn chính xác nên tôi đưa ra cảnh báo rằng trong các Chương 22–25, Harry bỏ qua nhiều khả năng, trong đó quan trọng nhất là có rất nhiều gen ma thuật nhưng tất cả chúng đều nằm trên một nhiễm sắc thể (điều này không xảy ra một cách tự nhiên, nhưng nhiễm sắc thể có thể đã được thiết kế). Trong trường hợp này, kiểu di truyền sẽ là Mendel, nhưng nhiễm sắc thể ma thuật vẫn có thể bị suy giảm do trao đổi chéo nhiễm sắc thể với bản phi ma thuật tương đồng của nó. (Harry đã đọc về Mendel và nhiễm sắc thể trong sách lịch sử khoa học, nhưng cậu chưa nghiên cứu đủ về di truyền thực tế để biết về trao đổi chéo nhiễm sắc thể. Này, cậu ấy mới mười một tuổi.) Tuy nhiên, dù một tạp chí khoa học hiện đại sẽ tìm thấy thêm rất nhiều vấn đề phải bàn cãi, nhưng tất cả những gì Harry đưa ra như bằng chứng thuyết phục trên thực tế đều là bằng chứng thuyết phục—các khả năng khác thì không thể xảy ra.
+---
+Màn 2
+(Mặt trời chiếu rực rỡ vào Đại Sảnh từ trần nhà đầy mê hoặc phía trên, chiếu sáng các học sinh như thể họ đang ngồi dưới bầu trời trần trụi, ánh sáng lấp lánh từ đĩa và bát của họ, khi được sảng khoái sau một đêm ngủ say, họ hít thở bữa sáng để chuẩn bị cho bất kỳ kế hoạch nào họ đã định cho ngày Chủ nhật của mình.)
+Vậy thì. Chỉ có một điều khiến bạn trở thành phù thủy.
+Điều đó không có gì đáng ngạc nhiên khi bạn suy nghĩ kỹ. Điều mà DNA chủ yếu làm là chỉ dẫn cho ribosome cách xâu chuỗi các axit amin lại với nhau thành protein. Vật lý thông thường dường như khá đủ khả năng mô tả các axit amin, và cho dù bạn xâu chuỗi bao nhiêu axit amin lại với nhau, vật lý thông thường vẫn cho biết bạn sẽ không bao giờ, không bao giờ có được phép thuật từ nó.
+Và thế mà phép thuật dường như mang tính di truyền, theo DNA.
+Khi đó có lẽ không phải vì DNA đang xâu chuỗi các axit amin không có ma thuật lại với nhau thành các protein ma thuật.
+Đúng hơn là bản thân chuỗi DNA quan trọng không tự nó mang lại cho bạn phép thuật nào cả.
+Phép thuật đến từ một nơi khác.
+(Tại bàn Ravenclaw có một cậu bé đang nhìn chằm chằm vào khoảng không, trong khi tay phải của cậu tự động múc một ít thức ăn không quan trọng vào miệng từ bất cứ thứ gì ở trước mặt cậu. Bạn có thể thay thế bằng một đống đất và cậu ấy sẽ không nhận ra.)
+Và vì lý do nào đó, Nguồn ma thuật lại chú ý đến một dấu DNA cụ thể ở những cá nhân là con người có nguồn gốc vượn bình thường theo mọi cách khác.
+(Có khá nhiều chàng trai và cô gái khác cũng đang nhìn chằm chằm vào khoảng không. Dù sao thì đó cũng là bàn Ravenclaw.)
+Có những dòng logic khác dẫn đến kết luận tương tự. Bộ máy phức tạp luôn phổ biến trong các loài sinh sản hữu tính. Nếu gen B phụ thuộc vào gen A, thì A phải tự mang lại lợi ích và tự mình đạt đến mức gần như phổ biến trong vốn gen, trước khi B thường xuyên hữu ích đủ để mang lại lợi thế thể lực. Sau đó, khi B đã trở nên phổ biến, bạn sẽ có một biến thể A* phụ thuộc vào B, rồi C phụ thuộc vào A* và B, rồi B* phụ thuộc vào C, cho đến khi toàn bộ chiếc máy sẽ tan rã nếu bạn loại bỏ một bộ phận duy nhất. Nhưng tất cả đều phải xảy ra từ từ—sự tiến hóa không bao giờ nhìn trước, quá trình tiến hóa sẽ không bao giờ bắt đầu thúc đẩy B để chuẩn bị cho việc A trở nên phổ biến sau này. Sự tiến hóa là một thực tế lịch sử đơn giản: sinh vật nào có nhiều con nhất thì gen của chúng thực tế sẽ xuất hiện thường xuyên hơn ở thế hệ tiếp theo. Vì vậy, mỗi bộ phận của một cỗ máy phức tạp phải trở nên gần như phổ biến trước khi các bộ phận khác trong máy phát triển để phụ thuộc vào sự hiện diện của nó.
+Vì vậy, bộ máy phức tạp, phụ thuộc lẫn nhau, những cỗ máy protein phức tạp mạnh mẽ điều khiển sự sống, luôn phổ biến trong các loài sinh sản hữu tính—ngoại trừ một số ít các biến thể phụ thuộc lẫn nhau không được chọn vào bất kỳ thời điểm nào, khi độ phức tạp hơn nữa dần dần được đặt ra. Đó là lý do tại sao tất cả con người đều có thiết kế cơ bản giống nhau của bộ não, những cảm xúc giống nhau, những nét mặt giống nhau gắn liền với những cảm xúc đó; những sự điều chỉnh đó rất phức tạp, vì vậy chúng phải trở nên phổ biến.
+Nếu phép thuật là như vậy, một sự thích nghi phức tạp lớn với rất nhiều gen cần thiết, thì một phù thủy giao phối với người thường sẽ tạo ra một đứa trẻ chỉ có một nửa những bộ phận đó và một nửa cỗ máy sẽ không làm được gì nhiều. Và vì vậy sẽ không bao giờ có người gốc thường mang gen phù thủy. Ngay cả khi tất cả các mảnh đã được đưa vào nguồn gen của những người thường riêng lẻ, chúng sẽ không bao giờ tập hợp lại ở một nơi để tạo thành một phù thủy.
+Chưa từng có một thung lũng di truyền biệt lập nào của con người tình cờ bước vào con đường tiến hóa dẫn đến những phần não ma thuật phức tạp. Bộ máy di truyền phức tạp đó, nếu các pháp sư lai giống với người thường, sẽ không bao giờ tập hợp lại thành những người thuộc dòng máu phù thủy.
+Vì vậy, dù gen của bạn có khiến bạn trở thành phù thủy đi chăng nữa thì điều đó không phải là do chứa các bản thiết kế của những cỗ máy phức tạp.
+Đó là lý do khác khiến Harry đoán rằng mô hình Mendel sẽ xuất hiện. Nếu gen ma thuật không phức tạp thì tại sao lại có nhiều hơn một gen?
+Tuy nhiên, bản thân phép thuật có vẻ khá phức tạp. Phép thuật khóa cửa sẽ ngăn cửa mở ra, ngoài việc bạn Biến hình bản lề và chống lại Finite Incantatem và Alohomora. Nhiều yếu tố đều hướng về cùng một hướng: bạn có thể gọi đó là sự định hướng mục tiêu, hay nói theo ngôn ngữ đơn giản hơn là tính có mục đích.
+Chỉ có hai nguyên nhân được biết đến của sự phức tạp có mục đích. Chọn lọc tự nhiên đã tạo ra những thứ như bướm. Và kỹ thuật thông minh, thứ đã tạo ra những thứ như ô tô.
+Ma thuật dường như không phải thứ gì đó tự tái tạo thành hiện thực. Các phép thuật phức tạp có chủ đích, nhưng không giống như một con bướm, phức tạp với mục đích tạo ra các bản sao của chính chúng. Các phép thuật rất phức tạp vì mục đích phục vụ người dùng, giống như một chiếc ô tô.
+Khi đó, một kỹ sư thông minh nào đó đã tạo ra Nguồn ma thuật và bảo nó chú ý đến một dấu DNA cụ thể.
+Ý nghĩ tiếp theo rõ ràng là điều này có liên quan đến "Atlantis".
+Harry đã hỏi Hermione về điều đó trước đó - trên chuyến tàu đến Hogwarts, sau khi nghe Draco nói điều đó - và theo những gì cô biết, không có gì được biết nhiều hơn chính từ đó.
+Nó có thể là truyền thuyết thuần túy. Nhưng cũng có lý khi cho rằng một nền văn minh của những người sử dụng phép thuật, đặc biệt là nền văn minh từ trước Sắc lệnh Merlin, đã có thể tự nổ tung.
+Dòng lý luận tiếp tục: Atlantis từng là một nền văn minh biệt lập, bằng cách nào đó đã trở thành Nguồn gốc của Phép thuật và bảo nó chỉ phục vụ những người có dấu hiệu di truyền Atlantean, dòng máu của Atlantis.
+Và theo logic tương tự: những lời mà một phù thủy nói, chuyển động của cây đũa phép, bản thân chúng không đủ phức tạp để xây dựng các hiệu ứng bùa chú ngay từ đầu—không phải theo cách mà ba tỷ cặp cơ sở DNA của con người thực sự đủ phức tạp để tạo nên một cơ thể con người từ đầu, không phải theo cách mà các chương trình máy tính chiếm hàng nghìn byte dữ liệu.
+Vì vậy, những lời nói và chuyển động của cây đũa phép chỉ là những yếu tố kích hoạt, những đòn bẩy tác động lên một cỗ máy ẩn giấu và phức tạp hơn nào đó. Các nút, không phải bản thiết kế.
+Và giống như một chương trình máy tính sẽ không biên dịch nếu bạn mắc một lỗi chính tả duy nhất, Nguồn ma thuật sẽ không phản hồi cho bạn trừ khi bạn sử dụng phép thuật của mình theo đúng cách.
+Chuỗi logic là không thể thay đổi được.
+Và nó tất yếu dẫn tới một kết luận cuối cùng duy nhất.
+Tổ tiên xa xưa của các pháp sư, hàng ngàn năm trước, đã nói với Nguồn ma thuật rằng chỉ bay lên mọi thứ nếu bạn nói…
+'Wingardium Leviosa.'
+Harry gục xuống bàn sáng, trán đặt mệt mỏi lên tay phải.
+Có một câu chuyện từ những ngày đầu của Trí tuệ nhân tạo - khi họ mới bắt đầu và chưa ai nhận ra vấn đề sẽ khó khăn đến mức nào - về một giáo sư đã ủy quyền cho một trong những sinh viên tốt nghiệp của mình giải quyết vấn đề về thị giác máy tính.
+Harry bắt đầu hiểu cậu sinh viên tốt nghiệp đó hẳn đã cảm thấy thế nào.
+Việc này có thể mất một lúc.
+Tại sao việc thực hiện bùa chú Alohomora lại tốn nhiều công sức hơn nếu nó chỉ giống như nhấn một nút?
+Ai đã ngu ngốc đến mức tạo ra một câu thần chú dành cho Avada Kedavra mà chỉ có thể thi triển bằng cách sử dụng lòng căm thù?
+Tại sao Biến hình không lời đòi hỏi bạn phải tách biệt hoàn toàn giữa khái niệm hình thức và khái niệm vật chất?
+Harry có thể sẽ không giải quyết được vấn đề này vào thời điểm cậu tốt nghiệp Hogwarts. Anh ấy có thể vẫn đang giải quyết vấn đề này khi ba mươi tuổi. Hermione đã đúng, trước đây Harry chưa nhận ra điều đó một cách sâu sắc. Anh ấy vừa có một bài phát biểu đầy cảm hứng về sự quyết tâm.
+Tâm trí Harry thoáng cân nhắc xem liệu có nên quyết tâm rằng anh ấy có thể không bao giờ giải quyết được vấn đề hay không, rồi quyết định rằng điều đó sẽ đi quá xa.
+Ngoài ra, miễn là anh ta có thể đạt được mức độ bất tử trong vài thập kỷ đầu tiên thì anh ta sẽ ổn thôi.
+Chúa tể Hắc ám đã sử dụng phương pháp nào? Nghĩ mà xem, việc Chúa tể Hắc ám bằng cách nào đó đã tìm cách sống sót sau cái chết của cơ thể đầu tiên gần như vô cùng quan trọng hơn việc hắn đã cố gắng chiếm lấy nước Anh phép thuật—
+"Xin lỗi," một giọng nói được mong đợi phát ra từ phía sau anh với tông giọng rất bất ngờ. "Để tiện cho ngài, ông Malfoy yêu cầu được nói chuyện."
+Harry không bị nghẹn ngũ cốc ăn sáng. Thay vào đó anh quay lại và nhìn thấy ông Crabbe.
+"Xin lỗi," Harry nói. "Không phải ý ông là 'Ông chủ muốn nói chuyện với anh sao?'"
+Ông Crabbe trông có vẻ không vui. "Ông Malfoy hướng dẫn tôi nói chuyện cho đàng hoàng."
+"Tôi không thể nghe thấy anh nói," Harry nói. "Anh nói không đàng hoàng." Anh quay lại với bát đựng những bông tuyết nhỏ pha lê màu xanh lam của mình và cố tình ăn thêm một thìa nữa.
+"Ông chủ muốn nói chuyện với anh," một giọng nói đe dọa vang lên từ phía sau anh. "Tốt nhất cậu nên đến gặp anh ấy nếu biết điều gì tốt cho mình."
+Ở đó. Bây giờ mọi thứ đã diễn ra theo đúng kế hoạch.
+---
+Màn 1
+"Một lý do?" lão phù thủy nói. Anh kiềm chế cơn tức giận trên mặt. Cậu bé trước mặt anh đã là nạn nhân và chắc chắn không cần phải sợ hãi thêm nữa. "Không có điều gì có thể bào chữa—"
+"Những gì tôi làm với anh ấy còn tệ hơn thế."
+Vị pháp sư già chợt cứng đờ vì kinh hãi. "Harry, cậu đã làm gì vậy?"
+"Tôi đã lừa Draco tin rằng tôi đã lừa anh ấy tham gia vào một nghi lễ hy sinh niềm tin vào thuyết thuần khiết của máu. Và điều đó có nghĩa là anh ấy không thể trở thành Tử thần Thực tử khi lớn lên. Anh ấy đã mất tất cả, Hiệu trưởng."
+Có một sự yên lặng kéo dài trong văn phòng, chỉ bị phá vỡ bởi những tiếng rít và tiếng huýt sáo nhỏ của những thứ linh tinh, mà sau một thời gian dài đã trở nên giống như sự im lặng.
+"Ôi trời," ông phù thủy già nói, "tôi thực sự cảm thấy thật ngớ ngẩn. Và đây tôi đang mong đợi bạn có thể cố gắng chuộc lại người thừa kế của Malfoy bằng cách, chẳng hạn, thể hiện cho anh ta tình bạn thực sự và lòng tốt."
+"Ha! Vâng, kiểu như thì sẽ có tác dụng."
+Lão phù thủy thở dài. Điều này đã đi quá xa. "Nói cho tôi biết đi, Harry. Cậu có chợt nhận ra rằng có điều gì phi lý khi bắt đầu chuộc lỗi ai đó bằng những lời dối trá và thủ đoạn không?"
+"Tôi đã làm điều đó mà không nói dối trực tiếp nào, và vì chúng ta đang nói về Draco Malfoy ở đây nên tôi nghĩ từ 'bạn' đang tìm kiếm là hợp lý." Cậu bé trông khá tự mãn.
+Vị pháp sư già lắc đầu tuyệt vọng. "Và này là anh hùng. Tất cả chúng ta đều phải chịu số phận."
+---
+Màn 5
+Đường hầm dài và hẹp bằng đá thô, không có ánh sáng ngoại trừ cây đũa phép của bọn trẻ, dường như kéo dài hàng dặm.
+Lý do cho điều này rất đơn giản: nó đã kéo dài hàng dặm.
+Lúc đó là ba giờ sáng, Fred và George đang bắt đầu đi dọc theo lối đi bí mật dẫn từ bức tượng phù thủy một mắt ở Hogwarts tới tầng hầm của cửa hàng đồ ngọt Honeydukes ở Hogsmeade.
+"Mọi chuyện thế nào rồi?" Fred nói với giọng trầm.
+(Không phải là sẽ có ai nghe đâu, nhưng có điều gì đó kỳ quặc khi nói chuyện bằng giọng bình thường khi bạn đang đi qua một lối đi bí mật.)
+"Vẫn còn đang chớp mắt," George nói.
+"Cả hai, hoặc—"
+"Một con liên tục tự sửa lại. Con kia vẫn như cũ."
+Bản đồ là một tạo tác cực kỳ mạnh mẽ, có khả năng theo dõi mọi sinh vật có tri giác trên sân trường theo thời gian thực, theo tên. Gần như chắc chắn rằng nó đã được tạo ra trong quá trình hình thành ban đầu của Hogwarts. Thật là không ổn khi các lỗi bắt đầu xuất hiện. Rất có thể không ai ngoại trừ giáo sư Dumbledore có thể sửa nó nếu nó bị hỏng.
+Và cặp song sinh nhà Weasley cũng không định giao tấm Bản đồ cho giáo sư Dumbledore. Đó sẽ là một sự xúc phạm không thể tha thứ đối với Marauders—bốn kẻ vô danh đã tìm cách đánh cắp một phần của hệ thống an ninh Hogwarts, thứ gì đó có lẽ do chính Salazar Slytherin giả mạo và biến nó thành một công cụ để học sinh chơi khăm.
+Một số người có thể coi đó là sự thiếu tôn trọng.
+Một số có thể coi đó là tội phạm.
+Cặp song sinh nhà Weasley tin chắc rằng nếu Godric Gryffindor có mặt để xem nó thì ông ấy sẽ đồng ý.
+Hai anh em cứ đi đi lại lại, hầu như trong im lặng. Cặp song sinh nhà Weasley nói chuyện với nhau khi họ đang nghĩ ra những trò đùa mới, hoặc khi một trong số họ biết điều gì đó mà người kia không biết. Nếu không thì không có nhiều điểm. Nếu họ đã biết những thông tin tương tự, họ có xu hướng suy nghĩ những suy nghĩ giống nhau và đưa ra những quyết định giống nhau.
+(Ngày xưa, bất cứ khi nào một cặp song sinh giống hệt nhau có phép thuật được sinh ra, người ta thường giết một trong số họ sau khi sinh.)
+Đúng lúc, Fred và George chui vào một căn hầm đầy bụi bặm, ngổn ngang những thùng và kệ đựng những nguyên liệu kỳ lạ.
+Fred và George chờ đợi. Sẽ không lịch sự nếu làm bất cứ điều gì khác.
+Chẳng bao lâu sau, một ông già gầy gò mặc bộ đồ ngủ màu đen bước xuống bậc thang dẫn vào tầng hầm và ngáp dài. "Xin chào các chàng trai," Ambrosius Flume nói. "Tôi không mong đợi bạn tối nay. Hết hàng rồi à?"
+Fred và George quyết định rằng Fred sẽ nói.
+"Không hẳn đâu, ông Flume," Fred nói. "Chúng tôi đã hy vọng ông có thể giúp chúng tôi điều gì đó… thú vị hơn nhiều."
+"Bây giờ, các chàng trai," Flume nói, giọng nghiêm nghị, "Tôi hy vọng các bạn không đánh thức tôi chỉ để tôi có thể nói lại với các bạn rằng tôi sẽ không bán cho các bạn bất kỳ món hàng nào có thể khiến các bạn gặp rắc rối thực sự. Dù sao thì cho đến khi các bạn đủ mười sáu tuổi—"
+George rút ra một món đồ từ áo choàng của mình và lặng lẽ đưa nó cho Flume. "Ông đã thấy cái này chưa?" Fred nói.
+Flume nhìn vào ấn bản ngày hôm qua của tờ Nhà tiên tri hàng ngày và gật đầu, cau có. Dòng tiêu đề trên tờ báo có nội dung "LÀ CHÚA TỂ TIẾP THEO?" và cho thấy một cậu bé mà máy ảnh của một học sinh nào đó đã ghi lại được với vẻ mặt lạnh lùng và dữ tợn khác thường.
+"Tôi không thể tin được điều đó," Flume nói. "Theo đuổi một cậu bé khi cậu ta mới mười một tuổi! Người đàn ông đó phải bị nghiền nát và sử dụng để làm sôcôla!"
+Fred và George đồng loạt chớp mắt. Malfoy đứng sau Rita Skeeter? Harry Potter đã không cảnh báo họ về điều đó… điều đó chắc chắn có nghĩa là Harry không biết. Anh ấy sẽ không bao giờ mang chúng vào nếu anh ấy làm thế…
+Fred và George trao đổi ánh mắt. Chà, Harry không cần biết cho đến khi công việc hoàn thành.
+"Ông Flume," Fred lặng lẽ nói, "Cậu bé sống sót cần sự giúp đỡ của ông."
+Flume nhìn cả hai.
+Rồi anh thở ra với một tiếng thở dài.
+"Được rồi," Flume nói, "bạn muốn gì?"
+---
+Màn 6
+Khi Rita Skeeter đang có ý định săn một con mồi ngon lành, cô ấy không có xu hướng để ý đến những con kiến đang chạy nhốn nháo tạo nên phần còn lại của vũ trụ, đó là lý do khiến cô suýt đụng phải chàng trai trẻ hói đầu bước vào đường đi của cô.
+"Cô Skeeter," người đàn ông nói, nghe có vẻ nghiêm nghị và lạnh lùng đối với một người có khuôn mặt trẻ như vậy. "Thật vui khi được gặp bạn ở đây."
+"Tránh đường cho tôi, đồ khốn!" Rita ngắt lời và cố gắng bước vòng qua anh ta.
+Người đàn ông trên đường đi của cô khớp với chuyển động một cách hoàn hảo đến mức giống như cả hai đều không hề di chuyển, chỉ đứng yên trong khi con phố chuyển động xung quanh họ.
+Đôi mắt của Rita nheo lại. "Bạn nghĩ bạn là ai?"
+"Thật là ngu ngốc," người đàn ông nói khô khan. "Sẽ là khôn ngoan nếu ghi nhớ khuôn mặt của Tử thần Thực tử cải trang đang huấn luyện Harry Potter trở thành Chúa tể Hắc ám tiếp theo. Suy cho cùng," một nụ cười mỏng manh, "đó chắc chắn giống như một người mà bạn không muốn gặp trên đường, đặc biệt là sau khi hạ gục hắn trên báo."
+Rita mất một lúc để đặt tên cho nhân vật này. Quirinus Quirrell? Anh ta trông quá trẻ và quá già cùng một lúc; khuôn mặt của anh ta, nếu nó thả lỏng khỏi vẻ nghiêm nghị và trịch thượng, sẽ thuộc về một người nào đó ở độ tuổi cuối ba mươi. Và tóc anh ta đã rụng rồi sao? Anh ta không thể mua thuốc mọc tóc sao?
+Không, điều đó không quan trọng, cô ấy có thời gian, địa điểm và một con bọ để theo dõi. Cô vừa nhận được tin báo nặc danh về việc bà Bones đang dành thời gian với một trong những trợ lý trẻ tuổi của bà. Điều đó sẽ có giá trị khá lớn nếu cô có thể xác minh được nó, Bones nằm ở vị trí cao trong danh sách bị tấn công. Người mách nước đã nói rằng Bones và trợ lý trẻ của cô ấy sẽ ăn trưa trong một căn phòng đặc biệt tại Mary's Place, một căn phòng rất nổi tiếng cho một số mục đích nhất định; một căn phòng mà cô nhận thấy được an toàn trước mọi thiết bị nghe lén, nhưng không thể chống lại một con bọ xanh xinh đẹp nép mình vào một bức tường…
+"Tránh đường của tôi!" Rita nói và cố gắng đẩy Quirrell ra khỏi đường đi của cô ấy. Cánh tay của Quirrell sượt qua tay cô, làm chệch hướng, và Rita loạng choạng khi lực đẩy bay vào không trung.
+Quirrell kéo tay áo choàng bên trái lên, để lộ cánh tay trái. "Hãy quan sát," Quirrell nói, "không có Dấu Hiệu Hắc Ám. Tôi muốn bài báo của bạn xuất bản một bản rút lại."
+Rita bật ra một nụ cười hoài nghi. Tất nhiên người đàn ông đó không phải là một Tử thần Thực tử thực sự. Tờ báo sẽ không xuất bản nó nếu có. "Quên nó đi, anh bạn. Bây giờ hãy đi bộ đường dài."
+Quirrell nhìn cô chằm chằm một lúc.
+Rồi anh mỉm cười.
+"Cô Skeeter," Quirrell nói, "tôi đã hy vọng tìm được một đòn bẩy nào đó có thể thuyết phục được cô. Tuy nhiên, tôi thấy rằng tôi không thể phủ nhận niềm vui của mình khi được nghiền nát cô."
+"Đã thử rồi. Bây giờ tránh đường cho tôi đi, kẻ phá hoại, nếu không tôi sẽ tìm vài Thần sáng và bắt anh vì tội cản trở hoạt động báo chí."
+Quirrell đưa cho cô một cái cúi chào nhỏ rồi đi ngang qua. "Tạm biệt, Rita Skeeter," giọng anh vang lên từ phía sau cô.
+Khi Rita tiếp tục đi về phía trước, cô ghi nhớ trong tâm trí rằng người đàn ông đang huýt sáo một giai điệu khi anh ta bước đi.
+Giống như điều đó sẽ khiến cô ấy sợ hãi.
+---
+Màn 4
+"Xin lỗi, hãy loại tôi ra," Lee Jordan nói. "Tôi giống loại nhện khổng lồ hơn."
+Cậu bé sống sót đã nói rằng cậu ấy có công việc quan trọng cho Order of Chaos, một việc gì đó nghiêm túc và bí mật, quan trọng và khó khăn hơn những trò đùa thông thường của họ.
+Và rồi Harry Potter bắt đầu một bài phát biểu đầy cảm hứng nhưng mơ hồ. Một bài phát biểu có nội dung rằng Fred, George và Lee có tiềm năng to lớn nếu họ có thể học cách trở thành kỳ lạ hơn. Để làm cho cuộc sống của mọi người trở nên siêu thực, thay vì chỉ làm họ ngạc nhiên với những xô nước tương đương đặt trên cửa. (Fred và George đã trao nhau những cái nhìn thích thú, họ chưa bao giờ nghĩ đến điều đó.) Harry Potter đã gợi lên hình ảnh về trò chơi khăm mà họ đã thực hiện với Neville—điều mà Harry đã đề cập với một chút hối hận là Chiếc Mũ Phân loại đã nhai nát cậu ấy—nhưng điều đó hẳn đã khiến Neville nghi ngờ sự tỉnh táo của chính mình. Đối với Neville, điều đó giống như đột nhiên được đưa vào một vũ trụ khác. Giống như cảm giác của những người khác khi họ nhìn thấy Snape xin lỗi. Đó chính là sức mạnh thực sự của việc chơi khăm.
+Bạn có ở bên tôi không? Harry Potter đã khóc và Lee Jordan đã trả lời là không.
+"Hãy đếm chúng tôi trong," Fred nói, hoặc có thể là George, vì chắc chắn rằng Godric Gryffindor sẽ đồng ý.
+Lee Jordan nở một nụ cười tiếc nuối, đứng dậy rời khỏi hành lang vắng lặng và yên tĩnh, nơi bốn thành viên của Order of Chaos đã gặp nhau và ngồi thành một vòng tròn đầy âm mưu.
+Ba thành viên của Order of Chaos bắt tay vào công việc.
+(Điều đó không đáng buồn như vậy. Fred và George vẫn hợp tác với Lee trong những trò chơi khăm nhện khổng lồ như mọi khi. Họ chỉ bắt đầu gọi nó là Hội Hỗn loạn để chiêu mộ Harry Potter, sau khi Ron nói với họ về việc Harry là kẻ kỳ quặc và xấu xa, còn Fred và George đã quyết định cứu Harry bằng cách thể hiện tình bạn thực sự và lòng tốt với cậu ấy. Rất may là điều này dường như không còn cần thiết nữa—mặc dù họ khăng khăng về điều đó…)
+"Vậy," một trong hai đứa song sinh nói, "chuyện này là sao?"
+"Rita Skeeter," Harry nói. "Anh có biết cô ấy là ai không?"
+Fred và George gật đầu, cau mày.
+"Cô ấy đang hỏi những câu hỏi về tôi."
+Đó không phải là tin tốt.
+"Bạn có thể đoán được tôi muốn bạn làm gì không?"
+Fred và George nhìn nhau, có chút khó hiểu. "Anh có muốn chúng tôi đưa cho cô ấy một số món đồ chơi thú vị hơn không?"
+"Không," Harry nói. "Không, không, không! Đó là suy nghĩ của một con nhện khổng lồ! Thôi nào, anh sẽ làm gì nếu nghe tin Rita Skeeter đang tìm kiếm tin đồn về anh?"
+Điều đó đã làm cho nó rõ ràng.
+Nụ cười từ từ xuất hiện trên khuôn mặt của Fred và George.
+"Bắt đầu tin đồn về chúng tôi," họ trả lời.
+"Chính xác," Harry nói, cười toe toét. "Nhưng đây không thể chỉ là bất kỳ tin đồn nào. Tôi muốn dạy mọi người đừng bao giờ tin những gì báo chí nói về Harry Potter, cũng như người thường tin những gì báo chí nói về Elvis. Lúc đầu, tôi chỉ nghĩ đến việc đổ cho Rita Skeeter rất nhiều tin đồn đến nỗi cô ấy không biết nên tin vào điều gì, nhưng sau đó cô ấy sẽ chọn những tin có vẻ hợp lý và tệ hại. Vì vậy, điều tôi muốn bạn làm là tạo ra một câu chuyện giả về tôi và khiến Rita Skeeter tin vào điều đó. Nhưng bằng cách nào đó, nó phải là thứ mà sau đó mọi người sẽ biết là giả mạo. Chúng tôi muốn đánh lừa Rita Skeeter và các biên tập viên của cô ấy, và sau đó có bằng chứng cho thấy điều đó là sai. Và tất nhiên—vì đó là những yêu cầu—câu chuyện phải lố bịch đến mức có thể, và vẫn được in ra."
+"Không hẳn…" Fred hoặc George chậm rãi nói. "Anh muốn chúng tôi bịa ra câu chuyện?"
+"Tôi muốn bạn làm tất cả việc đó," Harry Potter nói. "Hiện tại tôi đang khá bận, hơn nữa tôi muốn có thể thành thật mà nói rằng tôi không biết chuyện gì sắp xảy ra. Hãy làm tôi ngạc nhiên."
+Trong một khoảnh khắc, một nụ cười nham hiểm xuất hiện trên khuôn mặt của Fred và George.
+Sau đó họ trở nên nghiêm túc. "Nhưng Harry, chúng ta thực sự không biết cách làm những việc như thế…"
+"Vậy hãy tìm hiểu đi," Harry nói. "Tôi tin tưởng bạn. Không tin tưởng hoàn toàn, nhưng nếu bạn không thể làm điều đó, hãy nói với tôi điều đó và tôi sẽ thử người khác hoặc tự mình làm. Nếu bạn có một ý tưởng thực sự hay—cho cả câu chuyện lố bịch lẫn cách thuyết phục Rita Skeeter và các biên tập viên của cô ấy in nó—thì bạn có thể tiếp tục và làm điều đó. Nhưng đừng làm điều gì đó tầm thường. Nếu bạn không thể nghĩ ra điều gì đó tuyệt vời, cứ nói vậy đi."
+Fred và George nhìn nhau lo lắng.
+"Tôi không thể nghĩ ra bất cứ điều gì," George nói.
+"Tôi cũng vậy," Fred nói. "Lấy làm tiếc."
+Harry nhìn chằm chằm vào họ.
+Và rồi Harry bắt đầu giải thích cách bạn suy nghĩ về mọi thứ.
+Harry nói, nó được biết là mất nhiều hơn hai giây.
+Bạn chưa bao giờ gọi bất kỳ câu hỏi nào là không thể, Harry nói, cho đến khi bạn lấy một chiếc đồng hồ thực tế và suy nghĩ về nó trong năm phút, theo chuyển động của kim phút. Không phải năm phút theo nghĩa ẩn dụ, mà là năm phút theo đồng hồ vật lý.
+Và hơn nữa, Harry nói, giọng nhấn mạnh và tay phải đập mạnh xuống sàn, bạn đã không bắt đầu tìm giải pháp ngay lập tức.
+Sau đó, Harry bắt đầu giải thích về một bài kiểm tra được thực hiện bởi một người tên là Norman Maier, người được gọi là nhà tâm lý học tổ chức, người đã yêu cầu hai nhóm giải quyết vấn đề khác nhau cùng giải quyết một vấn đề.
+Harry cho biết vấn đề liên quan đến ba nhân viên làm ba công việc. Nhân viên cấp dưới chỉ muốn làm công việc dễ dàng nhất. Nhân viên cấp cao muốn luân chuyển giữa các công việc để tránh sự nhàm chán. Một chuyên gia về hiệu quả đã khuyến nghị nên giao cho cấp dưới công việc dễ nhất và cấp trên làm công việc khó nhất, điều này sẽ mang lại năng suất cao hơn 20%.
+Một nhóm giải quyết vấn đề đã được hướng dẫn "Không đề xuất giải pháp cho đến khi vấn đề được thảo luận kỹ lưỡng nhất có thể mà không đề xuất bất kỳ giải pháp nào".
+Nhóm giải quyết vấn đề còn lại không được hướng dẫn gì cả. Và những người đó đã làm điều đó một cách tự nhiên và phản ứng trước sự xuất hiện của một vấn đề bằng cách đề xuất các giải pháp. Và mọi người đã trở nên gắn bó với những giải pháp đó, và bắt đầu đấu tranh vì chúng, và tranh cãi về tầm quan trọng tương đối của tự do so với hiệu quả, v.v.
+Nhóm giải quyết vấn đề đầu tiên, những nhóm được hướng dẫn để thảo luận về vấn đề trước và sau đó giải quyết nó, có nhiều khả năng đạt được giải pháp là để nhân viên cấp dưới giữ công việc dễ dàng nhất và luân phiên hai người còn lại giữa hai công việc còn lại, theo dữ liệu của chuyên gia cho biết sẽ cải thiện 19%.
+Việc bắt đầu bằng việc tìm kiếm giải pháp đã khiến mọi thứ hoàn toàn không theo trật tự. Giống như bắt đầu bữa ăn bằng món tráng miệng, chỉ có điều tệ hơn.
+(Harry cũng dẫn lời một người tên Robyn Dawes nói rằng vấn đề càng khó thì mọi người càng có nhiều khả năng cố gắng giải quyết nó ngay lập tức.)
+Vì vậy, Harry sẽ giao vấn đề này cho Fred và George, và họ sẽ thảo luận về tất cả các khía cạnh của nó và suy nghĩ về bất cứ điều gì mà họ nghĩ có thể có liên quan. Và họ không nên cố gắng đưa ra một giải pháp thực tế cho đến khi hoàn thành việc đó, tất nhiên trừ khi họ ngẫu nhiên nghĩ ra điều gì đó tuyệt vời, trong trường hợp đó họ có thể viết nó ra sau đó và sau đó quay lại suy nghĩ. Và anh ấy không muốn nhận được phản hồi từ họ về bất kỳ cái gọi là thất bại trong việc nghĩ ra bất cứ điều gì trong ít nhất một tuần. Một số người đã dành cả thập kỷ để cố gắng nghĩ ra mọi thứ.
+"Có câu hỏi nào không?" Harry nói.
+Fred và George nhìn nhau.
+"Tôi không thể nghĩ ra bất cứ điều gì."
+"Tôi cũng không thể."
+Harry ho nhẹ. "Anh không hỏi về ngân sách của mình."
+Ngân sách? họ nghĩ.
+"Tôi chỉ có thể cho bạn biết số tiền," Harry nói. "Nhưng tôi nghĩ là điều này sẽ truyền cảm hứng hơn."
+Bàn tay của Harry thọc vào áo choàng và đưa ra—
+Fred và George suýt ngã dù họ đang ngồi.
+"Đừng tiêu nó chỉ vì mục đích tiêu nó," Harry nói. Trên sàn đá trước mặt họ lấp lánh một số tiền vô cùng lố bịch. "Chỉ tiêu nó nếu sự tuyệt vời đòi hỏi; và những gì sự tuyệt vời đòi hỏi, đừng ngần ngại chi tiêu. Nếu còn dư, hãy trả lại sau, tôi tin tưởng bạn. Ồ, và bạn sẽ nhận được mười phần trăm số tiền đó, bất kể cuối cùng bạn chi bao nhiêu—"
+"Chúng tôi không thể!" một trong hai đứa song sinh thốt lên. "Chúng tôi không nhận tiền cho những việc như vậy!"
+(Cặp song sinh không bao giờ nhận tiền khi làm bất cứ điều gì bất hợp pháp. Ambrosius Flume không biết rằng họ đã bán tất cả hàng hóa của anh ấy với mức lãi 0%. Fred và George muốn có thể làm chứng—theo Veritaserum nếu cần thiết—rằng họ không trục lợi tội phạm mà chỉ cung cấp dịch vụ công.)
+Harry cau mày nhìn họ. "Nhưng tôi yêu cầu bạn thực hiện một số công việc thực sự ở đây. Một người trưởng thành sẽ được trả tiền để làm những việc như thế này và điều đó vẫn được coi là một ân huệ dành cho một người bạn. Bạn không thể chỉ thuê người cho những việc như thế này."
+Fred và George lắc đầu.
+"Được thôi," Harry nói. "Tôi sẽ tặng cho bạn những món quà Giáng sinh đắt tiền, và nếu bạn cố trả lại cho tôi, tôi sẽ đốt chúng. Bây giờ bạn thậm chí còn biết tôi sẽ chi bao nhiêu cho bạn, ngoại trừ, rõ ràng là số tiền đó sẽ nhiều hơn so với khi bạn vừa lấy tiền. Và dù sao thì tôi cũng sẽ mua cho bạn những món quà đó, vì vậy hãy nghĩ về điều đó trước khi bạn nói với tôi rằng bạn không thể nghĩ ra điều gì tuyệt vời."
+Harry đứng dậy, mỉm cười rồi quay người bỏ đi trong khi Fred và George vẫn đang há hốc mồm vì sốc. Anh bước đi vài bước rồi quay lại.
+"Ồ, còn một điều cuối cùng," Harry nói. "Hãy để Giáo sư Quirrell đừng làm bất cứ điều gì anh làm. Ông ấy không thích công khai. Tôi biết sẽ dễ dàng khiến mọi người tin vào những điều kỳ lạ về Giáo sư Phòng thủ hơn bất kỳ ai khác, và tôi rất tiếc phải cản trở bạn như vậy, nhưng làm ơn, hãy để Giáo sư Quirrell tránh xa chuyện đó."
+Và Harry quay lại và bước thêm vài bước nữa—
+Nhìn lại lần cuối và nói nhẹ nhàng: "Cảm ơn".
+Và rời đi.
+Có một khoảng lặng dài sau khi anh rời đi.
+"Vậy," một người nói.
+"Vậy," người kia nói.
+"Giáo sư quốc phòng không thích công khai phải không?"
+"Harry không biết rõ về chúng ta phải không?"
+"Không, anh ấy không."
+"Nhưng tất nhiên là chúng tôi sẽ không dùng tiền của anh ấy cho việc đó."
+"Tất nhiên là không, điều đó không đúng. Chúng ta sẽ xử lý Giáo sư Phòng thủ riêng."
+"Chúng ta sẽ nhờ một số học sinh Gryffindor viết cho Skeeter và nói…"
+"...tay áo của anh ấy đã vén lên một lần trong lớp Phòng thủ, và họ nhìn thấy Dấu hiệu Hắc ám…"
+"...và có lẽ ông ấy đang dạy Harry Potter đủ thứ kinh khủng…"
+"...và ông ấy là Giáo sư Phòng thủ tệ nhất mà mọi người còn nhớ ngay cả ở Hogwarts, ông ấy không chỉ thất bại trong việc dạy chúng ta, mà ông ấy còn hiểu sai mọi thứ, hoàn toàn trái ngược với những gì lẽ ra phải thế…"
+"...như khi anh ấy tuyên bố rằng bạn chỉ có thể thực hiện Lời nguyền Giết chóc bằng tình yêu, điều đó khiến nó trở nên vô dụng."
+"Tôi thích cái đó."
+"Cảm ơn."
+"Tôi cá là Giáo sư Phòng thủ cũng thích nó."
+"Anh ấy có khiếu hài hước. Anh ấy sẽ không gọi chúng tôi như vậy nếu anh ấy không có khiếu hài hước."
+"Nhưng liệu chúng ta có thực sự có thể làm được công việc của Harry không?"
+"Harry bảo hãy thảo luận vấn đề trước khi cố gắng giải quyết nó, vậy nên hãy làm như vậy đi."
+Cặp song sinh nhà Weasley quyết định rằng George sẽ là người nhiệt tình trong khi Fred thì nghi ngờ.
+Fred nói: "Tất cả đều có vẻ mâu thuẫn. "Anh ấy muốn nó lố bịch đến mức mọi người cười nhạo Skeeter và biết điều đó là sai, đồng thời anh ấy muốn Skeeter tin vào điều đó. Chúng ta không thể làm cả hai việc cùng một lúc."
+"Chúng ta sẽ phải giả mạo một số bằng chứng để thuyết phục Skeeter," George nói.
+"Đó có phải là một giải pháp không?" Fred nói.
+Họ đã cân nhắc điều này.
+"Có thể," George nói, "nhưng tôi không nghĩ chúng ta nên nghiêm khắc đến thế, phải không?"
+Cặp song sinh nhún vai bất lực.
+Fred nói: "Vậy thì bằng chứng giả phải đủ tốt để thuyết phục Skeeter. "Chúng ta thực sự có thể tự mình làm điều đó được không?"
+George nói và chỉ vào đống tiền: "Chúng ta không cần phải tự mình làm việc đó. "Chúng ta có thể thuê người khác giúp chúng ta."
+Cặp song sinh có một cái nhìn sâu sắc trên khuôn mặt của họ.
+Fred nói: "Việc đó có thể ngốn hết ngân sách của Harry khá nhanh. "Đây là số tiền rất lớn đối với chúng tôi, nhưng không phải là số tiền lớn đối với một người như Flume."
+George nói: "Có thể mọi người sẽ giảm giá nếu họ biết nó dành cho Harry. "Nhưng quan trọng nhất là dù chúng tôi có làm gì thì điều đó cũng không thể thực hiện được."
+Fred chớp mắt. "Ý bạn là gì, không thể?"
+"Không thể nào mà chúng ta không gặp rắc rối, bởi vì không ai tin rằng chúng ta có thể làm được điều đó. Không thể nào đến nỗi ngay cả Harry cũng bắt đầu băn khoăn. Nó phải siêu thực, nó phải khiến mọi người nghi ngờ sự tỉnh táo của chính họ, nó phải... tốt hơn Harry."
+Đôi mắt của Fred mở to kinh ngạc. Điều này thỉnh thoảng xảy ra giữa họ, nhưng không thường xuyên. "Nhưng tại sao?"
+"Chúng là những trò đùa. Chúng là tất cả trò đùa. Chiếc bánh là một trò đùa. Lễ tưởng niệm là một trò đùa. Con mèo của Kevin Entwhistle là một trò đùa. Snape là một trò đùa. Chúng ta là những kẻ chơi khăm giỏi nhất ở Hogwarts, chúng ta sẽ lăn qua lăn lại và bỏ cuộc mà không chiến đấu à?"
+Fred nói: "Cậu ấy là Cậu bé sống sót."
+"Và chúng ta là cặp song sinh nhà Weasley! Anh ấy đang thách thức chúng ta. Anh ấy nói chúng ta có thể làm được những gì anh ấy làm. Nhưng tôi cá là anh ấy không nghĩ chúng ta sẽ giỏi được như anh ấy."
+"Anh ấy nói đúng," Fred nói, cảm thấy khá lo lắng. Cặp song sinh nhà Weasley đôi khi không đồng ý ngay cả khi họ có tất cả thông tin giống nhau, nhưng mỗi lần họ làm vậy thì điều đó dường như không tự nhiên, giống như ít nhất một trong số họ chắc chắn đã làm sai điều gì đó. "Đây là Harry Potter mà chúng ta đang nói đến. Anh ấy có thể làm được điều không thể. Chúng ta không thể."
+"Có, chúng tôi có thể," George nói. "Và chúng ta phải hơn điều không thể hơn anh ta."
+"Nhưng…" Fred nói.
+"Đó là điều Godric Gryffindor sẽ làm," George nói.
+Chuyện đó đã giải quyết xong, và cặp song sinh quay trở lại… bất kể điều gì là bình thường đối với họ.
+"Được rồi, vậy thì—"
+"—hãy suy nghĩ về điều đó."
