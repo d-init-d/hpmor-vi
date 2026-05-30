@@ -1,0 +1,117 @@
+{
+  "chapter": 78,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 99 (end of Snape's Sorting-Hat monologue)",
+      "source_excerpt": "Is that fair, I ask, even if the Sorting Hat speaks truly? Is it fair that some children should possess more courage than others, and thus a man's life be judged?",
+      "target_excerpt": "Nhưng liệu một cuộc đời có bị phán xét không?",
+      "description": "Two full rhetorical questions in the source are collapsed into a single short clause. The clauses 'even if the Sorting Hat speaks truly' and 'Is it fair that some children should possess more courage than others' are entirely absent, and 'fair' is dropped.",
+      "suggested_fix": "Điều đó có công bằng không, ta tự hỏi, ngay cả khi Mũ Phân Loại nói đúng sự thật? Có công bằng không khi một số đứa trẻ sở hữu nhiều can đảm hơn những đứa khác, để rồi cuộc đời một con người bị phán xét vì điều đó?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 99",
+      "source_excerpt": "wonder when your life was ruined past all rescuing",
+      "target_excerpt": "tự hỏi khi nào cuộc đời của ngươi đã bị hủy hoại sau tất cả những lần được giải cứu",
+      "description": "'ruined past all rescuing' (hủy hoại đến mức không thể cứu vãn) is mistranslated as 'ruined after all the rescues' (sau tất cả những lần được giải cứu), reversing the meaning from 'beyond rescue' to 'following rescues'.",
+      "suggested_fix": "tự hỏi khi nào cuộc đời của ngươi đã bị hủy hoại đến mức không thể cứu vãn",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "major",
+      "location": "line 155",
+      "source_excerpt": "The gap stretched like the distance between two mountains.",
+      "target_excerpt": "Khoảng trống trải dài như khoảng cách giới từ đỉnh núi này đến đỉnh núi khác.",
+      "description": "'giới từ' means 'preposition' (a grammar term) and is nonsense here. It should be 'giữa' (between). Produces 'the distance preposition this mountain'.",
+      "suggested_fix": "Khoảng trống trải dài như khoảng cách giữa đỉnh núi này đến đỉnh núi khác.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 117",
+      "source_excerpt": "It means you've got the power, but you don't have to do it.",
+      "target_excerpt": "Điều đó có nghĩa là bạn có sức mạnh, nhưng bạn không có nghĩa là có thể làm điều đó.",
+      "description": "'you don't have to do it' (bạn không bắt buộc/nhất thiết phải làm điều đó) is distorted into 'bạn không có nghĩa là có thể làm điều đó' (you don't mean you can do it), losing the 'not obligated' sense central to the riddle's logic.",
+      "suggested_fix": "Điều đó có nghĩa là bạn có sức mạnh, nhưng bạn không nhất thiết phải làm điều đó.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 119",
+      "source_excerpt": "How would a grown man mark a baby as his equal?",
+      "target_excerpt": "Làm sao một người đàn ông trưởng thành lại đánh giá một đứa bé ngang hàng với mình?",
+      "description": "'mark ... as his equal' is rendered 'đánh giá' (evaluate). The deliberate prophecy wordplay on 'mark' (đánh dấu, with a scar) is broken; the very next paragraph correctly renders 'Marking a baby' as 'Đánh dấu một đứa bé'.",
+      "suggested_fix": "Làm sao một người đàn ông trưởng thành lại đánh dấu một đứa bé là ngang hàng với mình?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 109",
+      "source_excerpt": "she wouldn't hear it if she said no",
+      "target_excerpt": "cô sẽ không nghe thấy nếu nó không",
+      "description": "'if she said no' is garbled into 'nếu nó không' (if it not), dropping the subject/verb. Reads as incomplete/nonsensical Vietnamese.",
+      "suggested_fix": "cô sẽ không nghe thấy nếu cô nói không",
+      "verdict": "real"
+    },
+    {
+      "category": "heading-title",
+      "severity": "minor",
+      "location": "line 1",
+      "source_excerpt": "76. Interlude with the Confessor: Sunk Costs",
+      "target_excerpt": "76. Giao lưu với Người xưng tội: Chi phí chìm",
+      "description": "'Interlude' is mistranslated as 'Giao lưu' (exchange/get-together). An interlude is an interposed scene; 'Giao lưu' changes the meaning. ('Sunk Costs' -> 'Chi phí chìm' is correct.)",
+      "suggested_fix": "76. Khúc Xen với Người Xưng Tội: Chi Phí Chìm",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 99",
+      "source_excerpt": "I was never one for righteous fury, then or now.",
+      "target_excerpt": "Ta chưa bao giờ là người ủng hộ sự giận dữ chính đáng?",
+      "description": "Omits 'then or now' (trước đây hay bây giờ) and incorrectly turns a statement into a question with a '?'.",
+      "suggested_fix": "Ta chưa bao giờ là kẻ ưa nổi cơn thịnh nộ chính nghĩa, dù trước đây hay bây giờ.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 45",
+      "source_excerpt": "We were, weren't we?",
+      "target_excerpt": "Chúng tôi đã, không phải chúng tôi?",
+      "description": "The English tag question is calqued word-for-word ('không phải chúng tôi?') instead of using natural Vietnamese ('đúng không?'/'phải không?').",
+      "suggested_fix": "Chúng tôi đã làm vậy, đúng không?",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 45, 49 (Rianne addressing Snape)",
+      "source_excerpt": "Why did you do it? ... I didn't understand why you were helping her ... Why'd you do that, Professor Snape?",
+      "target_excerpt": "Tại sao bạn làm điều đó?",
+      "description": "Student-to-professor pronoun is inconsistent and wrong register: Rianne calls Snape 'bạn' here (line 45), 'anh' (line 49) and 'ông' (line 49) in the same speech. A student would address Professor Snape as 'thầy'/'ông', never 'bạn'.",
+      "suggested_fix": "Tại sao thầy lại làm điều đó?",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 49",
+      "source_excerpt": "She'd taken little notice of the controversy over the Sunshine General.",
+      "target_excerpt": "Cô ít chú ý đến cuộc tranh cãi về Sunshine General.",
+      "description": "'Sunshine General' (Hermione's epithet) is left in English. Per the style sheet such descriptive titles should be translated (e.g. Tướng Quân Ánh Dương).",
+      "suggested_fix": "Cô ít chú ý đến cuộc tranh cãi về Tướng Quân Ánh Dương.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful but contains one major content omission and one major distortion in Snape's Sorting-Hat monologue (line 99), a nonsense 'giới từ' for 'giữa' (line 155), a distorted riddle line (line 117), plus several minor pronoun/register and machine-translation issues."
+}

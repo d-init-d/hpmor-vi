@@ -1,0 +1,37 @@
+{
+  "chapter": 80,
+  "findings": [
+    {
+      "category": "mistranslation",
+      "severity": "major",
+      "location": "line 2",
+      "source_excerpt": "",
+      "target_excerpt": "Tôi là Thứ Bảy, ngày 4 tháng 4 năm 1992.",
+      "description": "\"Tôi là Thứ Bảy\" incorrectly translates \"It was Saturday\" as \"I was Saturday\". Should be \"Thứ Bảy\" or \"Đó là Thứ Bảy\".",
+      "suggested_fix": "Change \"Tôi là Thứ Bảy\" to \"Thứ Bảy\"",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "major",
+      "location": "lines ~124 and ~130",
+      "source_excerpt": "[Source has no duplication here - target only]",
+      "target_excerpt": "Line 124: “Làm tốt lắm, Neville,” Theodore nói từ nơi anh đang đi trước tất cả, dẫn dắt Qu",
+      "description": "Text is duplicated in the Vietnamese translation.",
+      "suggested_fix": "Remove duplicate line",
+      "verdict": "real"
+    },
+    {
+      "category": "punctuation",
+      "severity": "minor",
+      "location": "line 47",
+      "source_excerpt": "",
+      "target_excerpt": "“Như cái gì?” Hermione hỏi, có vẻ căng thẳng. \"Nếu chúng ta không biết anh ta đang lên kế hoạch gì, thì chúng ta cũng có thể để dành phép thuật của mì",
+      "description": "Missing space after period.",
+      "suggested_fix": "Add space after period.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Found 3 issues - major mistranslation and duplication, minor punctuation."
+}

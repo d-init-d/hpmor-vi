@@ -1,0 +1,107 @@
+{
+  "chapter": 69,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 2",
+      "source_excerpt": "I n the high reaches of Hogwarts where rooms and corridors changed",
+      "target_excerpt": "Tôi ở vùng cao của Hogwarts nơi các phòng và hành lang thay đổi hàng ngày",
+      "description": "The source opening 'In the high reaches of Hogwarts' (with the drop-cap rendered as 'I n') was misread, turning the preposition 'In' into the first-person pronoun 'Tôi' (I). The sentence is descriptive narration, not a first-person statement, so this wrongly introduces a speaker.",
+      "suggested_fix": "Ở vùng cao của Hogwarts nơi các phòng và hành lang thay đổi hàng ngày",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 7 (also lines 89, 107)",
+      "source_excerpt": "the Sunshine General was being stupidly proud",
+      "target_excerpt": "Đại úy Ánh Dương đang kiêu hãnh một cách ngu ngốc",
+      "description": "'Sunshine General' (Hermione) is translated as 'Đại úy' (Captain), but the other two generals are correctly 'Đại tướng' (Draco = 'Đại tướng Rồng', Harry = 'Đại tướng Potter'). The rank is wrong and inconsistent. Same error recurs at line 89 ('một Đại úy Ánh Dương') and line 107 ('Đại úy Granger' for 'General Granger').",
+      "suggested_fix": "Đại tướng Ánh Dương đang kiêu hãnh một cách ngu ngốc",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 16 (also line 105)",
+      "source_excerpt": "the Chaotic Lieutenant said after a while",
+      "target_excerpt": "Đại liên Hỗn Loạn nói sau một lúc",
+      "description": "'Lieutenant' is rendered as 'Đại liên', which in Vietnamese means a heavy machine gun, not a military rank. Lieutenant should be 'Trung úy' (or 'Phó tướng'). The same wrong word recurs at line 105 ('các Đại liên đang mặc áo kim loại' for 'the Lieutenants are wearing metal shirts').",
+      "suggested_fix": "Trung úy Hỗn Loạn nói sau một lúc",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 40",
+      "source_excerpt": "screamed the word: \"Stupefy!\"",
+      "target_excerpt": "Ngẩn ngơ!",
+      "description": "The incantation 'Stupefy!' is translated to 'Ngẩn ngơ!' here, but every other occurrence in the chapter keeps it as 'Stupefy!' (lines 45, 63, 74, 92). This breaks the spell-incantation convention and is internally inconsistent; 'Ngẩn ngơ' (dazed/absent-minded) also misrepresents the stun spell.",
+      "suggested_fix": "Stupefy!",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 10",
+      "source_excerpt": "throw a tantrum that could sabotage his potential position",
+      "target_excerpt": "không được nổi cơn tam tày có thể phá vỡ vị trí tiềm năng",
+      "description": "'nổi cơn tam tày' is not a valid Vietnamese expression; the idiom for throwing a tantrum is 'nổi cơn tam bành'. 'tam tày' is a typo for 'tam bành'.",
+      "suggested_fix": "không được nổi cơn tam bành có thể phá vỡ vị trí tiềm năng",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 101",
+      "source_excerpt": "(that had been a good spell to cast anyway now that Draco realized it)",
+      "target_excerpt": "đó là một lời nguyền hay để làm anyway khi anh nhận ra",
+      "description": "The English word 'anyway' is left untranslated inside Vietnamese prose.",
+      "suggested_fix": "đó dù sao cũng là một lời nguyền hay để niệm khi anh nhận ra",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 109",
+      "source_excerpt": "the thud of another of her soldiers falling over",
+      "target_excerpt": "có tiếng thud của một trong những binh sĩ của cô ngã xuống",
+      "description": "The English onomatopoeia 'thud' is left untranslated in Vietnamese prose.",
+      "suggested_fix": "có tiếng thịch của một trong những binh sĩ của cô ngã xuống",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 103",
+      "source_excerpt": "\"Code seven on Malfoy!\"",
+      "target_excerpt": "Code bảy trên Malfoy!",
+      "description": "'Code' is left in English (only 'seven' was translated to 'bảy'), and 'on Malfoy' is rendered as a literal calque 'trên Malfoy' (= on top of Malfoy).",
+      "suggested_fix": "Mã bảy nhắm vào Malfoy!",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 53 (also line 52)",
+      "source_excerpt": "Her Lady Mother had also recently instructed her",
+      "target_excerpt": "Lady mẹ cũng gần đây hướng dẫn cô",
+      "description": "The English honorific 'Lady' is left untranslated in Vietnamese prose ('Her Lady Mother' / 'the Lady her Mother'). It should be rendered with a Vietnamese title.",
+      "suggested_fix": "Phu nhân mẹ cô cũng gần đây hướng dẫn cô",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 86",
+      "source_excerpt": "\"Why, yes,\" said Harry. \"Yes, I do.\"",
+      "target_excerpt": "Ừ, tôi có.",
+      "description": "'Yes, I do' (answering 'You think you're pretty cool, don't you') is rendered as the literal calque 'Ừ, tôi có' (Yes, I have), which is unnatural Vietnamese for affirming the question.",
+      "suggested_fix": "Ừ, đúng vậy.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "The translation is broadly complete and faithful, but contains several genuine defects: mistranslated military ranks (General->Đại úy for Hermione, Lieutenant->Đại liên), a misread opening preposition (In->Tôi), an inconsistent spell rendering (Stupefy->Ngẩn ngơ), one idiom typo (tam tày), and a few stray English words (anyway, thud, Code, Lady)."
+}

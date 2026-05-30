@@ -1,0 +1,117 @@
+{
+  "chapter": 34,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 35",
+      "source_excerpt": "he would give you a discount on multiple Weasleys",
+      "target_excerpt": "và anh ta sẽ giảm giá khi cậu mua nhiều hơn một cây đũa của nhà Weasley",
+      "description": "Quirrell is offering an assassin's discount for killing multiple Weasleys. The translation invents 'mua... cây đũa' (buying wands) and completely loses the dark joke about hiring an assassin for multiple targets.",
+      "suggested_fix": "và anh ta sẽ giảm giá nếu cậu cần xử lý nhiều thành viên nhà Weasley cùng lúc",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 47",
+      "source_excerpt": "And where had Professor Quirrell been that he'd never heard the story?",
+      "target_excerpt": "Và Giáo sư Quirrell đã ở đây mà ông ấy chưa từng nghe câu chuyện này?",
+      "description": "The source asks WHERE Quirrell had been (implying somewhere remote) that he never heard the story. Target says 'đã ở đây' (had been here), which reverses/loses the meaning. Likely a typo of 'đâu' as 'đây'.",
+      "suggested_fix": "Và Giáo sư Quirrell đã ở đâu mà ông ấy chưa từng nghe câu chuyện này?",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "Harry hadn't quite worked out any money-making methods",
+      "target_excerpt": "Harry chưa khátìm ra bất kỳ phương pháp kiếm tiền nào",
+      "description": "'khátìm' is two words glued together with no space ('khá' + 'tìm'), and the phrasing is broken.",
+      "suggested_fix": "Harry chưa thực sự tìm ra bất kỳ phương pháp kiếm tiền nào",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "And starting a real bank would be a lot of work",
+      "target_excerpt": "Và việc thành lập một ngân hàng thực sự sẽ là một rất nhiều công việc…",
+      "description": "Calque of 'a lot of work' with a stray 'một' producing broken grammar ('sẽ là một rất nhiều công việc').",
+      "suggested_fix": "Và việc thành lập một ngân hàng thực sự sẽ tốn rất nhiều công sức…",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 25",
+      "source_excerpt": "Oh, come on, Harry said.",
+      "target_excerpt": "\"Ồ, đến đây,\" Harry nói.",
+      "description": "'Oh, come on' is an exclamation of urging/exasperation, mistranslated literally as 'đến đây' (come here).",
+      "suggested_fix": "\"Ồ, thôi nào,\" Harry nói.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 49",
+      "source_excerpt": "if you'd help me be Slytherin here, and suggest something they might be very grateful for",
+      "target_excerpt": "nếu thầy giúp tôi ở đây, hãy đề nghị điều gì đó mà họ có thể rất biết ơn",
+      "description": "The 'be Slytherin' (act cunning/scheming like a Slytherin) element is dropped; target reduces it to a plain 'giúp tôi ở đây'.",
+      "suggested_fix": "nếu thầy giúp tôi ranh mãnh kiểu Slytherin ở đây, hãy gợi ý điều gì đó mà họ có thể rất biết ơn",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "The gold and silver trick would've taken work on the Muggle end, and seed funding",
+      "target_excerpt": "Trò lừa vàng và bạc sẽ có tác dụng với phía Muggle cũng như nguồn tài trợ hạt giống",
+      "description": "'would've taken work on the Muggle end' (it would have required effort) is distorted into 'sẽ có tác dụng với phía Muggle' (would have effect on the Muggle side). Meaning is reversed.",
+      "suggested_fix": "Trò lừa vàng và bạc sẽ tốn công sức ở phía Muggle, cùng với nguồn vốn mồi",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "Probably I'd have done a few celebrity appearances.",
+      "target_excerpt": "Có lẽ tôi đã xuất hiện vài lần với người nổi tiếng.",
+      "description": "'celebrity appearances' means Harry appearing AS a celebrity (he is famous), not appearing 'với người nổi tiếng' (with celebrities).",
+      "suggested_fix": "Có lẽ tôi sẽ xuất hiện vài lần với tư cách người nổi tiếng.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 29",
+      "source_excerpt": "Isaac Newton actually was born on December 25th",
+      "target_excerpt": "Isaac Newton thực ra sinh ngày vào ngày 25 tháng 12",
+      "description": "Duplicated word: 'sinh ngày vào ngày 25' has a stray 'ngày'.",
+      "suggested_fix": "Isaac Newton thực ra sinh vào ngày 25 tháng 12",
+      "verdict": "real"
+    },
+    {
+      "category": "heading-title",
+      "severity": "minor",
+      "location": "line 1",
+      "source_excerpt": "32. Interlude: Personal Financial Management",
+      "target_excerpt": "32. Interlude: Quản lý tài chính cá nhân",
+      "description": "Style sheet requires translating the chapter title. The word 'Interlude' is left untranslated in the heading.",
+      "suggested_fix": "32. Đoạn Xen: Quản lý tài chính cá nhân",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "leaving all of my assets in one undiversified vault full of gold coins",
+      "target_excerpt": "để tất cả tài sản của tôi trong một kho tiền chưa được phân loại đầy những đồng tiền vàng",
+      "description": "'undiversified' (a financial term meaning not diversified) is mistranslated as 'chưa được phân loại' (unclassified/uncategorized).",
+      "suggested_fix": "để tất cả tài sản của tôi trong một kho tiền không được đa dạng hóa đầy những đồng tiền vàng",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly faithful but contains two major distortions (the assassin 'multiple Weasleys' joke turned into buying wands, and 'where had he been' rendered as 'had been here'), plus several minor spelling/awkwardness/omission issues and an untranslated 'Interlude' in the heading."
+}

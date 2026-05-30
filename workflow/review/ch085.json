@@ -1,0 +1,67 @@
+{
+  "chapter": 85,
+  "findings": [
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "the Defence Professor had Polyjuiced as Granger to fool Malfoy",
+      "target_excerpt": "đã dùng Đa dạng thuật hóa thân thành Granger để đánh lừa Malfoy",
+      "description": "Polyjuice rendered as \"Đa dạng thuật\" instead of the approved glossary term. Meaning is preserved (transforming to look like Granger), but it deviates from the glossary mapping Polyjuice -> Thuốc Biến Hình.",
+      "suggested_fix": "đã dùng Thuốc Biến Hình hóa thân thành Granger để đánh lừa Malfoy",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 12",
+      "source_excerpt": "The original Form is not gone, only suppressed; and to maintain that suppression—",
+      "target_excerpt": "Hình dạng ban đầu không biến mất, chỉ bị đàn áp; và để duy trì sự đàn áp đó—",
+      "description": "\"suppressed/suppression\" translated as \"đàn áp\", which means political oppression of people, not the physical suppression of a Transfigured form. Unnatural calque in this context.",
+      "suggested_fix": "Hình dạng ban đầu không biến mất, chỉ bị kìm nén; và để duy trì sự kìm nén đó—",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 22",
+      "source_excerpt": "said Professor McGonagall, her expression growing sharp",
+      "target_excerpt": "Giáo sư McGonagall nói, vẻ mặt bà trở nên sắc bén",
+      "description": "\"expression growing sharp\" rendered as \"vẻ mặt... sắc bén\". \"sắc bén\" describes a sharp blade or a keen/incisive mind, not a hardening facial expression; reads as a machine calque.",
+      "suggested_fix": "Giáo sư McGonagall nói, vẻ mặt bà đanh lại",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 16",
+      "source_excerpt": "I expected that rumour would have spread.",
+      "target_excerpt": "Tôi đã mong rằng tin đồn sẽ lan đi.",
+      "description": "\"expected\" (assumed it had already happened) is rendered as \"mong\" (hoped/wished for), which implies McGonagall wanted the rumour to spread rather than merely assuming it had.",
+      "suggested_fix": "Tôi cứ tưởng tin đồn đã lan ra rồi chứ.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 30",
+      "source_excerpt": "the Board of Governors has scheduled a vote",
+      "target_excerpt": "Hội đồng Thống đốc đã lên lịch biểu quyết",
+      "description": "Hogwarts' \"Board of Governors\" rendered as \"Hội đồng Thống đốc\" (board of state governors). The standard rendering is \"Hội đồng Quản trị\".",
+      "suggested_fix": "Hội đồng Quản trị đã lên lịch biểu quyết",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 8 and 32",
+      "source_excerpt": "General Potter ... And General Malfoy?",
+      "target_excerpt": "Tướng Potter ... Còn Tướng quân Malfoy?",
+      "description": "\"General\" is rendered inconsistently: \"Tướng Potter\" in one place and \"Tướng quân Malfoy\" in another. Both are valid but should be consistent.",
+      "suggested_fix": "Use one consistent form, e.g. \"Tướng quân Potter\" and \"Tướng quân Malfoy\".",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is complete and faithful with no omissions, duplications, or untranslated prose; only minor terminology/awkwardness issues (Polyjuice term, \"đàn áp\"/\"sắc bén\" calques, Board of Governors, inconsistent \"General\")."
+}

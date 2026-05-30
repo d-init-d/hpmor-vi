@@ -1,0 +1,17 @@
+{
+  "chapter": 66,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "spread by blogging, tweeting, word of mouth, favoriting, plugging it on forums",
+      "target_excerpt": "lan truyền qua viết blog, tweet, truyền miệng, favoriting, plug trên các diễn đàn",
+      "description": "English prose words 'favoriting' and 'plug' left untranslated inside Vietnamese text (blog/tweet are accepted loanwords). These also appear in the reference source, so this may be an intentional informal author's-note style.",
+      "suggested_fix": "lan truyền qua viết blog, tweet, truyền miệng, thêm vào yêu thích, quảng bá trên các diễn đàn",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Short Omake/bridge chapter; target faithfully matches source with no typos, omissions, or distortions, only minor untranslated English loanwords ('favoriting', 'plug') that also exist in the source."
+}

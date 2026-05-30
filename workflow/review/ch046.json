@@ -1,0 +1,57 @@
+{
+  "chapter": 46,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 36",
+      "source_excerpt": "Do not speak of it, said the will of Dumbledore to her.",
+      "target_excerpt": "«Đừng nói về điều đó,» đã nói di chúc của cụ Dumbledore với cô.",
+      "description": "\"the will of Dumbledore\" here means his volition/ý chí (a thought transmitted by his will), not a legal testament. \"di chúc\" = last will/testament, a wrong word-sense; the phrasing is also a literal MT calque of the English clause order.",
+      "suggested_fix": "«Đừng nói về điều đó,» ý chí của cụ Dumbledore truyền đến cô.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 45",
+      "source_excerpt": "That took work. The Headmaster really was crazy!",
+      "target_excerpt": "«Điều đó đã làm việc. Hiệu trưởng thật sự điên rồi!",
+      "description": "\"That took work\" means it required great effort (for Hermione to not react), not \"that worked.\" \"Điều đó đã làm việc\" is a literal MT calque meaning \"that did work,\" distorting the sense.",
+      "suggested_fix": "«Điều đó đòi hỏi nỗ lực lắm. Hiệu trưởng thật sự điên rồi!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 48",
+      "source_excerpt": "I doubt that will work, sent the Headmaster",
+      "target_excerpt": "«Tôi nghi ngờ cách đó sẽ hiệu quả,» đã gửi cho Hiệu trưởng,",
+      "description": "\"sent the Headmaster\" is a dialogue tag meaning the Headmaster sent the thought. \"đã gửi cho Hiệu trưởng\" reads as \"sent TO the Headmaster,\" reversing the direction of who is sending. Other instances (lines 40, 46) use \"gửi Hiệu trưởng\" without \"cho.\"",
+      "suggested_fix": "«Tôi nghi ngờ cách đó sẽ hiệu quả,» Hiệu trưởng gửi đến,",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 19",
+      "source_excerpt": "The Headmaster's voice was grim as iron.",
+      "target_excerpt": "Giọng của Hiệu trưởng sắt đá như sắt.",
+      "description": "\"sắt đá như sắt\" is redundant/awkward because \"sắt đá\" already contains \"sắt\" (iron), yielding \"hard-as-iron as iron.\" Unnatural rendering of \"grim as iron.\"",
+      "suggested_fix": "Giọng của Hiệu trưởng nghiêm nghị như sắt.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 18",
+      "source_excerpt": "she could see Harry's expression become more hateful",
+      "target_excerpt": "cô có thể thấy vẻ mặt của Harry trở nên đáng ghét hơn",
+      "description": "\"hateful\" here describes an expression full of hatred (Harry hating), but \"đáng ghét\" means \"detestable / worthy of being hated,\" shifting the sense to Harry being hated by others.",
+      "suggested_fix": "cô có thể thấy vẻ mặt của Harry trở nên đầy thù hận hơn",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is well translated overall with title correctly localized and no untranslated prose; defects are a few word-sense/MT errors, notably \"the will of Dumbledore\" rendered as \"di chúc\" (testament) and \"That took work\" rendered as \"đã làm việc.\""
+}

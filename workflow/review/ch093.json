@@ -1,0 +1,47 @@
+{
+  "chapter": 93,
+  "findings": [
+    {
+      "category": "mt-awkwardness",
+      "severity": "critical",
+      "location": "entire file - encoding corruption throughout",
+      "source_excerpt": "91. Roles, Part II E. Y.: This chapter does not contain a spoiler for any particular Orson Scott Card novel. It's a metaphor.",
+      "target_excerpt": "91. Vai tr�, Ph?n II\nE. Y.: Chuong n�y kh�ng ch?a ph?n ti?t l? n?i dung c?a b?t k? cu?n ti?u thuy?t c? th? n�o c?a Orson Scott Card. D� l� m?t ph�p ?n d?.",
+      "description": "Vietnamese text is corrupted throughout - encoding issue causing diacritical marks to be replaced with mojibake characters (e.g., 'không' becomes 'kh�ng', 'Phần' becomes 'Ph?n', 'trò' becomes 'tr�'). This affects the entire file, making large portions unreadable or distorted.",
+      "suggested_fix": "Re-encode the file with proper UTF-8 Vietnamese character encoding. The translation appears complete but the character encoding is corrupted.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "near end of chapter - final lines truncated",
+      "source_excerpt": "\"Madam Granger,\" her voice said, \"Mr Granger, I am so terribly sorry for-\"",
+      "target_excerpt": "\"B� Granger,\" gi?ng c? ?y vang lên, \"Ong Granger, tôi v\" - [text cuts off mid-word]",
+      "description": "The chapter ends incompletely. McGonagall's apology to the Grangers is truncated mid-sentence in the target, while the source completes her thought. The target simply stops at 'Tôi v' without finishing.",
+      "suggested_fix": "Restore the complete line: \"Bà Granger,\" giọng bà ấy vang lên, \"Ông Granger, tôi vô cùng xin lỗi vì-\" and ensure the full sentence is present.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "Harry's dialogue about buggers",
+      "source_excerpt": "\"I think we are now well past Ender and on to Ender after the buggers kill Valentine.\"",
+      "target_excerpt": "\"Tôi nghi gi? ch�ng ta da vu�t qua Ender v� ti�n t?i Ender sau khi lu b? gi?t buggers.\"",
+      "description": "The English word 'buggers' is left untranslated in Harry's sentence about the Bugger alien species killing Valentine. While context suggests it refers to the alien race from Ender's Game, the word should be translated for consistency.",
+      "suggested_fix": "Replace with appropriate Vietnamese term for the alien species, or keep 'Bugger' capitalized if treating it as a proper noun from the fictional universe.",
+      "verdict": "real"
+    },
+    {
+      "category": "punctuation",
+      "severity": "minor",
+      "location": "Multiple dialogue attributions",
+      "source_excerpt": "\"Harry,\" the woman said falteringly. \"Harry-\"",
+      "target_excerpt": "\"Harry,\" ngu?i ph? n? ?p �ng n�i. \"Harry-\"",
+      "description": "The source uses em-dashes (—) for interrupted speech in several places. Some instances are preserved but the formatting is inconsistent due to the encoding issues making it difficult to verify exact punctuation preservation.",
+      "suggested_fix": "After fixing encoding, verify that em-dashes and speech interruption markers are properly preserved throughout dialogue.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 93 has CRITICAL encoding corruption throughout the Vietnamese text. The file was likely saved with incorrect encoding (not UTF-8), causing Vietnamese diacritical marks to be replaced with garbled characters. Additionally, the chapter ends incompletely with McGonagall's apology cut off mid-sentence. The 'bugger' reference also remains untranslated. This chapter requires re-encoding and completion before it can be considered ready-to-ship."
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": 6,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 40",
+      "source_excerpt": "So some of this really is, in a sense, mine.",
+      "target_excerpt": "So một số tiền này, theo một góc nhìn nào đó, thực sự là của con.",
+      "description": "The English discourse marker \"So\" was left untranslated at the start of the sentence; it is not a Vietnamese word in this context.",
+      "suggested_fix": "Vậy một số tiền này, theo một góc nhìn nào đó, thực sự là của con.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 58",
+      "source_excerpt": "a mokeskin pouch with a Retrieval Charm and Undetectable Extension Charm",
+      "target_excerpt": "một chiếc túi da moke có bùa Triệu tập và bùa Nới rộng Không giới hạn",
+      "description": "\"Undetectable Extension Charm\" was rendered as \"bùa Nới rộng Không giới hạn\" (Unlimited Extension Charm); the key word \"Undetectable\" (không thể phát hiện) was mistranslated as \"Không giới hạn\" (unlimited).",
+      "suggested_fix": "một chiếc túi da moke có bùa Triệu tập và bùa Nới rộng Bất khả Truy",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 59",
+      "source_excerpt": "Batman's utility belt of holding!",
+      "target_excerpt": "Chiếc thắt lưng tiện ích của Batman!",
+      "description": "The phrase \"of holding\" (a play on the D&D \"bag of holding\", implying magical storage) is entirely absent from the target.",
+      "suggested_fix": "Chiếc thắt lưng tiện ích chứa đồ vô tận của Batman!",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful and natural; only minor issues found: a leftover English \"So\", a mistranslation of \"Undetectable\" as \"unlimited\", and a small omitted phrase \"of holding\"."
+}

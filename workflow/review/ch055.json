@@ -1,0 +1,67 @@
+{
+  "chapter": 55,
+  "findings": [
+    {
+      "category": "mt-awkwardness",
+      "severity": "major",
+      "location": "line 3",
+      "source_excerpt": "The corpse of a woman opened her eyes",
+      "target_excerpt": "Tấm ấy xác của một người phụ nữ mở mắt ra, và đôi mắt trũng sâu buồn tẻ nhìn ra hư không.",
+      "description": "Opening sentence is garbled. 'Tấm ấy' is spurious/nonsensical text (likely an artifact of the drop-cap 'T he corpse'). It should simply be 'Xác của một người phụ nữ'.",
+      "suggested_fix": "Xác của một người phụ nữ mở mắt ra, và đôi mắt trũng sâu buồn tẻ nhìn ra hư không.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 23",
+      "source_excerpt": "My... Lord... I waited for you but you did not come",
+      "target_excerpt": "\"My… Lord… tôi đã đợi ngài nhưng ngài không đến… tôi đã tìm ngài nhưng không tìm thấy ngài… ngài còn sống…\"",
+      "description": "English prose 'My… Lord…' left untranslated at the start of Bellatrix's line. Elsewhere (line 51) 'my lord' is rendered as 'lãnh chúa', so this is inconsistent and untranslated.",
+      "suggested_fix": "\"Thưa Lãnh chúa… tôi đã đợi ngài nhưng ngài không đến… tôi đã tìm ngài nhưng không tìm thấy ngài… ngài còn sống…\"",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 67",
+      "source_excerpt": "\"My Lord?\" the servant said falteringly.",
+      "target_excerpt": "\"Chúa ơi?\" Người hầu ấp úng nói.",
+      "description": "'My Lord?' (the servant addressing the Dark Lord) is mistranslated as 'Chúa ơi?', which is the exclamation 'Oh God!/My God!'. It changes the meaning from a form of address to an interjection.",
+      "suggested_fix": "\"Thưa Lãnh chúa?\" Người hầu ấp úng nói.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 49",
+      "source_excerpt": "a Death Eater, a quiet isolated place, and some lead-pipe Legilimency",
+      "target_excerpt": "gợi ý rằng nó có thể liên quan đến Tử thần Thực tử, một nơi biệt lập yên tĩnh và một số Pháp sư ống chì.",
+      "description": "'lead-pipe Legilimency' (crude/brutal mind-reading) is mistranslated as 'Pháp sư ống chì' (lead-pipe wizard). The key term Legilimency is replaced by 'wizard' and the meaning of forceful mind-reading is lost.",
+      "suggested_fix": "gợi ý rằng nó có thể liên quan đến một Tử thần Thực tử, một nơi biệt lập yên tĩnh và một chút thuật Nhiếp Hồn (Legilimency) thô bạo.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 61",
+      "source_excerpt": "even were I sstarved and nine-tenthss dead",
+      "target_excerpt": "ngay cả khi ta chết đói và chín phần mười; hãy cảnh giác với cô ta",
+      "description": "'nine-tenths dead' is rendered as 'chín phần mười' with the word 'dead' dropped, leaving the clause incomplete ('starved and nine-tenths [what?]').",
+      "suggested_fix": "ngay cả khi ta đang đói lả và đã chết đến chín phần mười; hãy cảnh giác với cô ta",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 79",
+      "source_excerpt": "and in almost the same motion clothed her in new black robes",
+      "target_excerpt": "và với chuyển động gần như tương tự, cô mặc cho cô bộ áo choàng đen mới.",
+      "description": "Pronoun confusion: the servant is male ('người hầu'/'người đàn ông'), but 'cô mặc cho cô' uses 'cô' (she) for the actor and the object, making the sentence read 'she dressed her'.",
+      "suggested_fix": "và với chuyển động gần như tương tự, khoác lên cho bà ta bộ áo choàng đen mới.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly faithful but contains four notable defects (a garbled opening sentence, untranslated 'My… Lord…', 'My Lord?' rendered as the interjection 'Chúa ơi?', and 'lead-pipe Legilimency' mistranslated as 'Pháp sư ống chì') plus two minor issues (dropped 'dead' in nine-tenths, and a pronoun confusion when dressing the body)."
+}

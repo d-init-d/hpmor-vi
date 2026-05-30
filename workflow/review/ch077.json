@@ -1,0 +1,17 @@
+{
+  "chapter": 77,
+  "findings": [
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "heading line 1",
+      "source_excerpt": "75. Self Actualization, Part X:Responsibility I t was a looping, meandering alley in the midst of Hogwarts, wandering like a stray lock of hair; somet",
+      "target_excerpt": "75. Tự thực hiện, Phần X: Trách nhiệm",
+      "description": "\"Tự thực hiện\" is inconsistent with other chapters which use \"Tự hiện thực hóa\" for \"Self Actualization\". The correct translation should be \"Tự hiện thực hóa\".",
+      "suggested_fix": "Change \"Tự thực hiện\" to \"Tự hiện thực hóa\"",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "1 major issue found: heading uses inconsistent translation \"Tự thực hiện\" instead of \"Tự hiện thực hóa\"."
+}

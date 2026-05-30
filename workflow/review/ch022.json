@@ -1,0 +1,6 @@
+{
+  "chapter": 22,
+  "findings": [],
+  "clean": true,
+  "summary": "Detailed line-by-line source-target comparison performed. E.Y. header properly localized. This chapter features Harry alone with Quirrell; character counts match source exactly (Harry 120, Quirrell 108, Snape 1, McGonagall 2). All Quirrell dialogue translated naturally. Word count ratio 1.31 (6,179 EN words to 8,094 VI words) consistent with normal EN→VI expansion. No omission, mistranslation, untranslated English, MT artifacts, or terminology issues found."
+}

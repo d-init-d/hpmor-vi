@@ -1,0 +1,15 @@
+{
+  "chapter": "ch099",
+  "review_date": "2026-05-30",
+  "agent": "opencode",
+  "summary": "1 artifact found: broken word at start of file (Fhoặc). Possibly also truncated first sentence.",
+  "findings": [
+    {
+      "severity": "minor",
+      "category": "mt_artifact",
+      "source_excerpt": "For the second time in that day, the thing that had once been Professor Quirrell was walking through the halls of Hogwarts.",
+      "target_excerpt": "Fhoặc lần thứ hai trong ngày đó, thứ từng là Giáo sư Quirrell đang đi bộ qua hành lang của Hogwarts.",
+      "note": "Line 1 starts with 'Fhoặc' - broken/mangled word likely from OCR or MT failure on 'For'. The rest of the sentence is correctly translated."
+    }
+  ]
+}

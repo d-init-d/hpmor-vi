@@ -1,0 +1,24 @@
+{
+  "chapter": "ch114",
+  "source_file": "ch114.txt",
+  "target_file": "ch114-vn.txt",
+  "clean": false,
+  "findings_count": {
+    "critical": 0,
+    "major": 1,
+    "minor": 0
+  },
+  "findings": [
+    {
+      "severity": "major",
+      "category": "mistranslation",
+      "location": "lines 148-149",
+      "description": "Greek incantation transliteration error in ritual chant",
+      "source_excerpt": "Apokatastethi, apokatastethi, apokatastethi to soma mou emoi. Apokatastethi, apokatastethi, apokatastethi to soma mou emoi. ... Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi). Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi).",
+      "target_excerpt": "Apokatastethi, apokatastethi, apokatastethi to soma hou emoi (emoi). Apokatastethi, apokatastethi, apokatastethi to soma hou emoi (emoi).",
+      "issue": "The Greek word 'mou' (my) is incorrectly transliterated as 'hou'. Also, the source has the chant repeated twice before the (emoi) parenthetical, but the Vietnamese only shows it once with (emoi) already appended to the first instance.",
+      "suggestion": "Correct 'hou' to 'mou' and restore proper chant structure: 'Apokatastethi, apokatastethi, apokatastethi to soma mou emoi' followed by echo, then 'Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi)'"
+    }
+  ],
+  "notes": "Overall translation quality is good. The main issue is the Greek incantation transliteration where 'mou' (my) was rendered as 'hou'. Also the structure of the repeated chant with obelisk echoes is simplified in translation."
+}

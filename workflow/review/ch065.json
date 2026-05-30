@@ -1,0 +1,47 @@
+{
+  "chapter": 65,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 5",
+      "source_excerpt": "you might think you were looking at the Headmaster somehow",
+      "target_excerpt": "bạn đang nhìn một Headmaster nào đó",
+      "description": "The English word 'Headmaster' is left untranslated in the Vietnamese prose. Per glossary, Headmaster -> Hiệu Trưởng.",
+      "suggested_fix": "bạn đang nhìn một Hiệu Trưởng nào đó",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "she hadn't seen him at all since breakfast",
+      "target_excerpt": "cô chưa từng thấy anh ta gì kể từ bữa sáng",
+      "description": "Ungrammatical machine-translation calque. 'thấy anh ta gì' is broken Vietnamese for 'hadn't seen him at all'.",
+      "suggested_fix": "cô chưa hề thấy anh ta kể từ bữa sáng",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 7",
+      "source_excerpt": "Technically she wasn't talking to Harry Potter",
+      "target_excerpt": "cô không đang nói chuyện với Harry Potter",
+      "description": "'không đang' is an unnatural calque of the English progressive negative. Natural Vietnamese omits 'đang' or restructures.",
+      "suggested_fix": "cô đang không nói chuyện với Harry Potter",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 11",
+      "source_excerpt": "So much exhaustion and hurt in Harry Potter's voice",
+      "target_excerpt": "Nhiều kiệt sức và tổn thương trong giọng Harry Potter",
+      "description": "Calque for 'So much exhaustion'. 'Nhiều kiệt sức' is awkward; a more natural rendering would intensify the emotion.",
+      "suggested_fix": "Quá nhiều kiệt sức và tổn thương trong giọng Harry Potter",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Short chapter is broadly faithful; one untranslated English word ('Headmaster') and several machine-translation calques are the main issues."
+}

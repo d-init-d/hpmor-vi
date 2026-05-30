@@ -1,0 +1,147 @@
+{
+  "chapter": 96,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 11",
+      "source_excerpt": "that he wasn't incapacitated with weeping for at least a week",
+      "target_excerpt": "như thể anh không ngừng khóc trong ít nhất một tuần",
+      "description": "Reversed meaning. Source says it felt wrong that he was NOT incapacitated by weeping (i.e. he was NOT crying). Target says 'as if he didn't stop crying for at least a week', the opposite.",
+      "suggested_fix": "rằng anh không hề gục ngã vì khóc lóc trong ít nhất một tuần",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "At 6:07 a.m. on April 17th, 1992",
+      "target_excerpt": "At6:07 sáng ngày 17 tháng 4 năm 1992",
+      "description": "Stray English word 'At' left untranslated and glued to the time with no space.",
+      "suggested_fix": "Vào lúc 6:07 sáng ngày 17 tháng 4 năm 1992",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 16",
+      "source_excerpt": "and where you guarded them. Did you take them, Harry Potter?",
+      "target_excerpt": "trong nhà kho nơi chúng ở đặt và nơi cậu canh giữ chúng, Harry Potter?",
+      "description": "Dumbledore's direct question 'Did you take them, Harry Potter?' is entirely omitted; the clause just trails off into a question mark. Harry's 'Không' on the next line then has nothing to answer. ('nơi chúng ở đặt' is also a typo for 'nơi chúng được đặt'.)",
+      "suggested_fix": "trong nhà kho nơi chúng được đặt và nơi cậu canh giữ chúng. Cậu có lấy chúng đi không, Harry Potter?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "line 34",
+      "source_excerpt": "My trunk has wards.",
+      "target_excerpt": "Rương của tôi có mắt.",
+      "description": "'wards' (magical protections) mistranslated as 'mắt' (eyes). 'Rương của tôi có mắt' = 'My trunk has eyes', wrong meaning. Elsewhere the same word is correctly 'kết giới' (e.g. lines 63, 70).",
+      "suggested_fix": "Rương của tôi có kết giới (bùa bảo vệ).",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 64",
+      "source_excerpt": "check the wards, oh look actually the Defence Professor did it",
+      "target_excerpt": "kiểm tra mắt, ồ nhìn xem thực ra Giáo sư Phòng thủ đã làm điều đó",
+      "description": "'check the wards' mistranslated as 'kiểm tra mắt' (check the eyes). Should be 'kiểm tra kết giới'.",
+      "suggested_fix": "kiểm tra kết giới, ồ nhìn xem thực ra Giáo sư Phòng thủ đã làm điều đó",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 52",
+      "source_excerpt": "The wards of Hogwarts record that no foreign creature has entered",
+      "target_excerpt": "Các giám thị của Hogwarts ghi nhận rằng không có sinh vật lạ nào xâm nhập",
+      "description": "'wards' mistranslated as 'giám thị' (invigilators/supervisors), a person, not the magical defenses. Should be 'kết giới'.",
+      "suggested_fix": "Các kết giới của Hogwarts ghi nhận rằng không có sinh vật lạ nào xâm nhập",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 73",
+      "source_excerpt": "In which case he does have control of the wards",
+      "target_excerpt": "anh ta có quyền kiểm soát các phòng bệnh",
+      "description": "'wards' mistranslated as 'phòng bệnh' (hospital wards). Should be 'kết giới'.",
+      "suggested_fix": "anh ta có quyền kiểm soát các kết giới",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "lines 16, 45, 72, 79",
+      "source_excerpt": "The wards recorded it and informed me.",
+      "target_excerpt": "Các phường đã ghi lại điều đó và thông báo cho tôi.",
+      "description": "'wards' rendered as 'phường' (administrative ward/district). The magical-defense term is inconsistently translated across the chapter (phường, giám thị, phòng bệnh, mắt) where it should consistently be 'kết giới' as used in lines 63, 70.",
+      "suggested_fix": "Các kết giới đã ghi lại điều đó và thông báo cho tôi.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 72",
+      "source_excerpt": "Professor Sinistra was Legilimized and she did do it.",
+      "target_excerpt": "Giáo sư Sinistra đã được hợp pháp hóa và cô ấy đã làm điều đó.",
+      "description": "'Legilimized' (mind-read/mind-controlled via Legilimency) mistranslated as 'được hợp pháp hóa' (was legalized) — the translator confused 'Legilimized' with 'legalized'.",
+      "suggested_fix": "Giáo sư Sinistra đã bị xâm nhập tâm trí (Legilimency) và cô ấy đã làm điều đó.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 80",
+      "source_excerpt": "by killing whatshername and framing Mr Hagrid",
+      "target_excerpt": "bằng cách giết chết whatshername và đóng khung ông Hagrid",
+      "description": "'framing Mr Hagrid' mistranslated as 'đóng khung ông Hagrid' (literally putting Hagrid in a picture frame). Should mean falsely accusing/incriminating him.",
+      "suggested_fix": "bằng cách giết chết cái cô tên gì đó và vu oan cho ông Hagrid",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 80",
+      "source_excerpt": "killing whatshername",
+      "target_excerpt": "giết chết whatshername và đóng khung ông Hagrid",
+      "description": "The English colloquial word 'whatshername' is left untranslated in the Vietnamese prose.",
+      "suggested_fix": "giết chết cái cô tên gì đó",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 48",
+      "source_excerpt": "I am sorry,",
+      "target_excerpt": "Tôixin lỗi,",
+      "description": "Words glued together with no space: 'Tôixin lỗi' should be 'Tôi xin lỗi'.",
+      "suggested_fix": "Tôi xin lỗi,",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 100",
+      "source_excerpt": "That is not quite what it means.",
+      "target_excerpt": "Đó không phải là ý nghĩa của.",
+      "description": "Incomplete/dangling sentence ending in 'của' (of) with no object, and drops 'quite'. Reads as a broken machine translation.",
+      "suggested_fix": "Đó không hẳn là ý nghĩa của nó.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 18",
+      "source_excerpt": "Dumbledore's gaze was also keen, though not unfriendly.",
+      "target_excerpt": "Ánh mắt của cụ Dumbledore cũng rất sắc sảo nhưng không kém phần thân thiện.",
+      "description": "'though not unfriendly' (i.e. not hostile) rendered as 'không kém phần thân thiện' (no less friendly / equally friendly), overstating the friendliness rather than merely negating unfriendliness.",
+      "suggested_fix": "Ánh mắt của cụ Dumbledore cũng rất sắc sảo nhưng không hề thiếu thân thiện.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "The chapter is readable but has a systemic mistranslation of 'wards' (rendered variously as mắt/eyes, giám thị, phòng bệnh, phường instead of kết giới), plus a reversed negation, an omitted question, two clear lexical mistranslations (Legilimized→hợp pháp hóa, framing→đóng khung), untranslated English ('whatshername', 'At'), and minor spacing/awkwardness issues."
+}

@@ -1,0 +1,58 @@
+{
+  "chapter": "126",
+  "source_file": "hpmor-vn/source/ch126.txt",
+  "target_file": "hpmor-vi/text/chapters/ch126-vn.txt",
+  "qa_review": {
+    "translation_quality": {
+      "overall": "medium",
+      "summary": "Translation has multiple MT-style artifacts and phrasing issues. 'Im bặc' for 'im dumb' is raw/unnatural. 'Người lớn sao chép từ Tom Riddle, phía tối' is awkward phrasing. 'Giáo sư Quirrell đã bảo vệ phía ngược lại' appears to misread the source.",
+      "findings": [
+        {
+          "severity": "minor",
+          "category": "accuracy",
+          "location": "ch126-vn.txt, line ~333",
+          "description": "Raw MT-style translation",
+          "source_excerpt": "im dumb",
+          "target_excerpt": "im bặc",
+          "issue": "'Im bặc' is not standard Vietnamese. Should be 'im lặng' or 'im đi'. The 'bặc' transliteration of 'dumb' is MT-style artifact.",
+          "suggested_fix": "Change to 'im lặng' or 'im đi' depending on context."
+        },
+        {
+          "severity": "minor",
+          "category": "accuracy",
+          "location": "ch126-vn.txt",
+          "description": "Awkward phrasing around 'copied from Tom Riddle'",
+          "source_excerpt": "adults copied from Tom Riddle, the Dark side",
+          "target_excerpt": "người lớn sao chép từ Tom Riddle, 'phía tối'",
+          "issue": "Phrasing is unnatural. The quote structure and 'phía tối' feels off. Should be restructured for natural Vietnamese.",
+          "suggested_fix": "Consider 'người lớn sao chép từ Tom Riddle, phía bên kia — phía tối' or similar natural construction."
+        },
+        {
+          "severity": "minor",
+          "category": "accuracy",
+          "location": "ch126-vn.txt",
+          "description": "Potential misread",
+          "source_excerpt": "Professor Quirrell had been defending the opposite side",
+          "target_excerpt": "Giáo sư Quirrell đã bảo vệ phía ngược lại",
+          "issue": "'Bảo vệ phía ngược lại' could be read as 'defended the opposite position' which may be the intended meaning but phrasing is ambiguous. Verify source intent.",
+          "suggested_fix": "Confirm source reading; if meaning is ' Quirrell was on the opposing side', restructure to 'Giáo sư Quirrell đã ở phía đối diện' or clarify."
+        }
+      ]
+    },
+    "accuracy": {
+      "overall": "medium",
+      "findings": []
+    },
+    "consistency": {
+      "overall": "good",
+      "findings": []
+    },
+    "grammar_style": {
+      "overall": "medium",
+      "findings": []
+    }
+  },
+  "notes": "Chapter 126 has more translation quality issues than the others — MT artifacts and awkward phrasing suggest more mechanical translation in places. Needs closer review before shipping.",
+  "files_written_count": 5,
+  "batch_total": 5
+}

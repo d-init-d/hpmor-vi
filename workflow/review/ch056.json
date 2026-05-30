@@ -1,0 +1,127 @@
+{
+  "chapter": 56,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 17",
+      "source_excerpt": "Do you still—have use for me—my Lord?",
+      "target_excerpt": "Ngài vẫn — có ích cho tôi — thưa Chúa tể?",
+      "description": "Reversed relationship. Bellatrix is asking whether the Dark Lord still has a use for HER, but the translation says the Lord 'is useful to me' (Ngài có ích cho tôi), inverting subject and object.",
+      "suggested_fix": "Con vẫn còn — hữu dụng với Ngài chứ — thưa Chúa tể?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 19",
+      "source_excerpt": "Of course I have use for you!",
+      "target_excerpt": "Tất nhiên là tôi có ích cho anh!",
+      "description": "Reversed meaning. 'I have use for you' means the Dark Lord still needs Bellatrix; the translation says 'I am useful to you' (tôi có ích cho anh), flipping who is useful to whom.",
+      "suggested_fix": "Tất nhiên là ta vẫn cần đến ngươi!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 29",
+      "source_excerpt": "The part of Harry's self that was soft and vulnerable was screaming",
+      "target_excerpt": "Phần mềm yếu và dễ bị tổn thương của Harry đang hét lên",
+      "description": "'The part... that was soft' was mistranslated as 'Phần mềm', which in Vietnamese unambiguously means 'software'. The sentence reads as 'Harry's weak software' instead of the soft/vulnerable part of his self.",
+      "suggested_fix": "Phần con người mềm yếu và dễ bị tổn thương trong Harry đang hét lên",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 198",
+      "source_excerpt": "—three, two, one! Stupefy!",
+      "target_excerpt": "— ba, hai, một! Ngốc quá!",
+      "description": "The stunning incantation 'Stupefy' was mistranslated as 'Ngốc quá!' (= 'So stupid!'), losing the spell entirely. Confirmed a spell by line 204 referring to Bahry's 'đòn choáng' (stunner). Note inconsistency with line 270 which renders the same spell as 'Ngẩn ngơ!'.",
+      "suggested_fix": "— ba, hai, một! Stupefy!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 260",
+      "source_excerpt": "Stood there just a fraction of a second before the green light struck home.",
+      "target_excerpt": "Đứng đó chỉ một phần giây trước khi đèn xanh bật về nhà.",
+      "description": "'the green light struck home' was translated word-for-word into nonsense: 'đèn xanh bật về nhà' (= 'the green lamp switched on back home'). 'struck home' means hitting its target.",
+      "suggested_fix": "Đứng đó chỉ một phần giây trước khi tia sáng xanh giáng trúng.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 116",
+      "source_excerpt": "If his seven of hearts got hit by a Dementor Modifier and turned into a six",
+      "target_excerpt": "Nếu bảy trái tim của anh ta bị Dementor Modifier đánh trúng và biến thành sáu",
+      "description": "'seven of hearts' (the playing card, lá bảy cơ) was mistranslated as 'bảy trái tim' (= seven heart-organs). The card suit 'hearts' should be 'cơ'.",
+      "suggested_fix": "Nếu lá bảy cơ của anh ta bị Dementor Modifier đánh trúng và biến thành lá sáu",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "lines 116, 358",
+      "source_excerpt": "The Dementor's speech hurt their ears",
+      "target_excerpt": "Lời nói của Dementor khiến họ đau tai khi nói",
+      "description": "'Dementor' left in English here (and in 'Dementor Modifier' on line 116) while the term is consistently translated as 'Giám ngục' everywhere else in the chapter (lines 7, 47, 51, 102, 106, etc.).",
+      "suggested_fix": "Lời nói của Giám ngục khiến họ đau tai khi nói",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 110",
+      "source_excerpt": "Though it would be hard not to, at this point.",
+      "target_excerpt": "Mặc dù sẽ khó không vào thời điểm này.",
+      "description": "Broken, incomplete Vietnamese. The clause means that after 5,000+ games it would be hard NOT to play an excellent game; the rendering drops the verb and is ungrammatical.",
+      "suggested_fix": "Mặc dù vào thời điểm này thì khó mà không chơi giỏi cho được.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 13",
+      "source_excerpt": "I knew—you would—come to me—some day ... my Lord",
+      "target_excerpt": "Tôi biết — bạn sẽ — đến với tôi — một ngày nào đó,",
+      "description": "Wrong/inconsistent pronoun register. Bellatrix worships the Dark Lord, yet this line uses the casual equal-status 'bạn/tôi' (you/I), then switches mid-speech to the reverent 'con/Ngài/Chúa'. The devoted-servant voice should be consistent throughout.",
+      "suggested_fix": "Con biết — Ngài sẽ — đến với con — một ngày nào đó,",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 120",
+      "source_excerpt": "Li turned his head and looked.",
+      "target_excerpt": "Lý quay đầu lại nhìn.",
+      "description": "The character's name is rendered 'Lý' here but 'Li' everywhere else in the chapter (lines 110, 112, 116, 130, 132, 136, 138). Inconsistent spelling of the same name.",
+      "suggested_fix": "Li quay đầu lại nhìn.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 146 (also 214, 240, 246)",
+      "source_excerpt": "the Polyjuiced Defence Professor of Hogwarts",
+      "target_excerpt": "Giáo sư Phòng thủ Đa dịch của Hogwarts",
+      "description": "Polyjuice is rendered as 'Đa dịch' here and throughout, contradicting the approved glossary term 'Thuốc Biến Hình'. Consistent within the chapter but deviates from the glossary.",
+      "suggested_fix": "Giáo sư Phòng thủ đã dùng Thuốc Biến Hình của Hogwarts",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 180 (also 57, 300)",
+      "source_excerpt": "Nice Disillusionment",
+      "target_excerpt": "Sự vỡ mộng hay đấy,",
+      "description": "The Disillusionment Charm (which renders things invisible) is translated as 'vỡ mộng' (= disillusionment in the sense of disappointment), a false-friend mistranslation used consistently (lines 57, 180, 300).",
+      "suggested_fix": "Bùa Ẩn thân hay đấy,",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly complete and readable but contains several genuine defects: two reversed 'have use for' lines, 'soft part' rendered as 'software' (phần mềm), the Stupefy incantation mistranslated as 'Ngốc quá', a nonsensical 'green light struck home' rendering, plus minor name/terminology inconsistencies."
+}

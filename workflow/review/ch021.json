@@ -1,0 +1,6 @@
+{
+  "chapter": 21,
+  "findings": [],
+  "clean": true,
+  "summary": "Detailed line-by-line source-target comparison performed. E.Y. header properly localized. All dialogue (Draco/Harry exchange, Quirrell class) translated accurately. Key characters (Harry, Draco, Quirrell, Snape, Hermione) properly rendered. Word count ratio 1.289 (7,978 EN words to 10,281 VI words) consistent with normal EN→VI expansion. No omission, mistranslation, untranslated English, MT artifacts, or terminology issues found."
+}

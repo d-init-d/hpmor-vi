@@ -1,0 +1,57 @@
+{
+  "chapter": 8,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 170",
+      "source_excerpt": "But my parents couldn't do that!",
+      "target_excerpt": "Một luồng khí lạnh chạy dọc sống lưng Harry. Giả thuyết đó… không dễ dàng bác bỏ được. “But ba mẹ em đâu thể làm chuyện đó!”",
+      "description": "The English word \"But\" was left untranslated at the start of Harry's dialogue.",
+      "suggested_fix": "“Nhưng ba mẹ em đâu thể làm chuyện đó!”",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "major",
+      "location": "line 64",
+      "source_excerpt": "And just why, Professor McGonagall said with heavy scepticism, do you expect to need a healer's kit, young man?",
+      "target_excerpt": "“Vài tại sao,” Giáo sư McGonagall nói với vẻ hoài nghi sâu sắc, “trò lại nghĩ mình sẽ cần một bộ sơ cứu hả, cậu bé?”",
+      "description": "\"Vài\" (= a few/several) is a typo/mistranslation that makes the question opener nonsensical. It should render \"And just why\" as \"Và tại sao\".",
+      "suggested_fix": "“Và chính xác là tại sao,” Giáo sư McGonagall nói với vẻ hoài nghi sâu sắc, “trò lại nghĩ mình sẽ cần một bộ sơ cứu hả, cậu bé?”",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 37",
+      "source_excerpt": "because they'd just practised known techniques instead of learning to think creatively",
+      "target_excerpt": "vì họ chỉ thực hành các kỹ thuật đã biết thay vị học cách tư duy sáng tạo",
+      "description": "Typo: \"thay vị\" should be \"thay vì\" (instead of).",
+      "suggested_fix": "vì họ chỉ thực hành các kỹ thuật đã biết thay vì học cách tư duy sáng tạo",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "minor",
+      "location": "line 150",
+      "source_excerpt": "And what thoughts would those be, Mr Potter?",
+      "target_excerpt": "Vị phù thủy nhìn xuống cậu một cách nghiêm nghị. ““Và đó là những suy nghĩ gì vậy, Trò Potter?””",
+      "description": "Doubled opening and closing quotation marks around the line of dialogue.",
+      "suggested_fix": "Vị phù thủy nhìn xuống cậu một cách nghiêm nghị. “Và đó là những suy nghĩ gì vậy, Trò Potter?”",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "minor",
+      "location": "line 81",
+      "source_excerpt": "…I am going to be in Ravenclaw. And if you really think that I'm planning to do something dangerous,",
+      "target_excerpt": "“…Em sẽ vào nhà Ravenclaw. “Nếu cô thực sự nghĩ em đang lên kế hoạch làm điều gì đó nguy hiểm,",
+      "description": "A stray extra opening quotation mark appears mid-sentence before \"Nếu\", and \"And\" was dropped; the speech is continuous so no second quote is needed.",
+      "suggested_fix": "“…Em sẽ vào nhà Ravenclaw. Và nếu cô thực sự nghĩ em đang lên kế hoạch làm điều gì đó nguy hiểm,",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Generally faithful and natural translation with five real defects: one untranslated English word (\"But\"), two spelling typos (\"Vài tại sao\", \"thay vị\"), and two minor quotation-mark errors."
+}

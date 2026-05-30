@@ -1,0 +1,57 @@
+{
+  "chapter": 94,
+  "findings": [
+    {
+      "category": "fidelity-mistranslation",
+      "severity": "major",
+      "location": "line 3 - opening line",
+      "source_excerpt": "There was nothing left to do. There was nothing left to plan. There was nothing left to think.",
+      "target_excerpt": "Từ đây không còn gì để làm. Không còn gì để lên kế hoạch. Không còn gì để suy nghĩ nữa.",
+      "description": "'There was nothing left' bị dịch thành 'Từ đây không còn gì' (từ đây = 'from here'), sai hoàn toàn. Nguồn text có thể bị OCR/parse lỗi ở 'T[here]'. Dòng 3 trong source bắt đầu đúng là 'There was nothing left to do'.",
+      "suggested_fix": "Sửa thành 'Không còn gì để làm. Không còn gì để lên kế hoạch. Không còn gì để suy nghĩ nữa.' giống 2 dòng còn lại.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-mistranslation",
+      "severity": "major",
+      "location": "line 10 - Cloak rendering Harry immune",
+      "source_excerpt": "rendering himself immune to almost all forms of magical detection",
+      "target_excerpt": "khiến bản thân miễn nhiễm với hầu hết mọi hình thức phát hiện phép thuật",
+      "description": "'rendering himself immune' nghĩa là Harry tự khiến mình (bản thân anh) miễn nhiễm khỏi phát hiện phép thuật - đúng ngữ cảnh vì Áo choàng Tàng hình che giấu người mang. Nhưng 'khiến bản thân miễn nhiễm' trong tiếng Việt mang nghĩa ngược: bản thân Harry được miễn nhiễm, thay vì anh tự khiến người khác không phát hiện được anh.",
+      "suggested_fix": "Cần thay đổi để phản ánh đúng ngữ cảnh: Áo choàng khiến người khác không thể phát hiện Harry, không phải Harry miễn nhiễm với việc phát hiện. Ví dụ: 'khiến người khác không thể phát hiện ra anh bằng hầu hết mọi hình thức phép thuật' hoặc 'giấu anh khỏi hầu hết mọi hình thức phát hiện phép thuật'.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-mistranslation",
+      "severity": "minor",
+      "location": "line 10 - color of robes",
+      "source_excerpt": "an older boy in green-fringed black robes",
+      "target_excerpt": "một cậu bé lớn tuổi hơn mặc áo choàng đen viền xanh",
+      "description": "'green-fringed black robes' = áo choàng đen có viền xanh (black robes với green fringe). Tiếng Việt đảo ngược thành 'áo choàng đen viền xanh' - nghĩa vẫn gần đúng nhưng không đúng cấu trúc tính từ gốc. Đây có thể là ambiguity: 'áo choàng đen viền xanh' có thể hiểu là áo đen với viền xanh HOẶC áo có viền đen trên nền xanh. Nên làm rõ.",
+      "suggested_fix": "Sửa thành 'áo choàng đen viền xanh lá' hoặc 'áo choàng đen, viền xanh' để giữ đúng thứ tự tính từ: nền đen, viền xanh.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 26 - Lesath dialogue, missing perfective aspect",
+      "source_excerpt": "\"My lord, did I do the right thing\" — ... — \"I was wrong, wasn't I?\"",
+      "target_excerpt": "\"Thưa ngài, tôi đã làm đúng phải không—tôi nghĩ ngài sẽ không muốn...\" — ... \"Tôi đã sai, phải không?\"",
+      "description": "Trong câu Lesath hỏi 'did I do the right thing', thì 'did' là past simple nhưng khi đặt câu hỏi với 'did' thì động từ chính vẫn ở dạng bare infinitive ('do'). Tiếng Việt 'tôi đã làm đúng' có 'đã' marking past tense cho 'làm'. Tuy nhiên, ở câu trả lời 'I was wrong', target viết 'Tôi đã sai' với 'đã' nhưng không có 'sai' là động từ chính. Lỗi thực sự: câu Lesath 'did I do the right thing' trong tiếng Việt được dịch là 'tôi đã làm đúng' nhưng phần giải thích phía sau ('tôi nghĩ ngài sẽ không muốn tôi bước tới trước...') dường như thiếu từ để nối liền mạch. Đây có thể là dịch đúng nhưng cấu trúc hơi lạ.",
+      "suggested_fix": "Xem lại câu Lesath: 'Thưa ngài, tôi đã làm đúng phải không—tôi nghĩ ngài sẽ không muốn tôi bước tới trước tất cả những người khác, rằng họ có thể nghi ngờ mối quan hệ của chúng ta' — kiểm tra đảm bảo không thiếu từ nào.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "critical",
+      "location": "end of chapter - final Quirrell dialogue completely omitted",
+      "source_excerpt": "As for you, madam, imagine yourself at the end of your life, knowing that Britain\"but no, Britain is not your true country, is it? Imagine yourself at the end of your life as the darkness eats through the fading walls of Hogwarts, knowing that your students will die with you, remembering this day and realizing there was something else you could have done.\"",
+      "target_excerpt": "Còn về ngài, thưa ngài, hãy tưởng tượng chính ngài ở cuối cuộc đời, nhớ về ngày này và nhận ra rằng có một điều gì đó khác mà ngài có thể đã làm được.",
+      "description": "Toàn bộ đoạn kết của source bị cắt bỏ. Source kết thúc bằng câu Quirrell nói về việc McGonagall tưởng tượng mình ở cuối đời, với chi tiết quan trọng về Britain và việc bóng tối nuốt chửng Hogwarts, học sinh của bà chết cùng bà. Target chỉ giữ lại phần 'nhớ về ngày này và nhận ra...' mà bỏ toàn bộ phần Britain và phần mô tả Hogwarts bị phá hủy. Đây là omission nghiêm trọng.",
+      "suggested_fix": "Bổ sung toàn bộ đoạn còn thiếu: 'nhưng không, Britain có phải là đất nước thật sự của ngài không? Hãy tưởng tượng chính ngài ở cuối cuộc đời khi bóng tối nuốt chửng những bức tường đang phai dần của Hogwarts, khi biết rằng học sinh của ngài sẽ chết cùng ngài, nhớ về ngày này và nhận ra rằng có một điều gì đó khác mà ngài có thể đã làm được.'",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chương 94 có 5 findings, trong đó 2 major và 1 critical. Lỗi nghiêm trọng nhất là phần kết của chương (Britain/Hogwarts passage) bị cắt bỏ hoàn toàn ở target. Lỗi 'rendering himself immune' cần xem xét kỹ ngữ cảnh vì có thể là translation choice hơn là error. Các lỗi còn lại tương đối nhỏ hoặc uncertain."
+}

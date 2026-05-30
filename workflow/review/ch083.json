@@ -1,0 +1,14 @@
+{
+  "chapter": "083",
+  "source_file": "ch83.txt",
+  "target_file": "ch083-vn.txt",
+  "summary": {
+    "total_findings": 0,
+    "critical": 0,
+    "major": 0,
+    "minor": 0
+  },
+  "findings": [],
+  "reviewed_at": "2026-05-30",
+  "notes": "Encoding verified: UTF-8 reads Vietnamese correctly. Source-target comparison shows accurate translation. No issues found."
+}

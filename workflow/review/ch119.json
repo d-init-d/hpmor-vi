@@ -1,0 +1,58 @@
+{
+  "chapter": "119",
+  "source_file": "hpmor-vn/source/ch119.txt",
+  "target_file": "hpmor-vi/text/chapters/ch119-vn.txt",
+  "qa_review": {
+    "translation_quality": {
+      "overall": "medium",
+      "summary": "Translation is readable but has terminology inconsistencies. 'Hắc ám' used where 'Tối Thượng' appears in other chapters. 'Trạng thái trốn chạy' for 'fugue state' is overly literal. 'Vô nhân đạo' for 'inhuman' carries wrong connotation.",
+      "findings": [
+        {
+          "severity": "minor",
+          "category": "terminology",
+          "location": "ch119-vn.txt",
+          "description": "Inconsistent darkness terminology",
+          "source_excerpt": "Dark",
+          "target_excerpt": "Hắc ám",
+          "issue": "'Hắc ám' for 'Dark' differs from other chapters using 'Tối Thượng'. Not necessarily wrong but creates inconsistency across the translation.",
+          "suggested_fix": "Align with other chapters using 'Tối Thượng' or document as intentional regional variation."
+        },
+        {
+          "severity": "minor",
+          "category": "accuracy",
+          "location": "ch119-vn.txt",
+          "description": "Literal translation of 'fugue state'",
+          "source_excerpt": "fugue state",
+          "target_excerpt": "trạng thái trốn chạy",
+          "issue": "Direct translation is understandable but clinical/awkward. 'Trạng thái trốn chạy' is more 'running away state' than the psychiatric term.",
+          "suggested_fix": "Consider 'tâm trạng hỗn loạn' or similar if the intent is psychological dissociation."
+        },
+        {
+          "severity": "minor",
+          "category": "accuracy",
+          "location": "ch119-vn.txt",
+          "description": "Loaded term for 'inhuman'",
+          "source_excerpt": "inhuman",
+          "target_excerpt": "vô nhân đạo",
+          "issue": "'Vô nhân đạo' means 'inhumane' in the sense of 'cruel/uncivilized', not 'inhuman' as in 'lacking human qualities' or 'otherworldly'. Conveys wrong connotation.",
+          "suggested_fix": "Use 'phi nhân loại' or 'không thuộc về con người' depending on context."
+        }
+      ]
+    },
+    "accuracy": {
+      "overall": "good",
+      "findings": []
+    },
+    "consistency": {
+      "overall": "medium",
+      "findings": []
+    },
+    "grammar_style": {
+      "overall": "good",
+      "findings": []
+    }
+  },
+  "notes": "Readable translation with some terminology and connotation issues. Not critical but worth addressing for polish.",
+  "files_written_count": 2,
+  "batch_total": 5
+}

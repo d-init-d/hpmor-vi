@@ -1,0 +1,67 @@
+{
+  "chapter": 124,
+  "findings": [
+    {
+      "category": "duplication",
+      "severity": "major",
+      "location": "line 20",
+      "source_excerpt": "And I don't want to stop being your friend. But to just—never tell you—",
+      "target_excerpt": "Và tôi không muốn ngừng làm bạn với bạn nữa. Và tôi không muốn ngừng làm bạn với bạn nữa. Nhưng chỉ—không bao giờ nói với bạn—",
+      "description": "The sentence 'Và tôi không muốn ngừng làm bạn với bạn nữa.' is accidentally repeated twice. The source has it only once ('And I don't want to stop being your friend.').",
+      "suggested_fix": "Và tôi không muốn ngừng làm bạn với bạn nữa. Nhưng chỉ—không bao giờ nói với bạn—",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 67",
+      "source_excerpt": "like she was about to start hacking something out of her brain",
+      "target_excerpt": "như thể cô ấy sắp hack thứ gì đó ra khỏi não mình",
+      "description": "The English word 'hack' is left untranslated in Vietnamese prose. Here 'hacking something out' means coughing/hacking something up, so the meaning is also lost; 'hack' should be rendered in Vietnamese.",
+      "suggested_fix": "như thể cô ấy sắp khạc thứ gì đó ra khỏi não mình",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 32",
+      "source_excerpt": "much more strongly than I ever let on to you",
+      "target_excerpt": "rất nhiều mạnh mẽ hơn những gì tôi từng nói với bạn",
+      "description": "Calque of 'much more strongly'. 'rất nhiều mạnh mẽ hơn' is unnatural Vietnamese word order/structure.",
+      "suggested_fix": "mạnh mẽ hơn nhiều so với những gì tôi từng để lộ với bạn",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 6",
+      "source_excerpt": "When fades at last the last lit sun.",
+      "target_excerpt": "Khi mặt trời chiếu sáng cuối cùng cuối cùng cũng lụi tàn.",
+      "description": "The adjacent repetition 'cuối cùng cuối cùng' reads as an accidental duplication/awkward calque of 'at last the last'. Awkward in a poetic line.",
+      "suggested_fix": "Khi mặt trời rực sáng cuối cùng rồi cũng lụi tàn.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 58",
+      "source_excerpt": "6:31, it said, with the AM dot lit.",
+      "target_excerpt": "6:31, nó nói, với dấu chấm sáng.",
+      "description": "The 'AM' detail is dropped; 'với dấu chấm sáng' only says 'with the lit dot', omitting that it is the AM indicator.",
+      "suggested_fix": "6:31, nó hiện, với chấm báo sáng AM đang sáng.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 27",
+      "source_excerpt": "The Death Eaters had been meant to lose to David Monroe, so Monroe could take over.",
+      "target_excerpt": "Tử thần Thực tử vốn dĩ đã thua David Monroe nên Monroe có thể tiếp quản.",
+      "description": "'meant to lose' (were intended/supposed to lose, as part of a plan) is rendered as 'vốn dĩ đã thua' (had inherently/already lost), losing the intentional 'supposed to' nuance.",
+      "suggested_fix": "Tử thần Thực tử lẽ ra phải thua David Monroe để Monroe có thể tiếp quản.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly faithful but has one clear duplicated sentence (line 20) and an untranslated English word 'hack' (line 67), plus minor MT-awkwardness and small fidelity nuances."
+}

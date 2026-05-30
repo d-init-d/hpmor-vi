@@ -1,0 +1,117 @@
+{
+  "chapter": 86,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 3",
+      "source_excerpt": "The Head of Ravenclaw had surely spent way too much time on her",
+      "target_excerpt": "Hiệu trưởng Ravenclaw chắc chắn đã dành quá nhiều thời gian cho cô ấy",
+      "description": "'The Head of Ravenclaw' (Flitwick, Chủ nhiệm Nhà Ravenclaw) is mistranslated as 'Hiệu trưởng Ravenclaw' (Headmaster of Ravenclaw). Flitwick is a Head of House, not the Headmaster; the same source elsewhere is rendered 'Chủ nhiệm Nhà Gryffindor'. This conflates two distinct glossary terms.",
+      "suggested_fix": "Chủ nhiệm Nhà Ravenclaw chắc chắn đã dành quá nhiều thời gian cho cô ấy",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 145",
+      "source_excerpt": "How did he identify you to the Hogwarts wards, then?",
+      "target_excerpt": "Vậy làm thế nào mà anh ta nhận ra cậu ở phường Hogwarts?",
+      "description": "'the Hogwarts wards' (magical protective wards / hàng rào bảo vệ phép thuật) is mistranslated as 'phường Hogwarts' (an administrative ward/district). The meaning of magical wards is lost.",
+      "suggested_fix": "Vậy làm thế nào mà ông ấy nhận diện cậu với các lá chắn bảo vệ của Hogwarts?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 146",
+      "source_excerpt": "The tone went lower, flatter.",
+      "target_excerpt": "Giọng điệu trầm xuống, tâng bốc hơn.",
+      "description": "'flatter' here is the comparative of 'flat' (phẳng/đều đều/lạnh nhạt hơn), but it is mistranslated as 'tâng bốc' (to flatter with praise). This reverses Quirrell's tone description.",
+      "suggested_fix": "Giọng điệu trầm xuống, phẳng lặng hơn.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 126",
+      "source_excerpt": "\"Strike that,\" a crisp voice said",
+      "target_excerpt": "“Hãy đánh đi,” một giọng nói sắc bén vang lên",
+      "description": "'Strike that' is an idiom meaning to retract/cancel the previous statement (Bones overriding the order to send the Auror back to work). It is mistranslated literally as 'Hãy đánh đi' (let's strike/hit), reversing the meaning of her command.",
+      "suggested_fix": "“Bỏ câu đó đi,” một giọng nói sắc bén vang lên",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 77",
+      "source_excerpt": "I do not think Voldemort can essay such possessions often",
+      "target_excerpt": "Tôi không nghĩ Voldemort có thể thường xuyên sử dụng những vật sở hữu như vậy",
+      "description": "'possessions' here means demonic/spirit possession of a body (sự chiếm hữu/nhập xác), not owned objects. Translated as 'vật sở hữu' (possessions = things owned), which destroys the meaning of Voldemort possessing a victim.",
+      "suggested_fix": "Tôi không nghĩ Voldemort có thể thường xuyên thực hiện những vụ chiếm hữu thân xác như vậy",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 114",
+      "source_excerpt": "The Auror cracked.",
+      "target_excerpt": "Thần sáng bị nứt.",
+      "description": "'The Auror cracked' means he broke down / gave in psychologically (gục ngã/suy sụp). Translated literally as 'Thần sáng bị nứt' (the Auror got cracked/fractured physically), which is nonsensical here.",
+      "suggested_fix": "Viên Thần sáng suy sụp.",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "major",
+      "location": "line 250",
+      "source_excerpt": "And you have already witnessed, I wager, that their fondness vanished like dust in the wind",
+      "target_excerpt": "Và bạn đã chứng kiến, tôi đã chứng kiến cá rằng sự yêu thích của họ tan biến như bụi bay trong gió",
+      "description": "Garbled text: 'I wager' (tôi cá rằng) was mangled and the verb 'đã chứng kiến' was duplicated, producing 'bạn đã chứng kiến, tôi đã chứng kiến cá rằng', which is broken Vietnamese.",
+      "suggested_fix": "Và cô đã chứng kiến, tôi dám cá rằng, sự yêu thích của họ tan biến như bụi bay trong gió",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 12 (and pervasive: lines 20, 21, 22, 27, 28, 29, 141, etc.)",
+      "source_excerpt": "Surely you don't believe it?",
+      "target_excerpt": "Chắc chắnbạnkhông tin điều đó phải không?",
+      "description": "Words that were italicized in the source got glued together with no spaces when emphasis markup was stripped. 'Chắc chắnbạnkhông' should be 'Chắc chắn bạn không'. This systematic spacing error recurs throughout the chapter (e.g. 'Bạnthực sựkhông', 'Tôikháchắc chắn', 'Harrykhông', 'lựa chọnđó', 'NhưngNhàcủa bạn').",
+      "suggested_fix": "Chắc chắn bạn không tin điều đó phải không?",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 135",
+      "source_excerpt": "a martial arts centre in Muggle Asia",
+      "target_excerpt": "một trung tâm võ thuật ở Muggle Asia",
+      "description": "'Asia' is left in English prose. 'Muggle' is a kept term, but 'Asia' should be translated to 'Châu Á'.",
+      "suggested_fix": "một trung tâm võ thuật ở vùng Châu Á của giới Muggle",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 124",
+      "source_excerpt": "It's really awful humming!",
+      "target_excerpt": "Thật là ồn ào khủng khiếp!",
+      "description": "'humming' (tiếng ngân nga) is replaced with 'ồn ào' (noise), losing the central motif that it is specifically the humming that is torturing the Auror.",
+      "suggested_fix": "Tiếng ngân nga thật khủng khiếp!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 16",
+      "source_excerpt": "I shall be happy to cast that on you.",
+      "target_excerpt": "tôi sẽ rất vui lòng truyền nó cho anh.",
+      "description": "McGonagall is speaking to Hermione (female), but the pronoun 'anh' (he/you-male) is used. Should be 'cô' or 'em'. The same gender-mismatch recurs (e.g. line 261 '...đưa anh đến đó' for Hermione).",
+      "suggested_fix": "tôi sẽ rất vui lòng truyền nó cho cô.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is fully translated with no omissions, but contains several genuine fidelity mistranslations (Head of Ravenclaw->Hiệu trưởng, wards->phường, 'flatter'->tâng bốc, 'Strike that'->Hãy đánh đi, 'possessions'->vật sở hữu, 'cracked'->bị nứt) plus a garbled/duplicated clause and pervasive italics-induced word-gluing spacing errors."
+}

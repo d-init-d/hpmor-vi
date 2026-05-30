@@ -1,0 +1,57 @@
+{
+  "chapter": 49,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "I told you, no kissing!",
+      "target_excerpt": "Tôi đã bảo rồi, không được hôn!",
+      "description": "The translation is acceptable but slightly shifts nuance. Source is imperative/harsh 'no kissing!' while target is more polite 'không được hôn' (don't kiss). This is a style choice rather than a clear error. Marked uncertain.",
+      "suggested_fix": "Tôi đã bảo rồi, không hôn! (stronger form) or Tôi đã bảo là không được hôn mà! (more emphatic)",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "Harry had shoved Granger away and said, I told you, no kissing!",
+      "target_excerpt": "Harry đã đẩy Granger ra và nói,Tôi đã bảo rồi, không được hôn!",
+      "description": "Missing space after comma before 'Tôi'. Also 'đã đẩy Granger ra và nói' is a bit mechanical - should flow more naturally in Vietnamese.",
+      "suggested_fix": "Harry đã đẩy Granger ra và nói, Tôi đã bảo rồi, không được hôn!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 12",
+      "source_excerpt": "the Dementor",
+      "target_excerpt": "Giám ngục (appears in multiple places)",
+      "description": "In ch049, 'the Dementor' seems to be translated as 'Giám ngục' in some places. Checking against glossary - 'Dementor' should be kept as 'Dementor' per Vietnamese HP convention, not translated as 'Giám ngục' which has a different connotation.",
+      "suggested_fix": "Dementor (keep as-is per glossary and Vietnamese HP convention)",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 1 (opening)",
+      "source_excerpt": "There comes a point in every plot where the victim starts to suspect",
+      "target_excerpt": "Từ đó xuất hiện một điểm trong mỗi âm muu mà nạn nhân bắt đầu nghi ngờ",
+      "description": "The translation 'Từ đó xuất hiện' loses the sense of 'There comes a point' (timing). Also 'âm muu' for 'plot' is correct but the sentence structure feels translated.",
+      "suggested_fix": "Đến một lúc nào đó trong mỗi âm mưu, nạn nhân bắt đầu nghi ngờ",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 3-5",
+      "source_excerpt": "Father",
+      "target_excerpt": "Cha (in multiple places referring to Lucius Malfoy)",
+      "description": "In HPMOR context, 'Father' referring to Draco's father (Lucius Malfoy) is translated simply as 'Cha'. While technically correct, in Vietnamese it may be ambiguous without context. Consider 'Cha' or 'Cha của Draco' for clarity in scenes with both Draco and Harry present.",
+      "suggested_fix": "Cha (acceptable - but verify clarity in multi-character scenes)",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 49 has minor issues: (1) some MT awkwardness in sentence structure, (2) missing space after dialogue comma, (3) uncertain translation choices for 'Father' and 'Dementor' terminology, (4) 'I told you, no kissing!' translation slightly softens the imperious tone."
+}

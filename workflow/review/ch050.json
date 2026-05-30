@@ -1,0 +1,77 @@
+{
+  "chapter": 50,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 48",
+      "source_excerpt": "Your brain imagines a single bird struggling in an oil pond, and that image creates some amount of emotion that determines your willingness to pay. But no-one can visualize even two thousand of anything, so the quantity just gets thrown straight out the window.",
+      "target_excerpt": "Đó gọi là vô cảm về quy mô. Số lượng vừa bị ném thẳng ra ngoài cửa sổ.",
+      "description": "Two full source sentences are missing. The target keeps only 'so the quantity just gets thrown straight out the window' but omits the entire explanation: the brain imagining a single bird in an oil pond, the emotion determining willingness to pay, and that no one can visualize even two thousand of anything.",
+      "suggested_fix": "Đó gọi là vô cảm về quy mô. Bộ não của cậu hình dung ra một con chim đơn độc đang vùng vẫy trong ao dầu, và hình ảnh đó tạo ra một lượng cảm xúc nhất định quyết định mức cậu sẵn lòng chi trả. Nhưng không ai có thể hình dung nổi dù chỉ hai nghìn thứ bất kỳ, nên con số đó cứ thế bị ném thẳng ra ngoài cửa sổ.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 22",
+      "source_excerpt": "Neither had any seventh-year Ravenclaws that Harry had asked.",
+      "target_excerpt": "Harry cũng không có học sinh Ravenclaw năm thứ bảy nào để Harry nhờ.",
+      "description": "Meaning is distorted. The source says the seventh-year Ravenclaws Harry asked also had not heard of such stories. The target instead reads 'Harry didn't have any seventh-year Ravenclaw to ask/rely on,' which changes the meaning and is ungrammatical (repeats 'Harry').",
+      "suggested_fix": "Những học sinh Ravenclaw năm thứ bảy mà Harry đã hỏi cũng không (nghe nói đến điều gì như thế).",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 79",
+      "source_excerpt": "The girl didn't look back as she walked out of the stacks",
+      "target_excerpt": "Cô gái không nhìn lại khi bước ra khỏi đống đồ",
+      "description": "'the stacks' (library bookshelves/aisles, translated earlier on line 42 as 'giá sách') is mistranslated as 'đống đồ' (a pile of stuff/things), which makes no sense in context.",
+      "suggested_fix": "Cô gái không nhìn lại khi bước ra khỏi khu giá sách",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 53",
+      "source_excerpt": "so I pursed my lips and went schluuuuurp",
+      "target_excerpt": "tôi mím môi và nóischluuuuurp",
+      "description": "Missing space: the verb 'nói' is glued to the onomatopoeia 'schluuuuurp'.",
+      "suggested_fix": "tôi mím môi và phát ra tiếng schluuuuurp",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 72",
+      "source_excerpt": "not being able to show Draco",
+      "target_excerpt": "không có thể cho Draco xem",
+      "description": "Ungrammatical Vietnamese: 'không có thể' should be 'không thể'.",
+      "suggested_fix": "không thể cho Draco xem",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 65",
+      "source_excerpt": "I mean, is it all that bad?",
+      "target_excerpt": "Ý anh là, tất cả đều là tệ phải không?",
+      "description": "'is it all that bad?' (i.e., is it really that bad?) is rendered as 'is everything bad?', a literal calque that distorts the rhetorical question.",
+      "suggested_fix": "Ý anh là, liệu có thực sự tệ đến vậy không?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 19",
+      "source_excerpt": "I'm starting to think magic should be illegal,",
+      "target_excerpt": "Anh bắt đầu nghĩ thuật thần chú là bất hợp pháp,",
+      "description": "Loses the modal 'should': the normative opinion 'magic should be illegal' becomes the factual claim 'magic is illegal'. 'magic' is also narrowed to 'thuật thần chú' rather than 'phép thuật'.",
+      "suggested_fix": "Anh bắt đầu nghĩ phép thuật nên bị cấm,",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful but contains one genuine multi-sentence omission (line 48) and two meaning distortions (lines 22 and 79), plus minor spacing/grammar and calque issues."
+}

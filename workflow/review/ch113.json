@@ -1,0 +1,107 @@
+{
+  "chapter": 113,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 21",
+      "source_excerpt": "Even when I knew more of Flamel, I remained quite put out with your hypocrisy; and for that reason I tormented you and yours more than I otherwise would have done. I have often felt that you ought to know this, but we never had a chance to talk frankly.",
+      "target_excerpt": "Tôi vẫn còn khó chịu với sự đạo đức giả của anh; chuyện đó thì, nhưng chúng ta chưa bao giờ có dịp nói chuyện thẳng thắn.",
+      "description": "Two full clauses are omitted: 'and for that reason I tormented you and yours more than I otherwise would have done' and 'I have often felt that you ought to know this'. The target leaves a dangling fragment 'chuyện đó thì,' where this content should be.",
+      "suggested_fix": "Ngay cả khi đã biết nhiều hơn về Flamel, tôi vẫn còn khó chịu với sự đạo đức giả của anh; và vì lý do đó tôi đã hành hạ anh và những người của anh nhiều hơn mức đáng ra tôi đã làm. Tôi vẫn thường cảm thấy rằng anh nên biết điều này, nhưng chúng ta chưa bao giờ có dịp nói chuyện thẳng thắn.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 23",
+      "source_excerpt": "that night of All Hallow's Eve when I was vanquished for a time?",
+      "target_excerpt": "vào đêm Đêm Giao thừa khi tôi bị đánh bại một thời gian không?",
+      "description": "'All Hallow's Eve' (Halloween / the eve of All Saints, October 31) is mistranslated as 'Đêm Giao thừa' (New Year's Eve). Wrong event/date. Also 'đêm Đêm' duplicates the word 'đêm'.",
+      "suggested_fix": "vào đêm Halloween khi tôi bị đánh bại một thời gian không?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 41",
+      "source_excerpt": "You utter fool!",
+      "target_excerpt": "Anh thốt ra điều ngốc!",
+      "description": "'utter' is an intensifying adjective ('utter fool' = complete fool), but it was misread as the verb 'to utter/speak', producing 'Anh thốt ra điều ngốc!' (You speak something stupid).",
+      "suggested_fix": "Đồ ngốc tột cùng!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 50",
+      "source_excerpt": "I don't seem to have a reflection any more.",
+      "target_excerpt": "Tôi dường như không còn phản xạ nữa.",
+      "description": "In a mirror context 'reflection' means the reflected image (hình/bóng phản chiếu). It is mistranslated as 'phản xạ', which in Vietnamese reads as 'reflex' (a reaction) and loses the point that Quirrell no longer shows in the Mirror.",
+      "suggested_fix": "Tôi dường như không còn hình phản chiếu nữa.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 6",
+      "source_excerpt": "I would call it senility, if so many others had not missed it as well.",
+      "target_excerpt": "Tôi đã gọi đó là bệnh lão suy, nếu như biết bao người khác cũng đã bỏ qua điều này.",
+      "description": "The counterfactual negation 'had not missed it as well' is dropped, reversing the meaning. The source says he would blame senility were it not that many others also missed it; the target says he would call it senility if many others had also overlooked it.",
+      "suggested_fix": "Hẳn tôi đã gọi đó là chứng lão suy, nếu như không phải bao người khác cũng đã bỏ sót nó.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 47",
+      "source_excerpt": "on whose face utter shock and utter dismay were warring.",
+      "target_excerpt": "trên khuôn mặt ông ấy hoàn toàn vẹn vì sốc và mất tinh thần.",
+      "description": "Garbled rendering: 'hoàn toàn vẹn vì sốc và mất tinh thần' is nonsensical, and 'utter shock and utter dismay were warring' (two emotions in conflict) is lost.",
+      "suggested_fix": "trên khuôn mặt ông nỗi sốc tột cùng và nỗi thất vọng tột cùng đang giằng xé nhau.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 27",
+      "source_excerpt": "sacrificed his unwitting pawns, Lily and James Potter",
+      "target_excerpt": "đã hy sinh những người tốt vô tình của mình, Lily và James Potter",
+      "description": "'unwitting pawns' (quân tốt/con cờ bị lợi dụng) becomes 'những người tốt vô tình' which reads as 'good people', losing the chess-pawn 'used as tools' meaning.",
+      "suggested_fix": "đã hy sinh những quân tốt vô tình của mình, Lily và James Potter",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 32",
+      "source_excerpt": "I suppose the humour of the situation would be lost on you.",
+      "target_excerpt": "Tôi cho rằng sự hài hước của tình huống này sẽ làm mất đi sự hài hước của anh.",
+      "description": "The idiom 'would be lost on you' (you wouldn't appreciate/get it) is mistranslated as 'sẽ làm mất đi sự hài hước của anh' (would erase your sense of humour).",
+      "suggested_fix": "Tôi cho rằng anh sẽ chẳng thấy được cái hài hước của tình huống này đâu.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 16",
+      "source_excerpt": "You killed Master Flamel for a distraction?",
+      "target_excerpt": "Anh đã giết Master Flamel để đánh lạc hướng?",
+      "description": "The title 'Master' is left in English here, whereas line 20 translates the same title as 'Chủ nhân Flamel'. Inconsistent and untranslated.",
+      "suggested_fix": "Anh đã giết Chủ nhân Flamel để đánh lạc hướng?",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 40 (also lines 23, 42)",
+      "source_excerpt": "\"But you could still reverse the effect, if Chang's account is true,\" said Professor Quirrell. \"Most powers of the Mirror are double-sided...\"",
+      "target_excerpt": "là đúng. \"Theo truyền thuyết, hầu hết sức mạnh của Tấm Gương đều có hai mặt.",
+      "description": "The dialogue tag was moved to the front of the line, leaving an orphan opening quotation mark mid-sentence ('là đúng. \"Theo truyền thuyết'). Same punctuation pattern occurs at lines 23 and 42.",
+      "suggested_fix": "\"Nhưng anh vẫn có thể đảo ngược hiệu ứng nếu lời kể của Chang là đúng,\" Giáo sư Quirrell nói. \"Theo truyền thuyết, hầu hết sức mạnh của Tấm Gương đều có hai mặt.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly faithful but contains one major omission (line 21 torment/confession clauses) and several distortions: reversed negation (senility), 'All Hallow's Eve' rendered as New Year's Eve, 'utter fool' misread as a verb, 'reflection' rendered as 'phản xạ', a garbled line 47, plus minor pawn/idiom mistranslations and orphaned dialogue quotation marks."
+}

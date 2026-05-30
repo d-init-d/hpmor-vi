@@ -1,0 +1,17 @@
+{
+  "chapter": 58,
+  "findings": [
+    {
+      "category": "untranslated-term",
+      "severity": "minor",
+      "location": "target section (char ~5000)",
+      "source_excerpt": "use the adrenaline on following the chains of logic",
+      "target_excerpt": "sử dụng adrenaline để theo đuổi chuỗi logic",
+      "description": "English word 'adrenaline' left untranslated in Vietnamese text.",
+      "suggested_fix": "sử dụng hooc-mon adrenaline để theo đuổi chuỗi logic",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 58 translation is largely faithful with 103.56% character ratio. Contains only one detected issue: untranslated English term 'adrenaline'. No major omissions or meaning distortions detected."
+}

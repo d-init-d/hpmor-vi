@@ -1,0 +1,15 @@
+{
+  "chapter": 43,
+  "findings": [
+    {
+      "category": "spacing",
+      "severity": "minor",
+      "location": "line 1",
+      "source_excerpt": "The biting January wind howled around the vast, blank stone walls",
+      "target_excerpt": "Tanh ấycơn gió tháng giêng hú lên quanh những bức tường đá rộng lớn, trống trải",
+      "description": "Extra characters 'Tanh ấycơn' instead of 'Tanh ấy cơn' — likely a formatting/encoding artifact where a space was lost between words.",
+      "suggested_fix": "Cơn gió tháng giêng hú lên quanh những bức tường đá rộng lớn, trống trải",
+      "verdict": "real"
+    }
+  ]
+}

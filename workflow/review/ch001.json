@@ -1,0 +1,67 @@
+{
+  "chapter": 1,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "The pacing of the story is that of serial fiction",
+      "target_excerpt": "Nhịp độ của câu chuyện là nhịp độ của fiction theo kiểu đăng từng phần",
+      "description": "The English prose word \"fiction\" is left untranslated inside the Vietnamese sentence.",
+      "suggested_fix": "Nhịp độ của câu chuyện là nhịp độ của tiểu thuyết đăng nhiều kỳ",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "a TV show",
+      "target_excerpt": "một series truyềi hình chạy trong một số mùa được xác định trước",
+      "description": "Typo \"truyềi hình\" should be \"truyền hình\".",
+      "suggested_fix": "một chương trình truyền hình chạy trong một số mùa được xác định trước",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "a TV show",
+      "target_excerpt": "một series truyềi hình",
+      "description": "The English word \"series\" is left untranslated; should use Vietnamese for \"TV show/series\".",
+      "suggested_fix": "một chương trình truyền hình",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "whose episodes are individually plotted",
+      "target_excerpt": "với từng tập được chương trình hóa riêng lẻ",
+      "description": "\"individually plotted\" (each episode has its own plot/storyline) is mistranslated as \"chương trình hóa\" (programmed), changing the meaning.",
+      "suggested_fix": "với từng tập được dựng cốt truyện riêng",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 13",
+      "source_excerpt": "may be untrustworthy or dangerously double-edged",
+      "target_excerpt": "có thể không đáng tin cậy hoặc sắc bén một cách nguy hiểm",
+      "description": "The \"double-edged\" idiom (advice that cuts both ways) is rendered as \"sắc bén một cách nguy hiểm\" (dangerously sharp), losing the two-sided/backfiring sense.",
+      "suggested_fix": "có thể không đáng tin cậy hoặc lợi bất cập hại một cách nguy hiểm",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "massive evidence left out in plain sight",
+      "target_excerpt": "những bằng chứng lớn bị bỏ qua trước mắt",
+      "description": "\"left out in plain sight\" (evidence placed openly/visibly) is rendered as \"bị bỏ qua trước mắt\" (overlooked right before the eyes), shifting the meaning toward being ignored rather than being openly displayed.",
+      "suggested_fix": "những bằng chứng đồ sộ phơi bày ngay trước mắt",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 1 (Preface) is mostly faithful but contains two untranslated English words (\"fiction\", \"series\"), a spelling typo (\"truyềi hình\"), and a few minor fidelity slips on \"plotted\", \"double-edged\", and \"in plain sight\"."
+}

@@ -1,0 +1,67 @@
+{
+  "chapter": 104,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 36",
+      "source_excerpt": "I needed to go just outside your ability to detect me and keep watch.",
+      "target_excerpt": "và tôi cần phải vượt quá khả năng của mình để phát hiện và theo dõi ông",
+      "description": "Reversed possessor/subject. Source means Quirrell positioned himself just outside HARRY's ability to detect HIM (Quirrell), and kept watch. The translation says Quirrell had to exceed HIS OWN ability to detect and follow Harry, inverting who detects whom.",
+      "suggested_fix": "và tôi cần phải ra đến ngay bên ngoài phạm vi mà cậu có thể phát hiện ra tôi rồi canh chừng",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 42",
+      "source_excerpt": "it is useful to know some green stunning hexes",
+      "target_excerpt": "việc biết một số bùa mê màu xanh lá cây gây ấn tượng sẽ rất hữu ích",
+      "description": "\"stunning hexes\" mistranslated as \"gây ấn tượng\" (impressive/striking). A stunning hex is a bùa choáng (knock-out/stun spell), not something that creates an impression.",
+      "suggested_fix": "việc biết một số bùa choáng màu xanh lá cây sẽ rất hữu ích",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "major",
+      "location": "line 18",
+      "source_excerpt": "If I talked to the right Muggles",
+      "target_excerpt": "Nếu tôi nói chuyện với những người Muggle phù hợ, tôi có thể cho ông thấy",
+      "description": "Typo: \"phù hợ\" is missing the final letter; should be \"phù hợp\".",
+      "suggested_fix": "Nếu tôi nói chuyện với những người Muggle phù hợp, tôi có thể cho ông thấy",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "major",
+      "location": "line 15",
+      "source_excerpt": "A look of contempt crossed the centaur's face.",
+      "target_excerpt": "Vẻ khinh thượng thoáng qua trên khuôn mặt nhân mã.",
+      "description": "Typo: \"khinh thượng\" is not a word; the intended word for contempt is \"khinh thường\".",
+      "suggested_fix": "Vẻ khinh thường thoáng qua trên khuôn mặt nhân mã.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "major",
+      "location": "line 25",
+      "source_excerpt": "The other centaurs in this forest have stayed from your presence",
+      "target_excerpt": "những nhân nhân mã khác trong khu rừng này đã tránh xa sự hiện diện của bạn",
+      "description": "Duplicated word \"nhân nhân mã\"; should be \"nhân mã\". Also the sentence begins with a lowercase \"những\".",
+      "suggested_fix": "Những nhân mã khác trong khu rừng này đã tránh xa sự hiện diện của bạn",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 13",
+      "source_excerpt": "bringing him almost within striking distance of Harry",
+      "target_excerpt": "Nhân mã tiến thêm một bước nữa, đưa hắn gần như đến gần Harry.",
+      "description": "Awkward calque \"đưa hắn gần như đến gần Harry\" that also drops the \"striking distance\" sense (the threat of being within spear range).",
+      "suggested_fix": "Nhân mã tiến thêm một bước nữa, đưa nó vào gần như trong tầm tấn công của Harry.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly faithful but contains two real meaning distortions (reversed detection clause in line 36 and \"stunning hexes\" rendered as \"gây ấn tượng\" in line 42), three clear spelling/doubling typos (\"phù hợ\", \"khinh thượng\", \"nhân nhân mã\"), and one minor machine-translation awkwardness."
+}

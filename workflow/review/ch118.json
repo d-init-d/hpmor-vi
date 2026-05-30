@@ -1,0 +1,48 @@
+{
+  "chapter": "118",
+  "source_file": "hpmor-vn/source/ch118.txt",
+  "target_file": "hpmor-vi/text/chapters/ch118-vn.txt",
+  "qa_review": {
+    "translation_quality": {
+      "overall": "medium",
+      "summary": "Translation is mostly human with some MT artifacts. Snake-speak handling is inconsistent — raw transliteration 'tê' used instead of phrasal construction. 'Chúa Tể Tối Thượng' for 'Dark Lord' conflicts with established glossary 'Chúa Tể'. Some awkward phrasing around Harry's self-description.",
+      "findings": [
+        {
+          "severity": "minor",
+          "category": "style",
+          "location": "ch118-vn.txt",
+          "description": "Snake-speak transliteration style inconsistency",
+          "source_excerpt": "he ssstarted to parsse the ssshape of",
+          "target_excerpt": "hắn bắt đầu phân tích hình dạng của",
+          "issue": "Source uses raw snake-speak consonants ('ss', 'ss') but target renders as natural Vietnamese 'phân tích'. While phrasal construction is appropriate, the source has specific snake-speak patterns (ss, rr) that should be reflected consistently. If using phrasal approach, the snake-speak quality is lost.",
+          "suggested_fix": "Consider consistent snake-speak marking throughout, e.g., 'hắn bắt đầu phân tích hình dạng của' — current approach works but loses the distinctive voice pattern. Not a critical error but worth noting for style consistency."
+        },
+        {
+          "severity": "minor",
+          "category": "terminology",
+          "location": "ch118-vn.txt",
+          "description": "'Chúa Tể Tối Thượng' vs glossary 'Chúa Tể'",
+          "source_excerpt": "Dark Lord",
+          "target_excerpt": "Chúa Tể Tối Thượng",
+          "issue": "Glossary (ready-to-ship-plan.md) lists 'Dark Lord' → 'Chúa Tể', but target uses 'Chúa Tể Tối Thượng'. Deviation from glossary for a recurring term.",
+          "suggested_fix": "Use 'Chúa Tể' per glossary, or verify if 'Tối Thượng' is intentional expansion."
+        }
+      ]
+    },
+    "accuracy": {
+      "overall": "good",
+      "findings": []
+    },
+    "consistency": {
+      "overall": "good",
+      "findings": []
+    },
+    "grammar_style": {
+      "overall": "good",
+      "findings": []
+    }
+  },
+  "notes": "Overall quality is acceptable. Main issues are minor style/terminology deviations rather than critical translation errors.",
+  "files_written_count": 1,
+  "batch_total": 5
+}

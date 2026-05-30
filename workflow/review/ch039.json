@@ -1,0 +1,117 @@
+{
+  "chapter": 39,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 2",
+      "source_excerpt": "I t was almost midnight.",
+      "target_excerpt": "Tôi đã gần nửa đêm.",
+      "description": "The dummy subject 'It' (split as 'I t' due to drop-cap formatting in the source) was misread as the pronoun 'I' and translated as 'Tôi'. The opening line becomes nonsensical ('I was almost midnight').",
+      "suggested_fix": "Lúc đó đã gần nửa đêm.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 15",
+      "source_excerpt": "to cross the wards that the Headmaster put around this house",
+      "target_excerpt": "vượt qua các khu vực mà Hiệu trưởng đặt xung quanh ngôi nhà này",
+      "description": "'wards' (protective enchantments/spells) is mistranslated as 'các khu vực' (the areas/zones), losing the magical meaning.",
+      "suggested_fix": "vượt qua các lớp bùa phòng vệ mà Hiệu trưởng đặt xung quanh ngôi nhà này",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 28",
+      "source_excerpt": "But it would be even more condescending, if I were not to state it clearly.",
+      "target_excerpt": "Nhưng sẽ còn đáng khinh hơn nữa, nếu tôi không nói rõ ràng.",
+      "description": "'condescending' is mistranslated as 'đáng khinh' (contemptible/despicable). It should mirror 'trịch thượng' (condescension) used correctly in the preceding line 26, so the deliberate parallelism is broken and the meaning distorted.",
+      "suggested_fix": "Nhưng sẽ còn trịch thượng hơn nữa, nếu tôi không nói rõ ràng.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 21",
+      "source_excerpt": "nor what stakes they may lose",
+      "target_excerpt": "cũng như số tiền họ có thể mất",
+      "description": "'stakes' (what is at stake / what may be lost in the game) is narrowed to 'số tiền' (the money), an over-literal mistranslation.",
+      "suggested_fix": "cũng như những gì họ có thể mất",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 30",
+      "source_excerpt": "after every trust you place has failed you, and you have become cynical",
+      "target_excerpt": "sau khi mọi niềm tin cậu đặt vào đều khiến cậu thất bại và cậu trở nên hoài nghi",
+      "description": "'has failed you' (let you down / betrayed your trust) is rendered as 'khiến cậu thất bại' (caused you to fail/be defeated), changing the meaning.",
+      "suggested_fix": "sau khi mọi niềm tin cậu đặt vào đều phụ lòng cậu và cậu trở nên hoài nghi",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 37",
+      "source_excerpt": "Harry protested only once, and was shushed.",
+      "target_excerpt": "Harry chỉ phản đối một lần và im lặng.",
+      "description": "'was shushed' (passive: Quirrell shushed him) is rendered as 'và im lặng' (and fell silent), dropping the agent and the sense that Harry was hushed rather than choosing silence.",
+      "suggested_fix": "Harry chỉ phản đối một lần và bị suỵt im.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 13",
+      "source_excerpt": "I have Charmed your parents asleep; they shall not wake until I have departed.",
+      "target_excerpt": "Ta đã mê hoặc cha mẹ ngươi ngủ; họ sẽ không thức dậy cho đến khi ta rời đi.",
+      "description": "Pronoun register is inconsistent: Quirrell is rendered as 'cậu Potter'/'tôi' throughout the chapter, but here suddenly switches to the archaic/contemptuous 'ta'...'ngươi' within the same speech.",
+      "suggested_fix": "Tôi đã ếm bùa cho cha mẹ cậu ngủ; họ sẽ không thức dậy cho đến khi tôi rời đi.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 14",
+      "source_excerpt": "still keeping the shriek quiet",
+      "target_excerpt": "vẫn giữ im lặng tiếng thét",
+      "description": "Awkward word-order calque; 'keeping the shriek quiet' is rendered as 'giữ im lặng tiếng thét', which is unnatural Vietnamese.",
+      "suggested_fix": "vẫn giữ tiếng thét khe khẽ",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 18",
+      "source_excerpt": "\"Just don't,\" Harry said.",
+      "target_excerpt": "Chỉ cần thôi.",
+      "description": "'Just don't' is rendered as 'Chỉ cần thôi' (roughly 'just enough/just that'), which does not convey the imperative 'don't'.",
+      "suggested_fix": "Xin đừng.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 16, 20, 24, 29",
+      "source_excerpt": "What are you doing here?",
+      "target_excerpt": "Bạn đang làm gì ở đây?",
+      "description": "Harry addresses Professor Quirrell with the casual peer pronoun 'bạn', which is unnatural for a student speaking to a professor in Vietnamese (recurs in lines 20, 24, 29).",
+      "suggested_fix": "Thầy đang làm gì ở đây?",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "heading-title",
+      "severity": "minor",
+      "location": "line 1",
+      "source_excerpt": "37. Interlude: Crossing the Boundary",
+      "target_excerpt": "37. Khúc dạo đầu: Vượt qua ranh giới",
+      "description": "'Interlude' is translated as 'Khúc dạo đầu' (prelude/overture), which means a beginning piece rather than an intervening episode.",
+      "suggested_fix": "37. Khúc Xen: Vượt qua ranh giới",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is broadly faithful but contains a major mistranslated opening line ('It'->'Tôi') plus several distortions (wards->khu vực, condescending->đáng khinh, stakes->số tiền) and minor MT-awkwardness/pronoun-register issues."
+}

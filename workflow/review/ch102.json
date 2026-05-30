@@ -1,0 +1,6 @@
+{
+  "chapter": 102,
+  "findings": [],
+  "clean": true,
+  "summary": "Source is a single-line chapter title; the Vietnamese correctly translates it (Philosopher's Stone -> Hòn Đá Phù Thủy) and adds two harmless translator annotations. No genuine defects."
+}

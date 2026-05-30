@@ -1,0 +1,87 @@
+{
+  "chapter": 109,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "line 6",
+      "source_excerpt": "that is indeed the usual occupant of that chamber, which is off-limits to all students, especially first-years.",
+      "target_excerpt": "quả thực đó là Muggle xuyên ở trong căn phòng đó, điều này cấm tất cả học sinh, đặc biệt là năm thứ nhất.",
+      "description": "\"the usual occupant of that chamber\" is garbled into the nonsensical \"Muggle xuyên\"; the meaning (the creature that normally lives in/occupies that chamber) is lost entirely. Also \"điều này cấm\" should refer to the chamber being off-limits, not \"this thing forbids\".",
+      "suggested_fix": "quả thực đó là kẻ cư ngụ thường thấy của căn phòng đó, nơi cấm tất cả học sinh, đặc biệt là học sinh năm nhất.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 32",
+      "source_excerpt": "The last word spoken was “Inferius” and it was accompanied by a final surge of STOP, DON'T.",
+      "target_excerpt": "Từ cuối cùng được nói ra là \"Inferius\" và đi kèm với đó là một đợt tăng cuối cùng của sự lo sợ.",
+      "description": "Source says the surge was of \"STOP, DON'T\" (the residual inner warning/imprint compelling Harry to stop). Target replaces it with \"sự lo sợ\" (fear), losing the distinctive STOP, DON'T command that recurs as a key motif.",
+      "suggested_fix": "Từ cuối cùng được nói ra là \"Inferius\" và đi kèm với đó là một đợt trào dâng cuối cùng của tiếng DỪNG LẠI, ĐỪNG.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 22",
+      "source_excerpt": "Answer in Parseltongue.",
+      "target_excerpt": "Hãy trả lời bằng Parseltongue.",
+      "description": "\"Parseltongue\" is left untranslated here, but the same term is correctly rendered as \"Xà ngữ\" later at line 41. Inconsistent terminology.",
+      "suggested_fix": "Hãy trả lời bằng Xà ngữ.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 20, 22, 24, 26",
+      "source_excerpt": "Are you serious, or are you deliberately trying to slow us down?",
+      "target_excerpt": "Bạn có nghiêm túc không, hay bạn đang cố tình làm chậm chúng tôi? Hãy trả lời bằng Parseltongue.",
+      "description": "Quirrell addresses Harry as \"Bạn\" (the machine-translation default for \"you\") in these lines, inconsistent with \"cậu\"/\"cậu bé\" used for Quirrell-to-Harry elsewhere in the same chapter (e.g. lines 8, 14). The capitalized \"Bạn\" reads as machine output.",
+      "suggested_fix": "Cậu có nghiêm túc không, hay cậu đang cố tình làm chậm chúng ta? Hãy trả lời bằng Xà ngữ.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 23",
+      "source_excerpt": "“Wass sseriouss,” hissed Harry.",
+      "target_excerpt": "“Thật là nghiêm trọng,” Harry rít lên.",
+      "description": "Harry means \"I'm serious\" (earnest), which the earlier question rendered as \"nghiêm túc\". \"nghiêm trọng\" means grave/severe, the wrong sense of \"serious\".",
+      "suggested_fix": "“Thật sự nghiêm túc,” Harry rít lên.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 35",
+      "source_excerpt": "he'd seen and sensed this procedure before, only without the spoken Latin.",
+      "target_excerpt": "chỉ là không nói được tiếng Latinh.",
+      "description": "\"only without the spoken Latin\" means the procedure happened before with no Latin spoken. Target \"không nói được tiếng Latinh\" reads as \"couldn't speak Latin\", a distortion.",
+      "suggested_fix": "chỉ là khi đó không có câu Latin nào được đọc lên.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 19",
+      "source_excerpt": "There was nothing there but the sourceless blue glow,",
+      "target_excerpt": "Không có gì ở đó ngoài ánh sáng xanh vô tận,",
+      "description": "\"sourceless\" (without a source) is mistranslated as \"vô tận\" (endless/infinite).",
+      "suggested_fix": "Không có gì ở đó ngoài thứ ánh sáng xanh không rõ nguồn,",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 18",
+      "source_excerpt": "a wooden trapdoor upon the floor, with a single ring attached.",
+      "target_excerpt": "một cửa sập bằng gỗ trên sàn, có gắn một chiếc nhẫn duy nhất.",
+      "description": "Here \"ring\" is the pull-handle ring of the trapdoor, not a finger ring; \"chiếc nhẫn\" (finger ring) is the wrong sense.",
+      "suggested_fix": "một cửa sập bằng gỗ trên sàn, có gắn một chiếc vòng (khoen) kéo duy nhất.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is mostly faithful but contains one critical garble (\"Muggle xuyên\" for \"the usual occupant\"), a notable distortion of \"STOP, DON'T\" into \"fear\", an untranslated \"Parseltongue\", and several minor MT-style pronoun/word-sense issues."
+}

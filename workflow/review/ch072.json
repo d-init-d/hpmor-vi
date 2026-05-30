@@ -1,0 +1,17 @@
+{
+  "chapter": 72,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "lines 68-70",
+      "source_excerpt": "\"Hey!\" said Susan sharply. \"You're supposed to be heroes now! That means you have to be good!\" / \"No, it's all right,\" said Lavender, \"I'm pretty sure General Chaos wants to take over the world and he's sort of a good guy.\"",
+      "target_excerpt": "68: Susan nói sắc lẻm. \"Bây giờ lẽ ra bạn đã trở thành anh hùng! Điều đó có nghĩa là bạn phải giỏi!\" / 69: Lavender nói, \"Không, thực ra đó là phương châm của Chaos Legion. Chỉ có điều cô ấy không cười điên khùng.\"",
+      "description": "Hai dòng dialogue bị hoán đổi speaker. Lavender nói 'No, it's all right, General Chaos...' bị gắn nhãn Susan, và Susan nói 'Hey! You're supposed to be heroes now!' bị gắn nhãn Lavender. Đồng thời dòng 68 thiếu dấu mở ngoặc kép cho câu của Tracey.",
+      "suggested_fix": "69 (Susan): \"Hey! Bây giờ lẽ ra bạn đã trở thành anh hùng! Điều đó có nghĩa là bạn phải giỏi!\" / 70 (Susan): \"Không, thực ra đó là phương châm của Chaos Legion. Chỉ có điều cô ấy không cười điên khùng.\" — hoặc giữ nguyên 2 dòng nhưng đổi nhãn: 68 (Lavender) cho dòng General Chaos, 69 (Susan) cho dòng 'Hey! heroes now'.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "1 major finding: dialogue confusion - two lines swapped speakers (Lavender/Susan) in the post-Quirrell discussion about heroes and General Chaos. No critical issues found."
+}

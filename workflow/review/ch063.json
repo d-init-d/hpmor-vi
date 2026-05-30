@@ -1,0 +1,127 @@
+{
+  "chapter": 63,
+  "findings": [
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 87",
+      "source_excerpt": "The Potions Master's voice trailed off.",
+      "target_excerpt": "Giáọng của Bậc thầy Độc dược nhỏ dần.",
+      "description": "Typo: 'Giáọng' is a misspelling of 'Giọng' (voice) - extra letters glued in.",
+      "suggested_fix": "Giọng của Bậc thầy Độc dược nhỏ dần.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 115",
+      "source_excerpt": "Her voice trailed off.",
+      "target_excerpt": "Giáọng cô lạc đi.",
+      "description": "Typo: 'Giáọng' is a misspelling of 'Giọng' (voice).",
+      "suggested_fix": "Giọng cô lạc đi.",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "minor",
+      "location": "line 170",
+      "source_excerpt": "so maybe her second meditation didn't take as much time as her first!",
+      "target_excerpt": "vì vậy có lẽ buổi thiền thứ hai thứ hai của cô ta không mất nhiều thời gian như lần thiền đầu tiên!",
+      "description": "The word 'thứ hai' is accidentally repeated ('thứ hai thứ hai').",
+      "suggested_fix": "vì vậy có lẽ buổi thiền thứ hai của cô ta không mất nhiều thời gian như lần thiền đầu tiên!",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "minor",
+      "location": "line 96",
+      "source_excerpt": "and to defeat the Unspeakables' precautions and leave no trace of the defeat… might not be impossible.",
+      "target_excerpt": "và việc đánh bại những đề phòng của Unspeakables và không để lại dấu vết thất bại… có lẽ không phải là là không thể.",
+      "description": "The word 'là' is accidentally repeated ('là là').",
+      "suggested_fix": "và việc đánh bại những đề phòng của Bộ Bí ẩn và không để lại dấu vết thất bại… có lẽ không phải là không thể.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 82",
+      "source_excerpt": "the half who weren't already insane, soon would be.",
+      "target_excerpt": "một nửa chưa đã bị điên, sẽ sớm bị điên.",
+      "description": "Ungrammatical sequence 'chưa đã bị điên'; 'chưa' and 'đã' contradict each other. Meaning should be 'the half not yet insane'.",
+      "suggested_fix": "một nửa chưa bị điên, sẽ sớm bị điên.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 104",
+      "source_excerpt": "\"Possible but unlikely,\" said Severus",
+      "target_excerpt": "\"Có thể nhưng không thể,\" Severus nói, cùng lúc đó Albus nói, \"Có.\"",
+      "description": "'unlikely' (khó xảy ra) is mistranslated as 'không thể' (impossible), producing a self-contradictory phrase ('possible but impossible') and reversing the intended meaning.",
+      "suggested_fix": "\"Có thể nhưng khó xảy ra,\" Severus nói, cùng lúc đó Albus nói, \"Có.\"",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 192",
+      "source_excerpt": "I will tell her that I am reconstituting the Order of the Phœnix.",
+      "target_excerpt": "Tôi sẽ nói với cô ấy rằng tôi đang tái lập Huân chương Phượng Hoàng.",
+      "description": "'Order of the Phoenix' (the organization) is rendered as 'Huân chương Phượng Hoàng' (a medal/decoration). It is the organization being reconstituted; line 28 correctly uses 'Hội Phượng Hoàng'.",
+      "suggested_fix": "Tôi sẽ nói với cô ấy rằng tôi đang tái lập Hội Phượng Hoàng.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 77",
+      "source_excerpt": "Should I teach him to brew Polyjuice, Headmaster?",
+      "target_excerpt": "Tôi có nên dạy nó pha chế Đa dịch không, Hiệu trưởng?",
+      "description": "Polyjuice rendered as 'Đa dịch', contradicting the glossary term 'Thuốc Biến Hình'. Also inconsistent with lines 29/50 which leave 'Polyjuice/Polyjuiced' in English.",
+      "suggested_fix": "Tôi có nên dạy nó pha chế Thuốc Biến Hình không, Hiệu trưởng?",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 29",
+      "source_excerpt": "it dropped into the flask of unfinished Polyjuice",
+      "target_excerpt": "nó rơi vào bình chứa Polyjuice chưa hoàn thành",
+      "description": "'Polyjuice' left untranslated; glossary requires 'Thuốc Biến Hình'. (line 50 also leaves 'Polyjuiced' in English.)",
+      "suggested_fix": "nó rơi vào bình chứa Thuốc Biến Hình chưa hoàn thành",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 162",
+      "source_excerpt": "\"Chief Warlock?\" said Thicknesse.",
+      "target_excerpt": "\"Tù trưởng Pháp sư?\" Thicknesse nói.",
+      "description": "'Chief Warlock' (Dumbledore's title) rendered as 'Tù trưởng Pháp sư'; 'Tù trưởng' means tribal chieftain, wrong register for a magisterial title.",
+      "suggested_fix": "\"Chánh Pháp Sư?\" Thicknesse nói.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 131",
+      "source_excerpt": "\"…Albus. Do you still want it?\"",
+      "target_excerpt": "\"…Albus. Con vẫn muốn nó chứ?\"",
+      "description": "Madam Bones addresses Albus with the pronoun 'Con' (child), wrong register/referent; she is a peer official, not his junior. Inconsistent with 'cậu' used at line 139.",
+      "suggested_fix": "\"…Albus. Ông vẫn muốn nó chứ?\"",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 137",
+      "source_excerpt": "It was a Muggle artefact called a rocker",
+      "target_excerpt": "Đó là một đồ tạo tác Muggle được gọi là rocket",
+      "description": "'rocket' left in English here (and twice more in the same line: 'cái rocket của mình', 'các rocket của họ'), while line 143/145 correctly use 'tên lửa'.",
+      "suggested_fix": "Đó là một đồ tạo tác Muggle được gọi là tên lửa",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Translation is largely faithful and complete, but contains two voice-typos ('Giáọng'), two word duplications ('thứ hai thứ hai', 'là là'), two notable distortions ('Possible but unlikely' rendered as a contradictory 'có thể nhưng không thể'; 'Order of the Phoenix' rendered as 'Huân chương'/medal), plus minor terminology inconsistencies (Polyjuice) and awkward title/pronoun choices."
+}

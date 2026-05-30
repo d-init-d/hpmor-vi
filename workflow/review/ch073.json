@@ -1,0 +1,17 @@
+{
+  "chapter": 73,
+  "findings": [
+    {
+      "category": "fidelity-mistranslation",
+      "severity": "major",
+      "location": "line 5",
+      "source_excerpt": "they were looking for bullies to Vanquish and victims to Rescue",
+      "target_excerpt": "họ săn bắt nạn nhân để giải cứu",
+      "description": "The phrase 'victims to Rescue' is mistranslated as 'săn bắt nạn nhân' (hunt/capture victims). The verb 'săn bắt' means to hunt or capture, which is the opposite of 'rescue'. The correct translation should be 'tìm kiếm nạn nhân để giải cứu' or 'giải cứu nạn nhân' (rescue victims).",
+      "suggested_fix": "họ tìm kiếm nạn nhân để giải cứu",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "1 major finding: mistranslation in line 5 where 'victims to Rescue' is rendered as 'săn bắt nạn nhân' (hunt victims) instead of the correct 'tìm kiếm nạn nhân để giải cứu' (find victims to rescue). Source file has encoding corruption (mojibake) which may have contributed to the error. Minor/uncertain issues noted: 'quân địch' is archaic; source corruption makes full verification difficult."
+}

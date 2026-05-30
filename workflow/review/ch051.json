@@ -1,0 +1,57 @@
+{
+  "chapter": 51,
+  "findings": [
+    {
+      "category": "untranslated-term",
+      "severity": "minor",
+      "location": "target line 84 (char ~9500)",
+      "source_excerpt": "Harry saw it then, with a burst of adrenaline that started his heart racing",
+      "target_excerpt": "Lúc đó Harry nhìn thấy nó, adrenaline dâng trào khiến tim anh đập thình thịch",
+      "description": "English word 'adrenaline' left untranslated. Should be 'adrenalin' or 'hooc-mon adrenaline' or similar Vietnamese medical term.",
+      "suggested_fix": "Lúc đó Harry nhìn thấy nó, hooc-mon adrenaline dâng trào khiến tim anh đập thình thịch",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-term",
+      "severity": "minor",
+      "location": "target line 19 (char ~2500)",
+      "source_excerpt": "Professor Quirrell slumped back down into zombie-mode",
+      "target_excerpt": "Giáo sư Quirrell lại rơi vào chế độ zombie",
+      "description": "English word 'zombie' left untranslated. Should be 'zô-brai' or transliterated properly.",
+      "suggested_fix": "Giáo sư Quirrell lại rơi vào chế độ zô-brai",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-title",
+      "severity": "minor",
+      "location": "target line 55 (char ~6200)",
+      "source_excerpt": "According to The Patronus Charm: Wizards Who Could and Couldn't",
+      "target_excerpt": "Theo Bùa hộ mệnh: Wizards Who Could and Couldn't",
+      "description": "English book title left untranslated. Should be translated to Vietnamese.",
+      "suggested_fix": "Theo Bùa hộ mệnh: Những phù thủy Có thể và Không thể",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-title",
+      "severity": "minor",
+      "location": "target line 55 (char ~6200)",
+      "source_excerpt": "in Four Lives of Power",
+      "target_excerpt": "trong Four Lives of Power",
+      "description": "English book title left untranslated.",
+      "suggested_fix": "trong Bốn Cuộc Đời Của Quyền Năng",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-title",
+      "severity": "minor",
+      "location": "target line 54 (char ~6000)",
+      "source_excerpt": "Lady of Flying Squirrels",
+      "target_excerpt": "Lady of Flying Squirrels",
+      "description": "Title/nickname left in English. Should be transliterated or translated.",
+      "suggested_fix": "Quý cô Sóc Bay hoặc Lady of Flying Squirrels (giữ nguyên nếu là tên riêng)",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 51 translation is largely faithful with similar character count ratio (100.15%). Contains several minor untranslated English terms: 'adrenaline', 'zombie', and three book titles (Wizards Who Could and Couldn't, Four Lives of Power, Flying Squirrels). No major omissions or meaning distortions detected in initial scan."
+}

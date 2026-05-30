@@ -1,0 +1,57 @@
+{
+  "chapter": 33,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 42",
+      "source_excerpt": "Draco was confused. Therefore, something he believed was fiction.",
+      "target_excerpt": "Vậy điều ông ấy tin là hư cấu.",
+      "description": "Wrong pronoun/referent. In the source 'he' refers to Draco himself (the one who is confused, applying the rationalist lesson to his own beliefs). The Vietnamese 'ông ấy' is a formal pronoun for an older/respected male, which a reader would take to mean Professor Quirrell, not Draco. This breaks the syllogism (Draco was confused -> something Draco believed was fiction).",
+      "suggested_fix": "Vậy điều anh tin là hư cấu.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 80",
+      "source_excerpt": "Captains Goldstein and Weasley, you're on duty...",
+      "target_excerpt": "Các Thuyền trưởng Goldstein và Weasley, các bạn được giao nhiệm vụ nghĩ ra các ý tưởng chiến lược cho trận chiến tiếp theo.",
+      "description": "'Captains' rendered as 'Thuyền trưởng' (ship's captain), which is wrong in this army/regiment context and inconsistent with the rest of the chapter. The same rank 'Captain' is translated as 'Đội trưởng' on line 70 (Captain Ernie Macmillan, Captain Ron Weasley) and again as 'Đại úy' later in line 80 ('Đại úy Goldstein'), so Goldstein is even called two different things in the same paragraph.",
+      "suggested_fix": "Các Đội trưởng Goldstein và Weasley, các bạn được giao nhiệm vụ nghĩ ra các ý tưởng chiến lược cho trận chiến tiếp theo. (and use 'Đội trưởng Goldstein' consistently later)",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 38",
+      "source_excerpt": "Your strength as a rationalist is your ability to be more confused by fiction than by reality...",
+      "target_excerpt": "Điểm mạnh của bạn với tư cách một người theo chủ nghĩa duy lý là khả năng bạn dễ bị hư cấu đánh lừa hơn là thực tế…",
+      "description": "Mistranslates the key rationalist maxim. 'more confused by fiction' is rendered as 'dễ bị hư cấu đánh lừa' (more easily deceived/fooled by fiction). Being confused (noticing something does not fit reality) is the intended virtue; being deceived is essentially the opposite, so the meaning of this thematic line is distorted.",
+      "suggested_fix": "…là khả năng bị hư cấu làm bối rối nhiều hơn là bị thực tế làm bối rối…",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 88",
+      "source_excerpt": "Professor Quirrell's quote mixture of positive and negative incentives unquote",
+      "target_excerpt": "câu trích dẫn kết hợp khuyến khích tích cực và tiêu cực không trích dẫn của Giáo sư Quirrell",
+      "description": "Literal calque of the 'quote ... unquote' framing. 'không trích dẫn' as a rendering of 'unquote' reads as a machine translation and is confusing in Vietnamese; the natural device is quotation marks or 'cái gọi là'.",
+      "suggested_fix": "cái gọi là 'sự kết hợp giữa khuyến khích tích cực và tiêu cực' của Giáo sư Quirrell",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 17",
+      "source_excerpt": "he had to go and learn the Breaking Drill Hex from Hermione",
+      "target_excerpt": "anh phải đi học bùa Breaking Drill từ Hermione hoặc ai đó trước trận chiến tiếp theo",
+      "description": "The invented spell name 'Breaking Drill Hex' is left in English ('bùa Breaking Drill'), whereas the parallel invented spell 'Simple Strike Hex' is fully translated as 'bùa Đòn Tấn Công Đơn Giản' on line 28. Inconsistent handling; the descriptive English words should be translated for consistency.",
+      "suggested_fix": "anh phải đi học bùa Khoan Phá (hoặc tên dịch nhất quán) từ Hermione hoặc ai đó trước trận chiến tiếp theo",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful and fluent, but has a wrong-referent pronoun ('ông ấy' for Draco), an inconsistent and incorrect rendering of 'Captain' ('Thuyền trưởng'/'Đại úy' vs 'Đội trưởng'), and a distorted rendering of the 'more confused by fiction' rationalist maxim, plus two minor awkwardness/consistency issues."
+}

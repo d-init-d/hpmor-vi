@@ -1,0 +1,17 @@
+{
+  "chapter": 5,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 45",
+      "source_excerpt": "And she told him of He-Who-Must-Not-Be-Named, the Dark Lord, Voldemort.",
+      "target_excerpt": "Và cô kể cho cậu nghe về Kẻ-Mà-Ai-Cũng-Biết-Là-Ai-Đấy, Chúa tể Hắc ám Voldemort.",
+      "description": "The source uses the epithet 'He-Who-Must-Not-Be-Named' here, then has Harry separately resolve to use 'You-Know-Who' in the next paragraph (line 46). The target renders both distinct English epithets with the identical phrase 'Kẻ-Mà-Ai-Cũng-Biết-Là-Ai-Đấy' (= You-Know-Who), collapsing the author's deliberate distinction. In Vietnamese HP canon these are separate: He-Who-Must-Not-Be-Named = 'Kẻ-Không-Được-Gọi-Tên-Ra'. Meaning/referent is preserved, so this is a stylistic nuance loss rather than a meaning error.",
+      "suggested_fix": "Và cô kể cho cậu nghe về Kẻ-Không-Được-Gọi-Tên-Ra, Chúa tể Hắc ám Voldemort.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Faithful, natural translation with correct glossary terms and all proper nouns/spells appropriately kept; only one minor uncertain nuance issue where 'He-Who-Must-Not-Be-Named' is rendered identically to 'You-Know-Who'."
+}

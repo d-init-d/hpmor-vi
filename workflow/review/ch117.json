@@ -1,0 +1,17 @@
+{
+  "chapter": 117,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 13",
+      "source_excerpt": "the Dark Lord's utility function cannot be changed by talking to him",
+      "target_excerpt": "hàm tiện ích của Chúa Tể Tối Thượng không thể thay đổi bằng cách nói chuyện với hắn.",
+      "description": "\"Dark Lord\" is mistranslated as \"Chúa Tể Tối Thượng\" (Supreme Lord), losing the dark/evil connotation. Per glossary, Dark Lord must be rendered \"Hắc Ám\", not \"Tối Thượng\".",
+      "suggested_fix": "hàm tiện ích của Chúa Tể Hắc Ám không thể thay đổi bằng cách nói chuyện với hắn.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Translation is complete and faithful with no omissions; one key-term distortion where \"Dark Lord\" was rendered \"Chúa Tể Tối Thượng\" instead of \"Chúa Tể Hắc Ám\"."
+}

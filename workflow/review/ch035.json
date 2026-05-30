@@ -1,0 +1,137 @@
+{
+  "chapter": 35,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 90",
+      "source_excerpt": "We can never have enough plots.",
+      "target_excerpt": "có đủ lô đất",
+      "description": "\"plots\" here means âm mưu (schemes/plots), but it was mistranslated as \"lô đất\" (plots of land/real estate). The whole sentence becomes nonsensical.",
+      "suggested_fix": "Chúng ta không bao giờ có đủ âm mưu.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 95",
+      "source_excerpt": "Harry was just going to stay eleven forever.",
+      "target_excerpt": "Harry sẽ ở lại lớp mười một mãi mãi.",
+      "description": "\"stay eleven\" refers to staying eleven years OLD forever, not staying in \"lớp mười một\" (the eleventh grade). Hogwarts has no grade eleven; this is an age reference.",
+      "suggested_fix": "Harry sẽ cứ mười một tuổi mãi mãi.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 145",
+      "source_excerpt": "spells had been set in place to keep away the grindylows",
+      "target_excerpt": "xua đuổi bọn xay lúa",
+      "description": "\"grindylows\" are magical water demons (a creature name). It was literally mistranslated as \"bọn xay lúa\" (grain-millers/grinders), which is nonsensical in the context of warding creatures away from a lake battle.",
+      "suggested_fix": "xua đuổi lũ grindylow",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 280",
+      "source_excerpt": "Sonorus! REFORM ON ME!",
+      "target_excerpt": "CẢI CÁCH CHO TÔI",
+      "description": "\"REFORM ON ME\" is a military order meaning re-form/regroup around the commander. It was mistranslated as \"CẢI CÁCH\" (reform as in political/structural reform). The tactical meaning is lost.",
+      "suggested_fix": "TẬP HỢP QUANH TÔI!",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 116",
+      "source_excerpt": "in real life, people usually cared about the other person",
+      "target_excerpt": "trong đời thực, mọi Muggle quan tâm đến người khác",
+      "description": "\"people usually\" was mistranslated as \"mọi Muggle\" (every Muggle). The passage is a general statement about people, not specifically Muggles, and the word \"usually\" is also dropped.",
+      "suggested_fix": "trong đời thực, mọi người thường quan tâm đến người khác",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 43",
+      "source_excerpt": "One of your soldiers has even become a quadruple agent.",
+      "target_excerpt": "đã trở thành bốn đặc vụ",
+      "description": "\"a quadruple agent\" (one agent serving four sides) was mistranslated as \"bốn đặc vụ\" (four agents). The follow-up dialogue (\"Quadruple? But there's only three sides!\") makes clear it is a single quadruple agent.",
+      "suggested_fix": "thậm chí đã trở thành điệp viên bốn mang",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "The terrifying part was how fast the whole thing had spiralled out of control.",
+      "target_excerpt": "Tanh ấy phần đáng sợ nhất",
+      "description": "\"Tanh ấy\" is gibberish / a typo at the start of the sentence. The later parallel passages (lines 26, 51) correctly begin \"Điều đáng sợ là...\".",
+      "suggested_fix": "Phần đáng sợ nhất là toàn bộ sự việc đã vượt khỏi tầm kiểm soát nhanh đến mức nào.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 8",
+      "source_excerpt": "the atmosphere as tense, perhaps, but the phrase",
+      "target_excerpt": "căng thẳngnhưng cụm từ",
+      "description": "Words glued together with no space: \"căng thẳngnhưng\". (This file has a recurring pattern of formerly-italicized words being glued to the next word, e.g. \"sẽlàm\", \"còntệ hơn\", \"đãloạn trí\", \"cóHufflepuffs\"; this is a representative instance.)",
+      "suggested_fix": "căng thẳng, nhưng cụm từ",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 156",
+      "source_excerpt": "There was a nervous chorus of yessirs.",
+      "target_excerpt": "Có một điệp khúc lo lắng của Yessirs.",
+      "description": "\"yessirs\" left untranslated as \"Yessirs\". Should be rendered in Vietnamese.",
+      "suggested_fix": "Có một dàn đồng thanh \"vâng thưa ngài\" đầy lo lắng.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 327",
+      "source_excerpt": "\"Gryffindors for Chaos,\" she said",
+      "target_excerpt": "Gryffindors for Chaos",
+      "description": "The slogan \"Gryffindors for Chaos\" is left entirely in English, although the parallel battle cries (e.g. \"For Sunshine!\" -> \"Vì Ánh Nắng!\") were translated elsewhere. Line 333 (\"làm Gryffindors đó cho Sunshine\") has the same issue.",
+      "suggested_fix": "\"Người Gryffindor theo phe Hỗn loạn,\" cô nói",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 7",
+      "source_excerpt": "a symbol of friendship transcending Houses and allegiances",
+      "target_excerpt": "vượt qua các Gia tộc và lòng trung thành",
+      "description": "\"Houses\" (Hogwarts Houses) rendered as \"Gia tộc\" (clans/dynasties), contradicting the glossary term House -> Nhà.",
+      "suggested_fix": "vượt qua các Nhà và lòng trung thành",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 251",
+      "source_excerpt": "don't forget it's Merlin Says on Three.",
+      "target_excerpt": "đó là Merlin Says on Three",
+      "description": "\"Merlin Says on Three\" left in English. This is a play on the game \"Simon Says\" and should be translated.",
+      "suggested_fix": "đừng quên đó là trò Merlin Bảo ở lệnh thứ Ba",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 134",
+      "source_excerpt": "\"You are quite forgiven.\"",
+      "target_excerpt": "Anh đã được tha thứ rồi.",
+      "description": "Dumbledore is addressing the young girl Hermione (\"cô Granger\" in the same line), but the pronoun \"Anh\" (used for a male/peer) is wrong for her.",
+      "suggested_fix": "Cháu được tha thứ rồi.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful but contains several genuine mistranslations where context-dependent words were rendered literally: \"plots\" -> \"lô đất\", \"stay eleven\" -> \"lớp mười một\", \"grindylows\" -> \"bọn xay lúa\", \"REFORM ON ME\" -> \"CẢI CÁCH\", \"people\" -> \"mọi Muggle\", plus a garbled opening word, glued-word spacing artifacts, and a few untranslated English fragments."
+}

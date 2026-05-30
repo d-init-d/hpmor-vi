@@ -1,0 +1,45 @@
+{
+  "chapter": 61,
+  "vietnamese_title": "Thí nghiệm nhà tù Stanford, Phần IX: Sự tò mò",
+  "source_chapter": 59,
+  "source_title": "The Stanford Prison Experiment, Part IX: Curiosity",
+  "clean": false,
+  "findings_count": {
+    "critical": 0,
+    "major": 0,
+    "minor": 5
+  },
+  "findings": [
+    {
+      "severity": "minor",
+      "location": "line 1",
+      "issue": "Spacing issue in title",
+      "detail": "Title shows 'Phần IX:Sự tò mò' - missing space before 'Sự'. Should be 'Phần IX: Sự tò mò'."
+    },
+    {
+      "severity": "minor",
+      "location": "line 2",
+      "issue": "Corrupted/malformed text at start of chapter content",
+      "detail": "'Bgậy phòngđã được phát minh' - 'Bgậy phòng' appears to be corrupted. Looking at source 'Broomsticks had been invented', this should likely be 'Chổi bay' or similar. Also missing space before 'đã'."
+    },
+    {
+      "severity": "minor",
+      "location": "line 9",
+      "issue": "Multiple spacing errors",
+      "detail": "Line shows 'chưa bao giờnhận' - missing space. Should be 'chưa bao giờ nhận'. Also 'tâm trí con ngườimong' - should be 'tâm trí con người mong'. And 'theo bản năngđến' - should be 'theo bản năng đến'. And 'bỏ qua sự vô lý' - 'lý' and 'về' appear concatenated: 'vô lývề'."
+    },
+    {
+      "severity": "minor",
+      "location": "line 11",
+      "issue": "Spacing errors in phrase",
+      "detail": "'Tên lửa không không hoạt động' - two 'không' words properly match source 'did not not work', but missing spaces: 'khôngkhông' should be 'không không'."
+    },
+    {
+      "severity": "minor",
+      "location": "line 18",
+      "issue": "Spacing/punctuation issues",
+      "detail": "Long continuous sentence with missing spaces and unclear punctuation. Multiple word concatenations observed."
+    }
+  ],
+  "notes": "Multiple minor spacing/punctuation errors throughout. Most severe is line 2 'Bgậy phòng' corruption which appears to be a character encoding or transcription error. Chapter content about broomstick physics (Aristotelian), Celestria Relevo, and rocket mechanics is present and translated correctly."
+}

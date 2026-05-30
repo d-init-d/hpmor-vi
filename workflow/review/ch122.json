@@ -1,0 +1,87 @@
+{
+  "chapter": 122,
+  "findings": [
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 11 (recurs lines 15, 19, 23, 27)",
+      "source_excerpt": "And he went to face the Dark Lord, alone.",
+      "target_excerpt": "Và anh đã ra đối mặt với Chúa Tể Tối Thượng, một mình.",
+      "description": "\"Dark Lord\" is consistently rendered \"Chúa Tể Tối Thượng\" (Supreme Lord). The glossary requires \"Hắc Ám\", never \"Tối Thượng\". This error repeats throughout the chapter (lines 11, 15 x2, 19, 23, 27 x3).",
+      "suggested_fix": "Và anh đã ra đối mặt với Chúa Tể Hắc Ám, một mình.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 37",
+      "source_excerpt": "He never could cast a Patronus Charm.",
+      "target_excerpt": "Anh không bao giờ có thể thi triển Lời Nguyền Patronus.",
+      "description": "Patronus is a Charm (Bùa/Thần Chú), never \"Lời Nguyền\" (Curse). The glossary explicitly forbids this rendering.",
+      "suggested_fix": "Anh không bao giờ có thể thi triển Thần Chú Patronus.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 49",
+      "source_excerpt": "Harry looked at where Professor—no, Headmistress McGonagall—was sitting, and saw the Headmistress nodding silently",
+      "target_excerpt": "Harry nhìn nơi Giáo sư—không, Headmistress McGonagall—đang ngồi, và thấy Headmistress gật đầu im lặng, một cái nhìn buồn bã và kiên quyết và tự hào.",
+      "description": "The English word \"Headmistress\" is left untranslated twice in Vietnamese prose. Glossary requires Headmistress -> Hiệu Trưởng (nữ).",
+      "suggested_fix": "Harry nhìn nơi Giáo sư—không, Hiệu Trưởng McGonagall—đang ngồi, và thấy Hiệu Trưởng gật đầu im lặng, một cái nhìn buồn bã và kiên quyết và tự hào.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 23",
+      "source_excerpt": "just like he framed her for the Blood-Cooling Charm",
+      "target_excerpt": "đúng như anh ta đã thiết lập cô ấy cho Lời Nguyền Làm Lạnh Máu.",
+      "description": "\"Blood-Cooling Charm\" is a Charm, rendered as \"Lời Nguyền\" (Curse). Should be Bùa/Thần Chú per glossary handling of Charm.",
+      "suggested_fix": "đúng như anh ta đã gài tội cô ấy với Bùa Làm Lạnh Máu.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 23",
+      "source_excerpt": "just like he framed her for the Blood-Cooling Charm",
+      "target_excerpt": "đúng như anh ta đã thiết lập cô ấy cho Lời Nguyền Làm Lạnh Máu.",
+      "description": "\"framed her for\" is mistranslated as \"thiết lập cô ấy cho\" (set her up for / installed her), a calque that loses the meaning of falsely accusing/framing.",
+      "suggested_fix": "đúng như anh ta đã gài tội cho cô ấy bằng Bùa Làm Lạnh Máu.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 47",
+      "source_excerpt": "was, by far, the best Professor of Battle Magic",
+      "target_excerpt": "là, bằng xa, Giáo sư Phòng Thủ Tốt nhất mà Hogwarts từng có.",
+      "description": "\"by far\" is calqued literally as \"bằng xa\", which is not idiomatic Vietnamese.",
+      "suggested_fix": "là, vượt trội hơn hẳn, Giáo sư Pháp Thuật Chiến Đấu giỏi nhất mà Hogwarts từng có.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 47",
+      "source_excerpt": "the best Professor of Battle Magic that Hogwarts ever had",
+      "target_excerpt": "Giáo sư Phòng Thủ Tốt nhất mà Hogwarts từng có.",
+      "description": "\"Professor of Battle Magic\" is rendered \"Giáo sư Phòng Thủ\" (Defence Professor), dropping the distinct \"Battle Magic\" subject term used in the source.",
+      "suggested_fix": "Giáo sư Pháp Thuật Chiến Đấu giỏi nhất mà Hogwarts từng có.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 43",
+      "source_excerpt": "not a different place but a better person",
+      "target_excerpt": "không phải một nơi nào khác nhưng một người tốt hơn",
+      "description": "The construction \"không phải X nhưng Y\" is a calque of \"not X but Y\"; natural Vietnamese requires \"mà là\".",
+      "suggested_fix": "không phải một nơi nào khác mà là một người tốt hơn",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is faithfully and completely translated with the correct title, but has a recurring key-term error (\"Dark Lord\" rendered \"Tối Thượng\" instead of \"Hắc Ám\"), Patronus/Blood-Cooling \"Charm\" mislabeled as \"Lời Nguyền\", \"Headmistress\" left in English, plus several minor machine-translation calques."
+}

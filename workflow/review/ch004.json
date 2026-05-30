@@ -1,0 +1,37 @@
+{
+  "chapter": 4,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 53",
+      "source_excerpt": "And I suspect, Mr Potter, that if I leave you alone for two months with your schoolbooks",
+      "target_excerpt": "Và ta nghi ngờ rằng, Trò Potter ạ, nếu ta để trò một mình trong hai tháng với những cuốn sách giáo khoa đó",
+      "description": "Here 'I suspect' means McGonagall conjectures/expects the disastrous outcome. In Vietnamese 'nghi ngờ rằng' carries the sense of 'I doubt that', which can reverse the intended meaning (she expects the disaster to happen, she does not doubt it).",
+      "suggested_fix": "Và ta đoán rằng, Trò Potter ạ, nếu ta để trò một mình trong hai tháng với những cuốn sách giáo khoa đó",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 6",
+      "source_excerpt": "was watching Harry with a bemused expression",
+      "target_excerpt": "đang quan sát Harry với vẻ mặt kinh ngạc",
+      "description": "'bemused' means puzzled/bewildered, not astonished. 'kinh ngạc' (astonished/amazed) overstates and changes the emotion; McGonagall is puzzled by Harry, not amazed.",
+      "suggested_fix": "đang quan sát Harry với vẻ mặt bối rối",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 54",
+      "source_excerpt": "Harry's mother and father nodded in perfect unison.",
+      "target_excerpt": "Mẹ và ba của Harry gật đầu đồng thanh hoàn hảo.",
+      "description": "'đồng thanh' collocates with speaking in one voice (sound), not with nodding. For synchronized nodding, 'nhất loạt'/'đồng loạt'/'cùng lúc' is the natural choice.",
+      "suggested_fix": "Mẹ và ba của Harry gật đầu nhất loạt một cách hoàn hảo.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Faithful, well-written translation overall; only minor nuance issues found ('nghi ngờ' for 'I suspect' risks reversing meaning, 'kinh ngạc' for 'bemused', and the 'đồng thanh' collocation for nodding)."
+}

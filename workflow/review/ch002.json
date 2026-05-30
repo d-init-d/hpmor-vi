@@ -1,0 +1,47 @@
+{
+  "chapter": 2,
+  "findings": [
+    {
+      "category": "spelling",
+      "severity": "major",
+      "location": "line 7",
+      "source_excerpt": "in every class except broomstick riding",
+      "target_excerpt": "trong mọi môn trừ bay chổng",
+      "description": "Typo: 'bay chổng' is meaningless here ('chổng' = upside-down/sticking up). 'broomstick riding' should be 'bay chổi' (flying broom).",
+      "suggested_fix": "trong mọi môn trừ bay chổi",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 13",
+      "source_excerpt": "please consider blogging it or tweeting it. A work like this only does as much good as there are people who read it.",
+      "target_excerpt": "xin hãy cân nhắc việc viết blog...",
+      "description": "The paragraph trails off with '...' and omits the rest of the source: 'or tweeting it' and the entire final sentence 'A work like this only does as much good as there are people who read it.'",
+      "suggested_fix": "xin hãy cân nhắc việc viết blog hoặc tweet về nó. Một tác phẩm như thế này chỉ mang lại lợi ích tương xứng với số người đọc nó.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "who didn't know what a logarithm was",
+      "target_excerpt": "vì không biết logarithm là gì",
+      "description": "The English word 'logarithm' is left untranslated in Vietnamese prose; the standard Vietnamese term is 'logarit'.",
+      "suggested_fix": "vì không biết logarit là gì",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 11",
+      "source_excerpt": "What warm!Harry thinks is often meant as a good pattern to follow",
+      "target_excerpt": "Những gì Harry suy nghĩ thường được xem như một khuôn mẫu tốt để noi theo",
+      "description": "The 'warm!' qualifier on 'warm!Harry' is dropped, losing the deliberate contrast the author draws with the 'less warm characters' mentioned later in the same passage.",
+      "suggested_fix": "Những gì Harry-phiên-bản-ấm-áp suy nghĩ thường được xem như một khuôn mẫu tốt để noi theo",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Generally faithful translation with two solid defects (the 'bay chổng' typo for 'bay chổi' and a truncated final paragraph that drops the closing sentence) plus two minor/uncertain issues (untranslated 'logarithm' and the dropped 'warm!' qualifier)."
+}

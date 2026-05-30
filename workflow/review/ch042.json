@@ -1,0 +1,87 @@
+{
+  "chapter": 42,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "line 26",
+      "source_excerpt": "but I don't think he actually had a mental model of himself continuing forever in the afterlife",
+      "target_excerpt": "nhưng tôi nghĩ rằng anh ấy thực sự có một mô hình tinh thần về việc mình sẽ tiếp tục mãi mãi ở thế giới bên kia...",
+      "description": "Reversed negation. The source says Harry does NOT think Dumbledore had a mental model of continuing in the afterlife; the target drops the negation and asserts he DID have one ('tôi nghĩ rằng anh ấy thực sự có'), inverting the intended meaning.",
+      "suggested_fix": "nhưng tôi không nghĩ rằng ông ấy thực sự có một mô hình tinh thần về việc mình sẽ tiếp tục tồn tại mãi mãi ở thế giới bên kia...",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 43",
+      "source_excerpt": "Magic is loose in the world, and I no longer trust my guesses so much as I once did.",
+      "target_excerpt": "Phép thuật không còn tồn tại trên thế giới và tôi không còn tin tưởng vào những suy đoán của mình nhiều như trước nữa.",
+      "description": "'Magic is loose in the world' means magic is at large / unleashed / unpredictable in the world. The target renders it as 'Phép thuật không còn tồn tại trên thế giới' (magic no longer exists in the world), which contradicts the source and undermines Harry's point about no longer trusting his guesses.",
+      "suggested_fix": "Phép thuật đang hoành hành tự do trong thế giới, và tôi không còn tin tưởng vào những suy đoán của mình nhiều như trước nữa.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 28",
+      "source_excerpt": "It is that he never had them from the beginning.",
+      "target_excerpt": "Mà là ông ấy chưa bao giờ tuân theo chúng ngay từ đầu.",
+      "description": "Source says Dumbledore never HAD principles to begin with ('never had them'). Target says he never FOLLOWED them ('chưa bao giờ tuân theo chúng'), softening the point: the original claim is that he had no principles at all, not merely that he failed to follow them.",
+      "suggested_fix": "Mà là ngay từ đầu ông ấy chưa bao giờ có chúng.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 34",
+      "source_excerpt": "I mean, besides Avada Kedavra.",
+      "target_excerpt": "Ý tôi là,ngoài Avada Kedavra.",
+      "description": "Missing space after the comma ('là,ngoài').",
+      "suggested_fix": "Ý tôi là, ngoài Avada Kedavra.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 43",
+      "source_excerpt": "without any wishful thinking, do you believe there's an afterlife?",
+      "target_excerpt": "không có bất kỳ mơ tưởng viển vông nào,bạn có tin rằng có thế giới bên kia không?",
+      "description": "Missing space after the comma ('nào,bạn').",
+      "suggested_fix": "không có bất kỳ mơ tưởng viển vông nào, bạn có tin rằng có thế giới bên kia không?",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 26",
+      "source_excerpt": "He asked me what I could possibly do with eternity",
+      "target_excerpt": "Anh ấy hỏi tôi có thể làm gì với sự vĩnh cửu",
+      "description": "Dumbledore (an elderly Headmaster) is referred to as 'anh ấy' (young male peer) here, while elsewhere the chapter correctly uses 'cụ Dumbledore' / 'ông'. The register is inconsistent and inappropriate for the character.",
+      "suggested_fix": "Ông ấy hỏi tôi có thể làm gì với sự vĩnh cửu",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 8 (and throughout)",
+      "source_excerpt": "you should not have told the Headmaster about your conversation with Lord Malfoy",
+      "target_excerpt": "bạn không nên kể với Hiệu trưởng về cuộc trò chuyện của bạn với Ngài Malfoy",
+      "description": "Inconsistent second-person address: Quirrell alternates between 'bạn' (line 8, 25) and 'cậu' (line 8 end 'cậu Potter', line 10, 17, 19). Should consistently use 'cậu' for the teacher-to-student register.",
+      "suggested_fix": "cậu không nên kể với Hiệu trưởng về cuộc trò chuyện của cậu với Ngài Malfoy",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 2",
+      "source_excerpt": "the exactly correct way that Professor Quirrell had needed to demonstrate three times",
+      "target_excerpt": "theo đúng cách mà Giáo sư Quirrell cần phải chứng minh ba lần",
+      "description": "'demonstrate' here means to show/model how to hold the cup, not 'prove'. 'chứng minh' (to prove) is a mistranslation of the contextual sense.",
+      "suggested_fix": "theo đúng cách mà Giáo sư Quirrell đã phải làm mẫu ba lần",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful but contains one critical reversed-negation error (line 26) and one major mistranslation of 'Magic is loose in the world' (line 43), plus several minor spacing, pronoun-register, and word-choice issues."
+}

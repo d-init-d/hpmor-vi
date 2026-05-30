@@ -1,0 +1,57 @@
+{
+  "chapter": 7,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 66",
+      "source_excerpt": "And for you, I'd guess House Hufflepuff, or possibly House Elf.",
+      "target_excerpt": "Còn bạn, ta đoán là Nhà Hufflepuff, hoặc có thể là Nhà Gryffindor.",
+      "description": "Draco's insulting jab 'House Elf' (suggesting Harry belongs with the house-elves/servants) was mistranslated as 'Nhà Gryffindor'. The wordplay and the insult are entirely lost, and the rendered house is simply wrong.",
+      "suggested_fix": "Còn bạn, ta đoán là Nhà Hufflepuff, hoặc có thể là Nhà Gia Tinh.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 85",
+      "source_excerpt": "One hand gripping a silver-handled cane",
+      "target_excerpt": "Một tay nắm chặt cây gậy chống có tay cầu bằng bạc",
+      "description": "'tay cầu' is a typo; the correct word for 'handle' is 'tay cầm'.",
+      "suggested_fix": "Một tay nắm chặt cây gậy chống có tay cầm bằng bạc",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "it had a Widening Lip as well as an Undetectable Extension Charm",
+      "target_excerpt": "nó có Miệng Túi Mở Rộng cùng với bùa Nới Rộng Không Giới Hạn",
+      "description": "'Undetectable Extension Charm' was mistranslated as 'bùa Nới Rộng Không Giới Hạn' (unlimited extension). The meaning 'Undetectable' is lost and replaced with 'unlimited', which also clashes with the following clause stating the total volume is still limited.",
+      "suggested_fix": "nó có Miệng Túi Mở Rộng cùng với bùa Mở Rộng Bất Khả Phát Hiện",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 66",
+      "source_excerpt": "I'm bound for Slytherin House, of course, like my father Lucius before me.",
+      "target_excerpt": "Ta chắc chắn sẽ vào Nhà Slytherin, dĩ nhiên rồi, giống như ba của ta trước đây.",
+      "description": "The character name 'Lucius' in 'my father Lucius' is dropped; the target only says 'ba của ta' (my father).",
+      "suggested_fix": "Ta chắc chắn sẽ vào Nhà Slytherin, dĩ nhiên rồi, giống như cha ta là Lucius trước đây.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 36",
+      "source_excerpt": "I would suppose it had something to do with, as the saying goes, contingent environmental circumstances.",
+      "target_excerpt": "nhưng con đoán nó có liên quan đến hoàn cảnh môi trường ngẫu nhiên nào đó",
+      "description": "The interjected phrase 'as the saying goes' is omitted in the target.",
+      "suggested_fix": "nhưng con đoán nó có liên quan đến, như người ta vẫn nói, hoàn cảnh môi trường ngẫu nhiên nào đó",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Solid, fluent translation overall, but one clear major distortion ('House Elf' rendered as 'Nhà Gryffindor'), a spelling typo ('tay cầu'), a mistranslated charm name, and two minor omissions."
+}

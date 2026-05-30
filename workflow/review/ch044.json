@@ -1,0 +1,77 @@
+{
+  "chapter": 44,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 2",
+      "source_excerpt": "\"Romantic?\" Hermione said.",
+      "target_excerpt": "\"Romantic?\" Hermione nói.",
+      "description": "The opening dialogue word 'Romantic?' is left in English instead of being translated.",
+      "suggested_fix": "\"Lãng mạn?\" Hermione nói.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 56",
+      "source_excerpt": "tried to summon Mr Potter to their own, particular arms",
+      "target_excerpt": "Một số cô gái đã cố gắng triệu tập Mr Potter đến vòng tay đặc biệt của họ.",
+      "description": "English honorific 'Mr Potter' left untranslated; the rest of the chapter translates the title (ông/thầy/cậu).",
+      "suggested_fix": "Một số cô gái đã cố gắng triệu tập cậu Potter đến vòng tay đặc biệt của họ.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 66",
+      "source_excerpt": "the only non-Hufflepuff who worried about bothering house elves",
+      "target_excerpt": "Hermione là người duy nhất không phải Hufflepuff lo lắng về việc làm phiền các yêu tinh trong nhà",
+      "description": "'house elves' is rendered as 'yêu tinh trong nhà' here, inconsistent with 'gia tinh' used three other times in the same paragraph.",
+      "suggested_fix": "Hermione là người duy nhất không phải Hufflepuff lo lắng về việc làm phiền các gia tinh",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 83",
+      "source_excerpt": "Something about Harry's voice must have reached the man, because he stopped in mid-sentence.",
+      "target_excerpt": "Có điều gì đó trong giọng nói của Harry, bởi vì anh ta dừng lại giữa câu.",
+      "description": "The clause 'must have reached the man' is dropped, leaving the causal link incomplete.",
+      "suggested_fix": "Hẳn có điều gì đó trong giọng nói của Harry đã chạm đến người đàn ông, bởi vì anh ta dừng lại giữa câu.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "Harry had heard of humility, but he'd never seen the real thing before",
+      "target_excerpt": "nhưng trước đây anh ấy chưa bao giờ nhìn thấy sự thật đó",
+      "description": "'the real thing' (genuine humility) is mistranslated as 'sự thật đó' (that truth), changing the meaning.",
+      "suggested_fix": "nhưng trước đây anh ấy chưa bao giờ thấy thứ thật sự đó",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "shabby was the word that came to mind",
+      "target_excerpt": "tồi tàn là từ hiện lên trong đầu tôi",
+      "description": "A stray first-person 'tôi' is inserted into third-person narration; 'came to mind' refers to Harry's perception, not a narrator 'I'.",
+      "suggested_fix": "tồi tàn là từ hiện lên trong tâm trí Harry",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 58",
+      "source_excerpt": "Had I not insisted that there be more than one adult witness to this little event",
+      "target_excerpt": "Nếu tôi không nhấn mạnh rằng có nhiều hơn một người lớn nhân chứng cho sự kiện nhỏ này",
+      "description": "Calque 'một người lớn nhân chứng' is unnatural Vietnamese word order for 'an adult witness'.",
+      "suggested_fix": "Nếu tôi không nhấn mạnh rằng phải có hơn một người lớn làm nhân chứng cho sự kiện nhỏ này",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Largely faithful translation with a correctly translated title; defects are all minor: two stray untranslated English fragments ('Romantic?', 'Mr Potter'), a house-elf terminology inconsistency, one small omission, a 'the real thing' mistranslation plus a stray first-person pronoun, and one awkward calque."
+}

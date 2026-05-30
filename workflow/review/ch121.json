@@ -1,0 +1,117 @@
+{
+  "chapter": 121,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 53",
+      "source_excerpt": "The Dark Lord will return, and he'll, he'll teach you all the meaning of—",
+      "target_excerpt": "Chúa Tể Tối Thượng sẽ trở lại, và hắn sẽ, hắn sẽ dạy các ngươi ý nghĩa của—",
+      "description": "\"Dark Lord\" is mistranslated as \"Chúa Tể Tối Thượng\" (Supreme Lord). The approved term for Dark Lord is \"Hắc Ám\", never \"Tối Thượng\".",
+      "suggested_fix": "Chúa Tể Hắc Ám sẽ trở lại, và hắn sẽ, hắn sẽ dạy các ngươi ý nghĩa của—",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 55",
+      "source_excerpt": "Robert. The Dark Lord killed your father.",
+      "target_excerpt": "Robert. Chúa Tể Tối Thượng đã giết cha của ngươi.",
+      "description": "\"Dark Lord\" mistranslated as \"Chúa Tể Tối Thượng\" instead of the approved \"Chúa Tể Hắc Ám\".",
+      "suggested_fix": "Robert. Chúa Tể Hắc Ám đã giết cha của ngươi.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 63",
+      "source_excerpt": "that they had already chosen to take the Dark Mark",
+      "target_excerpt": "rằng họ đã chọn lấy Dấu Tối Thượng",
+      "description": "\"Dark Mark\" mistranslated as \"Dấu Tối Thượng\" instead of the approved \"Dấu Hắc Ám\".",
+      "suggested_fix": "rằng họ đã chọn lấy Dấu Hắc Ám",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 55",
+      "source_excerpt": "it didn't sound like the Potions Master at all",
+      "target_excerpt": "nó không giống như Potions Master chút nào",
+      "description": "The role/title \"Potions Master\" (referring to Snape) is left untranslated in the Vietnamese prose.",
+      "suggested_fix": "nó không giống Giáo sư Độc Dược chút nào",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 63",
+      "source_excerpt": "Harry had read his father's science-fiction and fantasy collection",
+      "target_excerpt": "bộ sưu tập khoa học viễn tưởng và fantasy của cha anh",
+      "description": "The English word \"fantasy\" is left untranslated in Vietnamese prose.",
+      "suggested_fix": "bộ sưu tập khoa học viễn tưởng và giả tưởng của cha anh",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 73",
+      "source_excerpt": "Should you end up a ward of Hogwarts",
+      "target_excerpt": "Nếu các ngươi kết thúc là Ward của Hogwarts",
+      "description": "The English word \"Ward\" (a person under guardianship) is left untranslated.",
+      "suggested_fix": "Nếu các ngươi trở thành người được Hogwarts giám hộ",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 65",
+      "source_excerpt": "Nobody with common sense would blame Harry for doing it",
+      "target_excerpt": "Không ai có ý chí thông thường sẽ đổ lỗi Harry cho việc làm điều đó",
+      "description": "\"common sense\" is mistranslated as \"ý chí thông thường\" (common will). It should be \"lẽ thường\" / \"đầu óc bình thường\".",
+      "suggested_fix": "Không ai có lẽ thường lại đổ lỗi cho Harry vì đã làm điều đó",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 43",
+      "source_excerpt": "Sheila, Flora, and Hestia Carrow",
+      "target_excerpt": "Shiela, Flora, và Hestia Carrow mất cả cha mẹ đêm qua.",
+      "description": "The name \"Sheila\" is misspelled as \"Shiela\".",
+      "suggested_fix": "Sheila, Flora, và Hestia Carrow mất cả cha mẹ đêm qua.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 7",
+      "source_excerpt": "Her grey-brown-blonde hair was done up in a coiled braid",
+      "target_excerpt": "Tóc nâu-xám-blond của cô được búi lên thành búi xoắn",
+      "description": "The color word \"blond\" is left in English within Vietnamese prose.",
+      "suggested_fix": "Tóc nâu-xám-vàng của cô được búi lên thành búi xoắn",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 69",
+      "source_excerpt": "or cause objections from goblins who didn't understand market monetarist economics",
+      "target_excerpt": "gây ra phản đối từ goblins những người không hiểu kinh tế tiền tệ",
+      "description": "\"goblins\" left untranslated; the glossary term is \"yêu tinh\".",
+      "suggested_fix": "gây ra phản đối từ những yêu tinh không hiểu kinh tế tiền tệ thị trường",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 27",
+      "source_excerpt": "she appears to be doing astonishingly well considering her previous condition",
+      "target_excerpt": "nhưng cô ấy dường như đang làm đáng ngạc nhiên tốt xem xét tình trạng trước đó của cô ấy.",
+      "description": "Literal machine-translated calque; \"đang làm đáng ngạc nhiên tốt xem xét\" is unnatural Vietnamese.",
+      "suggested_fix": "nhưng cô ấy dường như đang hồi phục tốt một cách đáng kinh ngạc so với tình trạng trước đó.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful but contains several genuine defects, most notably the systematic mistranslation of \"Dark Lord/Dark Mark\" as \"Tối Thượng\" instead of \"Hắc Ám\", plus untranslated English words (Potions Master, fantasy, Ward, goblins) and a \"common sense\" distortion."
+}

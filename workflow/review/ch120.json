@@ -1,0 +1,58 @@
+{
+  "chapter": "120",
+  "source_file": "hpmor-vn/source/ch120.txt",
+  "target_file": "hpmor-vi/text/chapters/ch120-vn.txt",
+  "qa_review": {
+    "translation_quality": {
+      "overall": "medium",
+      "summary": "Translation is solid but leaves English title 'Golden Age of Quidditch' untranslated. 'Kẻ cuồng tín máu thuần chủng' for 'blood purists' is a semantic error — 'cuồng tín' means 'fanatic' not 'purist'. Some English terms retained.",
+      "findings": [
+        {
+          "severity": "minor",
+          "category": "completeness",
+          "location": "ch120-vn.txt",
+          "description": "English title left untranslated",
+          "source_excerpt": "Golden Age of Quidditch",
+          "target_excerpt": "Golden Age of Quidditch",
+          "issue": "Chapter section title remains in English instead of Vietnamese.",
+          "suggested_fix": "Translate to 'Kỷ Nguyên Vàng của Quidditch' or similar."
+        },
+        {
+          "severity": "minor",
+          "category": "accuracy",
+          "location": "ch120-vn.txt",
+          "description": "Semantic error in 'blood purists' translation",
+          "source_excerpt": "blood purists",
+          "target_excerpt": "kẻ cuồng tín máu thuần chủng",
+          "issue": "'Cuồng tín' means 'fanatic' — 'purists' implies someone who believes in racial purity (blood purity) but is not necessarily a fanatic. The translation over-translates the intensity.",
+          "suggested_fix": "Consider 'kẻ theo chủng thuần' or 'những kẻ bảo thủ máu' to better capture 'purist' without the fanatic connotation."
+        },
+        {
+          "severity": "info",
+          "category": "style",
+          "location": "ch120-vn.txt",
+          "description": "English terms retained",
+          "source_excerpt": "English organizational name",
+          "target_excerpt": "English org name retained",
+          "issue": "Some English terms/organization names remain in English. May be intentional for proper nouns.",
+          "suggested_fix": "Verify if retention is intentional or needs translation per glossary."
+        }
+      ]
+    },
+    "accuracy": {
+      "overall": "good",
+      "findings": []
+    },
+    "consistency": {
+      "overall": "good",
+      "findings": []
+    },
+    "grammar_style": {
+      "overall": "good",
+      "findings": []
+    }
+  },
+  "notes": "Overall good quality with a few polish issues. The 'blood purists' translation is the main accuracy concern.",
+  "files_written_count": 3,
+  "batch_total": 5
+}

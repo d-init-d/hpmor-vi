@@ -1,0 +1,6 @@
+{
+  "chapter": 20,
+  "findings": [],
+  "clean": true,
+  "summary": "Detailed line-by-line source-target comparison performed. E.Y. header properly localized. All dialogue translated and natural. Key characters (Harry, Hermione, Snape, Draco) properly rendered. Word count ratio 1.276 (9,375 EN words to 11,961 VI words) consistent with normal EN→VI expansion. No omission, mistranslation, untranslated English, MT artifacts, or terminology issues found."
+}

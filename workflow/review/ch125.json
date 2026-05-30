@@ -1,0 +1,87 @@
+{
+  "chapter": 125,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "lines 7, 9, 13, 23, 35, 39, 41, 43, 53, 57, 67 (recurring)",
+      "source_excerpt": "I resign my position as the Potions Master of Hogwarts",
+      "target_excerpt": "Tôi xin từ chức vị trí Pháp sư Phòng Thí nghiệm của Hogwarts",
+      "description": "\"Potions Master\" is mistranslated throughout the chapter as \"Pháp sư Phòng Thí nghiệm\" (Laboratory Wizard). The brief explicitly requires this to mean the Potions teacher (môn Độc Dược), NOT \"phòng thí nghiệm\". This error recurs on nearly every occurrence of Snape's title.",
+      "suggested_fix": "Tôi xin từ chức vị trí Giáo sư Độc Dược của Hogwarts (replace all \"Pháp sư Phòng Thí nghiệm\" with \"Giáo sư Độc Dược\")",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 45",
+      "source_excerpt": "The Dark Mark upon my arm is not dead",
+      "target_excerpt": "Dấu ấn Tối thượng trên cánh tay tôi không chết",
+      "description": "\"Dark Mark\" is rendered as \"Dấu ấn Tối thượng\". The brief requires Dark Mark/Dark Lord to be translated as \"Hắc Ám\", NOT \"Tối Thượng\". Note that \"Dark Lord\" in the same line is correctly rendered \"Chúa tể Hắc ám\", making the inconsistency clear.",
+      "suggested_fix": "Dấu Ấn Hắc Ám trên cánh tay tôi không chết",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 13",
+      "source_excerpt": "Professors sharp enough to keep Slytherin House in any semblance of order",
+      "target_excerpt": "những Giáo sư đủ sắc bén để duy trì Slytherin House theo bất kỳ hình thức nào đàng hoàng",
+      "description": "\"Slytherin House\" left with the English word \"House\". Glossary requires \"X House\" -> \"Nhà X\".",
+      "suggested_fix": "những Giáo sư đủ sắc bén để duy trì Nhà Slytherin theo bất kỳ hình thức nào đàng hoàng",
+      "verdict": "real"
+    },
+    {
+      "category": "heading-title",
+      "severity": "major",
+      "location": "line 1",
+      "source_excerpt": "122. Something to Protect: Severus Snape",
+      "target_excerpt": "122. Something to Protect: Severus Snape",
+      "description": "Chapter heading left fully untranslated. The style sheet requires translating chapter titles while keeping the number and character names.",
+      "suggested_fix": "122. Điều Cần Bảo Vệ: Severus Snape",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 37",
+      "source_excerpt": "More than one bar lay between myself and Lily",
+      "target_excerpt": "Nhiều lần những rào cản nằm giữa tôi và Lily",
+      "description": "\"More than one bar\" (more than one barrier) is mistranslated as \"Nhiều lần những rào cản\" (\"many times the barriers\"), which changes the meaning and is ungrammatical. The sense is that several barriers, not just one, stood between him and Lily.",
+      "suggested_fix": "Không chỉ một rào cản nằm giữa tôi và Lily",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "lines 25, 33",
+      "source_excerpt": "It is well to find you here, Mr Potter",
+      "target_excerpt": "Thật tốt khi gặp anh ở đây, Mr Potter",
+      "description": "The English honorific \"Mr\" is left in the Vietnamese prose. It appears again on line 33 (\"Lily là một phù thủy đức hạnh đáng kính, Mr Potter\").",
+      "suggested_fix": "Thật tốt khi gặp anh ở đây, cậu Potter",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 31",
+      "source_excerpt": "\"I know,\" Harry said, through the thickness of his throat.",
+      "target_excerpt": "\"Tôi biết,\" Harry nói, qua cái kịch cổ họng của mình.",
+      "description": "\"through the thickness of his throat\" rendered as \"qua cái kịch cổ họng của mình\", which is an unnatural, machine-translated calque (\"cái kịch\" is meaningless here).",
+      "suggested_fix": "\"Tôi biết,\" Harry nói, qua cổ họng nghẹn lại.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 51, 53",
+      "source_excerpt": "the Order of the Phœnix owes you for services rendered",
+      "target_excerpt": "Hội Phượng hoàng nợ anh vì những dịch vụ đã cung cấp",
+      "description": "\"services rendered\" is translated as \"những dịch vụ đã cung cấp\" (commercial \"services\"), an unnatural calque. The same calque \"dịch vụ\" reappears on line 53 (\"dịch vụ của tôi với Hội Phượng hoàng\").",
+      "suggested_fix": "Hội Phượng hoàng nợ anh vì những cống hiến của anh",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "The chapter is readable but carries a critical recurring mistranslation of \"Potions Master\" as \"Pháp sư Phòng Thí nghiệm\", plus an untranslated heading, \"Dark Mark\" rendered as \"Tối thượng\" instead of \"Hắc Ám\", an untranslated \"Slytherin House\", and several minor MT-awkwardness issues."
+}

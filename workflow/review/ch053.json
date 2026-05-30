@@ -1,0 +1,107 @@
+{
+  "chapter": 53,
+  "findings": [
+    {
+      "category": "duplication",
+      "severity": "major",
+      "location": "line 85",
+      "source_excerpt": "to anyone who asks about it, be they foe or closest friend. You will lie to Malfoy, to Granger, and to McGonagall.",
+      "target_excerpt": "với bất kỳ ai hỏi về điều đó, dù là họ hay bạn thân nhất. Bạn sẽ nói dối với bất kỳ ai hỏi về điều đó, dù là họ hay bạn thân nhất. Malfoy, với Granger, và với McGonagall.",
+      "description": "The clause 'với bất kỳ ai hỏi về điều đó, dù là họ hay bạn thân nhất' is accidentally repeated, and the source sentence 'You will lie to Malfoy, to Granger, and to McGonagall' is corrupted: the verb phrase was duplicated from the prior clause, leaving 'Malfoy, với Granger, và với McGonagall' orphaned without its 'Cậu sẽ nói dối với Malfoy'.",
+      "suggested_fix": "với bất kỳ ai hỏi về điều đó, dù là họ hay bạn thân nhất. Cậu sẽ nói dối với Malfoy, với Granger, và với McGonagall.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 104",
+      "source_excerpt": "if you have the time for torture, and Legilimency, and rituals of which I will not speak",
+      "target_excerpt": "nếu bạn có thời gian để tra tấn, tính hợp pháp và những nghi lễ mà tôi sẽ không nói đến.",
+      "description": "'Legilimency' (the mind-reading art) was mistranslated as 'tính hợp pháp' (legality/legitimacy), apparently confusing 'Legilimency' with 'legality'. The list should be torture, Legilimency, and rituals.",
+      "suggested_fix": "nếu bạn có thời gian để tra tấn, Nhiếp Hồn Thuật và những nghi lễ mà tôi sẽ không nói đến.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 24",
+      "source_excerpt": "Professor Quirrell had also seen Harry taught Occlumency, he had taught Harry how to lose",
+      "target_excerpt": "Nhưng rồi Giáo sư Quirrell cũng đã thấy Harry dạy Bế quan Bí thuật, ông ấy đã dạy Harry cách thua…",
+      "description": "Reversed agency: the source means Quirrell saw Harry BE taught Occlumency (Harry is the recipient). The target 'Harry dạy Bế quan Bí thuật' says Harry TEACHES Occlumency, inverting who teaches whom. This breaks the point that Quirrell strengthened Harry.",
+      "suggested_fix": "Nhưng rồi Giáo sư Quirrell cũng đã thấy Harry được dạy Bế quan Bí thuật, ông ấy đã dạy Harry cách thua…",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 99",
+      "source_excerpt": "Professor Quirrell's voice was very quiet.",
+      "target_excerpt": "Giáọng của Giáo sư Quirrell rất nhỏ.",
+      "description": "Typo: 'Giáọng' has a stray extra vowel/tone mark. The word should be 'Giọng'.",
+      "suggested_fix": "Giọng của Giáo sư Quirrell rất nhỏ.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 30",
+      "source_excerpt": "Beside him, Professor Quirrell, now in human form again, was eating his soup placidly",
+      "target_excerpt": "Bên cạnh ông, Giáo sư Quirrell, giờ đã trở lại hình dạng con người, đang bình tĩnh ăn món súp của mình",
+      "description": "'Beside him' refers to Harry, but the pronoun 'ông' (an honorific for an older man) reads as referring to Quirrell himself, and is wrong for the boy Harry, who is addressed as 'cậu' throughout.",
+      "suggested_fix": "Bên cạnh cậu, Giáo sư Quirrell, giờ đã trở lại hình dạng con người, đang bình tĩnh ăn món súp của mình",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 109",
+      "source_excerpt": "So much for not telling you the name until after you had accepted the mission.",
+      "target_excerpt": "Quá nhiều vì đã không nói cho cậu biết tên cho đến khi cậu chấp nhận nhiệm vụ.",
+      "description": "Calque of the idiom 'So much for ...'. 'Quá nhiều vì' is not idiomatic Vietnamese and loses the meaning ('Thế là hỏng kế hoạch không nói tên...').",
+      "suggested_fix": "Thế là tiêu kế hoạch không nói tên cho cậu biết cho đến khi cậu chấp nhận nhiệm vụ.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 97",
+      "source_excerpt": "The Dementors don't like their meals being taken away from them",
+      "target_excerpt": "Bọn Dementor không thích bữa ăn của họ bị lấy mất.",
+      "description": "The English creature name 'Dementor' is left untranslated here, while the rest of the chapter consistently uses 'Giám ngục' (including later in the same line: 'Có hơn một trăm Giám ngục ở đó').",
+      "suggested_fix": "Bọn Giám ngục không thích bữa ăn của chúng bị lấy mất.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 82",
+      "source_excerpt": "Risks bother me and the stakes would need to be commensurate",
+      "target_excerpt": "Rủi ro khiến tôi khó chịu và số tiền đặt cược cần phải tương xứng",
+      "description": "'the stakes' here means what is at stake / the payoff, not gambling money. 'số tiền đặt cược' (the betting amount) introduces a money/gambling meaning not in the source.",
+      "suggested_fix": "Rủi ro khiến tôi khó chịu và những gì đặt cược (lợi ích đạt được) cần phải tương xứng",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 6",
+      "source_excerpt": "Harry had kept the emergency flares and the oxyacetylene welding torch and fuel tank",
+      "target_excerpt": "Harry đã giữ lại ngọn lửa khẩn cấp, mỏ hàn oxyacetylene và bình nhiên liệu",
+      "description": "'emergency flares' (pháo sáng/pháo hiệu) was rendered as 'ngọn lửa khẩn cấp' (emergency flame), losing the meaning of signal flares as physical objects he keeps in the pouch.",
+      "suggested_fix": "Harry đã giữ lại pháo sáng khẩn cấp, mỏ hàn oxyacetylene và bình nhiên liệu",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 71, 75, 81",
+      "source_excerpt": "I have an important question to ask you / Do you understand why I ask? / Mr Potter",
+      "target_excerpt": "tôi có một câu hỏi quan trọng muốn hỏi bạn.",
+      "description": "Inconsistent address: Quirrell alternates between 'bạn' (line 71 'hỏi bạn', line 75 'Bạn có hiểu') and 'cậu/cậu Potter' (line 81) for Harry within the same conversation, a typical machine-translation register inconsistency.",
+      "suggested_fix": "tôi có một câu hỏi quan trọng muốn hỏi cậu. (giữ nhất quán 'cậu' xuyên suốt lời thoại của Quirrell)",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful but contains two major defects (a duplicated/corrupted 'lie to Malfoy, Granger, McGonagall' sentence and 'Legilimency' mistranslated as 'tính hợp pháp'), a reversed Occlumency clause, a 'Giáọng' typo, and several minor pronoun/idiom/terminology issues."
+}

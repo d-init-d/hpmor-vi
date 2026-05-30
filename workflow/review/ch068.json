@@ -1,0 +1,117 @@
+{
+  "chapter": 68,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 33",
+      "source_excerpt": "Of coursse not! But know what they would ssay.",
+      "target_excerpt": "\"Of course không!\" nhưng biết họ sẽ nói gì.",
+      "description": "The English phrase \"Of course\" was left untranslated inside the Vietnamese dialogue.",
+      "suggested_fix": "\"Tất nhiên là không! Nhưng biết họ sẽ nói gì.\"",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 65",
+      "source_excerpt": "Sunshine Soldier Abbott!",
+      "target_excerpt": "\"Đội trưởng Abbott xếp đặt!\"",
+      "description": "Hermione addresses Hannah by her army rank \"Sunshine Soldier\" (a soldier of the Sunshine Regiment). The target mistranslates it as \"Đội trưởng\" (Captain) and adds the nonsense word \"xếp đặt\" (arrange/set up), dropping \"Sunshine/Ánh Dương\" entirely.",
+      "suggested_fix": "\"Binh sĩ Ánh Dương Abbott!\"",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 73",
+      "source_excerpt": "The Sunshine General gave her soldier a look.",
+      "target_excerpt": "Đội trưởng Ánh Dương liếc cô gái một cái.",
+      "description": "\"Sunshine General\" is rendered \"Đội trưởng Ánh Dương\" (Captain Sunshine). \"General\" should be \"Tướng/Đại tướng\" for consistency with line 61/67 (\"đại tướng\", \"Đại tướng Diggory\"). \"her soldier\" was also flattened to \"cô gái\".",
+      "suggested_fix": "Đại tướng Ánh Dương nhìn binh sĩ của mình một cái.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "all that could be cast within Hogwarts without attracting the Headmaster's attention",
+      "target_excerpt": "tất cả những gì có thể được niêm phong trong Hogwarts mà không thu hút sự chú ý của Hiệu trưởng",
+      "description": "\"cast\" (to cast a spell) is mistranslated as \"niêm phong\" (to seal). It should be \"thi triển\" (to cast).",
+      "suggested_fix": "tất cả những gì có thể được thi triển trong Hogwarts mà không thu hút sự chú ý của Hiệu trưởng",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 9",
+      "source_excerpt": "They were warded now by twenty-two spells",
+      "target_excerpt": "Chúng được bảo vệ bằng hai mươi hai lời nguyền",
+      "description": "\"spells\" is translated as \"lời nguyền\" (curses). Generic spells should be \"bùa chú\"/\"thần chú\"; \"lời nguyền\" specifically means curses.",
+      "suggested_fix": "Chúng được bảo vệ bằng hai mươi hai bùa chú",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 93",
+      "source_excerpt": "Harry Potter was going down.",
+      "target_excerpt": "Harry Potter đang ngã xuống.",
+      "description": "Idiom \"was going down\" means he was going to be defeated/lose (Hermione's resolve), not literally falling. The literal \"đang ngã xuống\" (is falling down) loses the meaning.",
+      "suggested_fix": "Harry Potter sẽ phải gục ngã.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "Did some plans call for waiting? Yes, many plans called for delayed action",
+      "target_excerpt": "Một số kế hoạch có gọi cho việc chờ đợi? Có, nhiều kế hoạch gọi cho hành động trì hoãn",
+      "description": "\"call for\" is a calque \"gọi cho\" (to phone someone). It should be \"đòi hỏi/yêu cầu\". The same calque recurs later in the paragraph (\"không có kế hoạch khôn ngoan nào gọi cho điều đó\").",
+      "suggested_fix": "Một số kế hoạch có đòi hỏi việc chờ đợi không? Có, nhiều kế hoạch đòi hỏi hành động trì hoãn",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 87",
+      "source_excerpt": "That's crazy, what about Lethifolds lurking in the darkness",
+      "target_excerpt": "Đó là điên, thì là cái gì về những thứ như Lethifold ẩn trong bóng tối",
+      "description": "Calque translation: \"That's crazy\" -> \"Đó là điên\" (should be \"Thật điên rồ\"); \"what about\" -> \"thì là cái gì về\" (should be \"thế còn...thì sao\").",
+      "suggested_fix": "Thật điên rồ, thế còn những thứ như Lethifold ẩn trong bóng tối",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 49",
+      "source_excerpt": "Ssuch ass you and I, we do not tolerate imprissonment.",
+      "target_excerpt": "Những người như ta và tôi, chúng ta không dung thứ việc giam giữ.",
+      "description": "\"you and I\" became \"ta và tôi\" (I and I/me); \"you\" (Harry) was lost. In this dialogue the snake calls itself \"ta\" and Harry \"cậu\", so it should be \"cậu và ta\".",
+      "suggested_fix": "Những người như cậu và ta, chúng ta không dung thứ việc giam giữ.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 27",
+      "source_excerpt": "but somehow the words had just slipped out.",
+      "target_excerpt": "nhưng từ nào đó đã lọt ra.",
+      "description": "\"somehow the words\" was misread; \"từ nào đó\" means \"some word\" rather than \"somehow ... the words\". Meaning of \"somehow\" is lost.",
+      "suggested_fix": "nhưng bằng cách nào đó những lời ấy cứ thế tuột ra.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 19",
+      "source_excerpt": "the sane decision was the same, either way.",
+      "target_excerpt": "quyết định hợp lý là như nhau, theo một cách.",
+      "description": "\"either way\" mistranslated as \"theo một cách\" (in one way). It should be \"dù theo cách nào\". The clause earlier in the line (\"Điều đó đúng việc ... hay không\") also drops \"bất kể/dù\".",
+      "suggested_fix": "quyết định hợp lý là như nhau, dù theo cách nào.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Generally faithful but with one untranslated English phrase (\"Of course\"), two garbled army-rank renderings (Sunshine Soldier/General), a mistranslated idiom (\"going down\"), and several machine-translation calques (\"call for\", \"what about\", \"either way\")."
+}

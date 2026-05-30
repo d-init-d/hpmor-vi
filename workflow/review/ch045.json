@@ -1,0 +1,47 @@
+{
+  "chapter": 45,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 3 (opening paragraph)",
+      "source_excerpt": "The gentle sun of January shone on the cold fields outside Hogwarts.",
+      "target_excerpt": "Tánh mặt trời dịu dàng của tháng Giêng chiếu sáng trên cánh đồng lạnh bên ngoài trường Hogwarts.",
+      "description": "Mistranslation: 'Tánh' is a garbled mojibake artifact. The phrase should translate 'gentle sun' correctly without adding 'Tánh'. The source says 'The gentle sun of January' but the target reads as if 'Tánh' is a standalone error. Additionally, 'Giêng' appears correct for 'January'.",
+      "suggested_fix": "Ánh nắng mặt trời dịu dàng của tháng Giêng chiếu sáng trên cánh đồng lạnh bên ngoài trường Hogwarts.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 3 (opening paragraph)",
+      "source_excerpt": "Harry felt... well, normal again. Sane-ish.",
+      "target_excerpt": "Harry cảm thấy... ừ, bình thường trở lại. Sane-ish.",
+      "description": "'Sane-ish' is left in English. While this is a coined phrase that is hard to translate, it should be given a Vietnamese equivalent or at minimum noted.",
+      "suggested_fix": "Harry cảm thấy... ừ, bình thường trở lại. Khá bình thường thôi. (or similar natural Vietnamese phrasing)",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "multiple locations",
+      "source_excerpt": "Patronus Charm",
+      "target_excerpt": "Chi tiêu bùa (in various places)",
+      "description": "The translation 'Chi tiêu bùa' for 'Patronus Charm' appears inconsistent and possibly incorrect. The glossary recommends keeping 'Patronus' as a Latin term. 'Chi tiêu' means 'to spend' which doesn't convey the meaning of 'Patronus' (protector). Need to verify consistency with other chapters and glossary.",
+      "suggested_fix": "Patronus (keep Latin term) or Bùa Hộ Mệnh following HPMOR community convention",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 3 (opening paragraph)",
+      "source_excerpt": "The Ministry thought this meant it was futile to try and teach anyone the spell before their fifth year.",
+      "target_excerpt": "BỘT cho rằng điều này có nghĩa là sẽ vô ích nếu cố gắng dạy cho bất kỳ ai câu thần chú trước năm thứ năm của họ.",
+      "description": "'BỘT' is a mojibake artifact. Should be 'Bộ' (Ministry). Also the translation structure is awkward - 'sẽ vô ích nếu cố gắng dạy' is too literal.",
+      "suggested_fix": "Bộ (Ministry) đã cho rằng điều này có nghĩa là việc cố gắng dạy cho bất kỳ ai câu thần chú trước năm thứ năm là vô ích.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 45 has multiple issues: (1) major mistranslation in opening line with mojibake 'Tánh', (2) 'Sane-ish' left untranslated, (3) 'Patronus Charm' translated inconsistently as 'Chi tiêu bùa', (4) general MT awkwardness throughout."
+}

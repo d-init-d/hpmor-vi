@@ -1,0 +1,13 @@
+{
+  "chapter": "091",
+  "source_file": "ch91.txt",
+  "target_file": "ch091-vn.txt",
+  "summary": {
+    "total_findings": 0,
+    "critical": 0,
+    "major": 0,
+    "minor": 0
+  },
+  "findings": [],
+  "reviewed_at": "2026-05-30"
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": 115,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 5",
+      "source_excerpt": "\"That,\" said the voice of Voldemort from behind the dirt wall, \"was absolutely predictable. Do you really think I would shout it aloud for you to hear, if my immortality were disrupted?\"",
+      "target_excerpt": "\"Ngươi nghĩ ta hét to lên cho nghe sao,\" Voldemort cất giọng từ phía sau bức tường đất, \"nếu sự bất tử của ta bị gián đoạn? Thật ngu ngốc!",
+      "description": "The clause 'That was absolutely predictable' is entirely omitted. The target jumps straight to Voldemort's rhetorical question, dropping his opening comment that Harry's assassination attempt was completely predictable.",
+      "suggested_fix": "\"Điều đó,\" Voldemort cất giọng từ phía sau bức tường đất, \"hoàn toàn có thể đoán trước được. Ngươi thực sự nghĩ ta sẽ hét to lên cho ngươi nghe sao, nếu sự bất tử của ta bị gián đoạn? Thật ngu ngốc!",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 17",
+      "source_excerpt": "Voldemort reached down, picked up Harry's pouch, fed both the diary and the parchment into it.",
+      "target_excerpt": "Voldemort đưa tay xuống, nhặt lên. Cái túi của Harry, nhét cả cuốn nhật ký và tờ giấy da vào đó.",
+      "description": "A stray period after 'nhặt lên' splits the verb from its object, producing a broken fragment ('picked up. Harry's pouch, fed...'). The pouch is what Voldemort picks up, so it should be one continuous clause.",
+      "suggested_fix": "Voldemort đưa tay xuống, nhặt cái túi của Harry lên, nhét cả cuốn nhật ký và tờ giấy da vào đó.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 7",
+      "source_excerpt": "\"You would have been disappointed in me,\" Harry said",
+      "target_excerpt": "\"Ngươi sẽ thất vọng về ta,\" Harry nói",
+      "description": "Harry refers to himself with the pronoun 'ta' here, but uses 'Tôi' for himself everywhere else in the same scene (lines 11, 15, 19, 27). The inconsistent self-pronoun within one continuous exchange is likely unintentional, though it could be read as a defiant register shift.",
+      "suggested_fix": "\"Ngươi sẽ thất vọng về tôi,\" Harry nói",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful and well-translated, with one genuine major omission ('That was absolutely predictable') plus a minor punctuation/awkwardness issue and a possible self-pronoun inconsistency."
+}

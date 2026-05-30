@@ -1,0 +1,107 @@
+{
+  "chapter": 54,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 21",
+      "source_excerpt": "Professor Quirrell had Polyjuiced into before Disillusioning himself and his broomstick",
+      "target_excerpt": "Giáo sư Quirrell đã sử dụng Đa Dịch trước khi vỡ mộng về bản thân và cây chổi của mình.",
+      "description": "\"Disillusioning himself and his broomstick\" refers to the Disillusionment Charm (making them invisible/blend in), not emotional disappointment. \"vỡ mộng\" means \"to be disillusioned/disappointed\", which reverses the meaning into a nonsensical emotional state.",
+      "suggested_fix": "...trước khi ếm Bùa Vô Hình (Disillusionment) lên bản thân và cây chổi của mình.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 27",
+      "source_excerpt": "Harry raised his wand in an equally careful grip and Imperviused his glasses.",
+      "target_excerpt": "Harry giơ cây đũa phép của mình lên một cách cẩn thận không kém và không kính.",
+      "description": "\"Imperviused his glasses\" means he cast the Impervius (waterproofing) charm on his glasses. The target renders it as \"và không kính\" (\"and no glasses\"), which is broken and drops the charm entirely. The next line (\"với cặp kính trong suốt\") confirms the charm should have been applied.",
+      "suggested_fix": "Harry giơ cây đũa phép của mình lên một cách cẩn thận không kém và ếm bùa Impervius lên cặp kính của mình.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 73",
+      "source_excerpt": "\"Cast your Patronus,\" hissed a snake from the floor",
+      "target_excerpt": "\"Hãy giao Thần hộ mệnh của bạn,\" một con rắn rít lên từ sàn nhà",
+      "description": "\"Cast your Patronus\" means to conjure/cast the Patronus spell. \"giao\" means \"hand over/deliver\", which is the wrong verb for casting a charm.",
+      "suggested_fix": "\"Hãy triệu hồi Thần hộ mệnh của ngươi,\" một con rắn rít lên từ sàn nhà",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 51",
+      "source_excerpt": "puncture a hole in the roof and its wards right at the northern tip",
+      "target_excerpt": "chọc thủng một lỗ trên mái nhà và các khu vực của nó ngay mũi phía bắc",
+      "description": "\"its wards\" refers to the protective magical enchantments on the roof, not physical \"areas/zones\". \"các khu vực của nó\" (\"its areas\") loses the magical-barrier meaning.",
+      "suggested_fix": "chọc thủng một lỗ trên mái nhà và các bùa bảo vệ của nó ngay mũi phía bắc",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 75",
+      "source_excerpt": "much less vulnerable to Dementors",
+      "target_excerpt": "ít bị tổn thương hơn trước Dementor.",
+      "description": "\"Dementor\" is left in English here while it is translated as \"Giám ngục\" consistently throughout the rest of the chapter (lines 43, 45, 53, etc.). Inconsistent terminology.",
+      "suggested_fix": "ít bị tổn thương hơn trước Giám ngục.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "it seemed time and past time to start becoming the people he had read about",
+      "target_excerpt": "đã đến lúc và quá khứ để bắt đầu trở thành những nhân vật mà cậu đã đọc trong sách",
+      "description": "\"time and past time\" is an idiom meaning \"long overdue / well past time\". \"quá khứ\" (\"the past\") is a literal calque that produces a meaningless phrase \"đã đến lúc và quá khứ\".",
+      "suggested_fix": "đã đến lúc, thậm chí là quá muộn, để bắt đầu trở thành những nhân vật mà cậu đã đọc trong sách",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 35",
+      "source_excerpt": "He lost it sometimes, that small green spark",
+      "target_excerpt": "Đôi khi nó đánh mất nó, tia lửa nhỏ màu xanh lá cây đó",
+      "description": "\"He lost it\" means Harry lost sight of the spark. \"nó đánh mất nó\" reads as \"it lost it\", making the subject (Harry) wrong and the sentence confusing.",
+      "suggested_fix": "Đôi khi Harry mất dấu nó, tia lửa nhỏ màu xanh lá cây đó",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 23 (and lines 21, 33, 43)",
+      "source_excerpt": "instead of Polyjuicing",
+      "target_excerpt": "thay vì Đa Dịch.",
+      "description": "The approved glossary maps Polyjuice -> Thuốc Biến Hình, but the chapter consistently uses \"Đa Dịch\". Note \"Đa Dịch\" is the canonical official Vietnamese HP term, so this may be a deliberate translator choice that conflicts with the project glossary.",
+      "suggested_fix": "thay vì Thuốc Biến Hình. (or align glossary to the chosen term if Đa Dịch is intentional)",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 197",
+      "source_excerpt": "willing his Patronus not to go out, to stay and protect Bellatrix",
+      "target_excerpt": "sẵn sàng Thần hộ mệnh của mình không ra ngoài, ở lại và bảo vệ Bellatrix khỏi bọn Giám ngục",
+      "description": "\"willing his Patronus not to go out\" means commanding by will that the Patronus not extinguish. \"sẵn sàng\" (\"ready/willing-adjective\") and \"không ra ngoài\" (\"not go outside\") are both wrong: \"go out\" here = tắt (extinguish). Also the internal monologue switches first-person pronoun (\"Mình\" then \"tôi\") in the same line.",
+      "suggested_fix": "dồn hết ý chí để Thần hộ mệnh của mình không tắt, ở lại và bảo vệ Bellatrix khỏi bọn Giám ngục",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 13",
+      "source_excerpt": "A hook yanked motionlessly at Harry's abdomen as the portkey activated",
+      "target_excerpt": "Một cái móc bất động kéo mạnh vào bụng Harry khi cổng kích hoạt",
+      "description": "\"the portkey\" is the magical transport object (canonical VN: Khóa Cảng). Rendering it as \"cổng\" (\"gate/portal\") loses the specific item meaning.",
+      "suggested_fix": "...khi khóa cảng kích hoạt",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is broadly faithful but contains several genuine errors: \"Disillusioning\" mistranslated as emotional \"vỡ mộng\", the Impervius charm garbled into \"không kính\", \"Cast your Patronus\" rendered as \"giao\" (hand over), \"wards\" as \"khu vực\", plus minor calques and a Polyjuice/glossary terminology conflict."
+}

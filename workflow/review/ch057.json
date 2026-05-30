@@ -1,0 +1,17 @@
+{
+  "chapter": 57,
+  "findings": [
+    {
+      "category": "untranslated-term",
+      "severity": "minor",
+      "location": "target section (char ~20000)",
+      "source_excerpt": "hands were sure despite the adrenaline",
+      "target_excerpt": "Đôi tay của Li rất chắc chắn bất chấp adrenaline",
+      "description": "English word 'adrenaline' left untranslated in Vietnamese text.",
+      "suggested_fix": "Đôi tay của Li rất chắc chắn bất chấp hooc-mon adrenaline",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 57 translation is largely faithful with 103.40% character ratio. Contains only one detected issue: untranslated English term 'adrenaline'. No major omissions or meaning distortions detected."
+}

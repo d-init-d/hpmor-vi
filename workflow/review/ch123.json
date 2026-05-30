@@ -1,0 +1,48 @@
+{
+  "chapter": "123",
+  "source_file": "hpmor-vn/source/ch123.txt",
+  "target_file": "hpmor-vi/text/chapters/ch123-vn.txt",
+  "qa_review": {
+    "translation_quality": {
+      "overall": "good",
+      "summary": "Good quality translation. Minor punctuation and phrasing issues. '——không, của Hiệu trưởng mới' uses em-dash with 'không' interjection which is a stylistic choice that works. Some slightly awkward phrasing like 'cổng không mở' could be smoother.",
+      "findings": [
+        {
+          "severity": "info",
+          "category": "grammar_style",
+          "location": "ch123-vn.txt, line ~early section",
+          "description": "Interjection punctuation style",
+          "source_excerpt": "——no, the new Headmaster's——",
+          "target_excerpt": "——không, của Hiệu trưởng mới——",
+          "issue": "Use of em-dash with 'không' as spoken correction is an acceptable stylistic choice but punctuation style differs from source.",
+          "suggested_fix": "This is acceptable as a translation choice — no critical fix needed."
+        },
+        {
+          "severity": "minor",
+          "category": "grammar_style",
+          "location": "ch123-vn.txt",
+          "description": "Slightly awkward phrasing",
+          "source_excerpt": "the door that hadn't opened",
+          "target_excerpt": "cổng không mở",
+          "issue": "'Cổng không mở' is slightly awkward — could be 'cánh cổng không chịu mở' or 'cổng không chịu mở' for a more natural feel, or simply 'cổng đóng' depending on context.",
+          "suggested_fix": "Consider 'cổng không chịu mở' or 'cổng đóng im ISM' for better naturalness."
+        }
+      ]
+    },
+    "accuracy": {
+      "overall": "good",
+      "findings": []
+    },
+    "consistency": {
+      "overall": "good",
+      "findings": []
+    },
+    "grammar_style": {
+      "overall": "good",
+      "findings": []
+    }
+  },
+  "notes": "Chapter 123 is one of the better translated chapters in this batch. Quality is solid.",
+  "files_written_count": 4,
+  "batch_total": 5
+}

@@ -4,7 +4,7 @@
 
 | term | preferred_translation | forbidden_translation | term_class | context | source_location | evidence | confidence | status | notes |
 |---|---|---|---|---|---|---|---|---|---|
-| phoenix travel | di chuyển bằng phượng hoàng | dịch chuyển tức thời | noun | magic travel | ch84 | Fan translation convention | high | approved | Keep "phoenix" as "phượng hoàng" |
+| phoenix travel | di chuyển bằng phượng hoàng | dịch chuyển tức thời | noun | magic travel | ch84 | Fan translation convention | high | approved | Keep "phoenix" as "phượng hoàng". Note: "dịch chuyển tức thời" is forbidden ONLY for Apparition/portkey/phoenix travel contexts; general physics/theoretical usage of the phrase is acceptable. |
 | Taboo Trade-offs | Sự Đánh Đổi Taboo | | proper-name | chapter title | ch82-ch87 | Chapter title - keep Taboo as transliteration | high | approved | |
 | Wizengamot | Wizengamot | | proper-name | wizard parliament | ch82 | Keep as-is per HP canon | high | approved | Vietnamese HP editions keep "Wizengamot" |
 | Most Ancient Hall | Đại Sảnh Cổ Xưa Nhất | | proper-name | Wizengamot chamber | ch82 | Descriptive translation of title | high | approved | |

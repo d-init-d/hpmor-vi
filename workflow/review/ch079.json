@@ -1,0 +1,27 @@
+{
+  "chapter": 79,
+  "findings": [
+    {
+      "category": "duplication",
+      "severity": "major",
+      "location": "lines ~167 and ~200",
+      "source_excerpt": "[Source has no duplication here - target only]",
+      "target_excerpt": "Line 167: Một sự im lặng chậm rãi xuyên qua phòng ngủ của Draco. Draco muốn biết, cần biết vẻ mặt của Gregory ",
+      "description": "Text is duplicated in the Vietnamese translation. Line ~200 repeats content from line ~167.",
+      "suggested_fix": "Remove duplicate line",
+      "verdict": "real"
+    },
+    {
+      "category": "punctuation",
+      "severity": "minor",
+      "location": "line 14",
+      "source_excerpt": "",
+      "target_excerpt": "Vị pháp sư già nhìn người anh hùng trẻ tuổi đang tức giận một lúc lâu. Sau đó, đủ chậm để không làm cậu bé hoảng sợ, những ngón tay nhăn nheo đó mở mộ",
+      "description": "Missing space after period.",
+      "suggested_fix": "Add space after period.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Found 2 issues - 1 major duplication, 1 minor punctuation."
+}

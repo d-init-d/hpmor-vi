@@ -1,0 +1,147 @@
+{
+  "chapter": 70,
+  "findings": [
+    {
+      "category": "untranslated-english",
+      "severity": "major",
+      "location": "line 147",
+      "source_excerpt": "Do not be too eager to grow up; there will be time enough for that later.",
+      "target_excerpt": "Đừng too eager to grow up; sẽ có đủ thời gian cho điều đó sau.",
+      "description": "An entire English clause 'too eager to grow up' was left untranslated in the middle of the Vietnamese sentence.",
+      "suggested_fix": "Đừng quá vội vã trưởng thành; sẽ có đủ thời gian cho điều đó sau.",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 78",
+      "source_excerpt": "into whose gently twinkling eyes Hermione looked",
+      "target_excerpt": "vào những đôi mắt twinkling nhẹ nhàng",
+      "description": "The English word 'twinkling' was left untranslated inside Vietnamese prose.",
+      "suggested_fix": "vào đôi mắt lấp lánh nhẹ nhàng",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 67",
+      "source_excerpt": "a revolving helix that shouldn't have taken her anywhere at all",
+      "target_excerpt": "một helix xoay không nên đưa cô đi bất cứ đâu",
+      "description": "The English word 'helix' was left untranslated.",
+      "suggested_fix": "một đường xoắn ốc xoay tròn lẽ ra không nên đưa cô đi đâu cả",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 57",
+      "source_excerpt": "the Transfiguration parchment due Monday",
+      "target_excerpt": "Minerva đang kiểm tra bài Biến hình due thứ Hai",
+      "description": "The English word 'due' was left untranslated in Vietnamese prose.",
+      "suggested_fix": "Minerva đang kiểm tra bài Biến hình phải nộp vào thứ Hai",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 161",
+      "source_excerpt": "Neither she nor Professor McGonagall spoke on the way down.",
+      "target_excerpt": "Không cô nor Giáo sư McGonagall nói chuyện trên đường xuống.",
+      "description": "The English conjunction 'nor' was left untranslated; the sentence is also grammatically broken.",
+      "suggested_fix": "Cả cô lẫn Giáo sư McGonagall đều không nói gì trên đường xuống.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "lines 91 and 123",
+      "source_excerpt": "Her voice stopped / The old wizard's voice was gentle.",
+      "target_excerpt": "Giáọng cô dừng",
+      "description": "Typo 'Giáọng' (appears at line 91 'Giáọng cô dừng' and line 123 'Giáọng người phù thủy già dịu dàng'); should be 'Giọng'.",
+      "suggested_fix": "Giọng cô dừng",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 28",
+      "source_excerpt": "I am annoyed to discover that you have been holding back",
+      "target_excerpt": "tôi bực bịnh khi phát hiện",
+      "description": "Typo 'bực bịnh'; should be 'bực bội' (annoyed).",
+      "suggested_fix": "tôi bực bội khi phát hiện",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 45",
+      "source_excerpt": "everyone was expecting you to rise to the challenge",
+      "target_excerpt": "mọi người mong đợi cậu vượn lên thử thách",
+      "description": "Typo 'vượn lên' ('vượn' = ape); should be 'vươn lên' (rise up).",
+      "suggested_fix": "mọi người mong đợi cậu vươn lên đáp ứng thử thách",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 116",
+      "source_excerpt": "A Ravenclaw, tapping the raven",
+      "target_excerpt": "chạm con chim ưên",
+      "description": "Typo 'chim ưên'; should be 'chim ưng' (the term used elsewhere in the same paragraph for the raven emblem).",
+      "suggested_fix": "chạm con chim ưng",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 154",
+      "source_excerpt": "even as the door slowly creaked open",
+      "target_excerpt": "ngay khi cánh cửa kẽ ga khe mở ra",
+      "description": "Garbled, meaningless text 'kẽ ga khe'; 'slowly creaked open' was mangled.",
+      "suggested_fix": "ngay khi cánh cửa từ từ cọt kẹt mở ra",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 22",
+      "source_excerpt": "including at least one Chaotic Lieutenant",
+      "target_excerpt": "bao gồm ít nhất một Đại liên Hỗn Loạn",
+      "description": "'Lieutenant' (an officer rank) was rendered as 'Đại liên', which in Vietnamese means a heavy machine gun, not a rank.",
+      "suggested_fix": "bao gồm ít nhất một Trung úy Hỗn Loạn",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "lines 115-116",
+      "source_excerpt": "the lion and snake, and badger and raven / tapping his finger on the faded badger",
+      "target_excerpt": "chạm ngón tay lên con báo phai",
+      "description": "The Hufflepuff 'badger' (con lửng) was translated as 'con báo' (leopard/panther), the wrong animal. Same error in line 115 'báo và chim ưng'.",
+      "suggested_fix": "chạm ngón tay lên con lửng đã phai màu",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 102",
+      "source_excerpt": "and I ween that in time the name of Albus Dumbledore will be remembered",
+      "target_excerpt": "và tôi rằng rằng tên của Albus Dumbledore",
+      "description": "Broken phrase: the verb is missing and 'rằng' is duplicated ('tôi rằng rằng'); the archaic 'I ween' was not properly rendered.",
+      "suggested_fix": "và tôi đoán rằng theo thời gian, tên của Albus Dumbledore",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 18",
+      "source_excerpt": "when they repeat the same failed strategy over and over",
+      "target_excerpt": "lặp lại cùng một chiến lược thất bại đi lặp đi lặp",
+      "description": "Garbled idiom 'đi lặp đi lặp'; the correct Vietnamese set phrase is 'lặp đi lặp lại'.",
+      "suggested_fix": "lặp đi lặp lại cùng một chiến lược thất bại",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful and complete, but contains several untranslated English words/clauses (twinkling, helix, due, nor, 'too eager to grow up'), multiple typos (Giáọng, bực bịnh, vượn lên, chim ưên, garbled 'kẽ ga khe'), and a few mistranslations/awkward phrases (Lieutenant rendered as 'machine gun', badger as 'leopard', broken 'tôi rằng rằng')."
+}

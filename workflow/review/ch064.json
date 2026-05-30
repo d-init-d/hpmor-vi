@@ -1,0 +1,67 @@
+{
+  "chapter": 64,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "line 5",
+      "source_excerpt": "She had met the Dark Lord four times and survived each time",
+      "target_excerpt": "Cô đã gặp Chúa Tối Thượng bốn lần và sống sót qua mỗi lần",
+      "description": "'Dark Lord' is rendered as 'Chúa Tối Thượng' (Supreme Lord). Per the glossary, Dark Lord/Dark Mark must use 'Hắc Ám', never 'Tối Thượng'. This reverses the meaning of the antagonist's title.",
+      "suggested_fix": "Cô đã gặp Chúa Tể Hắc Ám bốn lần và sống sót qua mỗi lần",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 5",
+      "source_excerpt": "a young boy who hovered between being serious about silly things and silly about serious things",
+      "target_excerpt": "dao động giữa việc nghiêm túc với những thứ phiền phức và nghiêm túc với những thứ phiền phức",
+      "description": "The English chiasmus 'serious about silly things and silly about serious things' collapsed into the same clause repeated twice ('nghiêm túc với những thứ phiền phức' appears identically on both sides of 'và'). The wordplay is lost and 'phiền phức' (annoying) is the wrong word for 'silly'.",
+      "suggested_fix": "dao động giữa việc nghiêm túc với những điều ngớ ngẩn và ngớ ngẩn với những điều nghiêm túc",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "She had gotten an Outstanding in her Muggle Studies N.E.W.T.",
+      "target_excerpt": "Cô đã nhận được một Outstanding trong N.E.W.T. Nghiên Cứu Người Phàm của mình",
+      "description": "The exam grade 'Outstanding' is left in English inside Vietnamese prose (also recurs later as 'tấm Outstanding'). The editor translated other stray English words in this paragraph but missed this one.",
+      "suggested_fix": "Cô đã nhận được điểm Xuất Sắc trong kỳ thi N.E.W.T. Nghiên Cứu Người Phàm của mình",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "the Board of Governors didn't approve of Muggle Studies at all",
+      "target_excerpt": "Hội Đồng Quản Trị không chấp thuận của Người Phàm chút nào",
+      "description": "Calque of 'approve of'. The dangling 'chấp thuận của Người Phàm' is ungrammatical and drops 'Studies' (the subject is Muggle Studies, not Muggles).",
+      "suggested_fix": "Hội Đồng Quản Trị hoàn toàn không tán thành môn Nghiên Cứu Người Phàm",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "the thought of the two of them facing each other at wandpoint was too painful to imagine",
+      "target_excerpt": "hai người họ đối mặt nhau ở điểm đũa phép quá đau để tưởng tượng",
+      "description": "'at wandpoint' is calqued literally as 'ở điểm đũa phép', which is meaningless in Vietnamese; 'quá đau để tưởng tượng' is also an awkward literal rendering of 'too painful to imagine'.",
+      "suggested_fix": "ý nghĩ về cảnh hai người họ chĩa đũa phép vào nhau đau đớn đến mức không dám tưởng tượng",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "the Outstanding had been the chief thing that mattered to her",
+      "target_excerpt": "tấm Outstanding đã là thứ chính quan trọng với cô",
+      "description": "'thứ chính quan trọng' is an unnatural calque of 'the chief thing that mattered'.",
+      "suggested_fix": "tấm bằng Xuất Sắc đã là điều quan trọng nhất với cô",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Short fragment (title + 2 paragraphs); the target is lightly machine-translated with one critical glossary error ('Dark Lord' rendered 'Chúa Tối Thượng' instead of 'Hắc Ám'), a major collapsed/duplicated chiasmus, an untranslated grade ('Outstanding'), and several minor MT calques."
+}

@@ -1,0 +1,87 @@
+{
+  "chapter": 84,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "critical",
+      "location": "line 54",
+      "source_excerpt": "\"You ransom Aberforth, you lose the war,\" the man said sharply. \"That simple. One hundred thousand Galleons is nearly all we've got in the war-chest, and if you use it like this, it won't be refilled. What'll you do, try to convince the Potters to empty their vault like the Longbottoms already did? Voldie's just going to kidnap someone else and make another demand. Alice, Minerva, anyone you care about, they'll all be targets if you pay off the Death Eaters. That's not the lesson you should be trying to teach them.\"",
+      "target_excerpt": "“Bạn chuộc Aberforth, bạn thua cuộc chiến,” người đàn ông sắc bén nói. \"Hãy để tôi dạy anh điều đó.”",
+      "description": "Almost the entire Alastor speech is missing. Only the first clause ('You ransom Aberforth, you lose the war') is rendered. The whole substance — 'That simple. One hundred thousand Galleons is nearly all we've got in the war-chest... Voldie's just going to kidnap someone else... Alice, Minerva, anyone you care about, they'll all be targets if you pay off the Death Eaters. That's not the lesson you should be trying to teach them.' — is absent. The closing clause was also distorted into 'Hãy để tôi dạy anh điều đó' (Let me teach you that), the opposite of 'That's not the lesson you should be trying to teach them.'",
+      "suggested_fix": "“Anh chuộc Aberforth, anh thua cuộc chiến,” người đàn ông nói sắc bén. “Đơn giản vậy thôi. Một trăm nghìn Galleon gần như là tất cả những gì chúng ta có trong ngân khố chiến tranh, và nếu anh dùng nó như thế này, nó sẽ không được bù lại. Anh sẽ làm gì, thuyết phục nhà Potter dốc cạn kho tiền của họ như nhà Longbottom đã làm sao? Voldie chỉ việc bắt cóc người khác và đưa ra một đòi hỏi mới. Alice, Minerva, bất cứ ai anh quan tâm, tất cả sẽ thành mục tiêu nếu anh chịu trả tiền cho lũ Tử Thần Thực Tử. Đó không phải là bài học mà anh nên cố dạy chúng.”",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 83",
+      "source_excerpt": "There was something ominous about all the empty desks beside him, the absence at the board.",
+      "target_excerpt": "Có điều gì đó đáng lo ngại về những chiếc bàn trống bên cạnh anh, sự vắng mặt của hội đồng quản trị.",
+      "description": "'the board' here means the classroom blackboard / teacher's place at the board (the empty teacher's spot). It is mistranslated as 'hội đồng quản trị' (a corporate board of directors), which makes no sense in a classroom scene.",
+      "suggested_fix": "Có điều gì đó đáng lo ngại về những chiếc bàn trống bên cạnh anh, sự vắng mặt nơi bục bảng.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 66",
+      "source_excerpt": "She was an enabler, I get that, but I can't back that deserving being burned alive.",
+      "target_excerpt": "Cô ấy là người có khả năng, tôi hiểu điều đó, nhưng tôi không thể ủng hộ việc đáng bị thiêu sống.",
+      "description": "'an enabler' means someone who facilitates/abets wrongdoing (kẻ tiếp tay), not 'người có khả năng' (a capable/able person). The mistranslation reverses the intended meaning.",
+      "suggested_fix": "Cô ấy là kẻ tiếp tay, tôi hiểu điều đó, nhưng tôi không thể cho rằng như vậy là đáng bị thiêu sống.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 8",
+      "source_excerpt": "When Harry had fully lit up again he was standing in the Headmaster's office",
+      "target_excerpt": "Khi Harry đã hoàn toàn tỉnh táo trở lại, nó đang đứng trong văn phòng Hiệu trưởng",
+      "description": "'lit up again' refers to Harry re-materializing in the phoenix fire (blazing up again), consistent with the phoenix-travel description. It is mistranslated as 'hoàn toàn tỉnh táo trở lại' (fully regained consciousness/alertness); Harry was never unconscious.",
+      "suggested_fix": "Khi Harry đã bùng cháy hoàn toàn trở lại, nó đang đứng trong văn phòng Hiệu trưởng",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 2",
+      "source_excerpt": "Phœnix travel was a sensation entirely unlike",
+      "target_excerpt": "Chuyến du hành của Phœnixlà một cảm giác hoàn toàn không giống",
+      "description": "Missing space: 'Phœnixlà' is two words glued together ('Phœnix' + 'là').",
+      "suggested_fix": "Chuyến du hành của Phœnix là một cảm giác hoàn toàn không giống",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 2",
+      "source_excerpt": "It didn't sicken the stomach like portkeys or Apparition",
+      "target_excerpt": "Nó không gây đau bụng như phím cảng hay Độn thổ",
+      "description": "'portkey' is rendered as 'phím cảng' (a literal calque, 'key/button port'), inconsistent with 'khóa cổng' used for portkeys earlier in the same paragraph, and 'Apparition' as 'Độn thổ' here vs 'Hiện ra' earlier. The 'phím cảng' rendering is an awkward machine translation.",
+      "suggested_fix": "Nó không gây đau bụng như khóa cổng hay Độn thổ",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 90",
+      "source_excerpt": "and spending the million dollars to buy other hospital equipment or pay doctors' salaries",
+      "target_excerpt": "và việc chi hàng triệu đô la để mua các thiết bị khác của bệnh viện hoặc trả lương cho bác sĩ",
+      "description": "'the million dollars' (the same single million dollars from the previous clause) is rendered as 'hàng triệu đô la' (many millions of dollars), changing the figure and slightly muddling the trade-off argument.",
+      "suggested_fix": "và việc chi một triệu đô la đó để mua các thiết bị khác của bệnh viện hoặc trả lương cho bác sĩ",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 84",
+      "source_excerpt": "he could have used a dose of Transfiguration's trance",
+      "target_excerpt": "anh ta có thể sử dụng một lượng thuốc mê Biến hình",
+      "description": "'Transfiguration's trance' refers to the meditative/focused trance state Transfiguration induces. It is rendered as 'thuốc mê Biến hình' (Transfiguration anesthetic/sedative), turning a mental state into a substance.",
+      "suggested_fix": "lẽ ra anh có thể tận dụng một liều trạng thái nhập định của Biến Hình",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Mostly readable but machine-translated; one critical omission at line 54 where most of Alastor's speech is missing and its final clause is reversed, plus distortions ('the board'->'hội đồng quản trị', 'enabler'->'người có khả năng', 'lit up'->'tỉnh táo') and minor spacing/terminology issues."
+}

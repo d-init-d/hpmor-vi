@@ -1,0 +1,6 @@
+{
+  "chapter": 25,
+  "findings": [],
+  "clean": true,
+  "summary": "Detailed line-by-line source-target comparison performed. E.Y. header properly localized. All dialogue and narrative translated accurately. Key characters (Harry, Hermione, Draco, Quirrell, Flitwick) properly rendered. Word count ratio 1.267 (6,999 EN words to 8,870 VI words) consistent with normal EN→VI expansion. No omission, mistranslation, untranslated English, MT artifacts, or terminology issues found."
+}

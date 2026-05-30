@@ -1,0 +1,14 @@
+{
+  "chapter": "ch112",
+  "source_file": "source/ch112.txt",
+  "target_file": "text/chapters/ch112-vn.txt",
+  "reviewer": "opencode",
+  "date": "2026-05-30",
+  "severity_counts": {
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "cosmetic": 0
+  },
+  "findings": []
+}

@@ -1,0 +1,117 @@
+{
+  "chapter": 95,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 44",
+      "source_excerpt": "a troll was infiltrated into the castle Hogwarts without alarm from our ancient wards. Somehow this troll succeeded in injuring a student, without alarm from the wards",
+      "target_excerpt": "một con quỷ lùn đã xâm nhập vào lâu đài Hogwarts mà không có sự báo động từ các phường cổ xưa của chúng ta",
+      "description": "Magical 'wards' (protective enchantments) is mistranslated as 'phường' (a neighborhood/administrative district). This wrong word appears twice in the line ('các phường cổ xưa' and 'từ các phường cho đến thời điểm cô ấy chết'), distorting the central plot point that Hogwarts' protective wards failed to raise an alarm.",
+      "suggested_fix": "một con quỷ khổng lồ đã xâm nhập vào lâu đài Hogwarts mà không có sự báo động từ các lá chắn phòng thủ cổ xưa của chúng ta (and 'từ các lá chắn phòng thủ cho đến thời điểm cô ấy chết')",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "major",
+      "location": "line 52",
+      "source_excerpt": "Whatever the Sorting Hat saw in me that led it to place me in Gryffindor, I have betrayed it.",
+      "target_excerpt": "thay vì rèn luyện lòng can đảm của anh để trở nên khôn ngoan. đã phản bội nó.",
+      "description": "The clause 'Whatever the Sorting Hat saw in me that led it to place me in Gryffindor' is entirely missing, leaving the grammatically broken subjectless fragment 'đã phản bời nó.' ('betrayed it.'). The reader loses McGonagall's reference to the Sorting Hat.",
+      "suggested_fix": "thay vì rèn luyện lòng can đảm của anh để trở nên khôn ngoan. Dù chiếc Nón Phân Loại đã nhìn thấy điều gì ở tôi khiến nó xếp tôi vào Gryffindor, tôi đã phản bội điều đó.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 87",
+      "source_excerpt": "And an ancient wizard to whom that ward meant nothing gazed upon them both",
+      "target_excerpt": "Và một pháp sư cổ đại mà khu vực đó chẳng có ý nghĩa gì đã nhìn chằm chằm vào cả hai",
+      "description": "'Ward' (Minerva's privacy enchantment, correctly rendered as 'lớp bảo vệ' in line 77) is here mistranslated as 'khu vực' (area/zone), distorting the meaning that Dumbledore's power penetrated the protective ward.",
+      "suggested_fix": "Và một pháp sư cổ đại mà lớp bảo vệ đó chẳng có ý nghĩa gì đã nhìn chằm chằm vào cả hai",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 39",
+      "source_excerpt": "the rule in extremis was to decide what was the right thing to do",
+      "target_excerpt": "quy tắcở mức cực đoanlà quyết định điều gì là đúng đắn",
+      "description": "Words are glued together with missing spaces: 'quy tắcở' should be 'quy tắc ở', and 'cực đoanlà' should be 'cực đoan là'.",
+      "suggested_fix": "quy tắc ở mức cực đoan là quyết định điều gì là đúng đắn",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 74",
+      "source_excerpt": "...nothing would ever work? said Hufflepuff.",
+      "target_excerpt": "sẽ không có gì có tác dụng?Hufflepuff nói.",
+      "description": "Missing space after the question mark: '?Hufflepuff' is glued together.",
+      "suggested_fix": "sẽ không có gì có tác dụng? Hufflepuff nói.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 16",
+      "source_excerpt": "come as soon as you are done reading, and do so without your Cloak",
+      "target_excerpt": "hãy đến ngay sau khi đọc xong và không mang theo Áo khoác",
+      "description": "The Cloak of Invisibility is rendered 'Áo choàng' everywhere else (lines 2, 8, 9) but here is 'Áo khoác' (jacket/coat), an inconsistent term for the same item.",
+      "suggested_fix": "hãy đến ngay sau khi đọc xong và không mang theo Áo choàng",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 70",
+      "source_excerpt": "but Captain Weasley and I weren't the only ones",
+      "target_excerpt": "nhưng thuyền trưởng Weasley và tôi không phải là những người duy nhất",
+      "description": "In the army-game context (General Potter = 'Tướng Potter'), 'Captain' should be an army rank, but it is rendered 'thuyền trưởng' (naval ship captain), an incongruous term.",
+      "suggested_fix": "nhưng Đại úy Weasley và tôi không phải là những người duy nhất",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 65",
+      "source_excerpt": "doing what's right is the second lesson, you can start practising that after you learn to do anything at all—",
+      "target_excerpt": "cậu có thể bắt đầu luyện tập.\" rằng sau khi cậu học được cách làm bất cứ điều gì—",
+      "description": "A stray closing quotation mark and period are inserted mid-sentence ('luyện tập.\" rằng'), breaking the sentence and misplacing the quote that should close the whole speech.",
+      "suggested_fix": "cậu có thể bắt đầu luyện tập điều đó sau khi cậu học được cách làm bất cứ điều gì—",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 52",
+      "source_excerpt": "I have never shown it to you. I did not believe in you. I did not believe in the virtues of Gryffindor itself.",
+      "target_excerpt": "tôi chưa bao giờ cho anh thấy điều đó. Tôi không tin vào những đức tính của chính Gryffindor",
+      "description": "The distinct sentence 'I did not believe in you.' is omitted; the target jumps straight from 'tôi chưa bao giờ cho anh thấy điều đó' to 'Tôi không tin vào những đức tính của chính Gryffindor'.",
+      "suggested_fix": "tôi chưa bao giờ cho anh thấy điều đó. Tôi đã không tin vào anh. Tôi không tin vào những đức tính của chính Gryffindor",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "lines 22-27 (Dad's letter)",
+      "source_excerpt": "First, son, I have every confidence in your ability... so long as you choose to",
+      "target_excerpt": "Đầu tiên, con trai, tôi có mọi sự tin tưởng vào khả năng của con để ở lại phe Ánh sáng của Thần lực miễn là con chọn",
+      "description": "The father's letter inconsistently addresses Harry, switching between 'con' and 'bạn' (and 'tôi'/'chúng tôi') within the same letter, which reads as machine-translation drift rather than a consistent parental voice.",
+      "suggested_fix": "Maintain a single, consistent form of address (e.g. 'con') throughout the father's letter instead of alternating 'con' and 'bạn'.",
+      "verdict": "uncertain"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 44 vs lines 52/58",
+      "source_excerpt": "a troll ... a mountain troll",
+      "target_excerpt": "một con quỷ lùn",
+      "description": "The troll is called 'con quỷ lùn' (dwarf/short demon) in line 44 but 'con quỷ núi' (mountain troll) in lines 52 and 58; the same creature should use a consistent term, and 'quỷ lùn' wrongly implies a small creature.",
+      "suggested_fix": "Use 'con quỷ khổng lồ' (or consistently 'con quỷ núi') for the troll throughout.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "The chapter is largely faithful but contains two notable defects: 'ward(s)' is mistranslated as 'phường'/'khu vực' (neighborhood/area) instead of magical protective enchantments, and a Sorting Hat clause is omitted leaving a broken fragment; plus several minor spacing, terminology-consistency, and machine-translation awkwardness issues."
+}

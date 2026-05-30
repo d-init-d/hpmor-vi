@@ -1,0 +1,27 @@
+{
+  "chapter": 62,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "critical",
+      "location": "line 26 (end of file) onward",
+      "source_excerpt": "People had built that place, someone had made Azkaban... HOW COULD PEOPLE DO THAT? ... Why am I not like the other children my own age? [continues through the Dumbledore Diagon Alley scene and the final warehouse exchange]",
+      "target_excerpt": "Người ta đã xây cái đó, ai đó đã tạo ra Azkaban, họ đã cố ý tạo ra nó, họ đã làm một cách có chủ đích, người phụ nữ đó, cô ấy đã có...",
+      "description": "The target file is severely truncated. It translates only the opening ~7% of the chapter and stops mid-sentence at the equivalent of English line 21318 ('that woman, she'd had...'). The remaining ~90% of the chapter is entirely missing: the full Harry-Quirrell debate about Azkaban, politics, democracy, the Dark Lord question, the apology standoff, the Hermione/Patronus exchange, the final 'Why am I not like the other children my own age?' question, the Dumbledore Diagon Alley 'NO' parchment scene, and the closing warehouse exchange ('I don't know,' said the man.). The file simply ends with the trailing '...' and no further content.",
+      "suggested_fix": "Translate and append the entire missing remainder of the chapter (from 'children, children she wouldn't remember...' through the closing 'Yet I will say this much—'). The chapter must be completed in full.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 5",
+      "source_excerpt": "Soon we must go backward four hours to Mary's Place, appearing in every way as though we have done nothing interesting this day.",
+      "target_excerpt": "Chẳng bao lâu chúng ta phải quay về bốn tiếng trước, xuất hiện trong mọi khía cạnh như thể chúng ta đã không làm gì thú vị trong ngày này.",
+      "description": "The destination 'to Mary's Place' is dropped from the translation; the target only says 'quay về bốn tiếng trước' (go back four hours) without rendering where they must return to.",
+      "suggested_fix": "Chẳng bao lâu chúng ta phải quay ngược lại bốn tiếng về Quán của Mary, xuất hiện trong mọi khía cạnh như thể chúng ta đã không làm gì thú vị trong ngày này.",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "The translation is faithful for the small portion that exists, but the file is critically truncated mid-sentence, leaving roughly 90% of the chapter (all of the Harry-Quirrell dialogue, the Dumbledore scene, and the ending) untranslated and missing."
+}

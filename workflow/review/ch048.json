@@ -1,0 +1,47 @@
+{
+  "chapter": 48,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 2 (opening paragraph)",
+      "source_excerpt": "The last tip of the Sun was sinking below the horizon",
+      "target_excerpt": "Tanh đỉnh cuối cùng của Mặt trời đang chìm xuống dưới đường chân trời",
+      "description": "Mistranslation: 'Tanh' is an incorrect addition. The source says 'The last tip of the Sun' but the target has 'Tanh đỉnh cuối cùng' which adds an untranslated word 'Tanh' that doesn't belong. Should be 'Đỉnh cuối cùng của Mặt trời'.",
+      "suggested_fix": "Đỉnh cuối cùng của Mặt trời đang chìm xuống dưới đường chân trời",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 3",
+      "source_excerpt": "Harry felt... well, normal again. Sane-ish.",
+      "target_excerpt": "Harry cảm thấy... ừ, bình thường trở lại. Sane-ish.",
+      "description": "'Sane-ish' is left in English, same issue as in ch045. This coined phrase should be given a Vietnamese equivalent.",
+      "suggested_fix": "Harry cảm thấy... ừ, bình thường trở lại. Khá bình thường thôi. (or similar natural Vietnamese phrasing)",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 4",
+      "source_excerpt": "The spell hadn't undone the day and its damage, hadn't made the injuries as if they had never been, but his hurts had been... bandaged, meliorated?",
+      "target_excerpt": "Câu thần chú đã không hóa giải ngày hôm đó và thiệt hại của nó, không khiến những vết thương như chưa từng tồn tại, nhưng vết thương của anh đã được... băng bó, xoa dịu?",
+      "description": "The translation 'không hóa giải' for 'hadn't undone' is slightly off. Also 'như chưa từng tồn tại' for 'as if they had never been' is awkward - should be more natural like 'như thể chúng chưa từng xảy ra'.",
+      "suggested_fix": "Câu thần chú đã không xóa bỏ ngày hôm đó và thiệt hại của nó, không khiến những vết thương như thể chưa từng xảy ra, nhưng vết thương của anh đã được... băng bó, xoa dịu?",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-omission",
+      "severity": "minor",
+      "location": "line 12",
+      "source_excerpt": "the warm and happy thought",
+      "target_excerpt": "suy nghĩ ấm áp và hạnh phúc",
+      "description": "The source 'the warm and happy thought' is translated as 'suy nghĩ ấm áp và hạnh phúc' which is correct but misses the nuance that this refers specifically to the 'Patronus Charm' warm thought. Minor fidelity issue.",
+      "suggested_fix": "suy nghĩ ấm áp và hạnh phúc (appropriate in context of Patronus Charm)",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter 48 has multiple issues: (1) major mistranslation - 'Tanh' incorrectly added before 'đỉnh cuối cùng của Mặt trời', (2) 'Sane-ish' left untranslated, (3) general MT awkwardness in places."
+}

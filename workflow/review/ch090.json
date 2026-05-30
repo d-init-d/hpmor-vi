@@ -1,0 +1,147 @@
+{
+  "chapter": 90,
+  "findings": [
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "lines 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 79, 81, 83, 87, 89, 91, 93, 95, 97, 99, 107-109, 131, 136, 138, 140, 142 (recurring ~30x)",
+      "source_excerpt": "Tick.",
+      "target_excerpt": "Đánh dấu.",
+      "description": "The recurring one-word line 'Tick.' is the sound of the clock ticking down (the chapter is titled 'Time Pressure' and a clock motif drives the tension). It is mistranslated as 'Đánh dấu.' which means 'to mark / put a check-mark'. This wrong rendering repeats roughly thirty times throughout the chapter.",
+      "suggested_fix": "Tích tắc.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 152",
+      "source_excerpt": "Framed?",
+      "target_excerpt": "Đóng khung?",
+      "description": "'Framed?' here means falsely accused / set up for a crime (Hermione framed for murder). It is mistranslated as 'Đóng khung?' which literally means 'to frame a picture'.",
+      "suggested_fix": "Bị vu oan à?",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "major",
+      "location": "line 42",
+      "source_excerpt": "Please advise your Head of House.",
+      "target_excerpt": "Xin hãy tư vấn cho Trưởng phòng của bạn.",
+      "description": "'Head of House' (the Head of Gryffindor House, i.e. Professor McGonagall) is rendered as 'Trưởng phòng' which means 'department/office head'. Per the glossary, House -> Nhà, so Head of House -> Trưởng Nhà.",
+      "suggested_fix": "Xin hãy tư vấn cho Trưởng Nhà của em.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 183",
+      "source_excerpt": "both redheads staring off into the distance with a blank expression",
+      "target_excerpt": "cả hai cô gái tóc đỏ đều nhìn về phía xa với vẻ mặt trống rỗng",
+      "description": "Refers to the Weasley twins (Fred and George), who are boys. 'both redheads' is mistranslated as 'cả hai cô gái tóc đỏ' (both red-haired GIRLS), an incorrect gender for the referent.",
+      "suggested_fix": "cả hai cậu trai tóc đỏ đều nhìn về phía xa với vẻ mặt trống rỗng",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 67",
+      "source_excerpt": "a mass of perhaps a hundred bodies",
+      "target_excerpt": "một khối có lẽ khoảng một trăm thi thể",
+      "description": "'bodies' refers to the living students forming a cluster. 'thi thể' specifically means 'corpses / dead bodies', which distorts the meaning.",
+      "suggested_fix": "một khối có lẽ khoảng một trăm thân hình",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 44",
+      "source_excerpt": "Twenty Quirrell points to you.",
+      "target_excerpt": "Hai mươi Quirrell chỉ cho bạn.",
+      "description": "'points' (the awarded points, điểm) is mistranslated as the verb 'chỉ' (to point at), garbling the sentence into 'Twenty Quirrell point at you'.",
+      "suggested_fix": "Hai mươi điểm Quirrell cho em.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 34",
+      "source_excerpt": "It seems we have a dangerous creature loose in Hogwarts",
+      "target_excerpt": "Có vẻ như chúng ta đang thả một sinh vật nguy hiểm ở Hogwarts",
+      "description": "'have a dangerous creature loose' means a dangerous creature is on the loose. 'đang thả' means 'are releasing', which wrongly implies the faculty is deliberately releasing the creature.",
+      "suggested_fix": "Có vẻ như có một sinh vật nguy hiểm đang sổng ra ở Hogwarts",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 92",
+      "source_excerpt": "infiltrate a troll past the ancient wards of Hogwarts",
+      "target_excerpt": "thâm nhập vào một con quỷ lùn qua các khu cổ xưa của Hogwarts",
+      "description": "'wards' (the protective enchantments) is mistranslated as 'các khu' (areas/zones). The same word 'wards' is correctly rendered 'kết giới' earlier in the very same line.",
+      "suggested_fix": "đưa lậu một con troll qua các kết giới cổ xưa của Hogwarts",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 164",
+      "source_excerpt": "or they might be after yeh",
+      "target_excerpt": "hoặc họ có thể truy đuổiyeh",
+      "description": "Hagrid's dialectal 'yeh' (= you) is left as untranslated English (and glued to the preceding word). Elsewhere in his dialogue 'yeh' is correctly rendered as 'cháu/các bạn'.",
+      "suggested_fix": "hoặc họ có thể truy đuổi cháu",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 121",
+      "source_excerpt": "It's a 3-seater.",
+      "target_excerpt": "Đó là chiếc xe 3 chỗ.",
+      "description": "Refers to a three-seat broomstick. 'chiếc xe 3 chỗ' means 'a 3-seat car/vehicle', wrong for a broomstick.",
+      "suggested_fix": "Đó là loại 3 chỗ ngồi.",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "lines 21, 35, 57, 59, 65, 82, 84, 92, 102, 115, 127, 135, 149, 157, 159, 171, 176, 185, 191, 200, 209-211 (pervasive)",
+      "source_excerpt": "the entire Great Hall wasn't staring at him",
+      "target_excerpt": "không hề nhìn chằm chằm vàocậu ấy",
+      "description": "Pervasive missing spaces where adjacent words are glued together (an artifact of stripped emphasis markup), e.g. 'vàocậu', 'phảibạn', 'Giáo sưtất cả', 'ồn àonên', 'có thểlàm', 'thư việnđóng cửarồi'. Hurts readability throughout.",
+      "suggested_fix": "không hề nhìn chằm chằm vào cậu ấy (and insert the missing space in every other glued pair)",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 44",
+      "source_excerpt": "Adequate, for being put on the spot",
+      "target_excerpt": "Đầy đủ, để đặt tại chỗ,",
+      "description": "The idiom 'put on the spot' (asked/forced to respond unprepared) is rendered as a literal calque 'để đặt tại chỗ' (to place on the spot), which is unnatural and loses the meaning.",
+      "suggested_fix": "Cũng tạm, so với việc bị hỏi bất ngờ,",
+      "verdict": "real"
+    },
+    {
+      "category": "spelling",
+      "severity": "minor",
+      "location": "line 85",
+      "source_excerpt": "Hermione won't have any idea it's a troll",
+      "target_excerpt": "Hermione sẽ không biết đó là một trò troll",
+      "description": "'một trò troll' reads as 'a troll trick/game' (trò = trick). The classifier should be 'con' for a creature: 'một con troll'.",
+      "suggested_fix": "Hermione sẽ không biết đó là một con troll",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 165",
+      "source_excerpt": "Stupefy!",
+      "target_excerpt": "Ngẩn ngơ!",
+      "description": "The stunning spell 'Stupefy!' is translated as 'Ngẩn ngơ!' (= dazed/absent-minded), inconsistent with other incantations in the same scene that are kept verbatim ('Incendium! Glisseo!', 'Expecto Patronum!'). Should be kept as the incantation or rendered as a stunning charm.",
+      "suggested_fix": "Stupefy!",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Multiple genuine defects: the recurring clock sound 'Tick.' is mistranslated as 'Đánh dấu.' (~30x), plus 'Framed?'->'Đóng khung?', 'Head of House'->'Trưởng phòng', the Weasley twins miscast as girls, 'bodies'->'thi thể' (corpses), 'wards'->'khu', and pervasive glued-together words."
+}

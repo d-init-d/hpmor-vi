@@ -1,0 +1,97 @@
+{
+  "chapter": 47,
+  "findings": [
+    {
+      "category": "duplication",
+      "severity": "minor",
+      "location": "line 120",
+      "source_excerpt": "its closeness drained your power and strength",
+      "target_excerpt": "sự gần gũi của nó làm cạn kiệt sức lực và sức lực của bạn",
+      "description": "\"power and strength\" both collapsed into the same word, producing an accidental-looking repetition \"sức lực và sức lực\".",
+      "suggested_fix": "sự gần gũi của nó làm cạn kiệt quyền năng và sức mạnh của bạn",
+      "verdict": "real"
+    },
+    {
+      "category": "duplication",
+      "severity": "minor",
+      "location": "line 119",
+      "source_excerpt": "The void, the emptiness, the hole in the universe",
+      "target_excerpt": "Sự trống rỗng, sự trống rỗng, lỗ hổng trong vũ trụ",
+      "description": "\"The void\" and \"the emptiness\" were both rendered as \"sự trống rỗng\", creating a repeated word instead of two distinct images.",
+      "suggested_fix": "Khoảng không hư vô, sự trống rỗng, lỗ hổng trong vũ trụ",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 123",
+      "source_excerpt": "It is only a childish thing, that the human species has not yet outgrown.",
+      "target_excerpt": "Đó chỉ là một điều trẻ con, rằng loài người vẫn chưa phát triển vượt bậc.",
+      "description": "\"has not yet outgrown\" (= hasn't yet matured past it) was mistranslated as \"vẫn chưa phát triển vượt bậc\" (= hasn't yet developed remarkably), dropping the object and changing the meaning of this thematically important line.",
+      "suggested_fix": "Đó chỉ là một thứ trẻ con mà loài người vẫn chưa trưởng thành để vượt qua.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 109",
+      "source_excerpt": "protecting him. As they had.",
+      "target_excerpt": "Như họ đã có.",
+      "description": "\"As they had\" rendered as a word-for-word calque \"Như họ đã có\", which is meaningless in Vietnamese (the auxiliary \"had\" has no object).",
+      "suggested_fix": "Đúng như họ đã làm.",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "lines 36, 56, 69, 72, 76, 116, 119, 127 vs Giám ngục elsewhere",
+      "source_excerpt": "Dementor",
+      "target_excerpt": "Tôi muốn thử một lần nữa với Dementor.",
+      "description": "The creature is rendered \"Giám ngục\" through most of the chapter but left untranslated as \"Dementor\" in several places (e.g. lines 36, 56, 69, 72, 76, 116, 119, 127), an internal inconsistency for the same term.",
+      "suggested_fix": "Tôi muốn thử một lần nữa với Giám ngục.",
+      "verdict": "real"
+    },
+    {
+      "category": "mt-awkwardness",
+      "severity": "minor",
+      "location": "line 31",
+      "source_excerpt": "They are not undying ... They do not possess eternal life. They are wounds in the world",
+      "target_excerpt": "Họ không phải là bất tử,",
+      "description": "Dementors are referred to with the human pronoun \"Họ\" in line 31, inconsistent with \"Chúng\" used for them in line 30 (\"Chúng bất tử\"). Non-human creatures should be \"Chúng\".",
+      "suggested_fix": "Chúng không phải là bất tử,",
+      "verdict": "real"
+    },
+    {
+      "category": "terminology",
+      "severity": "minor",
+      "location": "line 137 vs lines 121, 122, 133",
+      "source_excerpt": "I won't let Death touch me",
+      "target_excerpt": "Tôi sẽ không để Tử Thần chạm vào mình",
+      "description": "The key concept \"Death\" is rendered inconsistently across the passage: \"Thần chết\" (lines 121, 133), \"Cái chết\" (line 122) and \"Tử Thần\" (line 137). A single consistent term should be used for this thematic motif.",
+      "suggested_fix": "Tôi sẽ không để Thần chết chạm vào mình",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 116",
+      "source_excerpt": "Would they still be plagued by Dementors",
+      "target_excerpt": "Liệu họ có còn bị cản trở bởi những Giám ngục",
+      "description": "\"plagued by\" (= bị quấy nhiễu/hành hạ) was rendered as \"bị cản trở bởi\" (= hindered/obstructed by), weakening the meaning.",
+      "suggested_fix": "Liệu họ có còn bị những Giám ngục quấy nhiễu",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 65",
+      "source_excerpt": "Harry said. For I will be in the presence of a Dementor just the same, Patronus or no.",
+      "target_excerpt": "\"Bởi vì tôi sẽ có mặt trước sự hiện diện của Giám ngục, dù là Thần hộ mệnh hay không.\"",
+      "description": "In the source the sentence \"For I will be in the presence of a Dementor just the same\" is Harry's internal narration (not in quotes), but the translation places it inside the spoken quotation marks, turning private thought into spoken dialogue.",
+      "suggested_fix": "Move outside the quotes as narration: Bởi vì dù có Thần hộ mệnh hay không, mình vẫn sẽ ở ngay trước mặt một Giám ngục.",
+      "verdict": "uncertain"
+    }
+  ],
+  "clean": false,
+  "summary": "Chapter is largely faithful and readable, but contains two flattening-induced repetitions (void/emptiness and power/strength), a meaning distortion of \"outgrown\", an MT calque (\"Như họ đã có\"), and inconsistent rendering of Dementor and Death."
+}

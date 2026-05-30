@@ -1,0 +1,67 @@
+{
+  "chapter": 3,
+  "findings": [
+    {
+      "category": "fidelity-omission",
+      "severity": "critical",
+      "location": "from line 45 to end of file",
+      "source_excerpt": "\"She was a witch,\" Petunia repeated. \"I saw it.\" ... Then a boy's voice said, calmly and quietly, \"What.\"",
+      "target_excerpt": "\"Cô ấy là một phù thủy,\" Petunia lặp lại.",
+      "description": "The entire second half of the source chapter is missing. After this line the source continues with: Petunia's \"I saw it.\"; Michael's \"You know that can't be true\"; Harry's \"Dad! Mum!\" intervention; the experimental-method / Hogwarts-professor discussion; the description of how Harry was treated; the Feynman Lectures reference; Harry going to his room and reasoning about magic; the complete letter to Deputy Headmistress Minerva McGonagall; Harry sealing the envelope with H.J.P.E.V.; the back-garden owl test (\"Letter for Hogwarts! Can I get an owl?\"); the Mrs Figg scene; and the closing line \"Then a boy's voice said, calmly and quietly, 'What.'\" NONE of this content appears anywhere in the target file.",
+      "suggested_fix": "Discard the fabricated text and translate the actual source from \"I saw it.\" through the closing \"What.\", including Harry's intervention, the experimental-method dialogue, the full McGonagall letter, the owl test, and the Mrs Figg scene.",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "lines 47-103",
+      "source_excerpt": "(no corresponding source text)",
+      "target_excerpt": "\"Mình có con,\" Petunia nói. \"Mình có con. Đó là con của Lily và James, và họ đã chết, Michael, họ đã chết trong một tai nạn ô tô",
+      "description": "This entire stretch of dialogue is fabricated and has no basis in the source. It invents a conversation in which Michael concedes the marriage point, Petunia reveals 'we have a child' who died in a car accident, Michael agrees to 'pretend' there is a school, refuses to pay a deposit or buy an expensive owl, and identifies Dumbledore as headmaster. The real source dialogue at this point is Michael's \"Petunia... You know that can't be true. Do I really have to explain why?\" followed by Harry's intervention. The car accident, the deposit/owl negotiation, and the 'pretend' plan do not exist in the source.",
+      "suggested_fix": "Delete lines 47-103 entirely and replace with a faithful translation of the actual source dialogue (Michael's annoyance, Petunia wringing her hands, and Harry's \"Dad! Mum!\" intervention onward).",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "critical",
+      "location": "lines 105-143",
+      "source_excerpt": "(no corresponding source text)",
+      "target_excerpt": "Đó là cách Harry James Potter-Evans-Verres, mười một tuổi, người đã từng cắn một giáo viên toán không biết logarithm là gì, đã được gửi đến Hogwarts.",
+      "description": "This whole closing section is fabricated. It is a summary/preview of the entire book's cast (Hermione, Draco, Professor Quirrell, Dumbledore, McGonagall), plus author's notes and a reference to hpmor.com / fan art, plus an invented epilogue ('[—Hết Chương 1—]'). None of this belongs to source chapter 1, which instead ends with Harry's back-garden owl test and Mrs Figg, closing on the single word \"What.\"",
+      "suggested_fix": "Delete lines 105-143. The chapter must end with a translation of the Mrs Figg scene and the final line: \"Có một sự im lặng kéo dài trong khu vườn. Rồi giọng một cậu bé cất lên, bình thản và khẽ khàng, 'Cái gì cơ.'\"",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "major",
+      "location": "line 29",
+      "source_excerpt": "\"I can't just tell you. You'll think I'm—\"",
+      "target_excerpt": "Anh không thể nói cho anh. Anh sẽ nghĩ em—",
+      "description": "Wrong pronoun for the speaker. Petunia is speaking about herself, so the first clause should use 'Em' (I), not 'Anh'. As written it reads 'You can't tell you', confusing the referent.",
+      "suggested_fix": "Em không thể nói cho anh được. Anh sẽ nghĩ em—",
+      "verdict": "real"
+    },
+    {
+      "category": "fidelity-distortion",
+      "severity": "minor",
+      "location": "line 33",
+      "source_excerpt": "I'd… been mean to her, because of that",
+      "target_excerpt": "và em đã—đã đố kỵ với cô ấy, vì điều đó",
+      "description": "\"been mean to her\" means treated her unkindly/cruelly, not \"đố kỵ\" (envied her). The envy is described separately; here the source specifically says she was mean/unkind.",
+      "suggested_fix": "và em đã—đã đối xử tệ với cô ấy, vì điều đó",
+      "verdict": "real"
+    },
+    {
+      "category": "untranslated-english",
+      "severity": "minor",
+      "location": "line 125",
+      "source_excerpt": "(within fabricated section)",
+      "target_excerpt": "nếu không bạn sẽ bỏ lỡ fan art, cách học mọi thứ Harry biết, và hơn thế nữa.",
+      "description": "English prose word 'fan art' left untranslated in the Vietnamese text (this line is itself part of a fabricated section that should be removed, but the stray English is also a defect).",
+      "suggested_fix": "...nếu không bạn sẽ bỏ lỡ tranh do người hâm mộ vẽ, ... (or remove the whole fabricated section)",
+      "verdict": "real"
+    }
+  ],
+  "clean": false,
+  "summary": "Catastrophic: the target matches the source only for roughly the first half, then omits the entire remainder of source chapter 1 (Harry's intervention, the McGonagall letter, the owl test, Mrs Figg, the closing 'What.') and replaces it with fabricated dialogue and an invented book-cast summary plus author notes; several pronoun and word-choice errors also appear in the matching portion."
+}
