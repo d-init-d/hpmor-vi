@@ -1,6 +1,4 @@
-64. Hermione Jean Granger và Lời Gọi Của Phượng Hoàng
-
-65. Các Tệp Omake IV, Các Chiều Song Song Thay Thế
+﻿64. Các Tệp Omake IV, Các Chiều Song Song Thay Thế
 
 E. Y.: Nếu bạn đã quá giờ ngủ năm tiếng mà vẫn đang đọc cái này, tôi có thể gợi ý bạn đi ngủ không? Câu chuyện sẽ vẫn ở đây ngày mai… trừ khi, bạn biết đấy, một điều gì đó tồi tệ xảy ra với nó và sáng hôm sau chỉ có một 404 tại địa chỉ này, và bạn chẳng còn gì ngoài một ký ức phai dần cùng một hối hận vĩnh cửu rằng bạn đã không thức lâu hơn để tiếp tục đọc trong khi bạn vẫn còn cơ hội… nhưng này, điều đó có bao nhiêu khả năng xảy ra? Câu chuyện này lan truyền qua viết blog, tweet, truyền miệng, thêm vào yêu thích, quảng bá trên các diễn đàn, và thêm vào danh sách; và nhớ rằng, nếu những độc giả trước bạn đã không dành một chút thời gian để làm điều đó, có lẽ bạn đã không tìm thấy cái này. Nếu đó không đủ để thúc đẩy bạn, thì hãy để tôi nói thêm rằng nếu bạn không giúp lan truyền tính hợp lý, Hermione sẽ buồn. Bạn không muốn cô ấy buồn, đúng không? Đừng quên ghé thăm LessWrong.com và đọc Các Chuyên Luận, sự tồn tại thực sự của cái đó mà câu chuyện này chỉ là một cái bóng. Tôi khuyên bắt đầu với chuyên luận Làm Thế Nào Để Thực Sự Thay Đổi Tâm Trí Của Bạn.
 
@@ -10,4 +8,266 @@ Chúa của Tính Hợp Lý
 
 Frodo liếc tất cả những khuôn mặt, nhưng chúng không quay về phía anh. Toàn bộ Hội Đồng ngồi với mắt cúi xuống, như đang suy nghĩ sâu sắc. Một nỗi kinh hoàng lớn ập xuống anh, như thể anh đang chờ đợi sự tuyên bố của một điều sấm ngầm mà anh đã biết trước từ lâu và vô cùng hy vọng rằng cuối cùng nó sẽ không bao giờ được nói ra. Một khao khát mãnh liệt được nghỉ ngơi và yên bình bên Bilbo ở Rivendell lấp đầy trái tim anh. Cuối cùng anh nói, và ngạc nhiên khi nghe những lời của chính mình, như thể một ý chí khác đang dùng giọng nhỏ bé của anh.
 
-"Chúng ta không thể, " Frodo nói. "Chúng ta không được. Các người không thấy sao? Đó là chính xác điều Kẻ Thù mong muốn. Tất cả điều này hắn đã tiên liệu. " Những khuôn mặt quay về phía anh, những người lùn bối rối và những tiên nghiêm trọng; sự khắc nghiệt trong mắt của những người đàn ông; và ánh mắt sắc bén của Elrond và của Gandalf khiến Frodo gần như không thể chịu đựng được...
+"Chúng ta không thể," Frodo nói. "Chúng ta không được. Các người không thấy sao? Đó là chính xác điều Kẻ Thù mong muốn. Tất cả điều này hắn đã tiên liệu." Những khuôn mặt quay về phía anh, những người lùn bối rối và những tiên nghiêm trọng; sự khắc nghiệt trong mắt của những người đàn ông; và ánh mắt sắc bén của Elrond và của Gandalf khiến Frodo gần như không thể chịu đựng được. Rất khó, lúc ấy, để không nắm lấy Chiếc Nhẫn trong tay, và còn khó hơn nữa để không đeo nó lên, để đối mặt với họ với tư cách chỉ là Frodo.
+
+"Các người không đặt câu hỏi về điều đó sao?" Frodo nói, giọng mỏng như gió, và lay động như một làn gió nhẹ. "Các người đã chọn, trong tất cả mọi thứ, chọn gửi Chiếc Nhẫn vào Mordor; lẽ nào các người không tự hỏi sao? Bằng cách nào lại đến nông nỗi này? Rằng chúng ta có thể, trong tất cả các lựa chọn của mình, làm đúng một điều duy nhất mà Kẻ Thù khao khát nhất? Có lẽ Khe nứt của Doom đã có người gác, đủ mạnh để chống lại cả Gandalf, Elrond và Glorfindel cùng lúc; hay có lẽ Chúa Nhân của nơi đó đã làm nguội dung nham ở đó, đặt nó để bẫy Chiếc Nhẫn để hắn có thể đơn giản mang nó ra sau khi nó bị ném vào…"
+
+Một ký ức với sự rõ ràng khủng khiếp ập đến Frodo lúc ấy, và một tia cười đen, và ý nghĩ ấy đến với anh rằng đó đúng là điều Kẻ Thù sẽ làm. Chỉ ý nghĩ đến với anh như thế này: ta sẽ thấy vui khi làm vậy, nếu ta định thống trị…
+
+Có những ánh mắt ngờ vực được trao đổi trong hội đồng; Glóin, Gimli và Boromir giờ đang nhìn những tiên hoài nghi hơn trước, như thể họ vừa tỉnh ra khỏi một giấc mơ về lời nói.
+
+"Kẻ Thù rất khôn ngoan," Gandalf nói, "và cân đo mọi thứ đến từng chi tiết trong cái cân của lòng hiểm ác. Nhưng thước đo duy nhất mà hắn biết là khao khát, khao khát quyền lực; và vì vậy hắn phán xét mọi trái tim. Vào trong trái tim hắn, ý nghĩ ấy sẽ không xuất hiện — rằng bất kỳ ai sẽ từ chối nó, rằng khi có Chiếc Nhẫn chúng ta có thể tìm cách hủy diệt nó—"
+
+"Hắn sẽ nghĩ đến chuyện đó!" Frodo kêu lên. Anh vật lộn tìm lời, cố diễn đạt những điều từng có vẻ hoàn hảo trong sự hiểu biết của mình, rồi phai nhạt đi như tuyết đang tan. "Nếu Kẻ Thù nghĩ rằng tất cả kẻ thù của hắn chỉ bị thúc đẩy bởi khao khát quyền lực—hắn sẽ đoán sai, đoán sai mãi, và Kẻ Tạo Ra Chiếc Nhẫn này sẽ thấy điều đó, hắn sẽ biết rằng ở đâu đó hắn đã mắc sai lầm!" Đôi tay Frodo giơ ra van nài.
+
+Boromir cựa mình, và giọng anh ta đầy ngờ vực. "Ngươi tô vẽ Kẻ Thù đẹp đẽ quá nhỉ," Boromir nói, "với tư cách là kẻ thù của hắn."
+
+Miệng Frodo mở ra rồi khép lại trong sự bối rối tuyệt vọng; vì Frodo biết, anh biết gã người kia điên, nhưng anh không nghĩ ra điều gì để nói.
+
+Rồi Bilbo cất tiếng, và giọng khàn khàn của ông câm lặng cả căn phòng, kể cả Elrond người vừa định nói. "Frodo đúng, ta sợ thế," ông hobbit già thì thầm. "Ta nhớ, ta nhớ nó như thế nào. Được nhìn bằng Ánh Nhìn Đen. Ta nhớ. Kẻ Thù sẽ nghĩ rằng chúng ta có thể không tin lẫn nhau, rằng kẻ yếu hơn trong chúng ta sẽ đề xuất hủy diệt Chiếc Nhẫn để kẻ mạnh hơn không thể có nó. Hắn biết rằng ngay cả một kẻ không thực sự tốt vẫn có thể hô to hủy diệt Chiếc Nhẫn, để làm ra vẻ thiện giả vờ. Và Kẻ Thù sẽ không nghĩ rằng quyết định như vậy là không thể được đưa ra bởi hội đồng này, vì các người thấy đấy, hắn không tin chúng ta sẽ khôn ngoan." Một tiếng cười khẽ rít lên từ cổ ông hobbit già. "Và nếu hắn có—ờ, hắn vẫn sẽ canh gác Khe nứt của Doom. Nó sẽ tốn của hắn không bao nhiêu."
+
+Bây giờ sự báo trước hiện lên trên gương mặt ngay cả của những Tiên, và các Bậc Khôn ngoan; Elrond đang nhíu mày, và đôi lông mày sắc của Gandalf nhíu lại. Frodo nhìn tất cả họ, cảm thấy một sự hoang dã tràn qua mình, một sự tuyệt vọng; và khi trái tim anh yếu đi, một bóng tối ập qua thị giác, một bóng tối và sự lay động. Từ trong bóng tối, Frodo nhìn thấy Gandalf, và sức mạnh của pháp sư hiện ra là sự yếu đuối, và sự khôn ngoan của ông là sự điên rồ. Vì Frodo biết, khi Chiếc Nhẫn dường như kéo và đè lên ngực anh, rằng Gandalf đã không hề nghĩ đến lịch sử và huyền thoại, khi pháp sư nói về việc Kẻ Thù sẽ không hiểu bất kỳ khao khát nào ngoài quyền lực; rằng Gandalf đã không nhớ Sauron đã đánh bại và hủ hóa những người Númenor trong thời kỳ huy hoàng của họ như thế nào. Cũng như Pháp sư đã không nghĩ rằng Kẻ Thù có thể học cách hiểu kẻ thù thiện ý bằng cách nhìn…
+
+Ánh nhìn Frodo chuyển sang Elrond, nhưng không có hy vọng nào ở đó, không có câu trả lời và không có sự cứu rỗi trong thị giác bóng tối; vì Elrond đã để Isildur đi, mang Chiếc Nhẫn ra khỏi Khe nứt của Doom, nơi lẽ ra nó phải bị hủy diệt, với cái giá của tất cả cuộc chiến này. Không phải vì bản thân Isildur, không phải vì tình bạn mà điều đó được làm, vì Chiếc Nhẫn đã giết Isildur cuối cùng, và những số phận tệ hơn nhiều có thể đã theo sau hắn. Nhưng số Phận bắt nguồn từ hành động của Isildur sẽ có vẻ không chắc chắn với Elrond lúc đó, không chắc chắn và xa trong tương lai; và tuy nhiên, cái giá mà bản thân Elrond phải trả khi dùng chuôi kiếm đánh vào sau đầu Isildur sẽ chắc chắn hơn, và gần hơn…
+
+Như thể tuyệt vọng, Frodo quay lại nhìn Aragorn, người đàn ông đã qua gió sương khoác lên bộ y phục đã sờn cho hội đồng này, người thừa kế của các vua vốn nói nhỏ nhẹ với những hobbit. Nhưng thị giác của Frodo dường như nhân đôi, và trong hình bóng thứ hai mờ ảo, Frodo thấy một Người đã dành quá nhiều tuổi trẻ giữa những Tiên, người đã học cách mặc những bộ y phục khiêm tốn và lấm bẩn giữa vàng và ngọc, biết rằng anh ta không thể ngang hàng với họ về trí tuệ, và hy vọng vượt mặt họ theo cách mà họ không noi theo…
+
+Trong mắt Chiếc Nhẫn, vốn là mắt của chính Kẻ Tạo Ra Chiếc Nhẫn, mọi thứ cao quý phai mờ thành mưu mẹo và dối trá, một thế giới xám xịt và bóng tối không có ánh sáng. Họ đã không đưa ra lựa chọn của mình một cách hiểu biết, Gandalf hay Elrond hay Aragorn; những xung động đến từ những phần tối tăm ẩn giấu của chính họ, những vùng sâu bí mật đen tối mà Chiếc Nhẫn đã phơi bày rõ ràng trong thị giác của Frodo. Họ sẽ thắng Bóng Tối bằng trí tuệ sao, khi họ thậm chí không thể hiểu được chính bản thân họ, hay những lực lượng thúc đẩy họ?
+
+"Frodo!" tiếng thì thầm sắc của Bilbo vang lên, và Frodo tỉnh lại, và dừng tay lại khi tay anh đang vươn lên chỗ Chiếc Nhẫn nằm trên ngực, trên sợi dây chuyền, kéo xuống như một tảng đá lớn quanh cổ. Vươn lên nắm lấy Chiếc Nhẫn, nơi chứa đựng mọi câu trả lời.
+
+"Làm sao ông chịu được thứ này?" Frodo thì thầm với Bilbo, như thể hai người họ là những linh hồn duy nhất trong phòng, dù toàn bộ Hội Đồng đang nhìn họ. "Suốt nhiều năm sao? Cháu không thể tưởng tượng nổi."
+
+"Ta giữ nó khóa trong một căn phòng mà chỉ Gandalf có chìa khóa," ông chú anh nói, "và khi ta bắt đầu tưởng tượng ra những cách để mở nó, ta nhớ đến Gollum."
+
+Một cơn rùng mình chạy qua Frodo, nhớ lại những câu chuyện. Nỗi kinh hoàng của Núi Mù, suy nghĩ, luôn luôn suy nghĩ trong bóng tối; cai trị bọn goblin từ bóng tối và lấp đầy các đường hầm bằng bẫy; nhưng nếu Bilbo không đeo chiếc nhẫn lần đầu tiên, sẽ không một người lùn nào sống sót. Và giờ, Legolas Tiên đã kể với họ, Gollum đã ngừng gửi đặc vụ của hắn chống lại Shire, cuối cùng đã tìm được can đảm rời núi và tự mình tìm Chiếc Nhẫn. Đó là Gollum, số phận mà Frodo sẽ chia sẻ, nếu Chiếc Nhẫn không bị hủy diệt. Chỉ là họ không có cách nào hủy diệt Chiếc Nhẫn. Bóng Tối đã tiên liệu mọi nước đi họ có thể làm. Đã gần như—Frodo vẫn không thể tưởng tượng được nó đã được thực hiện như thế nào, làm sao Bóng Tối sắp xếp được một điều như vậy—đã gần như thao túng Hội Đồng đưa Chiếc Nhẫn thẳng vào Mordor chỉ với một đội hộ tống nhỏ, như họ đã làm nếu Frodo và Bilbo không ở đó. Và sau khi từ bỏ thất bại nhanh nhất trong tất cả các thất bại có thể, câu hỏi duy nhất còn lại là sẽ mất bao lâu để thua. Gandalf đã chần chừ quá lâu, chần chừ quá lâu để khởi động cuộc hành quân này. Nó có thể đã dễ dàng như vậy, nếu chỉ Bilbo khởi hành sớm tám mươi năm, nếu chỉ Bilbo được kể những gì Gandalf đã nghi ngờ, nếu chỉ trái tim Gandalf không lặng lẽ rút lui khỏi viễn cảnh bị sai một cách đáng xấu hổ…
+
+Bàn tay Frodo co giật trên ngực; không cần suy nghĩ, ngón tay anh bắt đầu lại vươn lên về phía sức nặng khổng lồ của sợi dây chuyền mà Chiếc Nhẫn treo trên đó. Tất cả những gì anh phải làm là đeo Chiếc Nhẫn. Chỉ vậy thôi, và mọi thứ sẽ trở nên rõ ràng với anh, một lần nữa sự chậm chạp và bùn lầy sẽ rời khỏi suy nghĩ của anh, mọi khả năng và tương lai sẽ trong suốt với anh, anh sẽ thấy xuyên qua các kế hoạch của Bóng Tối và nghĩ ra một đòn phản công không thể cưỡng lại—
+
+—và anh sẽ không bao giờ có thể tháo Chiếc Nhẫn, không bao giờ nữa, không phải bằng bất kỳ ý chí nào còn sót lại trong anh. Tất cả những gì Frodo có về những khoảnh khắc đó là những ký ức phai nhạt, nhưng anh biết rằng nó đã cảm thấy như đang chết, để để mọi tòa tháp suy nghĩ của mình sụp đổ và trở thành chỉ là Frodo một lần nữa. Nó đã cảm thấy như đang chết, anh nhớ được nhiều như vậy về Weathertop ngay cả khi anh nhớ rất ít điều khác. Và nếu anh đeo Chiếc Nhẫn lần nữa, sẽ tốt hơn là chết với nó trên ngón tay, để kết thúc cuộc đời trong khi anh vẫn là chính mình; vì Frodo biết rằng anh không thể chịu đựng được tác dụng của việc đeo Chiếc Nhẫn lần thứ hai, không phải sau đó khi sự trong suốt vô hạn đã mất đi với anh…
+
+Frodo nhìn quanh Hội Đồng, nhìn những Bậc Khôn ngoan đáng thương lạc lối không người dẫn đường, và anh biết họ không thể đánh bại Bóng Tối bằng sức mạnh riêng của mình. "Cháu sẽ đeo nó lần cuối cùng," Frodo nói, giọng đứt quãng và thất bại, như anh đã biết từ đầu rằng mình sẽ nói cuối cùng, "một lần cuối để tìm câu trả lời cho Hội Đồng này, và rồi sẽ có những hobbit khác."
+
+"Không!" tiếng hét của Sam vang lên, khi hobbit kia bắt đầu xông tới từ chỗ hắn đã ẩn nấp; ngay khi Frodo, với cử chỉ nhanh và chính xác như một Nazgûl, rút Chiếc Nhẫn ra từ dưới áo sơ mi; và bằng cách nào đó Bilbo đã đứng sẵn ở đó và đã luồn ngón tay qua. Tất cả xảy ra trước cả khi gậy Gandalf có thể chỉ, trước khi Aragorn có thể giơ mảnh chuôi kiếm của mình; những người lùn hét lên kinh hãi, và những Tiên bàng hoàng.
+
+"Tất nhiên," giọng Bilbo nói, khi Frodo bắt đầu khóc, "ông thấy rồi, ông hiểu mọi thứ cuối cùng. Nghe, nghe đi và thật nhanh, đây là những gì các người phải làm—"
+
+Phù Thủy và Tủ Quần Áo
+
+Với con mắt phê phán, Peter nhìn lướt qua những Centaur đóng quân với cung tên của chúng, những Beaver với dao găm dài, và những con Gấu biết nói với áo giáp xích khoác trên người. Anh là người chỉ huy, vì anh là một trong những Con trai huyền thoại của Adam và đã tự phong mình là Đại Vua của Narnia; nhưng sự thật là anh không thực sự biết nhiều về đóng quân, vũ khí, và tuần tra canh gác. Cuối cùng tất cả những gì anh có thể thấy là tất cả chúng trông có vẻ tự hào và tự tin, và Peter phải hy vọng chúng đúng về điều đó; vì nếu bạn không thể tin vào người của mình, bạn không thể tin vào bất kỳ ai.
+
+"Chúng sẽ làm cháu sợ, nếu cháu phải đánh với chúng," Peter cuối cùng nói, "nhưng cháu không biết nó có đủ để đánh bại… bà ta không."
+
+"Cháu không nghĩ con sư tử bí ẩn kia thực sự sẽ xuất hiện và giúp mình chứ, phải không?" Lucy nói. Giọng cô rất nhỏ, để không có sinh vật nào xung quanh nghe thấy. "Chỉ là sẽ tốt biết mấy nếu thực sự có nó, cháu không nghĩ sao, thay vì chỉ để mọi người nghĩ rằng nó đã đặt mình lên nắm quyền?"
+
+Susan lắc đầu, lắc những mũi tên ma thuật trong ống tên trên lưng. "Nếu thực sự có ai đó như vậy," Susan nói, "nó sẽ không để Phù Thủy Trắng phủ đất bằng mùa đông suốt một trăm năm, đúng không?"
+
+"Cháu có giấc mơ kỳ lạ nhất," Lucy nói, giọng còn nhỏ hơn, "ở đó chúng ta không phải tổ chức bất kỳ sinh vật nào hay thuyết phục chúng chiến đấu, chúng ta chỉ bước vào nơi này và con sư tử đã ở đó rồi, với tất cả các đội quân đã tập họp sẵn, và nó đi cứu Edmund, và rồi chúng ta cưỡi bên cạnh nó vào trận chiến khổng lồ nơi nó giết Phù Thủy Trắng…"
+
+"Giấc mơ có ý nghĩa đạo đức không?" Peter nói. "Cháu không biết," Lucy nói, chớp mắt và có vẻ hơi bối rối. "Trong mơ, mọi thứ dường như vô ích một cách nào đó."
+
+"Cháu nghĩ có lẽ vùng đất Narnia đang cố nói với cháu," Susan nói, "hay có lẽ chỉ là giấc mơ của chính cháu đang cố nói với cháu, rằng nếu thực sự có một người như con sư tử đó, sẽ chẳng có chỗ nào cho mình."
+
+My Little Pony: Tình Bạn Là Khoa Học
+
+"Applejack, người đã nói thẳng với tôi rằng tôi sai, đại diện cho tinh thần… trung thực!" Twilight Sparkle ngẩng đầu cao hơn nữa, bờm bay như gió quanh bầu trời u ám của cổ nàng. "Fluttershy, người đã tiếp cận con manticore để tìm hiểu về chiếc gai trong chân nó, đại diện cho tinh thần… điều tra! Pinkie Pie, người đã nhận ra rằng những khuôn mặt khủng khiếp chỉ là cây, đại diện cho tinh thần… hình thành giả thuyết thay thế! Rarity, người đã giải quyết vấn đề con rắn, đại diện cho tinh thần… sáng tạo! Rainbow Dash, người đã nhìn xuyên qua lời đề nghị sai lầm về điều ước của trái tim mình, đại diện cho tinh thần… phân tích! Marie-Susan, người đã bắt chúng tôi phải thuyết phục cô ấy rằng chúng tôi đúng trước khi cô ấy đồng ý tham gia chuyến thám hiểm của chúng tôi, đại diện cho tinh thần… bình duyệt đồng cấp! Và khi những Nguyên Tố đó được thắp lên bởi tia lửa tò mò trú ngụ trong trái tim tất cả chúng ta, nó tạo ra nguyên tố thứ bảy—Nguyên Tố Khoa—"
+
+Luồng sức mạnh phóng ra giống như gió của đêm không trăng, nó bắt được Marie-Susan trước khi con pony kịp giật mình, và nàng biến mất không dấu vết trước khi bất kỳ ai trong số chúng kịp giật mình kinh hãi. Từ thứ tối tăm đứng ở trung tâm bục nơi các Nguyên Tố đã vỡ tan, từ đường viền hư vô-đen hiếm khi nhận ra được của một con ngựa, vọng đến một giọng nói dường như bỏ qua mọi tai và cháy như lửa lạnh, vang trực tiếp trong não của mọi pony nghe thấy:
+
+Các ngươi đã mong đợi ta chỉ đứng đó và để các ngươi nói xong sao?
+
+Twilight Sparkle đờ ra nhìn khoảng trống nơi Marie-Susan đã từng ở, nơi không còn dấu vết nào của con kỳ lân. Nó—nó vừa—nó—
+
+Trong đầu sau, không nghe thấy, nàng nhận thức được rằng Rarity đang hét lên. Đó không phải là sự phân rã, giọng của Nightmare nói. Ta đã gửi nó đi nơi khác. Tiếng hét của Rarity dừng lại đột ngột. Twilight Sparkle cảm thấy như tiếng hét của chính mình mới chỉ bắt đầu.
+
+Bảy. Cần bảy con pony để dùng Nguyên Tố Khám Phá. Ai cũng biết rằng bất kể bạn trung thực, điều tra, hoài nghi, sáng tạo, phân tích, hay tò mò đến đâu, điều thực sự biến công việc của bạn thành Khoa Học là khi bạn công bố kết quả trên một tạp chí có uy tín. Ai cũng biết vậy. Liệu có thể có nhiều hơn một Nguyên Tố Bình Duyệt Đồng Cấp cùng lúc không—sẽ mất bao lâu để tìm thêm một cái—và Nightmare sẽ không chỉ đứng đó để chúng làm—
+
+"Ở đâu?" Rainbow Dash hét lên. "Mày để nó ở đâu?"
+
+Ta để con pony nhỏ ở cùng nơi ta trói chị gái đáng thương của ta, trong lòng mặt trời đáng thương của nó. "Nó sẽ chết!" Fluttershy kêu lên, nhìn Nightmare kinh hoàng. "Ở đó quá nóng, nó sẽ cháy!"
+
+Ồ, đừng lo. Sức mạnh của Nightmare bao bọc người bạn nhỏ của các ngươi, giữ cho nó an toàn và mát mẻ, duy trì nó không cần ăn uống. Nó sẽ không chịu đựng gì hơn sự chán nản…
+
+Đường viền hư vô-đen bước xuống bục, đi chậm, có chủ ý, qua sáu con pony còn lại. …miễn là sức mạnh của Nightmare không bị phá vỡ. Bởi bất kỳ kế hoạch dự phòng nào mà chị ta có thể đã thiết lập, ví dụ vậy, và có thể được các ngươi biết. Trong trường hợp đó nó sẽ bốc hơi ngay lập tức. Thật là một thứ đáng yêu, tình bạn. Nó tạo ra một công cụ tống tiền tuyệt vời như vậy. Hãy chắc chắn giữ an toàn các Nguyên Tố Khám Phá. Các ngươi sẽ không muốn ai khác dùng chúng trên ta, phải không?
+
+"Không," Twilight Sparkle thì thầm, khi sự kinh hoàng bắt đầu hé lộ với nàng. Rồi một cảm giác bò khắp da, khi Nightmare đi ngang qua nàng, và sức mạnh chết chóc lướt qua nàng với cái vuốt lạnh lẽo của nó. Bây giờ nếu các ngươi thứ lỗi cho ta, những con pony nhỏ của ta, ta có một đêm vĩnh hằng để cai trị.
+
+Làng Ẩn Trong Sự Trong Sáng
+
+"Hãy xét sức mạnh tính toán cần thiết để tạo ra hơn một trăm bản sao bóng," thiên tài Uchiha nói bằng giọng vô tình của mình. "Đó là một sai lầm của tính hợp lý, Sakura, khi nói 'may rủi' và nghĩ rằng mình đã giải thích được bất cứ điều gì. 'May rủi' đơn giản là cái tên người ta đặt cho dữ liệu mà người ta đang phớt lờ."
+
+"Nhưng nó phải là may rủi chứ!" Sakura hét lên. Cố gắng, cô bình tĩnh giọng mình thành sự chính xác cẩn thận mà một ninja hợp lý phải có; sẽ không tốt nếu crush của cô nghĩ cô ngu ngốc. "Như anh đã nói, sức mạnh tính toán cần thiết để dùng hơn một trăm Kage Bunshin đơn giản là phi lý. Chúng ta đang nói về trình độ của một siêu trí tuệ lớn. Naruto là đứa cuối cùng của lớp chúng ta. Nó thậm chí không thông minh ở cấp jōnin, chứ đừng nói là siêu trí tuệ!"
+
+Mắt Uchiha lấp lánh, gần như thể anh ta vừa kích hoạt Smartingan. "Naruto có thể tạo ra một trăm bản sao hoạt động độc lập. Cậu ta phải có năng lực não thô. Nhưng, trong hoàn cảnh bình thường, có điều gì đó ngăn cậu ta sử dụng sức mạnh tính toán này hiệu quả… giống như một tâm trí đang chiến tranh với chính nó, có lẽ? Bây giờ chúng ta có lý do để tin rằng Naruto bằng cách nào đó được kết nối với một siêu trí tuệ, và với tư cách là một genin mới tốt nghiệp, cậu ta, giống chúng ta, mười lăm tuổi. Chuyện gì đã xảy ra mười lăm năm trước, Sakura?"
+
+Mất một lúc Sakura để hiểu, để nhớ lại, và rồi cô hiểu. Cuộc tấn công của Hồ Ly Quỷ Chín Bộ Não. Chỉ là một sinh vật nhỏ xương-trắng với đôi tai lớn và cái đuôi lớn hơn và đôi mắt đỏ nhỏ. Nó không mạnh hơn một con cáo thường, nó không phun lửa hay phóng tia laser, nó không có chakra cũng như không có bất kỳ phép thuật nào, nhưng trí thông minh của nó gấp hơn chín nghìn lần con người. Hàng trăm người đã bị giết, một nửa các tòa nhà bị phá hủy, gần như toàn bộ làng Beisugakure đã bị san phẳng.
+
+"Em nghĩ Kyubey đang trốn bên trong Naruto?" Sakura nói. Một lúc sau, bộ não cô tự động tiếp tục điền vào những hệ quả hiển nhiên của lý thuyết. "Và xung đột phần mềm giữa sự tồn tại của chúng là lý do anh ta hành động như một thằng ngốc lảm nhảm nửa thời gian, nhưng có thể điều khiển một trăm Kage Bunshin. Hừ. Cái đó… hợp lý thật… thực ra…"
+
+Sasuke gật đầu ngắn gọn, khinh bỉ của một người đã tự mình tìm ra tất cả những điều này, không cần ai khác nhắc. "Anōōō…" Sakura nói. Chỉ có nhiều năm tập luyện tỉnh táo mới kênh được sự hoảng loạn hét lên hoàn toàn của cô thành các lựa chọn chính sách hữu dụng về mặt thực dụng. "Chẳng lẽ chúng ta… nên kể với ai đó về điều này? Kiểu như, trong vòng năm giây tới?"
+
+"Người lớn đã biết rồi," Sasuke nói vô cảm. "Đó là lời giải thích hiển nhiên cho cách đối xử của họ với Naruto. Không, câu hỏi thực sự là làm sao điều này ăn khớp vào việc qua mặt nhà Uchiha…"
+
+"Em không thấy nó ăn khớp chút nào—" Sakura bắt đầu. "Nó phải ăn khớp!" Một chút cảm xúc hoảng loạn thoáng qua trong giọng Sasuke. "Em đã hỏi người đàn ông đó tại sao anh ta làm vậy, và anh ta nói với em rằng khi em biết câu trả lời cho điều đó, nó sẽ giải thích mọi thứ! Chắc chắn điều này cũng phải là một phần của thứ cần được giải thích!"
+
+Sakura thở dài với chính mình. Giả thuyết cá nhân của cô là Itachi chỉ đang cố đẩy anh trai mình vào chứng hoang tưởng lâm sàng.
+
+"Yo, lũ trẻ," giọng giáo sư hợp lý của chúng vang lên từ bộ đàm trong tai. "Có một ngục làng ở Wave đang cố xây cầu, và nó tiếp tục sập xuống không lý do mà ai cũng không giải thích được. Gặp nhau ở cổng lúc giữa trưa. Đã đến lúc cho nhiệm vụ phân tích cấp C đầu tiên của các em."
+
+Erdős Trong Xiềng Xích
+
+"Làm sao chị có thể làm vậy, Anita?" Richard nói, giọng rất căng. "Làm sao chị có thể đồng tác giả một bài báo với Jean-Claude? Chị nghiên cứu bất tử, chị không cộng tác với chúng!"
+
+"Còn anh thì sao?" tôi nhổ nước bọt. "Anh đã đồng tác giả một bài báo với Sylvie! Anh thì được phép năng suất còn tôi thì không à?"
+
+"Tôi là trưởng viện của nó," Richard gầm gừ. Tôi có thể cảm nhận những sóng khoa học tỏa ra từ anh ta; anh ta đang tức giận. "Tôi phải làm việc với Sylvie, điều đó không có nghĩa gì cả! Tôi tưởng nghiên cứu của chúng ta là đặc biệt, Anita!"
+
+"Nó là vậy," tôi nói, cảm thấy bất lực về sự bất lực của mình trong việc giải thích mọi thứ cho Richard. Anh ta không hiểu được cảm giác hồi hộp của việc trở thành một người uyên bác, những thế giới mới đang mở ra với tôi. "Tôi đã không chia sẻ nghiên cứu của chúng ta với bất kỳ ai—"
+
+"Nhưng em muốn," Richard nói. Tôi không nói gì, nhưng tôi biết rằng vẻ mặt tôi nói lên tất cả. "Trời ơi, Anita, em đã thay đổi," Richard nói. Anh ta dường như sụp xuống. "Em có nhận ra rằng bọn quái vật giờ đang đùa cợt về các số Blake không? Tôi từng là đối tác của em trong mọi thứ, và giờ—tôi chỉ là một con người sói khác với số Blake là 1."
+
+ThunderSmarts
+
+"Ta chán ngấy cái trò này rồi!" Liono hét lên. "Chán ngấy phải làm cái này mỗi tuần! Loài ta từng có khả năng du hành giữa các vì sao, Panthro, ta biết các đại lượng năng lượng liên quan! Không có cách nào anh không thể chế tạo bom hạt nhân hoặc lái một tiểu hành tinh hoặc bằng cách nào đó thổi bay cái kim tự tháp của thằng ngốc bất diệt đó!"
+
+He-Man và Các Bậc Thầy của Tính Hợp Lý
+
+"Tri thức bí mật tuyệt vời đã được mặc khải cho ta vào ngày ta giơ cao cuốn sách phép và nói: Bằng sức mạnh của Định lý Bayes!"
+
+Fate/Sane Night
+
+Ta là cốt lõi của những suy nghĩ của ta
+Niềm tin là thân thể ta
+Và lựa chọn là máu ta
+Ta đã sửa đổi hơn một nghìn phán đoán
+Không sợ mất mát
+Cũng không nhận thức được được
+Đã chịu đựng đau đớn để cập nhật nhiều lần
+Chờ đợi sự xuất hiện của chân lý.
+Đây là con đường bất định duy nhất.
+Cả cuộc đời ta đã là…
+Hoạt động Bayes Không Giới Hạn!
+
+Cái Tên của Tính Hợp Lý
+
+Cậu bé mười một tuổi sẽ có ngày trở thành huyền thoại—kẻ giết rồng, kẻ giết vua—chỉ có một ý nghĩ trong đầu, khi cậu tiến đến Mũ Phân Loại để bước vào việc học những bí ẩn. Bất cứ nơi nào trừ Ravenclaw, bất cứ nơi nào trừ Ravenclaw, ôi làm ơn, bất cứ nơi nào trừ Ravenclaw…
+
+Nhưng chưa kịp và nh nỉ cũ của thiết bị cổ xưa trượt qua trán cậu—
+
+"RAVENCLAW!"
+
+Khi chiếc bàn phủ xanh bắt đầu vỗ tay, khi cậu tiến đến chiếc bàn kinh hoàng nơi cậu sẽ dành bảy năm tới, Kvothe đã nhăn mặt bên trong, chờ đợi điều không thể tránh khỏi; và điều không thể tránh khỏi xảy ra gần như ngay lập tức, đúng như cậu đã sợ, trước cả khi cậu có cơ hội ngồi xuống đàng hoàng.
+
+"Thế!" một cậu bé lớn hơn nói với vẻ mặt vui vẻ của ai vừa nghĩ ra điều gì đó khôn ngoan kinh khủng. "Kvothe Quạ, hả?"
+
+Tengen Toppa Gurren Lý Trí 40k
+
+Ta có một câu chuyện thật tuyệt vời cho crossover này mà lề này quá hẹp để chứa nổi.
+
+Utilitarian Twilight
+
+"Edward," Isabella nói một cách dịu dàng. Cô đưa tay lên vuốt má lạnh lấp lánh của anh. "Anh không cần phải bảo vệ em khỏi bất cứ điều gì. Em đã liệt kê tất cả những điều tốt và tất cả những điều xấu, gán cho chúng những trọng số tương đối nhất quán, và nó thật sự rất hiển nhiên rằng những lợi ích của việc trở thành ma cà rồng vượt trội hơn những bất lợi."
+
+"Bella," Edward nói, và nuốt nước bọt tuyệt vọng. "Bella—"
+
+"Sự bất tử. Sức khỏe hoàn hảo. Đánh thức các năng lực tâm linh. Đủ dễ để sống sót bằng máu động vật khi anh làm vậy. Ngay cả vẻ đẹp, Edward, có những người sẵn sàng cho đi mạng sống để được xinh đẹp, và đừng dám gọi họ là nông cạn cho đến khi anh đã thử làm xấu xí. Em có nghĩ em sợ từ 'ma cà rồng' không? Em mệt mỏi vì những ràng buộc bổn phận tùy tiện của anh, Edward. Toàn bộ loài người nên được tham gia vào niềm vui của anh, và người ta đang chết hàng nghìn người ngay cả khi anh do dự."
+
+Khẩu súng trong tay người yêu anh lạnh ngắt trước trán anh. Nó sẽ không giết anh, nhưng nó sẽ vô hiệu hóa anh đủ lâu—
+
+Aladdin Jasmine
+
+Gương mặt Aladdin đầy vẻ thương nhớ, nhưng quyết tâm, khi cậu bé ăn xin mới hoàn thành đối mặt với sinh vật xanh quyền năng vũ trụ lần cuối cùng, sẵn sàng từ bỏ sự giàu có và hy vọng mà cậu đã nếm thoáng qua để vì bạn mình. "Genie, ta đưa ra điều ước thứ ba. Ta ước cho người được—"
+
+Công chúa Jasmine, người đã đứng nhìn cảnh này với miệng mở ra, không hoàn toàn tin vào những gì mình thấy, vừa đủ để vượt qua sự tê liệt và giật cây đèn ra khỏi tay cậu bé trước khi cậu kịp kết thúc câu tai hại. "Xin lỗi," Jasmine nói. "Aladdin, anh yêu, anh dễ thương nhưng anh là một thằng ngốc, anh có biết không? Anh không nhận ra sao rằng khi Jafar có cây đèn này trong tay, anh ta có ba điều ước của riêng anh ta—ồ, thôi kệ. Genie, tôi ước cho tất cả mọi người luôn trẻ và khỏe mạnh, tôi ước không ai phải chết nếu họ không muốn, và tôi ước cho trí thông minh của tất cả mọi người tăng dần với tốc độ 1 điểm IQ mỗi năm." Cô ném cây đèn lại cho Aladdin. "Quay lại việc anh đang làm."
+
+Hoàng Tử Hamlet và Hòn Đá Phù Thủy
+
+HAMLET: Kẻ xâm nhập, hãy từ bỏ trò đùa kỳ lạ này, trò đùa lạm dụng sự mù lòa của nỗi đau ta, và tấm lòng tốt của người bạn tốt Horatio. Nếu không, nếu ngươi thực sự có quyền với hình dạng được yêu quý này, hãy nói cho ta: Bức tranh nào ta đã tặng Vua Hamlet, khi sáu tuổi và mới ra khỏi cái ná cao su?
+
+BÓNG MA: Đó là một con kỳ lân mặc giáp.
+
+HAMLET: Cái gì.
+
+BÓNG MA: Hãy ghi nhớ.
+
+HAMLET: Cha, con sẽ.
+
+BÓNG MA: Giờ ta gần đến, khi ta phải trả lại chính mình cho ngọn lửa diêm sinh và hành hạ.
+
+HAMLET: Người đang chịu đau đớn?
+
+BÓNG MA: Vâng, như tất cả những ai chết mà không được xưng tội.
+
+HAMLET: Như mọi người Đan Mạch, đây là điều con được dạy. Tuy nhiên con đã nghĩ rằng sự bất thường như vậy không phù hợp với Chúa toàn năng. Vì tất cả những ai chịu cái chết bất ngờ, không có mặt các linh mục được Chúa chọn, để rồi bị trừng phạt vì sự sắp xếp bừa bãi của thế giới…
+
+BÓNG MA: Không phải thế giới đã giết ta, cũng không phải tai nạn nào cả.
+
+HAMLET: Cái gì?
+
+BÓNG MA: Nếu con từng yêu cha thân yêu của mình, hãy báo thù cho cái chết ô nhục và bất tự nhiên của người.
+
+HAMLET: Ôi Chúa.
+
+BÓNG MA: Thời gian ta càng ngắn dần. Con có muốn nghe câu chuyện không?
+
+HAMLET: Không.
+
+BÓNG MA: Cái gì?
+
+HAMLET: Tình yêu của con với cha gọi con báo thù cho cha, nhưng những tội ác lớn hơn con đã được kể cho nghe đêm nay. Nếu tất cả những ai bị giết đều xuống Địa ngục, và những người khác nữa, những người đã xưng tội nếu họ có thời gian, nếu những người vốn tốt, cân bằng mà nói, chịu đựng sự khủng khiếp dưới tay Chúa, thì con thách thức kế hoạch của Chúa. Hỡi Bóng Ma tốt, người sống bên kia bức màn, người biết những điều mà chúng ta phàm nhân khó lòng tưởng tượng. Hãy nói cho con: có loại thuốc hay thiết bị nào đó, ngoài tầm hiểu biết của tự nhiên nhưng không ngoài khả năng của nó, để bản thân cái chết có thể bị trốn tránh?
+
+BÓNG MA: Con tìm cách tránh Địa ngục?
+
+HAMLET: Con tìm cách từ chối Địa ngục với tất cả mọi người! và cả Thiên đường nữa, vì con nghi ngờ Thiên đường của vị Chúa điên của chúng ta có thể là thứ tầm thường, kề bên Thiên đường con sẽ tạo ra trên Trái đất, khi con là vua bất tử của nó.
+
+BÓNG MA: Ta không quan tâm đến những thứ này. Cái chết và địa ngục đã tước đi mọi ham muốn của ta, ngoài sự báo thù kẻ giết ta.
+
+HAMLET: Người sẽ không được báo thù, trừ khi người thề: nếu con giết kẻ giết người, người sẽ cung cấp cho con phương tiện để con giết chết cái chết. Kẻ đã giết người sẽ gia nhập người trong Hố, và thế là hết. Không có thêm sự phình to của hàng ngũ Địa ngục nào ta sẽ cho phép.
+
+BÓNG MA: Đã xong. Khi anh ta bị giết, kẻ đã rót thuốc độc vào tai ta, thì ta sẽ rót vào tai con sự thật quý giá: cách tạo ra Hòn Đá Phù Thủy. Với Hòn Đá này, ngươi có thể tìm được thuốc để khiến bất kỳ ai miễn nhiễm với cái chết, và hơn thế nữa biến kim loại cơ bản thành vàng, để tài trợ cho món quà thuốc này cho toàn thể nhân loại.
+
+HAMLET: Quả thực không có gì ngoài giấc mơ của triết học. Khoan. Kẻ mà con phải giết—chú ruột ta, nhà vua?
+
+BÓNG MA: Vâng, con thú loạn luân, con thú phản bội, với phép thuật của trí tuệ hắn, với những món quà phản bội—
+
+HAMLET: Quả thực, hắn có những món quà khiến ta gần tuyệt vọng, về việc giết hắn mà vẫn kế thừa được ngai vàng. Đó sẽ là một cuộc chiến khủng khiếp vì mục đích khủng khiếp. Người có lời khuyên nào không?
+
+Tiếng gà gáy. Bóng Ma đi ra.
+
+Moby Ai?
+
+"Báo thù?" người đàn ông chân gỗ nói. "Vì một con cá voi? Không, ta quyết định ta sẽ tiếp tục cuộc sống của mình."
+
+Alice Ở Xứ Sở Mà Mọi Thứ Còn Điên Hơn Ở Đây
+
+Alice đang ngồi cạnh chị mình trên bờ, đọc một cuốn sách. Cô có vài người bạn lớn hơn, và nếu cô lịch sự nhờ, họ thường sẵn lòng cho cô mượn sách mà không có quá nhiều hình ảnh và hội thoại như người ta cho là phù hợp với một cô gái tuổi cô. Những ngày nóng thường khiến cô buồn ngủ và ngớ ngẩn, nên Alice đã khôn ngoan thấm ướt một chiếc khăn tay và đặt nó ở phía sau cổ. Tuy nhiên, tâm trí cô đã đi lang thang (giống như một con mèo con mà chủ nhân vừa rời mắt chỉ một khoảnh khắc), và cô vừa quyết định rằng niềm vui làm một chuỗi hoa cúc sẽ đáng khoảng 4/3 phiền phức của việc đứng dậy và hái hoa cúc, điều này dù sao cũng không bằng chi phí cơ hội của việc đặt cuốn sách xuống, khi bỗng nhiên một con Thỏ Trắng với đôi mắt hồng chạy ngang qua cô. Không có gì quá đáng chú ý trong đó; cũng như, trên thực tế, Alice không nghĩ việc nghe con Thỏ tự nói "Ôi trời! Ôi trời! Tao sẽ muộn mất!" là quá khác thường. Nhưng khi con Thỏ thực sự rút một chiếc đồng hồ ra từ túi áo vest của nó, nhìn vào nó, rồi vội vã đi tiếp, Alice đông cứng trong sự rõ ràng và sợ hãi đột ngột, vì cô chưa bao giờ thấy một con thỏ có túi áo vest, hay đồng hồ để lấy ra từ đó.
+
+"Ôi phức tạp," cô tự nói (mặc dù không to; cô đã tự chữa mình khỏi thói quen đó từ lâu, vì nó khiến mọi người càng coi thường cô hơn so với họ vốn đã làm)."Nếu ta không nhận ra ngay lập tức rằng điều đó kỳ lạ đến mức nào so với con thỏ trung bình, thì có gì đó đang can thiệp vào sự tò mò của ta, và đó mới là điều kỳ lạ nhất trong tất cả." Vì vậy, bùng cháy với những câu hỏi, cô chạy qua cánh đồng đuổi theo nó, và vừa kịp thấy nó chui xuống một cái hang lớn dưới bờ rào.
+
+Chào Mừng Đến Thế Giới Thực
+
+MORPHEUS: Suốt một thời gian rất dài, ta sẽ không tin nó. Nhưng rồi ta đã thấy những cánh đồng bằng chính mắt mình, chứng kiến chúng hóa lỏng người chết để họ có thể được tiêm vào tĩnh mạch cho người sống—
+
+NEO (lịch sự): Xin phép, làm ơn.
+
+MORPHEUS: Vâng, Neo?
+
+NEO: Tôi đã im lặng bao lâu có thể, nhưng tôi cảm thấy một nhu cầu nhất định phải lên tiếng tại thời điểm này. Cơ thể con người là nguồn năng lượng kém hiệu quả nhất mà bạn có thể tưởng tượng. Hiệu suất của một nhà máy điện trong việc chuyển đổi năng lượng nhiệt thành điện giảm khi bạn chạy tuabin ở nhiệt độ thấp hơn. Nếu bạn có bất kỳ loại thức ăn nào con người có thể ăn, sẽ hiệu quả hơn nếu đốt nó trong lò thay vì cho con người ăn. Và bây giờ bạn đang nói với tôi rằng thức ăn của họ là xác chết, cho người sống ăn? Bạn đã bao giờ nghe nói về các định luật nhiệt động lực học chưa?
+
+MORPHEUS: Bạn đã nghe về các định luật nhiệt động lực học ở đâu, Neo?
+
+NEO: Bất kỳ ai đã vượt qua được một lớp khoa học ở trường trung học đều nên biết về các định luật nhiệt động lực học!
+
+MORPHEUS: Bạn đã học trung học ở đâu, Neo?
+
+Im lặng.
+
+NEO: …trong Ma Trận.
+
+MORPHEUS: Các cỗ máy kể những lời nói dối thanh lịch.
+
+Im lặng.
+
+NEO (bằng giọng nhỏ): Em có thể xin một cuốn sách giáo khoa vật lý thực sự được không?
+
+MORPHEUS: Không có thứ như vậy, Neo. Vũ trụ không chạy bằng toán học.

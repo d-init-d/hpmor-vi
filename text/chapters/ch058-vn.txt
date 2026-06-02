@@ -1,4 +1,4 @@
-56. Thí nghiệm nhà tù Stanford, Phần VI: Tối ưu hóa ràng buộc
+﻿56. Thí nghiệm nhà tù Stanford, Phần VI: Tối ưu hóa ràng buộc
 
 Im lặng, thật may là im lặng, cánh cửa kim loại ở tầng tiếp theo bên dưới. Hoặc là không có ai đằng sau nó, hoặc họ đang âm thầm chịu đựng đau đớn, có thể họ đang la hét nhưng giọng nói đã cạn kiệt, hoặc họ chỉ đang lẩm bẩm một mình trong bóng tối… Mình không chắc mình làm được điều này, Harry nghĩ, và cậu cũng không thể đổ lỗi cho suy nghĩ tuyệt vọng đó cho bọn Giám ngục. Thấp hơn thì tốt hơn, thấp hơn thì an toàn hơn, kế hoạch của cậu sẽ cần thời gian để thực hiện và các Thần sáng có lẽ đã đang tìm cách đi xuống. Nhưng nếu Harry phải đi qua thêm bất kỳ cánh cửa kim loại nào trong khi vẫn giữ im lặng và nhịp thở đều đặn, cậu có thể phát điên; nếu cậu phải để lại một phần bản thân ở mỗi cánh cửa, chẳng bao lâu nữa trong cậu sẽ chẳng còn gì—
 
@@ -28,15 +28,15 @@ Trong khi đội của họ chuẩn bị tiến thêm một miếng lãnh thổ 
 
 Amelia nghe thấy tiếng lửa cháy quen thuộc và biết mình sẽ thấy gì khi quay lại.
 
-Một phần ba Thần sáng của cô đang quay xung quanh và chĩa đũa phép vào vị phù thủy già đeo kính hình bán nguyệt cùng bộ râu dài màu bạc vừa xuất hiện ngay giữa họ, một con phượng hoàng vàng đỏ rực trên vai ông.
+Một phần ba Thần sáng của cô đang quay xung quanh và chĩa đũa phép vào vị phù thủy già đeo kính hình bán nguyệt cùng bộ râu dài màu bạc vừa xuất hiện ngay giữa họ, một con phượng hoàng và đỏ rực trên vai ông.
 
-"Hãy giữ lửa!" Thuốc đa dịch giúp việc giả mạo khuôn mặt dễ dàng hơn nhiều, nhưng việc giả mạo du hành phoenix sẽ khó khăn hơn nhiều — các phường cho phép đó là một trong những con đường nhanh chóng vào Azkaban, dù không có lối thoát nhanh nào cả.
+"Giữ nguyên thế!" Thuốc Đa Dịch giúp giả mạo khuôn mặt dễ hơn nhiều, nhưng giả mạo hành trình phượng hoàng thì khó hơn hẳn — lối đó là một trong những đường vào Azkaban nhanh nhất, dù không có lối ra nhanh.
 
-Lão phù thủy và lão phù thủy nhìn nhau một lúc lâu.
+Giám đốc Bones và vị pháp sư già nhìn nhau một lúc lâu.
 
-(Amelia tự hỏi, trong thâm tâm, Thần sáng nào của cô đã gửi tin này, có vài cựu thành viên Hội Phượng Hoàng đi cùng cô; cô cố nhớ lại, trong thâm tâm, liệu cô có nhìn thấy con chim sẻ của Emmeline hay con mèo của Andy mất tích trong đàn sinh vật tươi sáng hay không; nhưng cô biết rằng điều đó là vô ích. Đó thậm chí có thể không phải là người nào của cô, vì ông già can thiệp thường biết những điều mà ông ta không thể nào biết được.)
+(Amelia tự hỏi, trong thâm tâm, Thần sáng nào của cô đã gửi tin này, có vài cựu thành viên Hội Phượng hoàng đi cùng cô; cô cố nhớ lại, trong thâm tâm, liệu cô có nhìn thấy con chim sẻ của Emmeline hay con mèo của Andy mất tích trong đàn sinh vật tươi sáng hay không; nhưng cô biết rằng điều đó là vô ích. Đó thậm chí có thể không phải là người nào của cô, vì ông già can thiệp thường biết những điều mà ông ta không thể nào biết được.)
 
-Albus Dumbledore nghiêng đầu về phía Amelia trong một cử chỉ lịch sự. "Tôi hy vọng tôi không được chào đón ở đây, " người pháp sư bình tĩnh nói. "Tất cả chúng ta đều ở cùng một phía, phải không?"
+Albus Dumbledore nghiêng đầu về phía Amelia trong một cử chỉ lịch sự. "Tôi hy vọng mình vẫn được chào đón ở đây, " vị pháp sư già bình tĩnh nói. "Tất cả chúng ta đều ở cùng một phía, phải không?"
 
 "Điều đó còn tùy, " Amelia nói bằng giọng cứng cỏi. "Ngài đến đây để giúp chúng tôi truy bắt tội phạm hay để bảo vệ họ khỏi hậu quả hành động của họ? Ngài có định ngăn kẻ giết anh trai tôi có được Nụ hôn xứng đáng từ cô ta không, hỡi ông già can thiệp?"
 
@@ -88,7 +88,7 @@ Hình người màu bạc lắc đầu.
 
 Ngay sau khi Amelia và các Thần sáng khác hoàn thành việc niệm lại Bùa hộ mệnh của họ, thì —
 
-Con phượng hoàng bạc rực rỡ bay đi, con phượng hoàng vàng đỏ thực sự theo sau nó, và vị pháp sư già bình tĩnh sải bước theo sau cả hai với cây đũa dài nắm chặt trong tay.
+Con phượng hoàng bạc rực rỡ bay đi, con phượng hoàng và đỏ thực sự theo sau nó, và vị pháp sư già bình tĩnh sải bước theo sau cả hai với cây đũa dài nắm chặt trong tay.
 
 Những tấm khiên xung quanh lãnh thổ của họ tách ra xung quanh vị pháp sư già như nước, và khép lại phía sau ông mà không một gợn sóng.
 
@@ -230,7 +230,7 @@ Và họ tiếp tục cuộc hành trình đi xuống khi Chúa tể Hắc ám t
 
 ---
 
-Vị pháp sư già sải bước trở lại giữa các Thần sáng, những con phượng hoàng bạc và vàng đỏ theo sau.
+Vị pháp sư già sải bước trở lại giữa các Thần sáng, những con phượng hoàng bạc và và đỏ theo sau.
 
 "Ngài —" Amelia bắt đầu hét lên.
 

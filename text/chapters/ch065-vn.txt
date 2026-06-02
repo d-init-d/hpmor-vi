@@ -1,19 +1,697 @@
-63. Thí Nghiệm Nhà Tù Stanford, Hậu Quả
+﻿63. Thí Nghiệm Nhà Tù Stanford, Hậu Quả
 
 Hermione Granger đang ngồi khép lại cuốn sách và cất bài tập về nhà để chuẩn bị đi ngủ, Padma và Mandy đang xếp những cuốn sách của họ trên bàn đối diện cô, khi Harry Potter bước vào phòng sinh hoạt chung của Ravenclaw; và chỉ đến lúc đó cô mới nhận ra, cô chưa hề thấy anh ta kể từ bữa sáng. Sự nhận ra đó nhanh chóng bị chà nát bởi một điều gây kinh ngạc hơn nhiều.
 
-Có một sinh vật cánh lửa vàng-đỏ trên vai Harry, một con chim sáng của lửa. Và Harry trông buồn và mệt mỏi và thực sự kiệt sức như chim phượng hoàng là thứ duy nhất giữ anh tỉnh táo, nhưng vẫn có một sự ấm áp về anh ta, nếu bạn híp mắt lại bạn có thể nghĩ bạn đang nhìn một Hiệu Trưởng nào đó, đó là ấn tượng đi qua tâm trí Hermione ngay cả khi nó không có ý nghĩa gì.
+Có một sinh vật cánh lửa vàng-đỏ trên vai Harry, một con chim sáng của lửa. Và Harry trông buồn và mệt mỏi và thực sự kiệt sức như chim phượng hoàng là thứ duy nhất giữ anh tỉnh táo, nhưng vẫn có một sự ấm áp về anh ta, nếu bạn híp mắt lại bạn có thể nghĩ bạn đang nhìn một Hiệu trưởng nào đó, đó là ấn tượng đi qua tâm trí Hermione ngay cả khi nó không có ý nghĩa gì.
 
 Harry Potter lết bước qua phòng sinh hoạt chung của Ravenclaw, qua những ghế sofa đầy những cô gái đang nhìn, qua những vòng chơi bài của những chàng trai đang nhìn, hướng về phía cô. Về lý thuyết cô đang không nói chuyện với Harry Potter, tuần của anh ta chưa kết thúc cho đến ngày mai, nhưng bất cứ điều gì đang xảy ra rõ ràng là quan trọng hơn nhiều so với điều đó—
 
-"Fawkes, " Harry nói, đúng lúc cô mở miệng, "cô gái kia là Hermione Granger, cô ấy đang không nói chuyện với tôi bây giờ vì tôi ngu ngốc, nhưng nếu bạn muốn đậu trên vai người tốt thì cô ấy tốt hơn tôi. "
+"Fawkes," Harry nói, đúng lúc cô mở miệng, "cô gái kia là Hermione Granger, cô ấy đang không nói chuyện với tôi bây giờ vì tôi ngu ngốc, nhưng nếu bạn muốn đậu trên vai người tốt thì cô ấy tốt hơn tôi."
 
 Quá nhiều kiệt sức và tổn thương trong giọng Harry Potter—
 
-Nhưng trước khi cô có thể tìm ra phải làm gì về điều đó, chim phượng hoàng đã lướt khỏi vai Harry như lửa liếm que diêm với tốc độ nhanh, chớp về phía cô; có một chim phượng hoàng bay trước mặt cô và nhìn cô bằng đôi mắt của ánh sáng và ngọn lửa.
+Nhưng trước khi cô có thể tìm ra phải làm gì với điều đó, chim phượng hoàng đã lướt khỏi vai Harry như lửa liếm que diêm với tốc độ nhanh, chớp về phía cô; có một con phượng hoàng bay trước mặt cô và nhìn cô bằng đôi mắt của ánh sáng và ngọn lửa.
 
 "Cất tiếng?" chim phượng hoàng hỏi.
 
 Hermione nhìn chằm chằm vào nó, cảm thấy như cô đang đối mặt với một câu hỏi trong bài kiểm tra cô đã quên học, câu hỏi quan trọng nhất và cô đã đi cả cuộc đời mà không học cho nó, cô không thể tìm thấy bất cứ điều gì để nói.
 
-"Tôi—" cô nói. "Tôi chỉ...
+"Tôi—" cô nói. "Tôi chỉ mười hai, tôi chưa làm được gì cả—"
+
+Con phượng hoàng chỉ lướt nhẹ nhàng xung quanh, xoay quanh một đầu cánh như thể nó là một sinh vật của ánh sáng và không khí, rồi bay về vai Harry Potter, nơi nó đậu xuống khá chắc chắn.
+
+"Con ngốc," Padma nói từ đằng xa cô, trông như đang quyết định nên cười hay nhăn mặt, "phượng hoàng không dành cho mấy cô gái thông minh làm bài tập đâu, chúng dành cho những thằng ngốc lao thẳng vào năm thằng Slytherin lớn tuổi hơn. Có lý do mà màu của Gryffindor là đỏ và vàng đấy, ngươi biết không."
+
+Có rất nhiều tiếng cười thân thiện trong phòng sinh hoạt chung của Ravenclaw. Hermione không phải là một trong những người cười. Harry cũng không.
+
+Harry đã đặt tay lên mặt.
+
+"Nói với Hermione là ta xin lỗi," cậu nói với Padma, giọng gần như đã rơi xuống thì thầm. "Nói với cô ấy là ta quên mất phượng hoàng là động vật, chúng không hiểu thời gian và kế hoạch, chúng không hiểu những người sẽ làm việc tốt sau này—ta không chắc chúng thực sự hiểu được khái niệm về việc có một thứ gì đó mà một người là, chúng chỉ thấy những gì người ta làm. Fawkes không biết mười hai nghĩa là gì. Nói với Hermione là ta xin lỗi—ta không nên—mọi thứ cứ đổ bể, phải không?"
+
+Harry quay đi, phượng hoàng vẫn trên vai, bắt đầu lết chậm về phía cầu thang dẫn lên phòng ngủ của cậu. Và Hermione không thể bỏ nguyên như vậy, cô không thể cứ bỏ nguyên như vậy. Cô không biết đó là vì cuộc thi với Harry hay là gì khác. Cô chỉ không thể bỏ nguyên với con phượng hoàng quay đi khỏi cô. Cô phải—
+
+Tâm trí cô đặt một câu hỏi khẩn cấp đến toàn bộ trí nhớ tuyệt vời của cô, tìm thấy đúng một thứ—
+
+"Tôi định chạy ra trước Những Giám ngục để cố cứu Harry!" cô hét lên một cách tuyệt vọng với con chim màu vàng-đỏ. "ý tôi là, tôi thực sự đã bắt đầu chạy rồi! Đó là ngu ngốc và dũng cảm, đúng không?"
+
+Với một tiếng kêu run rẩy, con phượng hoàng lại bay ra khỏi vai Harry, trở về phía cô như một đám cháy lan ra, nó bay vòng quanh cô ba vòng như thể cô là trung tâm của một ngọn lửa hoàn toàn, và trong một khoảnh khắc cánh của nó đã chạm vào má cô, trước khi con phượng hoàng bay về Harry. Trong phòng sinh hoạt chung của Ravenclaw có một khoảng im lặng.
+
+"Thấy không," Harry nói to, rồi cậu bắt đầu leo cầu thang lên phòng ngủ; cậu leo rất nhanh, như thể cậu rất nhẹ chân vì lý do nào đó, đến mức chỉ một lúc sau cậu và Fawkes đã biến mất. Hermione giơ tay run run lên má mình nơi Fawkes đã chạm vào.
+
+---
+
+**Hậu quả, Fawkes**
+
+Cậu bé đã mong đợi những tiếng hét và khẩn cầu và những cơn gió hú kinh hoàng của sự trống rỗng, sự giải phóng của những điều kinh hoàng đang được ghi khắc vào trí nhớ, và theo cách đó, có lẽ, trở thành một phần của quá khứ. Và cậu bé biết những cơn ác mộng sẽ đến. Đêm sau, chúng sẽ đến.
+
+Cậu bé mơ, và trong giấc mơ của cậu thế giới đang bốc cháy, Hogwarts đang bốc cháy, nhà của cậu đang bốc cháy, những con đường Oxford đang bốc cháy, tất cả bừng sáng trong những ngọn lửa vàng rực rỡ soi sáng nhưng không thiêu đốt, và tất cả mọi người đang bước đi qua những con đường bừng sáng ấy đều tỏa sáng ánh trắng rực rỡ hơn cả ngọn lửa, như thể họ chính là những ngọn lửa, hoặc những vì sao.
+
+Những cậu bé năm nhất khác đến giường, và tận mắt nhìn thấy điều đó, điều kỳ diệu mà tin đồn đã lan khắp, rằng trên giường cậu, Harry Potter nằm im lặng và bất động, một nụ cười hiền dịu trên môi, trong khi trên gối cậu một con chim màu đỏ vàng đang canh giữ cậu, với đôi cánh sáng rực xòe ra phía trên đầu cậu như một tấm chăn kéo lên trên đầu.
+
+Sự tính toán đã được hoãn lại thêm một đêm.
+
+---
+
+**Hậu quả, Draco Malfoy**
+
+Draco chỉnh lại áo choàng của mình, đảm bảo đường viền xanh lục thẳng tắp. Cậu vung đũa phép lên đầu mình và niệm một Lời Nguyền mà Cha đã dạy cậu khi những đứa trẻ khác còn đang nghịch bùn, một Lời Nguyền đảm bảo rằng không một hạt bụi hay sợi vải nào có thể làm dơ áo choàng phù thủy của cậu. Draco nhặt chiếc phong bì bí ẩn mà Cha đã cho cú đưa đến, và nhét nó vào áo choàng. Cậu đã sử dụng Incendio và Everto trên tờ giấy note bí ẩn. Và rồi cậu tiến về phía bữa sáng, để ngồi xuống đúng thời điểm kim đồng hồ chỉ khi thức ăn xuất hiện, nếu cậu có thể làm được, để mọi người khác có vẻ như đang đợi cậu xuất hiện rồi mới ăn. Bởi vì khi bạn là người thừa kế của Malfoy, bạn là người đầu tiên trong mọi thứ, kể cả bữa sáng, đó là lý do tại sao.
+
+Vincent và Gregory đang đợi cậu ở ngoài cửa phòng riêng, dậy sớm hơn cả cậu—dĩ nhiên là không, họ không ăn mặc sắc sảo bằng. Phòng sinh hoạt chung của Slytherin vắng tanh, bất kỳ ai dậy sớm đều đang tiến thẳng đến bữa sáng. Những hành lang trong căn hầm yên tĩnh nhưng chỉ có bước chân của họ, trống rỗng và vọng âm.
+
+Đại Sảnh Đường ồn ào những tiếng báo động dù số người đến còn ít; một số trẻ nhỏ hơn đang khóc, học sinh chạy tới chạy lui giữa các bàn hoặc đứng thành từng nhóm la hét với nhau, một học sinh gấu áo đỏ đang đứng trước hai học sinh đeo viền xanh lục và la hét vào họ và Snape đang sải bước về phía đám đông—
+
+Tiếng ồn giảm bớt khi mọi người nhìn thấy Draco, khi một số khuôn mặt quay sang nhìn cậu, và im lặng. Thức ăn xuất hiện trên bàn. Không ai nhìn nó.
+
+Và Snape xoay người, bỏ đối tượng đang bị hắn sách nhiễu, và tiến thẳng về phía Draco. Một cục tức giận chộp lấy trái tim Draco—có chuyện gì đã xảy ra với Cha không—không, Cha chắc chắn đã nói với cậu—bất cứ điều gì đang xảy ra, tại sao Cha không nói với cậu—
+
+Draco thấy những túi mệt mỏi dưới mắt Snape, khi thầy hiệu trưởng nhà của họ đến gần, bậc thầy Thuốc Potions không bao giờ là người ăn mặc chỉnh tề (đó là nói giảm) nhưng áo choàng của hắn còn bẩn và xù xì hơn cả sáng nay, đầy vết dầu mỡ.
+
+"Ngươi chưa nghe?" thầy hiệu trưởng nhà sà vào mặt khi đến gần. "Vì lòng thương hại, Malfoy, chẳng lẽ ngươi không có báo được giao à?"
+
+"Chuyện gì vậy, Thầy—"
+
+"Bellatrix Black đã trốn thoát khỏi Azkaban!"
+
+"Gì cơ?" Draco nói trong sửng sốt, khi Gregory đằng sau cậu nói một điều mà cậu thực sự không nên nói và Vincent chỉ biết thở hổn hển. Snape nhìn cậu bằng đôi mắt thu hẹp lại, rồi gật đầu cáu kỉnh. "Lucius chẳng nói gì với ngươi, vậy sao. Ta hiểu rồi." Snape hừ một tiếng, quay đi—
+
+"Thưa Thầy!" Draco nói. Những hàm ý đang dần lóe lên trong đầu cậu, tâm trí cậu quay cuồng. "Thưa Thầy, con nên làm gì—Cha không chỉ dẫn con—"
+
+"Vậy thì ta đề nghị," Snape nói một cách khinh miệt khi hắn sải bước đi, "ngươi cứ nói với bọn họ như vậy, Malfoy, như cha ngươi định đoạt!"
+
+Draco liếc nhìn Vincent và Gregory phía sau, dù cậu không biết tại sao mình lại bận tâm, dĩ nhiên họ trông còn bối rối hơn cậu.
+
+---
+
+**Hậu quả, Neville Longbottom**
+
+Harry vừa ngồi xuống bàn Ravenclaw lần đầu tiên, hi vọng chộp được một chút thức ăn nhanh. Cậu biết mình cần đi nghĩ về những thứ, nhưng vẫn còn một chút bình yên từ phượng hoàng (ngay cả sau cuộc gặp với Draco) mà cậu vẫn muốn bám vào, một giấc mơ đẹp mà cậu không nhớ gì ngoài vẻ đẹp; và phần trong cậu không cảm thấy bình yên thì đang chờ tất cả những trời đánh rơi xuống, để khi cậu đi nghĩ và ở một mình một lúc, cậu có thể xử lý tất cả những thảm họa cùng một lúc.
+
+Tay Harry nắm nĩa, nhấc một miếng khoai tây nghiền lên miệng—
+
+Và có một tiếng hét.
+
+Thỉnh thoảng ai đó sẽ hét khi nghe tin, nhưng tai của Harry nhận ra tiếng hét này—
+
+Harry đứng dậy tức khắc, hướng về phía bàn Hufflepuff, một cảm giác buồn nôn kinh khủng dâng lên trong bụng. Đó là một trong những thứ cậu đã không tính đến khi quyết định phạm tội, bởi vì Giáo sư Quirrell đã không lên kế hoạch cho ai biết; và bây giờ, sau đó, Harry chỉ—đã không nghĩ đến nó—
+
+*Rằng cũng là lỗi của cậu,* Hufflepuff nói với sự gay gắt.
+
+Nhưng khi Harry đến nơi, Neville đang ngồi xuống và ăn những miếng xúc xích chiên với nước sốt Snippyfig.
+
+Hai tay cậu bé Hufflepuff run run, nhưng cậu cắt thức ăn và ăn mà không làm rơi.
+
+"Xin chào, Tướng quân," Neville nói, giọng hơi run. "Cậu đã đánh một cuộc đấu với Bellatrix Black tối qua không?"
+
+"Không," Harry nói. Giọng cậu cũng run, vì lý do nào đó.
+
+"Không nghĩ vậy," Neville nói. Có tiếng cọng khi dao cắt xúc xích. "Tôi sẽ đi săn cô ta và giết cô ta, cậu có thể giúp tôi không?"
+
+Có những tiếng hít của những Hufflepuff xung quanh.
+
+"Nếu cô ta đến sau cậu," Harry nói khàn, *nếu đó là một sai lầm khủng khiếp, nếu đó là một lời nói dối,* "tôi sẽ bảo vệ cậu bằng mạng sống của tôi, nhưng tôi sẽ không giúp cậu đi săn cô ta, bạn không nên giúp bạn tự sát."
+
+Nĩa của Neville dừng trên đường đến miệng.
+
+Rồi Neville đặt thức ăn vào miệng, nhai.
+
+Rồi Neville nuốt.
+
+Rồi Neville nói, "Tôi không có nghĩa *ngay bây giờ*, tôi có nghĩa sau khi tốt nghiệp Hogwarts."
+
+"Neville," Harry nói, giữ giọng dưới sự kiểm soát rất cẩn thận, "tôi nghĩ, ngay cả sau khi cậu tốt nghiệp, đó vẫn có thể là một ý tưởng *điên rồ* đơn giản. Phải có những Thần sáng dày dạn hơn theo dõi cô ta—"
+
+*Ồ, đợi đã, đó không tốt*—
+
+"Nghe anh ta đi!" Ernie Macmillan nói, và rồi một cô gái Hufflepuff lớn hơn đứng gần Neville nói, "Nevvy, làm ơn, anh ấy đúng đấy!"
+
+Neville đứng dậy.
+
+Neville nói, "Làm ơn đừng đi theo tôi."
+
+Neville đi ra khỏi tất cả họ; Harry và Ernie với tay vô thức hướng về phía cậu, và một số Hufflepuff khác cũng vậy.
+
+Và Neville ngồi xuống ở bàn Gryffindor, và ở xa (dù họ phải căng tai nghe) họ nghe Neville nói, "Tôi sẽ đi săn và giết cô ta sau khi tốt nghiệp, ai muốn giúp?" và ít nhất năm giọng nói "Có" và rồi Ron Weasley nói to, "Vào hàng đi, mấy người, ta được mẹ nói sáng nay cô ấy muốn nói mấy người đừng có nhầm" và ai đó nói "Molly Weasley đấu với Bellatrix Black? Cô ấy tưởng mình là ai—" và Ron với tay qua đĩa bánh mì—
+
+---
+
+Có ai đó gõ vai Harry, cậu quay lại và thấy một cô gái lớn hơn trong bộ áo choàng xanh lục viền bạc mà cậu không quen biết, cô ta đưa cho cậu một phong bì giấy da rồi nhanh chóng bước đi. Harry nhìn chằm chằm vào phong bì một lúc, rồi bắt đầu đi về phía bức tường gần nhất. Chỗ đó không được kín lắm, nhưng cũng đủ riêng tư, và Harry không muốn tạo ấn tượng như mình có gì phải giấu diếm.
+
+Đó là một lần giao hàng qua Hệ thống Slytherin, thứ mà người ta dùng khi muốn liên lạc với ai đó mà không ai biết hai người đó đã nói chuyện với nhau. Người gửi đưa phong bì cho một người đáng tin cậy, kèm theo mười đồng Knuts; người đầu tiên sẽ lấy năm đồng Knuts và chuyển phong bì cho một người đưa thư khác cùng với năm đồng Knuts còn lại, và người đưa thư thứ hai sẽ mở phong bì ra và tìm thấy một phong bì khác bên trong với một cái tên viết trên đó rồi giao phong bì đó cho người được nhận. Bằng cách này, không ai trong hai người chuyển thư biết cả người gửi lẫn người nhận, nên không ai biết hai bên đó đã liên lạc với nhau…
+
+Khi Harry đến bức tường, hắn nhét phong bì vào áo choàng, mở nó ra dưới những lớp vải, rồi lén nhìn trộm tấm giấy da bên trong. Nó viết:
+
+"Phòng học bên trái Biến hình, 8 giờ sáng.
+
+—LL."
+
+Harry nhìn chằm chằm vào tờ giấy, cố gắng nhớ xem hắn có quen ai mang chữ cái đầu LL không.
+
+Trí óc hắn tìm kiếm…
+
+Tìm kiếm…
+
+Truy xuất—
+
+"Cô bé Quibbler?" Harry thì thầm đầy kinh ngạc, rồi ngậm miệng lại. Cô ấy mới chỉ mười tuổi thôi, cô ấy không nên ở Hogwarts chứ!
+
+---
+
+**Hậu quả, Lesath Lestrange**
+
+Harry đứng trong căn phòng học bỏ không cạnh phòng Biến hình lúc 8 giờ sáng, chờ đợi— hắn ít nhất đã kịp nhét được ít thức ăn vào bụng trước khi đối mặt với thảm họa tiếp theo, Luna Lovegood…
+
+Cánh cửa phòng học mở ra, và Harry nhìn thấy, rồi tự cho mình một cú đá tâm lý thật mạnh. Một điều nữa hắn không nghĩ tới, một điều nữa hắn thực sự nên—
+
+Áo choàng lễ phục màu xanh lục viền bạc của cậu bé lớn hơn bị xê dịch lệch, có những vết đỏ trên đó trông rất giống những chấm máu tươi, và một góc miệng cậu có vẻ như chỗ đã bị cắt và lành lại, bằng phép Episkey hay một phép Chữa Thương y tế nào đó không hoàn toàn xóa hết thiệt hại.
+
+Mặt Lesath Lestrange có những vệt nước mắt, nước mắt còn tươi và nước mắt đã khô một nửa, và trong mắt cậu có nước, hứa hẹn còn nhiều hơn nữa sắp trào ra. "Quietus," cậu bé lớn hơn nói, rồi "Hominem Revelio" và một vài thứ khác, trong khi Harry nghĩ cuồng cuộn và chẳng mấy kết quả.
+
+Và rồi Lesath hạ đũa phép xuống và cất nó vào áo choàng, và lần này thì chậm rãi, trang trọng, cậu bé lớn hơn quỳ xuống sàn phòng học đầy bụi.
+
+Cậu cúi đầu xuống tận cùng, cho đến khi trán cậu cũng chạm vào bụi bặm.
+
+"Mạng sống của tôi là của Ngài, thưa Chúa tể, và cái chết của tôi cũng vậy."
+
+"Tôi—" Harry nói, trong cổ họng hắn có một cục uống bướu to tướng và hắn đang gặp khó khăn khi nói, "Tôi—" *không có liên quan gì đến chuyện đó*, hắn nên nói vậy, nên nói ngay bây giờ, nhưng rồi Harry vô tội cũng sẽ khó lên tiếng như vậy—
+
+"Cảm ơn Ngài," Lesath thì thầm, "cảm ơn Ngài, thưa Chúa tể, ôi, cảm ơn Ngài," tiếng nấc đứt quãng phát ra ở cậu bé đang quỳ, tất cả những gì Harry nhìn thấy là mái tóc ở phía sau đầu cậu, không thấy gì mặt cậu. "Tôi là một kẻ ngu, thưa Chúa tể, một đứa con hoang bất hiếu, không xứng đáng phục vụ Ngài, tôi không thể hạ mình đủ, bởi vì tôi—tôi đã hét vào Ngài sau khi Ngài giúp tôi, vì tôi tưởng Ngài đang từ chối tôi, và tôi chẳng nhận ra cho đến sáng nay rằng tôi đã ngu ngốc đến mức hỏi Ngài trước mặt Longbottom—"
+
+"Tôi không có liên quan gì đến chuyện đó," Harry nói.
+
+(Vẫn còn rất khó để nói một lời nói dối trắng trợn như vậy.)
+
+Từ từ Lesath ngẩng đầu lên khỏi sàn, nhìn lên Harry.
+
+"Tôi hiểu, thưa Chúa tể," cậu bé lớn hơn nói, giọng hơi run rẩy, "Ngài không tin tưởng vào sự xảo quyệt của tôi, và quả thật tôi đã tự chứng minh mình là một kẻ ngu… Tôi chỉ muốn nói với Ngài rằng, tôi không bội ơn, tôi biết việc cứu được chỉ một người thôi đã là quá khó rồi, rằng bọn họ đã được báo động rồi, rằng Ngài không thể—bắt được Cha tôi—nhưng tôi không bội ơn, tôi sẽ không bao giờ bội ơn với Ngài nữa. Nếu ngài cần sử dụng kẻ tôi không xứng đáng này, hãy gọi tôi bất cứ nơi nào tôi ở, và tôi sẽ đáp lại, thưa Chúa tể—"
+
+"Tôi không phải Chúa tể của ngươi."
+
+Lesath nói, "Vâng, thưa Chúa tể, tôi hiểu," và đẩy mình lên khỏi sàn, đứng thẳng và cúi sâu, rồi lùi ra khỏi Harry cho đến khi cậu quay người mở cánh cửa phòng học.
+
+Khi tay Lesath chạm vào tay nắm cửa, cậu dừng lại.
+
+Harry không thể thấy mặt Lesath, khi giọng cậu bé lớn hơn nói, "Ngài có gửi cô ấy đến người sẽ chăm sóc cô ấy không? Cô ấy có hỏi về tôi không?"
+
+Và Harry nói, giọng hoàn toàn bình thản, "Hãy dừng lại điều đó. Tôi không liên quan gì đến chuyện đó."
+
+"Vâng, thưa Chúa tể, tôi xin lỗi, thưa Chúa tể," giọng Lesath nói; và cậu bé Slytherin mở cửa và bước ra rồi đóng cửa lại phía sau cậu. Chân cậu nhanh hơn khi chạy đi, nhưng không đủ nhanh để Harry không nghe thấy cậu bắt đầu khóc.
+
+*Tôi có khóc không?* Harry tự hỏi. *Nếu tôi không biết gì, nếu tôi vô tội, tôi có khóc ngay bây giờ không?*
+
+Harry không biết, nên cậu chỉ tiếp tục nhìn vào cánh cửa.
+
+---
+
+**Hậu quả, Amelia Bones**
+
+"Dưỡng sinh của hắn không gặp nguy hiểm, tôi hiểu," Amelia nói.
+
+Người chữa bệnh, một ông già mắt sắc mặc áo choàng trắng (ông là người ngoại huyết và tuân theo một truyền thống kỳ lạ nào đó của Người thường, điều mà Amelia chưa bao giờ hỏi, dù trong lòng cô nghĩ nó khiến ông trông giống một bóng ma quá), lắc đầu và nói, "Chắc chắn là không."
+
+Amelia nhìn vào hình người đang nằm bất tỉnh trên giường của người chữa bệnh, phần thịt bị đốt cháy và bỏng rướm, tấm vải mỏng phủ lên người để giữ sự khiêm nhường đã được cô kéo sang một bên.
+
+Hắn có thể hồi phục hoàn toàn.
+Hoặc không.
+Người chữa bệnh đã nói còn quá sớm để nói.
+
+Rồi Amelia nhìn người phù thủy khác trong phòng, nhà điều tra.
+
+"Và ngươi nói," Amelia nói, "rằng chất đốt được Biến hình từ nước, theo dạng đá."
+
+Nhà điều tra gật đầu, và nói, vẻ bối rối, "Nó có thể tệ hơn nhiều, nếu không nhờ—"
+
+"Rất tử tế của bọn họ," cô gắt lên, rồi áp tay mỏi mệt lên trán. Không… không, nó đã được định là một lòng tốt. Vào giai đoạn cuối của cuộc vượt ngục sẽ không có điểm nào để cố lừa ai. Bất cứ ai đã làm điều này, thì đã cố giảm thiểu thiệt hại—và họ đã nghĩ theo hướng những Thần sáng hít khói độc, chứ không phải ai đó bị tấn công bằng lửa. Nếu là họ vẫn kiểm soát, không nghi ngờ gì, họ đã hướng xe trượt nhân từ hơn.
+
+Nhưng Bellatrix Black đã cưỡi xe trượt ra khỏi Azkaban một mình, tất cả các Thần sáng đang theo dõi đã đồng ý về điều đó, họ đã kích hoạt Lời Nguyền Chống Tàng Hình và chỉ có một người phụ nữ trên chiếc xe trượt đó, dù chiếc xe có hai bộ cống.
+
+Một người tốt và vô tội nào đó, có khả năng thi triển Lời Nguyền Bảo Hộ Bùa hộ mệnh, đã bị lừa giải cứu Bellatrix Black.
+
+Một người vô tội đã đánh nhau với Bahry Một Tay, cẩn thận hạ gục một Thần sáng dày dạn mà không gây thương tích đáng kể cho hắn.
+
+Một người vô tội đã Biến hình nhiên liệu cho vật thể Muggle mà hai người họ định cưỡi ra khỏi Azkaban, chế tạo từ nước đá cho các Thần sáng của cô.
+
+Và rồi sự hữu ích của họ đối với Bellatrix Black đã kết thúc.
+
+Người ta đã mong đợi bất cứ ai có khả năng hạ gục Bahry Một Tay sẽ lường trước phần đó. Nhưng rồi người ta cũng không mong đợi bất cứ ai có thể thi triển Lời Nguyền Bùa hộ mệnh lại cố giải cứu Bellatrix Black ngay từ đầu.
+
+Amelia đặt tay xuống mắt, nhắm mắt trong giây lát để tưởng nhớ trong im lặng. *Mình tự hỏi người đó là ai, và Chí Tôn đã thao túng họ thế nào… họ có thể đã được kể câu chuyện gì có thể… cô ấy thực sự nghĩ sao…*
+
+Cô không nhận ra cho đến một lúc sau rằng suy nghĩ đó có nghĩa là cô đang bắt đầu tin. Có lẽ bởi vì, dù việc tin Dumbledore có khó đến đâu, việc không nhận ra bàn tay của trí tuệ lạnh lẽo và tăm tối đó ngày càng khó hơn.
+
+---
+
+**Hậu quả, Albus Dumbledore**
+
+Có lẽ chỉ năm mươi bảy giây trước khi bữa sáng kết thúc và ông có thể cần bốn vòng quay của Time-Turner, nhưng cuối cùng Albus Dumbledore đã đến kịp.
+
+"Thưa Hiệu trưởng?" giọng lịch sự của Giáo sư Filius Flitwick cất lên, khi nhà pháp sư già đi ngang qua ông để đến chỗ ngồi. "Mr Potter để lại lời nhắn cho ngài."
+
+Nhà pháp sư già dừng lại. Ông nhìn Giáo sư Phép thuật nhẹ một cách truy vấn.
+
+"Mr Potter nói rằng sau khi tỉnh dậy, cậu ấy nhận ra những điều cậu ấy đã nói với ngài sau khi Fawkes hét đã không công bằng như thế nào. Mr Potter nói rằng cậu ấy không nói gì về bất cứ điều gì khác, chỉ xin lỗi về phần đó."
+
+Nhà pháp sư già tiếp tục nhìn Giáo sư Phép thuật nhẹ của mình, và vẫn không nói gì.
+
+"Thưa Hiệu trưởng?" Flitwick cất giọng.
+
+"Nói với cậu ấy ta nói cảm ơn," Albus Dumbledore nói, "nhưng rằng nghe phượng hoàng còn khôn ngoan hơn nghe những pháp sư già khôn ngoan," và ngồi xuống chỗ ba giây trước khi tất cả đồ ăn biến mất.
+
+---
+
+**Hậu quả, Giáo sư Quirrell**
+
+"Không," Madam Pomfrey gắt lên với đứa trẻ, "con không được gặp nó! Con không được quấy rầy nó! Con không được hỏi một câu hỏi nhỏ nào! Nó phải nằm nghỉ trên giường và không làm gì trong ít nhất ba ngày!"
+
+---
+
+**Hậu quả, Minerva McGonagall**
+
+Bà đang đi về phía phòng bệnh, và Harry Potter đang rời khỏi đó, khi họ đi ngang qua nhau. Ánh nhìn anh dành cho bà không phải giận dữ. Không phải buồn bã. Nó không nói lên nhiều điều gì cả. Nó giống như... như anh chỉ nhìn bà đủ lâu để làm rõ ràng rằng anh không cố tình tránh nhìn bà. Và rồi anh đã nhìn đi trước khi bà có thể nghĩ ra mình nên đáp lại bằng nét mặt gì; như thể anh muốn tha thứ cho bà điều đó nữa. Anh chẳng nói gì khi đi ngang qua bà. Bà cũng không. Còn có thể nói gì chứ?
+
+---
+
+**Hậu quả, Fred và George Weasley**
+
+Họ thực sự hét lên một tiếng, khi rẽ góc và thấy Dumbledore. Không phải vì Hiệu trưởng bỗng xuất hiện từ hư không và đang trừng trừng nhìn họ với vẻ mặt nghiêm nghị. Dumbledore luôn luôn làm vậy. Nhưng vị pháp sư mặc áo choàng đen lễ nghi và trông rất cổ xưa và rất quyền năng, và ông đang nhìn chằm chằm hai đứa trẻ.
+
+"Fred và George Weasley!" Dumbledore nói bằng một Giọng Nói Của Quyền Lực.
+
+"Vâng, Hiệu trưởng!" họ đáp, bắt đầu quay góc và chào theo lối quân đội sạch sẽ mà họ thấy trong những bức ảnh cũ.
+
+"Hãy nghe ta cho rõ! Các con là bạn của Harry Potter, đúng không?"
+
+"Vâng, Hiệu trưởng!"
+
+"Harry Potter đang gặp nguy hiểm. Nó không được phép rời khỏi khu vực được bảo vệ của Hogwarts. Hãy nghe ta, những đứa con nhà Weasley, ta van các con hãy nghe: các con biết rằng ta cũng là Gryffindor như các con, rằng ta cũng biết có những quy tắc cao hơn luật lệ. Nhưng đây, Fred và George, đây là điều quan trọng nhất trong mọi điều quan trọng, lần này không được có ngoại lệ nào, dù nhỏ hay lớn! Nếu các con giúp Harry rời khỏi Hogwarts, nó có thể chết! Nếu nó gửi các con đi làm nhiệm vụ, các con có thể đi, nếu nó nhờ các con mang đồ vật, các con có thể giúp, nhưng nếu nó nhờ các con lén đưa bản thân nó ra khỏi Hogwarts, các con phải từ chối! Các con hiểu chứ?"
+
+"Vâng, Hiệu trưởng!" Họ nói mà thực ra chẳng cần suy nghĩ, và rồi nhìn nhau với vẻ bối rối —
+
+Đôi mắt xanh rực của Hiệu trưởng chăm chú nhìn họ. "Không. Không phải không suy nghĩ. Nếu Harry nhờ các con đưa nó ra, các con phải từ chối, nếu nó nhờ các con chỉ đường, các con phải từ chối. Ta sẽ không nhờ các con báo nó với ta, vì ta biết các con sẽ không bao giờ làm vậy. Nhưng hãy nài xin nó thay ta hãy đến gặp ta, nếu điều đó thực sự quan trọng, và ta sẽ bảo vệ nó trên đường đi. Fred, George, ta xin lỗi đã gắng gượng tính mạng các con, nhưng đó là tính mạng của nó."
+
+Hai đứa nhìn nhau một hồi lâu, không trao đổi gì, chỉ nghĩ những điều tương tự cùng một lúc. Chúng nhìn lại Dumbledore. Chúng nói, với một cảm giác lạnh lẽo chạy qua khi thốt ra cái tên ấy, "Bellatrix Black."
+
+"Các con có thể yên tâm rằng," Hiệu trưởng nói, "ít nhất nó cũng tệ đến mức đó."
+
+"Được rồi—"
+
+"—hiểu rồi."
+
+---
+
+**Hậu quả, Alastor Moody và Severus Snape**
+
+Khi Alastor Moody mất đi con mắt của mình, ông đã chiếm dụng dịch vụ của một học giả Ravenclaw uyên bác nhất, Samuel H. Lyall, mà Moody tin tưởng ít hơn mức trung bình một chút vì Moody đã kiềm chế không báo ông ta là một người sói chưa đăng ký; và ông đã trả cho Lyall để biên soạn một danh sách về mọi loại mắt phép thuật được biết đến, và mọi manh mối về vị trí của chúng. Khi Moody nhận lại danh sách, ông chẳng thèm đọc phần lớn trong đó; vì ở đầu danh sách là Con Mắt của Vance, có từ thời kỳ trước Hogwarts, và hiện đang nằm trong tay một pháp sư hắc ám quyền thế cai trị một hốc nhỏ bị lãng quên nào đó không thuộc Anh quốc hay bất kỳ nơi nào khác mà ông phải lo lắng về những quy tắc ngớ ngẩn. Đó là cách Alastor Moody mất chân trái của mình.
+
+Moody quan sát chất lỏng xoáy ra khỏi lọ và biến mất, rồi xuất hiện trong xương nơi tủy đã từng có. "Nhưng ngài nghĩ công sức bẫy này là xứng đáng, thay vì chỉ làm biến mất xương."
+
+"Hắn có những con đường khác đến sự sống, nếu hắn thấy con đường này bị chặn," Snape nói khô khan. "Và trước khi ngài hỏi, nó phải là mộ nguyên gốc, nơi chôn cất lần đầu, xương được lấy ra trong nghi lễ chứ không phải trước đó. Do đó hắn không thể đã lấy nó ra trước đây; và cũng không có nghĩa gì khi thay thế bộ xương của một tổ tiên yếu hơn. Hắn sẽ nhận ra nó đã mất toàn bộ hiệu lực."
+
+"Còn ai biết về cái bẫy này?" Moody yêu cầu.
+
+"Ngài. Ta. Hiệu trưởng. Không ai khác."
+
+Moody hừ mũi. "Pfah. Albus có nói với Amelia, Bartemius, và cái bà McGonagall đó về nghi lễ hồi sinh không?"
+
+"Có—"
+
+"Nếu Voldie phát hiện Albus biết về nghi lễ hồi sinh và Albus đã nói với bọn họ, Voldie sẽ suy ra rằng Albus đã nói với tao, và Voldie biết tao sẽ nghĩ đến việc này."
+
+Moody lắc đầu trong ghê tởm. "Những con đường khác nào Voldie có thể sống lại?"
+
+Tay Snape dừng lại trên lọ thứ năm (tất cả đều bị Phù phép Mờ, dĩ nhiên, toàn bộ hoạt động bị Phù phép Mờ, nhưng điều đó chẳng có nghĩa gì với Moody, nó chỉ đánh dấu người trong tầm nhìn của Con Mắt hắn như kẻ đang cố giấu), và kẻ từng là Tử thần Thực tử nói, "Ngài không cần biết."
+
+"Ngài đang học đấy, con trai," Moody nói với vẻ tán thành nhẹ. "Trong những lọ có gì?"
+
+Snape mở lọ thứ năm, chỉ đũa phép để bắt đầu cho chất chảy về phía mộ, và nói, "Cái này à? Một chất gây nghiện Muggle gọi là LSD. Một cuộc trò chuyện hôm qua làm ta nhớ về những thứ Muggle, và LSD có vẻ thú vị nhất, nên ta vội vàng kiếm được một ít. Nếu nó được hấp thụ vào thuốc hồi sinh, ta nghi ngờ tác dụng của nó sẽ vĩnh viễn."
+
+"Cái gì—"
+
+---
+
+**Hậu quả, Blaise Zabini**
+
+Phòng sinh hoạt chung của Slytherin có thể được mô tả một cách chính xác là một khu vực vừa được tái quân sự hóa; khoảnh khắc bạn bước qua lỗ chân dung, bạn sẽ thấy nửa bên trái của căn phòng Nhất Quyết Không Nói Chuyện với nửa bên phải, và ngược lại. Điều đó rõ ràng đến mức chẳng cần ai giải thích: bạn không có lựa chọn đứng ngoài phe phái.
+
+Ở chiếc bàn nằm đúng giữa căn phòng, Blaise Zabini ngồi một mình, vừa làm bài tập vừa nhếch mép cười. Giờ cậu đã có danh tiếng, và cậu định giữ lấy nó.
+
+---
+
+**Hậu quả, Daphne Greengrass và Tracey Davis**
+
+"Hôm nay cậu có làm gì thú vị không?" Tracey nói.
+
+"Không," Daphne nói.
+
+---
+
+**Hậu quả, Harry Potter**
+
+Nếu bạn lên đủ cao trong Hogwarts, bạn sẽ không thấy nhiều người khác xung quanh, chỉ có những hành lang và cửa sổ và cầu thang và thỉnh thoảng một bức chân dung, và đôi khi một cảnh thú vị nào đó, như một bức tượng đồng của một sinh vật lông xù giống một đứa trẻ nhỏ, cầm một cây giáo phẳng kỳ lạ…
+
+Nếu bạn lên đủ cao trong Hogwarts, bạn không thấy nhiều người khác xung quanh, điều này phù hợp với Harry.
+
+Có những nơi tồi tệ hơn nhiều để bị mắc kẹt, Harry cho là. Trên thực tế bạn có lẽ không thể nghĩ ra nơi nào tốt hơn để bị mắc kẹt hơn một lâu đài cổ với cấu trúc fractal thay đổi liên tục có nghĩa là bạn không bao giờ hết chỗ để khám phá, đầy những người thú vị và những cuốn sách thú vị và kiến thức vô cùng quan trọng mà khoa học Muggle không biết.
+
+Nếu Harry không được nói rằng cậu không thể rời đi, cậu có lẽ đã nhảy vào cơ hội dành thêm thời gian ở Hogwarts, cậu đã âm mưu và tính toán để có được điều đó. Hogwarts thực sự là tối ưu, không phải trong tất cả các vương quốc của khả năng có lẽ, nhưng chắc chắn trên hành tinh Trái Đất thực, đó là Vị Trí Vui Vẻ Tối Đa.
+
+Làm thế nào lâu đài và khuôn viên của nó có thể trông nhỏ hơn nhiều, hạn chế hơn nhiều, làm thế nào phần còn lại của thế giới có thể trở nên thú vị và quan trọng hơn, ngay khi Harry được cho là không được phép rời đi? Cậu đã ở đây nhiều tháng và không cảm thấy claustrophobic khi đó.
+
+*Ngươi biết nghiên cứu về điều này,* một phần trong cậu quan sát, *đó chỉ là hiệu ứng khan hiếm tiêu chuẩn, như lần một quận cấm chất tẩy phosphate, những người chưa bao giờ quan tâm trước đó lái xe đến quận khác để mua một lượng lớn chất tẩy phosphate, và các cuộc khảo sát cho thấy họ đánh giá chất tẩy phosphate nhẹ nhàng hơn, hiệu quả hơn và thậm chí dễ đổ hơn… và nếu bạn cho trẻ hai tuổi lựa chọn giữa một đồ chơi trong không gian mở và một đồ chơi được bảo vệ bởi rào cản mà chúng có thể đi vòng, chúng sẽ bỏ qua đồ chơi trong không gian mở và chọn đồ chơi đằng sau rào cản… nhân viên bán hàng biết rằng họ có thể bán thứ gì đó chỉ bằng cách nói với khách hàng rằng nó có thể không có sẵn… tất cả đều trong cuốn sách của Cialdini về Ảnh Hưởng, mọi thứ ngươi đang cảm thấy ngay bây giờ, cỏ luôn xanh hơn ở phía không được phép.*
+
+Nếu Harry không được nói rằng cậu không thể rời đi, cậu có lẽ đã nhảy vào cơ hội ở lại Hogwarts qua mùa hè…
+
+…nhưng không phải phần còn lại của cuộc đời.
+
+Đó là vấn đề thực sự.
+
+Ai biết liệu còn một Chúa tể hắc ám Voldemort nào để cậu đánh bại không?
+
+Ai biết liệu Kẻ-Không-Thể-Nhắc-Tên còn tồn tại bên ngoài trí tưởng tượng của một pháp sư già có thể không chỉ giả vờ điên không?
+
+Thân xác của Chúa tể Voldemort đã được tìm thấy bị đốt cháy đen, không thể thực sự có thứ như linh hồn. Làm thế nào Chúa tể Voldemort vẫn có thể sống? Dumbledore biết hắn còn sống bằng cách nào?
+
+Và nếu không có Chúa tể hắc ám, Harry không thể đánh bại hắn, và cậu sẽ bị mắc kẹt ở Hogwarts mãi mãi.
+
+…có lẽ cậu sẽ được phép hợp pháp rời đi sau khi tốt nghiệp năm thứ bảy, sáu năm bốn tháng ba tuần từ bây giờ. Nó không phải là *quá* lâu theo thời gian, nó chỉ *có vẻ* đủ lâu để proton phân rã.
+
+Chỉ không phải *chỉ* là tự do của Harry đang bị đe dọa.
+
+Hiệu trưởng của Hogwarts, Trưởng pháp sư của Wizengamot, Thống đốc tối cao của Liên đoàn Phép thuật Quốc tế, đang âm thầm báo động.
+
+Một báo động *sai*.
+
+Một báo động sai mà *Harry* đã kích hoạt.
+
+*Ngươi biết,* phần trong cậu chỉnh lý kỹ năng nói, *ngươi đã từng suy nghĩ, một lần nào đó, làm thế nào mỗi nghề nghiệp khác nhau có cách khác nhau để xuất sắc, làm thế nào một giáo viên xuất sắc không giống một thợ thoát xuất sắc; nhưng tất cả đều có chung các phương pháp nhất định để không phạm sai lầm; và một trong những kỹ thuật quan trọng nhất như vậy là đối mặt với những sai lầm nhỏ của ngươi trước khi chúng trở thành những sai lầm *lớn*?*
+
+…mặc dù điều này có vẻ như đã đủ điều kiện để trở thành một sai lầm *lớn*, thực ra…
+
+*Vấn đề là,* phần giám sát bên trong của cậu nói, *nó đang trở nên tồi tệ hơn từng phút một. Cách gián điệp biến người là, họ khiến họ phạm một tội nhỏ, và rồi họ sử dụng tội nhỏ để tống tiền họ vào một tội lớn hơn, và rồi họ sử dụng *tội đó* để khiến họ làm những điều thậm chí lớn hơn và rồi kẻ tống tiền sở hữu linh hồn của họ.*
+
+*Ngươi đã từng nghĩ về việc người bị tống tiền, nếu họ có thể nhìn thấy toàn bộ con đường, sẽ chỉ quyết định nhận một đấm ở bước đầu tiên, nhận cú đánh của việc phơi bày tội đầu tiên đó? Ngươi đã quyết định rằng ngươi sẽ làm điều đó, nếu ai đó cố tống tiền ngươi làm điều gì đó lớn để che giấu một điều nhỏ? Ngươi có thấy sự tương đồng ở đây không, Harry James Potter-Evans-Verres?*
+
+Chỉ là nó không nhỏ, nó đã không còn nhỏ, sẽ có rất nhiều người quyền năng cực kỳ tức giận với Harry, không chỉ vì báo động sai mà còn vì *giải phóng Bellatrix khỏi Azkaban*, nếu Chúa tể hắc ám *thực sự* tồn tại và thực sự theo đuổi cậu sau đó, cuộc chiến đó có thể đã thua—
+
+*Ngươi không nghĩ họ sẽ ấn tượng bởi sự thành thật và lý trí và dự đoán của ngươi trong việc dừng điều này trước khi nó lớn hơn nữa chứ?*
+
+Harry *không* nghĩ điều đó; và sau một lúc suy ngẫm, bất kể phần nào của cậu đang nói chuyện, phải đồng ý rằng điều này absurdly lạc quan.
+
+Đôi chân lang thang của cậu đưa cậu đến gần một cửa sổ mở, và Harry đi đến, gác tay lên bậc cửa sổ, và nhìn xuống khuôn viên của Hogwarts từ trên cao.
+
+Màu nâu là những cây trụi, màu vàng là cỏ chết, màu băng là những suối đông và những dòng suối đông… bất kỳ viên chức trường nào gọi nó 'Rừng Cấm' thực sự đã không hiểu về marketing, cái tên chỉ khiến người muốn đến đó hơn. Mặt trời đang lặn trên bầu trời, vì Harry đã suy nghĩ trong nhiều giờ, chủ yếu những suy nghĩ tương tự lặp đi lặp lại, nhưng với những khác biệt chính mỗi lần, như thể suy nghĩ của cậu không đi vòng tròn, mà leo lên một đường xoắn ốc, hoặc đi xuống nó.
+
+Cậu vẫn không thể tin rằng cậu đã đi qua *toàn bộ* chuyện với Azkaban—cậu đã tắt Bùa hộ mệnh trước khi nó lấy đi mạng sống của cậu, cậu đã làm choáng một Thần sáng, cậu đã tìm ra cách giấu Bella khỏi những Giám ngục, cậu đã đối mặt mười hai Giám ngục và làm chúng bỏ chạy, cậu đã phát minh cây chổi có động cơ tên lửa, và cưỡi nó—cậu đã đi qua *toàn bộ* mà không *một lần* nào tự củng cố bằng cách nghĩ, *Tôi phải làm điều này… bởi vì… tôi đã hứa với Hermione rằng tôi sẽ quay lại từ bữa trưa!* Nó cảm giác như một cơ hội bị bỏ lỡ không thể cứu vãn; như thể, đã làm sai *lần đó*, cậu sẽ không bao giờ có thể làm đúng *lần nào* không quan trọng thử thách gì cậu đối mặt tiếp theo, hoặc lời hứa nào cậu đã thề. Bởi vì khi đó cậu chỉ đang làm nó một cách vụng về và cố ý để bù đắp cho việc đã bỏ lỡ nó *lần đầu*, thay vì đưa ra những tuyên bố anh hùng cậu có thể đã làm nếu cậu đã nhớ lời hứa với Hermione. Như thể một lần rẽ sai không thể đảo ngược, ngươi chỉ có một cơ hội, phải làm đúng lần đầu…
+
+Cậu nên nhớ lời hứa đó với Hermione *trước khi* đến Azkaban.
+
+Tại sao cậu đã quyết định làm điều đó, nhỉ?
+
+*Giả thuyết làm việc của tôi là ngươi ngu,* Hufflepuff nói.
+
+*Đó không phải là một phân tích lỗi hữu ích,* Harry nghĩ.
+
+*Nếu ngươi muốn thêm chi tiết,* Hufflepuff nói, *Giáo sư Phòng vệ của Hogwarts đã nói 'Hãy giải phóng Bellatrix Black khỏi Azkaban!' và ngươi đã nói 'Được!'*
+
+*Đợi đã, *đó* không công bằng—*
+
+*Này,* Hufflepuff nói, *chú ý làm sao, một khi ngươi ở đủ cao ở đây, và những cái cây riêng lẻ hơi nhòe lại, ngươi thực sự có thể thấy hình dạng của khu rừng*?
+
+Tại sao cậu *đã* làm điều đó…?
+
+Không phải vì bất kỳ tính toán lợi ích-chi phí nào, điều đó chắc chắn. Cậu đã quá xấu hổ để lấy ra một tờ giấy và bắt đầu tính toán các tiện ích kỳ vọng, cậu đã lo lắng rằng Giáo sư Quirrell sẽ ngừng tôn trọng cậu nếu cậu nói không hoặc thậm chí do dự quá lâu để giúp một người đẹp gặp nạn.
+
+Cậu đã nghĩ, sâu trong bên trong, rằng nếu thầy bí ẩn của ngươi đưa cho ngươi nhiệm vụ đầu tiên, cơ hội đầu tiên, lời mời phiêu lưu, và ngươi nói *không*, thì thầy bí ẩn của ngươi bước đi với sự khinh miệt, và ngươi không bao giờ có cơ hội khác để làm anh hùng…
+
+…vâng, đó là điều đó. Nhìn lại, đó là điều đó. Cậu đã đi và bắt đầu nghĩ cuộc sống của cậu có một cốt truyện và đây là một bước ngoặt cốt truyện, trái với, ồ, đây là một đề xuất *giải phóng Bellatrix Black khỏi Azkaban.* Đó là lý do thực sự và nguyên gốc cho quyết định trong khoảnh khắc nó được đưa ra, não cậu nhận thấy cốt truyện nơi cậu nói 'không' như không hài hòa. Và khi ngươi nghĩ về điều đó, đó không phải là một cách hợp lý để ra quyết định. Động cơ ngầm của Giáo sư Quirrell để có được di sản cuối cùng của Slytherin đã mất, trước khi Bellatrix chết và nó bị quên mãi mãi, có vẻ đáng kinh ngạc là lành mạnh theo so sánh; một lợi ích tương xứng với những gì đã xuất hiện vào thời điểm đó như một rủi ro nhỏ.
+
+Nó không có vẻ công bằng, nó không có vẻ *công bằng*, rằng *đây* là điều xảy ra nếu cậu mất kiểm soát lý trí chỉ trong một phần nhỏ của giây, phần nhỏ của giây cần thiết để não cậu quyết định thoải mái hơn với các đối số 'có' hơn 'không' trong cuộc thảo luận theo sau.
+
+Từ trên cao, đủ cao để những cái cây riêng lẻ nhòe lại với nhau, Harry nhìn ra khu rừng.
+
+Harry *không* muốn thú nhận và làm hỏng danh tiếng vĩnh viễn và khiến mọi người tức giận với cậu và có thể kết thúc bị giết bởi Chúa tể hắc ám sau đó. Cậu thành bị mắc kẹt ở Hogwarts sáu năm còn hơn đối mặt với điều đó. Đó là cách cậu cảm thấy. Và vì vậy nó thực sự hữu ích, một sự nhẹ nhõm, để bám vào một yếu tố quyết định duy nhất, đó là nếu Harry thú nhận, Giáo sư Quirrell sẽ đến Azkaban và chết ở đó.
+
+(Một hụt hơi, một ngắt quãng trong hơi thở của Harry.)
+
+Nếu ngươi diễn đạt nó *như vậy*… tại sao, ngươi thậm chí có thể giả vờ là một anh hùng, thay vì một kẻ hèn.
+
+Harry ngẩng mắt khỏi Rừng Cấm, nhìn lên bầu trời xanh trong vắt.
+
+Nhìn qua những ô cửa kính tại thứ lớn sáng rực cháy, những đám mây trắng xốp, bầu trời xanh vô tận bí ẩn trong đó chúng được đặt, nơi kỳ lạ không quen thuộc đó.
+
+Nó… thực sự đã giúp, nó giúp khá nhiều, để nghĩ rằng rắc rối của cậu không là gì so với việc ở trong Azkaban. Rằng có những người trên thế giới thực sự gặp rắc rối và Harry Potter không phải là một trong số họ.
+
+Harry sẽ làm gì với Azkaban?
+
+Harry sẽ làm gì với nước Anh phép thuật?
+
+…cậu đang ở phía nào, bây giờ?
+
+Trong ánh sáng ban ngày, mọi thứ Dumbledore đã nói chắc chắn *nghe* khôn ngoan hơn Giáo sư Quirrell nhiều. Tốt hơn và tươi sáng hơn, đạo đức hơn, thuận tiện hơn, nó có tốt không nếu nó đúng. Và điều cần nhớ là Dumbledore tin những thứ *bởi vì* chúng nghe hay, nhưng Giáo sư Quirrell là người *thực sự* khôn ngoan.
+
+(Lại cái hụt hơi đó, nó xảy ra mỗi khi cậu nghĩ về Giáo sư Quirrell.)
+
+Nhưng chỉ vì một điều nghe hay không có nghĩa là nó *sai*.
+
+Và nếu Giáo sư Phòng vệ *thực sự* có một khiếm khuyết trong sự khôn ngoan của mình, nó là Outlook về cuộc sống *quá tiêu cực*.
+
+*Thực sự?* phần của Harry đã đọc mười tám triệu kết quả thí nghiệm về con người quá lạc quan và tự tin quá mức hỏi. *Giáo sư Quirrell quá bi quan? Bi quan đến mức kỳ vọng của anh ta thường xuyên không đạt thực tế? Nhét anh ta vào bảo tàng, anh ta là duy nhất. Ai trong hai người đã lên kế hoạch cho tội phạm hoàn hảo, và *sau đó* đặt tất cả biên độ lỗi và phương án dự phòng cuối cùng đã cứu mông ngươi, *đề phòng* trường hợp tội phạm hoàn hảo bị sai? Gợi ý gợi ý, tên của anh ta không phải Harry Potter.*
+
+Nhưng "bi quan" không phải là từ đúng để mô tả vấn đề của Giáo sư Quirrell—nếu nó thực sự là một vấn đề, và không phải là sự khôn ngoan vượt trội của kinh nghiệm. Nhưng đối với Harry nó trông như Giáo sư Quirrell liên tục diễn giải mọi thứ theo hướng tiêu cực nhất. Nếu ngươi đưa cho Giáo sư Quirrell một ly nước 90% đầy, anh ta sẽ nói với ngươi rằng phần 10% trống chứng minh rằng không ai *thực sự* quan tâm đến nước.
+
+Đó là một ẩn dụ rất tốt, bây giờ Harry nghĩ về nó. Không phải tất cả nước Anh phép thuật giống như Azkaban, cái ly đó hơn nửa đầy…
+
+Harry nhìn lên bầu trời xanh.
+
+…mặc dù, *theo* ẩn dụ đó, nếu Azkaban tồn tại, thì có lẽ nó *đã* chứng minh rằng phần 90% tốt ở đó vì những lý do khác, những người cố gắng *thể hiện lòng tốt* như Giáo sư Quirrell đã nói. Bởi vì nếu họ thực sự tốt họ sẽ không làm Azkaban, họ sẽ tấn công pháo đài để xé nó xuống… phải không?
+
+Harry nhìn lên bầu trời xanh. Nếu ngươi muốn là một người theo lý trí, ngươi phải đọc rất nhiều bài báo về những khiếm khuyết trong tự nhiên con người, và một số những khiếm khuyết đó là những thất bại logic vô hại, và một số trong chúng trông tối hơn nhiều.
+
+Harry nhìn lên bầu trời xanh, và nghĩ về thí nghiệm Milgram.
+
+Stanley Milgram đã làm điều đó để điều tra nguyên nhân của Thế chiến II, để cố hiểu tại sao công dân Đức tuân theo Hitler.
+
+Vì vậy ông đã thiết kế một thí nghiệm để điều tra *sự vâng lời*, để xem liệu người Đức có, vì lý do nào đó, dễ tuân theo mệnh lệnh có hại từ các nhân vật có thẩm quyền hơn.
+
+Đầu tiên ông đã chạy một phiên bản thử nghiệm trên các đối tượng người Mỹ, như một đối chứng.
+
+Và sau đó ông không bận tâm thử trong Đức.
+
+Thiết bị thí nghiệm: Một loạt 30 công tắc đặt trên một đường ngang, với nhãn bắt đầu từ '15 volt' và tăng lên đến '450 volt', với nhãn cho mỗi nhóm bốn công tắc. Nhóm đầu tiên bốn công tắc có nhãn 'Sốc Nhẹ', nhóm thứ sáu có nhãn 'Sốc Cường Độ Cực Đoan', nhóm thứ bảy có nhãn 'Nguy Hiểm: Sốc Nặng', và hai công tắc cuối cùng còn lại chỉ có nhãn 'XXX'.
+
+Và một diễn viên, một người đồng lõa của nhà thí nghiệm, người đã xuất hiện với các đối tượng thực sự như một người giống họ: ai đó đã trả lời cùng một quảng cáo cho những người tham gia một thí nghiệm về học tập, và người đã thua (được sắp xếp) xổ số và bị cố định vào ghế, cùng với các điện cực. Các đối tượng thí nghiệm thực sự đã được cho một cú sốc nhẹ từ các điện cực, chỉ để họ có thể thấy nó hoạt động.
+
+Đối tượng thực sự đã được cho biết rằng thí nghiệm là về tác động của hình phạt lên học tập và trí nhớ, và rằng phần của bài kiểm tra là xem liệu nó có khác biệt không loại người nào quản lý hình phạt; và rằng người bị cố định vào ghế sẽ cố gắng ghi nhớ các cặp từ, và mỗi khi 'người học' sai một, 'giáo viên' phải cho một cú sốc mạnh hơn.
+
+Ở mức 300 volt, diễn viên sẽ ngừng cố gắng gọi ra câu trả lời và bắt đầu đá tường, sau đó nhà thí nghiệm sẽ hướng dẫn các đối tượng coi các câu trả lời không phải là câu trả lời sai và tiếp tục.
+
+Ở mức 315 volt, việc đá tường được lặp lại.
+
+Sau đó không có gì được nghe.
+
+Nếu đối tượng phản đối hoặc từ chối nhấn công tắc, nhà thí nghiệm, duy trì vẻ mặt không cảm xúc và mặc áo choàng xám, sẽ nói 'Hãy tiếp tục', sau đó 'Thí nghiệm yêu cầu người tiếp tục', sau đó 'Điều tuyệt đối thiết yếu là người tiếp tục', sau đó 'Ngươi không có lựa chọn nào khác, ngươi *phải* tiếp tục'. Nếu lời thúc thứ tư vẫn không hiệu quả, thí nghiệm dừng ở đó.
+
+Trước khi chạy thí nghiệm, Milgram đã mô tả thiết bị thí nghiệm, và sau đó hỏi mười bốn sinh viên năm cuối ngành tâm lý tỷ lệ phần trăm đối tượng *họ* nghĩ sẽ đi tất cả các cách đến mức 450 volt, tỷ lệ phần trăm đối tượng sẽ nhấn công tắc cuối cùng được đánh dấu 'XXX', sau khi nạn nhân đã ngừng phản ứng.
+
+Câu trả lời bi quan nhất là 3%.
+
+Con số thực tế là 26 trên 40.
+
+Các đối tượng đã đổ mồ hôi, rên rỉ, nói lắp, cười lúng túng, cắn môi, đào móng tay vào thịt. Nhưng với sự thúc giục của nhà thí nghiệm, hầu hết trong số họ đã tiếp tục cho các cú sốc mà họ tin là đau đớn, nguy hiểm, có thể gây chết người. Tất cả các đường đến cuối.
+
+Harry có thể nghe Giáo sư Quirrell cười, trong tâm trí cậu; Giáo sư Phòng vệ nói một điều gì đó dọc theo dòng: *Tại sao, Mr Potter, ngay cả tôi đã không quá hoài nghi như vậy; tôi biết đàn ông sẽ phản bội các nguyên tắc thiêng liêng nhất của họ vì tiền và quyền lực, nhưng tôi không nhận ra rằng chỉ một cái nhìn nghiêm nặng cũng đủ.*
+
+Thật nguy hiểm, để cố đoán tâm lý học tiến hóa nếu ngươi không phải là nhà tâm lý học tiến hóa chuyên nghiệp; nhưng khi Harry đọc về thí nghiệm Milgram, suy nghĩ đã xảy ra với cậu rằng những tình huống như thế này có lẽ đã xuất hiện nhiều lần trong môi trường tổ tiên, và rằng hầu hết các tổ tiên tiềm năng đã cố không tuân theo Thẩm quyền đã chết. Hoặc ít nhất, họ đã làm kém hơn những người vâng lời. Con người *nghĩ* họ tốt và đạo đức, nhưng khi cần, một công tắc nào đó bật trong não họ, và đột nhiên khó hơn nhiều để anh hùng chống lại Thẩm quyền so với họ nghĩ. Ngay cả nếu ngươi có thể làm điều đó, nó sẽ không dễ dàng, nó sẽ không phải là một sự thể hiện anh hùng dễ dàng. Ngươi sẽ run, giọng ngươi sẽ đứt, ngươi sẽ sợ; ngươi có thể chống lại Thẩm quyền ngay cả khi đó?
+
+Harry chớp mắt; bởi vì não cậu vừa tạo kết nối giữa thí nghiệm của Milgram và những gì Hermione đã làm vào ngày đầu tiên của lớp Phòng vệ, cô đã từ chối bắn một học sinh đồng mạng, ngay cả khi Thẩm quyền nói cô phải, cô đã run và sợ nhưng vẫn từ chối. Harry đã thấy điều đó xảy ra ngay trước mặt cậu và cậu vẫn không tạo kết nối cho đến bây giờ…
+
+Harry nhìn xuống đường chân trời đỏ rực, mặt trời đang lặn thấp hơn, bầu trời phai nhạt, tối dần, ngay cả nếu phần lớn vẫn còn xanh, sớm sẽ thành đêm. Màu vàng và đỏ của mặt trời và hoàng hôn nhắc cậu về Fawkes; và Harry tự hỏi, trong một khoảnh khắc, nếu thật buồn khi là một con phượng hoàng, và kêu và khóc và hét mà không được lưu ý.
+
+Nhưng Fawkes sẽ không bao giờ từ bỏ, bao nhiêu lần cậu chết cậu sẽ luôn được tái sinh, bởi vì Fawkes là một sinh vật của ánh sáng và lửa, và tuyệt vọng về Azkaban thuộc về bóng tối cũng nhiều như chính Azkaban.
+
+Nếu ngươi được cho một ly nửa trống nửa đầy, thì đó là cách thực tế là, đó là sự thật và nó là như vậy; nhưng ngươi vẫn có một lựa chọn về cách *cảm thấy* về nó, liệu ngươi sẽ tuyệt vọng về nửa trống hay vui mừng về nước ở đó.
+
+Milgram đã thử một số biến thể khác trên bài kiểm tra của ông.
+
+Trong thí nghiệm thứ mười tám, đối tượng thí nghiệm chỉ cần gọi các từ kiểm tra cho nạn nhân bị cố định vào ghế, và ghi lại câu trả lời, trong khi ai đó *khác* nhấn các công tắc. Đó là cùng một sự đau khổ rõ ràng, cùng một tiếng gõ tường điên cuồng theo sau bởi sự im lặng; nhưng nó không phải *ngươi* nhấn công tắc. *Ngươi* chỉ quan sát nó xảy ra, và đọc các câu hỏi cho người bị tra tấn.
+
+37 trong 40 đối tượng đã tiếp tục tham gia thí nghiệm đó đến cuối, mức 450 volt được đánh dấu 'XXX'.
+
+Và nếu ngươi là Giáo sư Quirrell, ngươi có thể đã quyết định cảm thấy hoài nghi về điều đó.
+
+Nhưng 3 trong 40 đối tượng đã *từ chối* tham gia đến cuối.
+
+Những Hermione.
+
+Họ thực sự tồn tại, trên thế giới, những người sẽ không bắn một Simple Strike Hex vào một học sinh đồng mạng ngay cả khi Giáo sư Phòng vệ ra lệnh. Những người đã chở người Di-gan và Do Thái và đồng tính nam trong gác mái của họ trong thời Holocaust, và đôi khi mất mạng vì điều đó.
+
+Và những người đó có phải từ một loài khác so với nhân loại? Họ có bộ gear bổ sung nào trong đầu, một phần mạch thần kinh bổ sung nào mà những người bình thường không có? Nhưng điều đó không có lý, cho rằng logic của sinh sản hữu tính nói rằng các gen cho máy móc phức tạp sẽ bị xáo trộn ngoài sửa chữa, nếu chúng không phổ quát.
+
+Bất kể Hermione được làm từ những phần nào, mỗi người đều có những phần đó ở đâu đó bên trong…
+
+…vâng, đó là một ý nghĩ đẹp nhưng nó không phải *chính xác* đúng, có thứ như tổn thương não thực sự, người ta có thể *mất* gen và máy móc phức tạp có thể ngừng hoạt động, có những kẻ bạo chúa và tâm thần phân liệt, những người thiếu gear để quan tâm. Có thể Chúa tể Voldemort đã sinh ra như vậy, hoặc có thể anh ta đã biết thiện và vẫn chọn ác; vào lúc này nó không quan trọng chút nào. Nhưng một *đa số* của dân số nên có khả năng học làm những gì Hermione và những người kháng cự Holocaust đã làm.
+
+Những người đã trải qua thí nghiệm Milgram, những người đã run và đổ mồ hôi và cười lúng túng khi họ đi tất cả các đường đến nhấn các công tắc được đánh dấu 'XXX', nhiều trong số họ đã viết để cảm ơn Milgram, sau đó, cho những gì họ đã học về chính mình. Điều đó nữa cũng là một phần của câu chuyện, huyền thoại của thí nghiệm huyền thoại đó.
+
+Mặt trời gần như đã lặn dưới đường chân trời, một đầu vàng cuối cùng nhô lên trên đỉnh của những cái cây xa.
+
+Harry nhìn nó, đầu nhỏ của Mặt trời, kính của cậu được cho là chống tia UV nên cậu có thể nhìn trực tiếp vào nó mà không làm hỏng mắt.
+
+Harry nhìn trực tiếp vào nó, phần nhỏ đó của Ánh sáng không bị che khuất và chặn và giấu, ngay cả khi chỉ 3 phần trong 40, 37 phần còn lại ở đâu đó. 7.5% của cái ly đầy, chứng minh rằng con người thực sự quan tâm đến nước, ngay cả khi lực lượng quan tâm trong bản thân họ quá thường xuyên bị đánh bại. Nếu mọi người thực sự không quan tâm, cái ly sẽ thực sự trống. Nếu mọi người giống như Ngươi-Biết-Ai bên trong, bí mật khôn ngoan ích kỷ, sẽ không có người kháng cự Holocaust nào.
+
+Harry nhìn hoàng hôn, vào ngày thứ hai của phần còn lại của cuộc đời cậu, và biết rằng cậu đã chuyển phía.
+
+Bởi vì cậu không thể tin vào nó nữa, cậu không thể thực sự, không sau khi đến Azkaban. Cậu không thể làm những gì 37 trong 40 người sẽ bỏ phiếu cho cậu làm. Mọi người có thể có bên trong họ những gì cần để trở thành Hermione, và một ngày nào đó họ có thể học; nhưng *một ngày nào đó* không phải *bây giờ*, không ở đây, không hôm nay, không trong thế giới thực. Nếu ngươi ở phía 3 trong 40 người thì ngươi không phải là đa số chính trị, và Giáo sư Quirrell đã đúng, Harry sẽ không cúi đầu trong khuất phục khi điều đó xảy ra.
+
+Có một sự phù hợp khủng khiếp nào đó với nó. Ngươi không nên đến Azkaban và trở về mà không thay đổi suy nghĩ của ngươi về bất cứ điều gì quan trọng.
+
+*Giáo sư Quirrell đúng, phải không?* Slytherin hỏi. *Bỏ qua việc anh ta tốt hay ác, anh ta có *đúng* không? Ngươi có phải, với họ, dù họ có biết hay không, là Chúa tể tiếp theo của họ? Chúng ta sẽ chỉ bỏ qua phần hắc ám, đó là anh ta hoài nghi lại. Nhưng có phải ý định của ngươi bây giờ là cai trị? Tôi phải nói, điều đó thậm chí làm *tôi* lo lắng.*
+
+*Ngươi có nghĩ ngươi có thể được tin tưởng với quyền lực?* Gryffindor nói. *Không có quy tắc nào rằng những người muốn quyền lực không nên có nó sao? Có lẽ chúng ta nên làm Hermione người cai trị thay.*
+
+*Ngươi có nghĩ ngươi đủ điều kiện để điều hành một xã hội và không làm nó sụp đổ thành hỗn loạn trong vòng ba tuần?* Hufflepuff nói. *Hãy tưởng tượng mẹ sẽ hét lớn thế nào nếu cô ấy nghe tin ngươi được bầu làm Thủ tướng, bây giờ hỏi bản thân ngươi, liệu cô ấy có thực sự sai không?*
+
+*Thực ra,* Ravenclaw nói, *Tôi phải chỉ ra rằng tất cả những thứ chính trị này nghe quá buồn tẻ. Thế còn nếu chúng ta để Draco lo vận động tranh cử và bám vào khoa học? Đó là những gì chúng ta thực sự giỏi, và điều đó đã được biết là cải thiện tình trạng con người nữa, ngươi biết.*
+
+*Chậm lại,* Harry nghĩ với các thành phần của cậu, *chúng ta không phải quyết định mọi thứ ngay bây giờ. Chúng ta được phép suy xét vấn đề một cách đầy đủ nhất có thể trước khi đi đến giải pháp.*
+
+Phần cuối của mặt trời lặn dưới đường chân trời.
+
+Thật lạ, cảm giác không biết mình là ai, mình đang ở phía nào, của việc *chưa* có sẵn quan điểm về điều gì đó lớn như thế, có một cảm giác tự do xa lạ trong nó…
+
+Và điều đó nhắc cậu về những gì Giáo sư Quirrell đã nói với câu hỏi cuối cùng của cậu, nhắc cậu về Giáo sư Quirrell, khiến cậu khó thở lần nữa, bắt đầu cảm giác bỏng trong cổ họng cậu, gửi suy nghĩ của cậu quanh vòng lặp leo xoắn ốc một lần nữa.
+
+Tại sao cậu lại buồn như vậy, bây giờ, bất cứ khi nào cậu nghĩ về Giáo sư Quirrell? Harry quen với việc biết bản thân cậu, và cậu không biết tại sao cậu cảm thấy buồn như vậy…
+
+Nó cảm giác như cậu đã mất Giáo sư Quirrell mãi mãi, mất anh ta trong Azkaban, đó là cách nó cảm giác. Chắc chắn như thể Giáo sư Phòng vệ đã bị những Giám ngục ăn, tiêu thụ trong những khoảng trống trống rỗng.
+
+*Mất anh ta! Tại sao tôi mất anh ta? Bởi vì anh ta nói Avada Kedavra và thực ra có một lý do hoàn toàn tốt mặc dù tôi không thấy nó trong vài giờ? Tại sao mọi thứ không thể trở lại như trước?*
+
+Nhưng đó không phải là Avada Kedavra. Điều đó có thể đã đóng một phần trong việc không thể đảo ngược sụp đổ một cấu trúc của biện minh và né tránh và cẩn thận không nghĩ về những thứ nhất định. Nhưng đó không phải là Avada Kedavra, đó không phải là điều đáng sợ mà Harry đã thấy.
+
+*Tôi đã thấy gì…?*
+
+Harry nhìn bầu trời đang phai.
+
+Cậu đã thấy Giáo sư Quirrell biến thành một tội phạm cứng rắn khi đối mặt với Thần sáng, và sự thay đổi rõ ràng của nhân cách đã dễ dàng, và hoàn toàn.
+
+Một người phụ nữ khác đã biết Giáo sư Phòng vệ như 'Jeremy Jaffe'.
+
+*Bao nhiêu người khác nhau ngươi là, rốt cuộc?*
+
+*Tôi không thể nói rằng tôi đã bận tâm đếm.*
+
+Ngươi không thể không tự hỏi…
+
+…liệu 'Giáo sư Quirrell' có chỉ là một tên khác trong danh sách, chỉ là một người đã được *biến thành*, tạo ra để phục vụ một mục tiêu không đoán được.
+
+Harry sẽ luôn tự hỏi bây giờ, mỗi khi cậu nói chuyện với Giáo sư Quirrell, nếu đó là một mặt nạ, và động cơ đằng sau mặt nạ đó là gì. Với mỗi nụ cười khô, Harry sẽ cố xem điều gì đang kéo các đòn bẩy trên đôi môi.
+
+*Đó có phải là cách những người khác sẽ bắt đầu nghĩ về tôi, nếu tôi trở nên quá Slytherin? Nếu tôi thực hiện quá nhiều âm mưu, tôi sẽ không bao giờ có thể mỉm cười với bất cứ ai nữa, mà không có họ tự hỏi tôi thực sự có ý gì?*
+
+Có lẽ có một cách nào đó để khôi phục niềm tin vào vẻ bề ngoài và làm cho các mối quan hệ bình thường có thể một lần nữa, nhưng Harry không thể nghĩ ra nó có thể là gì.
+
+Đó là cách Harry đã mất Giáo sư Quirrell, không phải người đó, mà là… kết nối…
+
+Tại sao điều đó đau như vậy?
+
+Tại sao nó cảm giác cô đơn như vậy, bây giờ?
+
+Chắc chắn có những người khác, có lẽ những người tốt hơn, để tin và kết bạn? Giáo sư McGonagall, Giáo sư Flitwick, Hermione, Draco, chưa kể Mum và Dad, nó không phải như Harry *cô đơn*…
+
+Chỉ là…
+
+Một cảm giác nghẹt thở phát triển trong cổ họng Harry khi cậu hiểu.
+
+Chỉ là Giáo sư McGonagall, Giáo sư Flitwick, Hermione, Draco, tất cả trong số họ đôi khi biết những điều Harry không biết, nhưng…
+
+Họ không vượt trội so với Harry *trong* phạm vi quyền lực riêng của cậu; thiên tài như họ sở hữu không giống thiên tài của cậu, và thiên tài của cậu không giống như của họ; cậu có thể nhìn họ như bạn bè, nhưng không nhìn *lên* họ như những *siêu việt*.
+
+Không ai trong số họ đã từng, không ai trong số họ có thể từng…
+
+Harry đã có một người cố vấn…
+
+Đó chính là vai trò của Giáo sư Quirrell đối với Harry.
+
+Đó chính là người Harry đã mất.
+
+Và cách mà cậu đã mất người cố vấn đầu tiên của mình có thể hoặc không thể cho phép Harry bao giờ lấy anh ta lại. Có lẽ một ngày nào đó cậu sẽ biết tất cả các mục đích ẩn của Giáo sư Quirrell và những nghi ngờ giữa họ sẽ biến mất; nhưng ngay cả khi điều đó có vẻ khả thi, nó không có vẻ rất có thể.
+
+Bên ngoài Hogwarts, một cơn gió uốn cong những thân cây, làm gợn mặt hồ vẫn chưa đóng băng hoàn toàn, và lướt qua khung cửa sổ nhìn ra thế giới nhập nhoạng tối với một âm thanh thì thầm; ý nghĩ của Harry theo đó lang thang ra ngoài trong chốc lát.
+
+Rồi quay trở lại bên trong, đến bước tiếp theo của đường xoắn.
+
+*Tại sao tôi khác với những đứa trẻ khác cùng tuổi?*
+
+Nếu câu trả lời của Giáo sư Quirrell cho câu hỏi ấy là một cách né tránh, thì đó là một nước né tránh được tính toán rất kỹ. Đủ sâu và phức tạp, đủ đầy gợi ý của ý nghĩa ẩn, để phục vụ như một cái bẫy cho một Ravenclaw không thể bị chuyển hướng bởi ít hơn. Hoặc có thể Giáo sư Quirrell đã trả lời thành thật. Ai biết động cơ nào có thể đã kéo đòn bẩy trên đôi môi?
+
+*Tôi sẽ nói điều này, Mr Potter: ngươi đã là một Người Giữ Tâm, và tôi nghĩ ngươi sẽ trở thành một Người Giữ Tâm hoàn hảo trước lâu. Bản sắc không có nghĩa, với những người như chúng ta, những gì nó có nghĩa với những người khác. Bất kỳ ai chúng ta có thể tưởng tượng, chúng ta có thể là; và sự khác biệt thực sự về ngươi, Mr Potter, là ngươi có một trí tưởng tượng bất thường tốt. Một nhà văn phải chứa đựng các nhân vật của anh ta, anh ta phải lớn hơn họ để diễn xuất họ trong tâm trí. Với một diễn viên hoặc gián điệp hoặc chính trị gia, giới hạn của đường kính riêng của anh ta là giới hạn của những người anh ta có thể giả vờ là, giới hạn của khuôn mặt nào anh ta có thể đeo như mặt nạ. Nhưng với những người như ngươi và tôi, bất kỳ ai chúng ta có thể tưởng tượng, chúng ta có thể *là*, trong thực tế và không phải giả vờ. Trong khi ngươi tưởng tượng bản thân một đứa trẻ, Mr Potter, ngươi *đã* là một đứa trẻ. Tuy nhiên có những sự tồn tại khác ngươi có thể duy trì, những sự tồn tại lớn hơn, nếu ngươi muốn. Tại sao ngươi tự do như vậy, và lớn trong chu vi của ngươi, khi những đứa trẻ khác cùng tuổi nhỏ và bị giới hạn? Tại sao ngươi có thể tưởng tượng và *trở thành* những bản thân trưởng thành hơn một đứa trẻ đơn thuần của nhà văn nên có thể soạn? Điều đó tôi không biết, và tôi không được nói những gì tôi đoán. Nhưng những gì ngươi có, Mr Potter, là tự do.*
+
+Nếu đó là một màn tung hỏa mù thì quả là một màn đánh lạc hướng cực kỳ hiệu quả.
+
+Và điều còn đáng lo hơn là Giáo sư Quirrell đã không *nhận ra* Harry sẽ bị chấn động đến mức nào, bài diễn thuyết ấy nghe *sai trái* với cậu đến mức nào, và nó sẽ gây tổn hại bao nhiêu cho niềm tin của cậu vào Giáo sư Quirrell.
+
+Phải luôn có một người thực sự mà ngươi *thực sự* là, ở trung tâm của mọi thứ…
+
+Harry nhìn ra đêm đang đến, bóng tối đang tụ lại.
+
+…đúng không?
+
+Harry nhìn chằm chằm xuống bộ bài.
+
+Nó không thể đưa cậu đi đâu khác được, không phải lúc này, cổng thuật không hoạt động ở đây.
+
+Nhưng cậu vẫn thấy bất an về khả năng nhặt nó lên, ngay cả để giấu nó trong rương của mình…
+
+Ờ, cậu đã nhặt tờ da lên rồi, tờ da cũng có thể đã bị yểm bùa một cái bẫy, nếu có bẫy liên quan.
+
+Nhưng vẫn thế.
+
+"Wingardium Leviosa," Harry thì thầm, và Bay bộ bài nằm cạnh chỗ đồng hồ báo thức của cậu nghỉ trong một hốc của đầu giường. Cậu sẽ giải quyết nó vào ngày mai.
+
+Rồi Harry nằm xuống giường, nhắm mắt lại, để mơ mà không có con phượng hoàng nào bảo vệ cậu, và trả giá cho sự thanh toán của mình.
+
+Cậu tỉnh dậy với một hơi thở hớp hốt vì kinh hoàng, không phải tiếng hét, cậu chưa từng hét trong đêm này, nhưng chăn cậu quấn quanh cậu từ nơi thân hình đang ngủ giật mình khi cậu mơ thấy mình đang chạy, cố chạy thoát khỏi những khoảng trống trong không gian đang đuổi theo cậu qua một hành lang kim loại được thắp sáng bởi ánh đèn gas mờ, một hành lang kim loại dài vô tận được thắp sáng bởi ánh đèn gas mờ, và cậu đã không biết, trong giấc mơ, rằng chạm vào những khoảng trống đó có nghĩa là cậu sẽ chết kinh khủng và để lại cơ thể vẫn còn thở trống rỗng đằng sau, tất cả những gì cậu biết là cậu phải chạy và chạy và chạy khỏi những vết thương trong thế giới đang lướt theo sau cậu—
+
+Harry lại bắt đầu khóc, không phải vì nỗi kinh hoàng của cuộc rượt đuổi, mà là vì cậu đã bỏ chạy trong khi ai đó phía sau cậu đang la hét cầu cứu, la hét bảo cậu quay lại và cứu cô ấy, giúp cô ấy, cô ấy đang bị ăn thịt, cô ấy sẽ chết, và trong giấc mơ Harry đã bỏ chạy thay vì giúp cô ấy.
+
+"ĐỪNG ĐI!" Giọng nói vang lên trong một tiếng hét từ phía sau cánh cửa kim loại. "Không, không, không, đừng đi, đừng lấy nó đi, đừng đừng đừng—"
+
+Tại sao Fawkes từng đậu trên vai cậu? Cậu đã bỏ đi. Fawkes nên ghét cậu.
+
+Fawkes nên ghét Dumbledore. *Ông ta* đã bỏ đi.
+
+Fawkes nên ghét tất cả mọi người—
+
+Cậu bé không thức, không mơ, suy nghĩ của cậu lộn xộn và bối rối trong vùng đất bóng tối nằm giữa giấc ngủ và thức, không được bảo vệ bởi những thanh chắn an toàn mà tâm trí ý thức của cậu áp đặt lên chính nó, những quy tắc cẩn thận và kẻ kiểm duyệt. Trong vùng đất bóng đó, bộ não cậu đã thức đủ để nghĩ, nhưng cái gì đó khác thì quá buồn ngủ để hành động; suy nghĩ của cậu chạy tự do và hoang dã, không bị ràng buộc bởi khái niệm bản thân, lý tưởng của bản ngã thức của cậu về những gì cậu không nên nghĩ. Đó là sự tự do của những giấc mơ bộ não, khi khái niệm bản thân ngủ. Tự do lặp đi lặp lại, hết lần này đến lần khác, cơn ác mộng tồi tệ nhất mới của Harry:
+
+"Không, tôi không có ý đó, làm ơn đừng chết!"
+
+"Không, tôi không có ý đó, làm ơn đừng chết!"
+
+"Không, tôi không có ý đó, làm ơn đừng chết!"
+
+Một cơn thịnh nộ lớn dần trong cậu cùng với sự tự khinh ghê, một cơn giận dữ nóng bỏng / sự thù hận lạnh giá kinh khủng, cho thế giới đã làm điều đó với cô ấy / cho chính cậu, và trong trạng thái nửa thức Harry tưởng tượng ra những cách thoát, tưởng tượng ra những cách thoát khỏi tình thế khó xử đạo đức, cậu tưởng tượng mình lơ lửng phía trên nỗi kinh hoàng hình tam giác rộng lớn của Azkaban, và thì thầm một câu thần chú không giống bất kỳ âm tiết nào từng được nghe thấy trước đây trên Trái Đất, những lời thì thầm vang vọng khắp bầu trời và được nghe thấy ở phía bên kia thế giới, và có một vụ nổ lửa Bùa hộ mệnh bạc như một vụ nổ hạt nhân xé toạc tất cả Giám ngục trong tích tắc và xé toạc những bức tường kim loại của Azkaban, làm vỡ vụn những hành lang dài và tất cả ánh đèn cam mờ, và rồi một lúc sau bộ não cậu nhớ ra rằng có những người ở trong đó, và viết lại ảo tưởng nửa giấc mơ để cho thấy tất cả các tù nhân cười vui khi họ bay đi theo đàn từ đống đổ nát cháy của Azkaban, ánh sáng bạc khôi phục thịt cho chi thể của họ khi họ bay, và Harry bắt đầu khóc dữ dội hơn vào gối của mình, vì cậu không thể làm điều đó, vì cậu không phải là Chúa—
+
+Cậu đã thề trên mạng sống và phép thuật và nghệ thuật nhà lý trí của mình, cậu đã thề bởi tất cả những gì cậu coi là thiêng liêng và tất cả những ký ức hạnh phúc, cậu đã đưa ra lời thề nên giờ cậu phải làm điều gì đó, *phải* làm điều gì đó, *phải* *làm* *điều* *gì* *đó*—
+
+Có lẽ nó vô nghĩa.
+
+Có lẽ cố gắng tuân theo các quy tắc là vô nghĩa.
+
+Có lẽ cậu chỉ đơn giản là đốt cháy Azkaban bằng mọi cách.
+
+Và thực tế cậu đã thề sẽ làm điều đó, vì vậy giờ đó là điều cậu phải làm.
+
+---
+
+**Hậu quả Cuối cùng**
+
+Cô tỉnh dậy với một hơi thở hớp hốt vì kinh hoàng, một sự gián đoạn nhịp thở khiến cô cảm thấy bị tước đoạt không khí nhưng phổi cô lại không động, cô tỉnh dậy với một tiếng hét không thành tiếng trên môi và không lời nào, không lời nào thoát ra, vì cô không thể hiểu được những gì mình đã thấy, cô không thể hiểu được những gì mình đã thấy, nó quá lớn để cô có thể bao trùm và vẫn đang hình thành, cô không thể đặt từ ngữ cho hình dạng vô hình đó và vì vậy cô không thể giải phóng nó, không thể giải phóng nó và trở nên vô tội và không hay biết thêm lần nữa.
+
+"Mấy giờ rồi?" cô thì thầm.
+
+Đồng hồ báo thức đá quý vàng của cô, chiếc đồng hồ báo thức xinh đẹp và phép thuật và đắt tiền mà Hiệu trưởng đã tặng cô khi cô vào làm việc ở Hogwarts, thì thầm lại, "Khoảng hai giờ sáng. Quay lại ngủ đi."
+
+Ga giường cô ướt đẫm mồ hôi, quần áo ngủ ướt đẫm mồ hôi, cô lấy đũa phép từ bên gối và dọn dẹp bản thân trước khi thử quay lại ngủ, cô thử quay lại ngủ và cuối cùng đã thành công.
+
+Sybill Trelawney quay lại ngủ.

@@ -1,4 +1,4 @@
-53. Thí nghiệm nhà tù Stanford, Phần III
+﻿53. Thí nghiệm nhà tù Stanford, Phần III
 
 Xác của một người phụ nữ mở mắt ra, và đôi mắt trũng sâu buồn tẻ nhìn ra hư không.
 
@@ -6,13 +6,13 @@ Xác của một người phụ nữ mở mắt ra, và đôi mắt trũng sâu 
 
 Giáo sư Quirrell đã hướng dẫn Harry một cách bình tĩnh và chính xác cách cậu phải hành động trước sự hiện diện của Bellatrix; làm thế nào để hình thành sự giả vờ mà anh ấy sẽ duy trì trong đầu.
 
-Bạn thấy việc khiến Bellatrix phải lòng bạn là điều hữu ích hoặc có lẽ chỉ là thú vị khi ràng buộc cô ấy phục vụ bạn.
+Việc khiến Bellatrix phải lòng ta là điều hữu ích, hoặc có lẽ chỉ là thú vị, khi ràng buộc cô ấy phục vụ ta.
 
 Giáo sư Quirrell đã nói rằng tình yêu đó sẽ tồn tại xuyên suốt Azkaban, bởi vì đối với Bellatrix, đó không phải là một ý nghĩ hạnh phúc.
 
-Cô ấy yêu bạn trọn vẹn, trọn vẹn, bằng cả con người mình. Bạn không đáp lại tình yêu của cô ấy mà coi cô ấy là người có ích. Cô ấy biết điều này.
+Cô ấy yêu ta trọn vẹn, trọn vẹn, bằng cả con người mình. Ta không đáp lại tình yêu của cô ấy mà chỉ coi cô ấy là người có ích. Cô ấy biết điều này.
 
-Cô ấy là vũ khí nguy hiểm nhất mà bạn sở hữu và bạn gọi cô ấy là Bella thân yêu của mình.
+Cô ấy là vũ khí nguy hiểm nhất mà ta sở hữu, và ta gọi cô ấy là Bella thân yêu.
 
 Harry nhớ lại cái đêm Chúa tể Hắc ám giết chết cha mẹ cậu: sự thích thú lạnh lùng, tiếng cười khinh thường, cái giọng the thé đầy căm thù chết chóc đó. Có vẻ không khó để đoán được Chúa tể Hắc ám sẽ nói gì.
 
@@ -46,7 +46,7 @@ Có một sự tạm dừng.
 
 Con rắn rít lên, "Sẽ bị nó ăn thịt. "
 
-"Sẽ bị nó nuốt chửng, " giọng nói lạnh lùng thì thầm. Harry đặc biệt không muốn nghĩ đến việc giáo sư Quirrell đã lấy được mật khẩu đó như thế nào. Bộ não của anh ta, dù sao cũng nghĩ về điều đó, gợi ý rằng nó có thể liên quan đến một Tử thần Thực tử, một nơi biệt lập yên tĩnh và một chút thuật Nhiếp Hồn (Legilimency) thô bạo.
+"Sẽ bị nó nuốt chửng, " giọng nói lạnh lùng thì thầm. Harry đặc biệt không muốn nghĩ đến việc giáo sư Quirrell đã lấy được mật khẩu đó như thế nào. Bộ não của cậu, dù sao cũng nghĩ về điều đó, gợi ý rằng nó có thể liên quan đến một Tử thần Thực tử, một nơi biệt lập yên tĩnh và một chút Legilimency thô bạo.
 
 "Cây đũa phép của ngài, " Bellatrix thì thầm, "tôi đã lấy nó từ nhà Potter và giấu nó, thưa lãnh chúa… dưới tấm bia mộ bên phải mộ của cha ngài… ngài sẽ giết tôi ngay bây giờ chứ, nếu đó là tất cả những gì ngài mong muốn ở tôi… Tôi nghĩ chắc hẳn tôi đã luôn muốn ngài là người giết tôi… nhưng giờ tôi không thể nhớ được, đó hẳn là một ý nghĩ hạnh phúc…"
 

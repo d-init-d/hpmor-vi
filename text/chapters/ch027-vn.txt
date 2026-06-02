@@ -22,8 +22,7 @@ Tuy nhiên, bản thân phép thuật có vẻ khá phức tạp. Phép thuật 
 Chỉ có hai nguyên nhân được biết đến của sự phức tạp có mục đích. Chọn lọc tự nhiên đã tạo ra những thứ như bướm. Và kỹ thuật thông minh, thứ đã tạo ra những thứ như ô tô.
 Ma thuật dường như không phải thứ gì đó tự tái tạo thành hiện thực. Các phép thuật phức tạp có chủ đích, nhưng không giống như một con bướm, phức tạp với mục đích tạo ra các bản sao của chính chúng. Các phép thuật rất phức tạp vì mục đích phục vụ người dùng, giống như một chiếc ô tô.
 Khi đó, một kỹ sư thông minh nào đó đã tạo ra Nguồn ma thuật và bảo nó chú ý đến một dấu DNA cụ thể.
-Ý nghĩ tiếp theo rõ ràng là điều này có liên quan đến "Atlantis".
-Harry đã hỏi Hermione về điều đó trước đó - trên chuyến tàu đến Hogwarts, sau khi nghe Draco nói điều đó - và theo những gì cô biết, không có gì được biết nhiều hơn chính từ đó.
+Ý nghĩ tiếp theo rõ ràng là điều này có liên quan đến "Atlantis". Harry đã hỏi Hermione về điều đó trước đó - trên chuyến tàu đến Hogwarts, sau khi nghe Draco nói điều đó - và theo những gì cô biết, không có gì được biết nhiều hơn chính từ đó.
 Nó có thể là truyền thuyết thuần túy. Nhưng cũng có lý khi cho rằng một nền văn minh của những người sử dụng phép thuật, đặc biệt là nền văn minh từ trước Sắc lệnh Merlin, đã có thể tự nổ tung.
 Dòng lý luận tiếp tục: Atlantis từng là một nền văn minh biệt lập, bằng cách nào đó đã trở thành Nguồn gốc của Phép thuật và bảo nó chỉ phục vụ những người có dấu hiệu di truyền Atlantean, dòng máu của Atlantis.
 Và theo logic tương tự: những lời mà một phù thủy nói, chuyển động của cây đũa phép, bản thân chúng không đủ phức tạp để xây dựng các hiệu ứng bùa chú ngay từ đầu—không phải theo cách mà ba tỷ cặp cơ sở DNA của con người thực sự đủ phức tạp để tạo nên một cơ thể con người từ đầu, không phải theo cách mà các chương trình máy tính chiếm hàng nghìn byte dữ liệu.
@@ -48,7 +47,7 @@ Chúa tể Hắc ám đã sử dụng phương pháp nào? Nghĩ mà xem, việc
 Harry không bị nghẹn ngũ cốc ăn sáng. Thay vào đó anh quay lại và nhìn thấy ông Crabbe.
 "Xin lỗi, " Harry nói. "Không phải ý ông là 'Ông chủ muốn nói chuyện với anh sao?'"
 Ông Crabbe trông có vẻ không vui. "Ông Malfoy hướng dẫn tôi nói chuyện cho đàng hoàng. "
-"Tôi không thể nghe thấy anh nói, " Harry nói. "Anh nói không đàng hoàng. " Anh quay lại với bát đựng những bông tuyết nhỏ pha lê màu xanh lam của mình và cố tình ăn thêm một thìa nữa.
+"Tôi không thể nghe thấy anh nói, " Harry nói. "Anh nói không đàng hoàng. " Anh quay lại với bát đựng những bông tuyết nhỏ pha lê màu xanh lam của mình và cố tình ăn thêm một thì a nữa.
 "Ông chủ muốn nói chuyện với anh, " một giọng nói đe dọa vang lên từ phía sau anh. "Tốt nhất cậu nên đến gặp anh ấy nếu biết điều gì tốt cho mình. "
 Ở đó. Bây giờ mọi thứ đã diễn ra theo đúng kế hoạch.
 ---
@@ -122,7 +121,7 @@ Cậu bé sống sót đã nói rằng cậu ấy có công việc quan trọng 
 Và rồi Harry Potter bắt đầu một bài phát biểu đầy cảm hứng nhưng mơ hồ. Một bài phát biểu có nội dung rằng Fred, George và Lee có tiềm năng to lớn nếu họ có thể học cách trở thành kỳ lạ hơn. Để làm cho cuộc sống của mọi người trở nên siêu thực, thay vì chỉ làm họ ngạc nhiên với những xô nước tương đương đặt trên cửa. (Fred và George đã trao nhau những cái nhìn thích thú, họ chưa bao giờ nghĩ đến điều đó.) Harry Potter đã gợi lên hình ảnh về trò chơi khăm mà họ đã thực hiện với Neville—điều mà Harry đã đề cập với một chút hối hận là Chiếc Mũ Phân loại đã nhai nát cậu ấy—nhưng điều đó hẳn đã khiến Neville nghi ngờ sự tỉnh táo của chính mình. Đối với Neville, điều đó giống như đột nhiên được đưa vào một vũ trụ khác. Giống như cảm giác của những người khác khi họ nhìn thấy Snape xin lỗi. Đó chính là sức mạnh thực sự của việc chơi khăm.
 Bạn có ở bên tôi không? Harry Potter đã khóc và Lee Jordan đã trả lời là không.
 "Hãy đếm chúng tôi trong, " Fred nói, hoặc có thể là George, vì chắc chắn rằng Godric Gryffindor sẽ đồng ý.
-Lee Jordan nở một nụ cười tiếc nuối, đứng dậy rời khỏi hành lang vắng lặng và yên tĩnh, nơi bốn thành viên của Order of Chaos đã gặp nhau và ngồi thành một vòng tròn đầy âm mưu.
+Lee Jordan nở một nụ cười tiếc nuối, đứng dậy rời khỏi hành lang vắng lặng vâyên tĩnh, nơi bốn thành viên của Order of Chaos đã gặp nhau và ngồi thành một vòng tròn đầy âm mưu.
 Ba thành viên của Order of Chaos bắt tay vào công việc.
 (Điều đó không đáng buồn như vậy. Fred và George vẫn hợp tác với Lee trong những trò chơi khăm nhện khổng lồ như mọi khi. Họ chỉ bắt đầu gọi nó là Hội Hỗn loạn để chiêu mộ Harry Potter, sau khi Ron nói với họ về việc Harry là kẻ kỳ quặc và xấu xa, còn Fred và George đã quyết định cứu Harry bằng cách thể hiện tình bạn thực sự và lòng tốt với cậu ấy. Rất may là điều này dường như không còn cần thiết nữa—mặc dù họ khăng khăng về điều đó…)
 "Vậy, " một trong hai đứa song sinh nói, "chuyện này là sao?"
@@ -152,8 +151,7 @@ Bạn chưa bao giờ gọi bất kỳ câu hỏi nào là không thể, Harry n
 Và hơn nữa, Harry nói, giọng nhấn mạnh và tay phải đập mạnh xuống sàn, bạn đã không bắt đầu tìm giải pháp ngay lập tức.
 Sau đó, Harry bắt đầu giải thích về một bài kiểm tra được thực hiện bởi một người tên là Norman Maier, người được gọi là nhà tâm lý học tổ chức, người đã yêu cầu hai nhóm giải quyết vấn đề khác nhau cùng giải quyết một vấn đề.
 Harry cho biết vấn đề liên quan đến ba nhân viên làm ba công việc. Nhân viên cấp dưới chỉ muốn làm công việc dễ dàng nhất. Nhân viên cấp cao muốn luân chuyển giữa các công việc để tránh sự nhàm chán. Một chuyên gia về hiệu quả đã khuyến nghị nên giao cho cấp dưới công việc dễ nhất và cấp trên làm công việc khó nhất, điều này sẽ mang lại năng suất cao hơn 20%.
-Một nhóm giải quyết vấn đề đã được hướng dẫn "Không đề xuất giải pháp cho đến khi vấn đề được thảo luận kỹ lưỡng nhất có thể mà không đề xuất bất kỳ giải pháp nào".
-Nhóm giải quyết vấn đề còn lại không được hướng dẫn gì cả. Và những người đó đã làm điều đó một cách tự nhiên và phản ứng trước sự xuất hiện của một vấn đề bằng cách đề xuất các giải pháp. Và mọi người đã trở nên gắn bó với những giải pháp đó, và bắt đầu đấu tranh vì chúng, và tranh cãi về tầm quan trọng tương đối của tự do so với hiệu quả, v.v.
+Một nhóm giải quyết vấn đề đã được hướng dẫn "Không đề xuất giải pháp cho đến khi vấn đề được thảo luận kỹ lưỡng nhất có thể mà không đề xuất bất kỳ giải pháp nào". Nhóm giải quyết vấn đề còn lại không được hướng dẫn gì cả. Và những người đó đã làm điều đó một cách tự nhiên và phản ứng trước sự xuất hiện của một vấn đề bằng cách đề xuất các giải pháp. Và mọi người đã trở nên gắn bó với những giải pháp đó, và bắt đầu đấu tranh vì chúng, và tranh cãi về tầm quan trọng tương đối của tự do so với hiệu quả, v.v.
 Nhóm giải quyết vấn đề đầu tiên, những nhóm được hướng dẫn để thảo luận về vấn đề trước và sau đó giải quyết nó, có nhiều khả năng đạt được giải pháp là để nhân viên cấp dưới giữ công việc dễ dàng nhất và luân phiên hai người còn lại giữa hai công việc còn lại, theo dữ liệu của chuyên gia cho biết sẽ cải thiện 19%.
 Việc bắt đầu bằng việc tìm kiếm giải pháp đã khiến mọi thứ hoàn toàn không theo trật tự. Giống như bắt đầu bữa ăn bằng món tráng miệng, chỉ có điều tệ hơn.
 (Harry cũng dẫn lời một người tên Robyn Dawes nói rằng vấn đề càng khó thì mọi người càng có nhiều khả năng cố gắng giải quyết nó ngay lập tức.)
@@ -176,8 +174,7 @@ Fred và George lắc đầu.
 Harry đứng dậy, mỉm cười rồi quay người bỏ đi trong khi Fred và George vẫn đang há hốc mồm vì sốc. Anh bước đi vài bước rồi quay lại.
 "Ồ, còn một điều cuối cùng, " Harry nói. "Hãy để Giáo sư Quirrell đừng làm bất cứ điều gì anh làm. Ông ấy không thích công khai. Tôi biết sẽ dễ dàng khiến mọi người tin vào những điều kỳ lạ về Giáo sư Phòng thủ hơn bất kỳ ai khác, và tôi rất tiếc phải cản trở bạn như vậy, nhưng làm ơn, hãy để Giáo sư Quirrell tránh xa chuyện đó. "
 Và Harry quay lại và bước thêm vài bước nữa—
-Nhìn lại lần cuối và nói nhẹ nhàng: "Cảm ơn".
-Và rời đi.
+Nhìn lại lần cuối và nói nhẹ nhàng: "Cảm ơn". Và rời đi.
 Có một khoảng lặng dài sau khi anh rời đi.
 "Vậy, " một người nói.
 "Vậy, " người kia nói.
@@ -187,10 +184,10 @@ Có một khoảng lặng dài sau khi anh rời đi.
 "Nhưng tất nhiên là chúng tôi sẽ không dùng tiền của anh ấy cho việc đó. "
 "Tất nhiên là không, điều đó không đúng. Chúng ta sẽ xử lý Giáo sư Phòng thủ riêng. "
 "Chúng ta sẽ nhờ một số học sinh Gryffindor viết cho Skeeter và nói…"
-"...tay áo của anh ấy đã vén lên một lần trong lớp Phòng thủ, và họ nhìn thấy Dấu hiệu Hắc ám…"
-"...và có lẽ ông ấy đang dạy Harry Potter đủ thứ kinh khủng…"
-"...và ông ấy là Giáo sư Phòng thủ tệ nhất mà mọi người còn nhớ ngay cả ở Hogwarts, ông ấy không chỉ thất bại trong việc dạy chúng ta, mà ông ấy còn hiểu sai mọi thứ, hoàn toàn trái ngược với những gì lẽ ra phải thế…"
-"...như khi anh ấy tuyên bố rằng bạn chỉ có thể thực hiện Lời nguyền Giết chóc bằng tình yêu, điều đó khiến nó trở nên vô dụng. "
+"... tay áo của anh ấy đã vén lên một lần trong lớp Phòng thủ, và họ nhìn thấy Dấu hiệu Hắc ám…"
+"... và có lẽ ông ấy đang dạy Harry Potter đủ thứ kinh khủng…"
+"... và ông ấy là Giáo sư Phòng thủ tệ nhất mà mọi người còn nhớ ngay cả ở Hogwarts, ông ấy không chỉ thất bại trong việc dạy chúng ta, mà ông ấy còn hiểu sai mọi thứ, hoàn toàn trái ngược với những gì lẽ ra phải thế…"
+"... như khi anh ấy tuyên bố rằng bạn chỉ có thể thực hiện Lời nguyền Giết chóc bằng tình yêu, điều đó khiến nó trở nên vô dụng. "
 "Tôi thích cái đó. "
 "Cảm ơn. "
 "Tôi cá là Giáo sư Phòng thủ cũng thích nó. "

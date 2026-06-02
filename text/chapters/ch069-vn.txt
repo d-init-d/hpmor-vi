@@ -1,4 +1,4 @@
-67. Tự hiện thực hóa, Phần II
+﻿67. Tự hiện thực hóa, Phần II
 Ở vùng cao của Hogwarts nơi các phòng và hành lang thay đổi hàng ngày, nơi bản thân lãnh thổ không chắc chắn chứ không chỉ bản đồ, nơi sự ổn định của lâu đài bắt đầu biến thành những giấc mơ và hỗn loạn mà không thay đổi phong cách kiến trúc hay sự vững chắc bề ngoài—ở vùng cao của Hogwarts, một trận chiến sẽ sớm diễn ra.
 Sự hiện diện của nhiều học sinh như vậy sẽ ổn định các hành lang trong một thời gian, bằng cách quan sát liên tục. Các phòng và hành lang của Hogwarts đôi khi di chuyển ngay cả khi mọi người nhìn thẳng vào chúng, nhưng chúng sẽ không thay đổi. Ngay cả sau tám thế kỷ, Hogwarts vẫn có chút ngại ngùng khi thay đổi trước mặt mọi người.
 Nhưng bất chấp sự lâu dài nhất thời đó (Giáo sư Phòng thủ đã nói), các khu vực thượng lưu của Hogwarts vẫn có sự thực tế của quân sự: cậu phải tìm hiểu lại mặt đất mỗi lần và kiểm tra lại từng tủ để tìm các hành lang bí mật.
@@ -98,7 +98,7 @@ Draco nhảy sang một bên khi Theodore nói "Somnium!"
 Nhưng Draco đang hết hơi, cậu không thể tiếp tục, Theodore không cần né trong khi Draco phải tiếp tục di chuyển, điên rồ.
 Anh đủ mạnh để bắn lại, nhưng—
 Ngu ngốc là làm cùng một việc và mong đợi kết quả khác, Harry đã nói, đây là công việc của Harry, nó không thể là đồ vật Muggle nữa nhưng Draco không tìm ra nó có thể là gì, và anh nên đang suy nghĩ các giả thuyết và cách kiểm tra chúng nhưng anh quá bận vội vàng né khi Theodore cười và bắn một Lời Nguyền Ngủ khác, Draco cảm thấy một chút tê ở bên khi anh vặn, đó đã là một lần trượt rất gần và cuối cùng Draco không thể chịu được nữa, anh không cần tính toán giả thuyết mình đang kiểm tra hay tại sao khi anh chỉ—
-"Luminos!" Draco hét, và Theodore được bao quanh trong ánh sáng đỏ, "Dulak!" và nó tắt (vậy Theodore vẫn bị ảnh hưởng bởi phép thuật), "Expelliarmus!" và đũa phép của Theodore bay ra (đó dù sao cũng là một lời nguyền hay để niệm khi anh nhận ra) nhưng Theodore đang lao về phía Draco với hai tay duỗi ra để khống chế nên Draco hét "Flipendo!" và chân cậu bé kia đột ngột bị kéo lên—
+"Luminos!" Draco hét, và Theodore được bao quanh trong ánh sáng đỏ, "Dulak!" và nó tắt (vậy Theodore vẫn bị ảnh hưởng bởi phép thuật),"Expelliarmus!" và đũa phép của Theodore bay ra (đó dù sao cũng là một lời nguyền hay để niệm khi anh nhận ra) nhưng Theodore đang lao về phía Draco với hai tay duỗi ra để khống chế nên Draco hét "Flipendo!" và chân cậu bé kia đột ngột bị kéo lên—
 —và lưng của Theodore đập xuống đất với một tiếng động kim loại ngạc nhiên.
 Tầm nhìn của Draco đang mờ đi từ việc niệm bốn lời nguyền liên tiếp nhanh như vậy, và Theodore đã bò dậy, nên thậm chí không có thời gian để nghĩ bằng từ, nhưng Draco vẫn cố nói "Somnium!" và lần này anh nhắm vào mặt thay vì ngực. Theodore tránh (cậu tránh!) và cậu bé hét "Mã bảy nhắm vào Malfoy!"
 "Prismatis!" giọng Padma và có đột nhiên một bức tường cầu vồng lấp lánh trước mặt Draco, đúng khi bốn giọng Hỗn Loạn hét "Somnium!"

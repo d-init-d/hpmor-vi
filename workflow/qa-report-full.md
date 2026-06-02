@@ -1,5 +1,12 @@
 # QA Report — HPMOR Vietnamese Translation
 
+> **Historical snapshot (2026-05-30).** This report reflects the initial
+> pre-cleanup state of the corpus. The current status (post-QA-pass-3,
+> 2026-06-01) is **APPROVED** and is documented in `workflow/qa-report.md`
+> and `workflow/commercial-readiness-audit.md`. The numbers and final-status
+> below are kept for historical audit only and do not reflect the current
+> shipped corpus.
+
 ## Scope
 - Project: HPMOR Vietnamese translation
 - Date: 2026-05-30

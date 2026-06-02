@@ -1,5 +1,11 @@
 # HPMOR-VI Remediation Status Report
 
+> **Historical snapshot (2026-05-30).** This report reflects the post-cleanup
+> state of the corpus before the 9-phase remediation plan, QA pass 2, and
+> QA pass 3. The current status (post-QA-pass-3, 2026-06-01) is
+> **APPROVED** and is documented in `workflow/qa-report.md` and
+> `workflow/commercial-readiness-audit.md`.
+
 **Generated:** 2026-05-30
 **Scope:** Post-cleanup final audit — ready-to-ship candidate
 **Evidence source:** Coordinator final verification (2026-05-30)

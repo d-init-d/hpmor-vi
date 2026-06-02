@@ -1,4 +1,4 @@
-68. Tự hiện thực hóa, Phần III
+﻿68. Tự hiện thực hóa, Phần III
 Hermione không cảm thấy dễ chịu cho lắm ngay bây giờ, hoặc Tốt, có một quả cầu giận dữ nóng bỏng bên trong cô và cô tự hỏi liệu đây có phải là thứ gì đó giống như bóng tối của Harry không (dù có lẽ nó thậm chí còn không gần chút nào) và cô không nên cảm thấy như vậy về một trò chơi ngớ ngẩn nào đó nhưng—
 Toàn bộ đội quân của cô. Hai binh sĩ đã đánh bại toàn bộ đội quân của cô. Đó là những gì cô được cho biết sau khi tỉnh dậy. Hơi quá nhiều.
 "Ồ, " Giáo sư Quirrell nói.
@@ -110,10 +110,10 @@ Người phù thủy già thở dài.
 Cảm giác bỏng đang bò lên cổ họng cô một lần nữa, cùng với sự bất lực, cô không hiểu tại sao Giáo sư McGonagall đã đưa cô đến đây nếu Hiệu trưởng không định giúp, và từ ánh nhìn trên khuôn mặt Giáo sư McGonagall, nó có vẻ như Giáo sư McGonagall cũng không chắc bây giờ đã là ý tưởng tốt.
 "Tôi không muốn là anh hùng, " Hermione Granger nói, "tôi không muốn là người đồng hành của anh hùng, tôi chỉ muốn là tôi. "
 (Một suy nghĩ đến với cô vài giây sau rằng có lẽ cô thực sự muốn là anh hùng, nhưng cô quyết định không thay đổi những gì cô đã nói.)
-"À, " người phù thủy già nói.
+"À," người phù thủy già nói.
 "Đó là một yêu cầu cao, Granger. "
 Dumbledore đứng dậy khỏi ngai của ông, bước ra sau bàn của ông, và chỉ vào một biểu tượng trên tường, quá phổ biến đến mức đôi mắt Hermione đã lướt qua nó; một lá chắn phai với huy hiệu Hogwarts khắc trên đó, sư tử và rắn, và lửng và chim ưng, và trong tiếng Latin những lời khắc mà cô chưa bao giờ hiểu. Sau đó, khi cô nhận ra nơi lá chắn đó, và nó trông cũ như thế nào, đột nhiên Hermione nhận ra đây có thể là bản gốc—
-"Một Hufflepuff sẽ nói, " Dumbledore nói, chạm ngón tay lên con lửng đã phai màu và làm Hermione nhăn mặt vì sự xúc phạm (nếu đó là bản gốc), "rằng mọi người không trở thành người họ được định sẵn để là, bởi vì họ quá lười để làm tất cả công việc cần thiết. Một Ravenclaw, " chạm con chim ưng, "sẽ lặp lại những lời mà những người khôn ngoan biết còn xa hơn so với Socrates, biết thân, và nói rằng mọi người không trở thành người họ được định sẵn để là, do vô minh và thiếu suy nghĩ. Và Salazar Slytherin, " Dumbledore nhăn mặt khi ngón tay ông chạm con rắn phai, "ồ, ông ấy nói rằng chúng ta trở thành người chúng ta được định sẵn để là bằng cách theo đuổi những mong muốn của chúng ta bất kể chúng dẫn đến đâu. Có lẽ ông ấy sẽ nói rằng mọi người không thể trở thành chính mình vì họ từ chối làm những gì cần thiết để đạt được tham vọng của họ. Nhưng sau đó người ta lưu ý rằng gần như tất cả các Phù thủy Hắc ám đến từ Hogwarts đều là Slytherins. Họ đã trở thành những gì họ được định sẵn để là? Tôi nghĩ không. "
+"Một Hufflepuff sẽ nói, " Dumbledore nói, chạm ngón tay lên con lửng đã phai màu và làm Hermione nhăn mặt vì sự xúc phạm (nếu đó là bản gốc),"rằng mọi người không trở thành người họ được định sẵn để là, bởi vì họ quá lười để làm tất cả công việc cần thiết. Một Ravenclaw, " chạm con chim ưng, "sẽ lặp lại những lời mà những người khôn ngoan biết còn xa hơn so với Socrates, biết thân, và nói rằng mọi người không trở thành người họ được định sẵn để là, do vô minh và thiếu suy nghĩ. Và Salazar Slytherin, " Dumbledore nhăn mặt khi ngón tay ông chạm con rắn phai, "ồ, ông ấy nói rằng chúng ta trở thành người chúng ta được định sẵn để là bằng cách theo đuổi những mong muốn của chúng ta bất kể chúng dẫn đến đâu. Có lẽ ông ấy sẽ nói rằng mọi người không thể trở thành chính mình vì họ từ chối làm những gì cần thiết để đạt được tham vọng của họ. Nhưng sau đó người ta lưu ý rằng gần như tất cả các Phù thủy Hắc ám đến từ Hogwarts đều là Slytherins. Họ đã trở thành những gì họ được định sẵn để là? Tôi nghĩ không. "
 Ngón tay của Dumbledore chạm sư tử, và sau đó ông quay về phía cô.
 "Nói cho tôi, Granger, một Gryffindor sẽ nói gì? Tôi không cần hỏi liệu Mũ Phân Nhà có cung cấp cho cậu Nhà đó không. "
 Nó không có vẻ như một câu hỏi khó.
@@ -138,7 +138,7 @@ Hermione không thể bị sốc hơn nếu ai đó đã cắm dây điện vào
 "Không, " người phù thủy già nói. "Không phải cô ấy. Tôi không thể nói với cậu là ai, hoặc tại sao. "
 Cô nghĩ về điều đó thêm.
 "Có cách nào tôi có thể theo kịp Harry không?" Hermione nói. "Ý tôi là, tôi không nói đó là điều tôi sẽ làm, nhưng—nếu anh ấy cần bạn bè thì chúng tôi có thể là bạn bè bình đẳng được không? Tôi có thể trở thành anh hùng cũng không?"
-"À, " người phù thủy già nói, và mỉm cười.
+"À," người phù thủy già nói, và mỉm cười.
 "Chỉ cậu có thể quyết định điều đó, Granger. "
 "Nhưng cậu sẽ không giúp tôi như cậu đang giúp Harry. "
 Người phù thủy già lắc đầu.
@@ -148,7 +148,7 @@ Người phù thủy già mỉm cười một lần nữa, khá châm biếm.
 "Tôi mười hai. Harry mười một. "
 "Harry Potter đặc biệt, " người phù thủy già nói.
 "Như cậu biết, Granger. "
-Những đôi mắt xanh đột nhiên xuyên thủng bên dưới những kính nửa mặt trăng, và cô nhớ đến ngày của Dementor khi giọng Dumbledore đã nói, trong tâm trí cô, rằng ông biết về phía bóng tối của Harry.
+Những đôi mắt xanh đột nhiên xuyên thủng bên dưới những kính nửa mặt trăng, và cô nhớ đến ngày của Giám ngục khi giọng Dumbledore đã nói, trong tâm trí cô, rằng ông biết về phía bóng tối của Harry.
 Hermione giơ tay và chạm vào tay Giáo sư McGonagall, vẫn ở trên vai cô suốt thời gian này, và Hermione nói, cô ngạc nhiên rằng giọng cô không vỡ, "Tôi muốn đi bây giờ, được chứ?"
 "Tất nhiên, " Giáo sư McGonagall nói, và Hermione cảm thấy tay trên vai cô xoay nhẹ nhàng cô để đối mặt cánh cửa sồi.
 "Cậu đã chọn con đường của mình chưa, Hermione Granger?" giọng Albus Dumbledore vang lên từ phía sau cô, ngay khi cánh cửa từ từ cọt kẹt mở ra để lộ Lời nguyền của Cầu Thang Vô Tận.

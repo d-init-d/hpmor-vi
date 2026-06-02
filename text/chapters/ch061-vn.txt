@@ -1,4 +1,4 @@
-59. Thí nghiệm nhà tù Stanford, Phần IX: Sự tò mò
+﻿59. Thí nghiệm nhà tù Stanford, Phần IX: Sự tò mò
 Chổi bay đã được phát minh trong thời kỳ mà Muggle gọi là Thời kỳ Đen tối, được cho là bởi một phù thủy huyền thoại tên là Celestria Relevo, được cho là chắt gái của Merlin.
 Celestria Relevo, hoặc bất kỳ người hay nhóm nào thực sự đã phát minh ra những bùa chú đó, đều không biết một chút gì về cơ học Newton.
 Do đó, chổi bay hoạt động dựa trên cơ sở vật lý của Aristotle.
@@ -6,7 +6,7 @@ Họ đã đi đến nơi bạn chỉ cho họ.
 Nếu bạn muốn tiến thẳng về phía trước, bạn hãy chỉ thẳng về phía trước; bạn không phải lo lắng về việc giữ một phần lực đẩy đi xuống để triệt tiêu tác dụng của trọng lực.
 Nếu bạn quay một cây chổi, toàn bộ vận tốc mới của nó đều theo hướng hướng mới, nó không đi ngang dựa trên động lượng cũ của nó.
 Cây chổi có tốc độ tối đa chứ không phải gia tốc tối đa. Không phải vì bất cứ điều gì liên quan đến sức cản không khí, mà bởi vì một cây chổi có động lực tối đa theo kiểu Aristoteles mà bùa phép của nó có thể phát huy.
-Trước đây, Harry chưa bao giờ nhận thấy điều đó một cách rõ ràng, mặc dù cậu đủ khéo léo để đạt điểm cao nhất trong lớp bay. Những chiếc chổi hoạt động giống như tâm trí con người mong đợi chúng hoạt động theo bản năng đến nỗi bộ não của anh ấy đã cố gắng hoàn toàn bỏ qua sự vô lý về thể chất của chúng. Harry, vào ngày thứ Năm đầu tiên học chổi, đã bị phân tâm bởi những hiện tượng có vẻ thú vị hơn, những từ viết trên giấy và một quả bóng đỏ rực. Vì vậy, bộ não của anh ấy chỉ đơn giản tạm dừng sự hoài nghi của nó, đánh dấu thực tế của những chiếc chổi là đã được chấp nhận và tiếp tục vui đùa với nó mà không một lần nghĩ đến câu hỏi mà câu trả lời của nó hẳn là hiển nhiên. Vì có một sự thật đáng buồn là chúng ta chỉ nghĩ về một phần rất nhỏ của tất cả những hiện tượng mà chúng ta gặp phải…
+Trước đây, Harry chưa bao giờ nhận ra điều đó một cách rõ ràng, dù cậu đủ khéo léo để đạt điểm cao nhất trong lớp bay. Những chiếc chổi hoạt động đúng theo cách bộ não con người vô thức kỳ vọng, đến mức bộ não cậu đã hoàn toàn bỏ qua sự vô lý về mặt vật lý của chúng. Harry, vào ngày thứ Năm đầu tiên học chổi, đã bị phân tâm bởi những hiện tượng có vẻ thú vị hơn — những con chữ trên giấy và một quả bóng đỏ rực. Vì thế, bộ não cậu chỉ đơn giản tạm dừng sự hoài nghi, đánh dấu rằng chổi bay là chuyện đã được chấp nhận, rồi tiếp tục vui đùa với nó mà không hề nghĩ đến câu hỏi mà lẽ ra câu trả lời đã hiển nhiên. Bởi có một sự thật đáng buồn là chúng ta chỉ nghĩ về một phần rất nhỏ trong tất cả những hiện tượng ta gặp phải…
 Đây là câu chuyện về việc Harry James Potter-Evans-Verres suýt bị giết vì sự thiếu tò mò của chính mình.
 Bởi vì tên lửa không hoạt động theo vật lý Aristotle.
 Tên lửa đã không hoạt động giống như tâm trí con người theo bản năng nghĩ rằng một vật bay sẽ hoạt động.
@@ -15,67 +15,67 @@ Không điều nào trong số này thực sự lướt qua tâm trí Harry vào
 Có một điều, tiếng ồn lớn nhất mà anh từng nghe trong đời đang ngăn cản anh nghe được suy nghĩ của chính mình.
 Ngoài ra, việc tăng tốc đi lên với bốn trọng lực có nghĩa là anh ta có tổng cộng khoảng hai giây rưỡi để đi từ dưới lên trên đỉnh Azkaban.
 Và ngay cả khi chúng là hai rưỡi trong số giây dài nhất trong lịch sử Thời gian thì cũng không đủ chỗ để suy nghĩ nhiều.
-Chỉ có thời gian để nhìn thấy ánh sáng từ những lời nguyền của các Thần Sáng đang hướng xuống anh ta, hơi nghiêng cán chổi để tránh chúng, nhận ra rằng cây chổi chỉ đơn giản là tiếp tục di chuyển với động lượng gần như giữ nguyên thay vì đi theo hướng anh ta chỉ, và kích hoạt các khái niệm không lời
+Chỉ có thời gian để nhìn thấy ánh sáng từ những lời nguyền của các Thần sáng đang hướng xuống anh ta, hơi nghiêng cán chổi để tránh chúng, nhận ra rằng cây chổi chỉ đơn giản là tiếp tục di chuyển với động lượng gần như giữ nguyên thay vì đi theo hướng anh ta chỉ, và kích hoạt các khái niệm không lời
 *tào lao*
 Và
 *Newton*
-Sau đó, Harry nghiêng cây chổi mạnh hơn nhiều và sau đó họ bắt đầu nhanh chóng tiếp cận bức tường nên cậu ấy đã nghiêng nó theo hướng khác và có nhiều ánh sáng chiếu xuống hơn và các Giám ngục đang trượt nhẹ về phía họ cùng với một loại sinh vật có cánh khổng lồ có ngọn lửa màu vàng trắng nên Harry giật cây chổi về phía bầu trời nhưng bây giờ cậu ấy vẫn đang trượt về phía một bức tường khác nên cậu ấy hơi nghiêng cây chổi và dừng lại gần nhưng cậu ấy ở quá gần nên cậu ấy nghiêng nó lần nữa và sau đó là các Thần sáng ở xa trên họ chổi bay không xa lắm và anh ta sắp đâm vào người phụ nữ đó nên anh ta quay cây chổi của mình thẳng ra khỏi cô ấy và sau đó trong một khoảnh khắc khác, anh ta nhận ra tên lửa của mình là một khẩu súng phun lửa cực kỳ mạnh và trong tích tắc nó sẽ chĩa thẳng vào Thần sáng nên anh ta xoay cây chổi sang một bên khi tiếp tục đi lên và anh ta không thể nhớ bây giờ nó có chĩa vào bất kỳ Thần sáng nào không nhưng ít nhất nó không chỉ vàocô ấy.
-Harry đã bỏ lỡ một Thần sáng khác khoảng một mét, lao qua anh ta trên một khẩu súng phun lửa hướng sang một bên đang di chuyển lên trên, sau này Harry đoán là khoảng 300 km một giờ.
+Sau đó, Harry nghiêng cây chổi mạnh hơn nhiều và sau đó họ bắt đầu nhanh chóng tiếp cận bức tường nên cậu ấy đã nghiêng nó theo hướng khác và có nhiều ánh sáng chiếu xuống hơn và các Giám ngục đang trượt nhẹ về phía họ cùng với một loại sinh vật có cánh khổng lồ có ngọn lửa màu vàng trắng nên Harry giật cây chổi về phía bầu trời nhưng bây giờ cậu ấy vẫn đang trượt về phía một bức tường khác nên cậu ấy hơi nghiêng cây chổi và dừng lại gần nhưng cậu ấy ở quá gần nên cậu ấy nghiêng nó lần nữa và sau đó là các Thần sáng ở xa trên họ chổi bay không xa lắm và anh ta sắp đâm vào người phụ nữ đó nên anh ta quay cây chổi của mình thẳng ra khỏi cô ấy và sau đó trong một khoảnh khắc khác, anh ta nhận ra tên lửa của mình là một khẩu súng phun lửa cực kỳ mạnh và trong tích tắc nó sẽ chĩa thẳng vào Thần sáng nên anh ta xoay cây chổi sang một bên khi tiếp tục đi lên và anh ta không thể nhớ bây giờ nó có chĩa vào bất kỳ Thần sáng nào không nhưng ít nhất nó không chỉ vào cô ấy.
+Harry đã suýt trượt qua một Thần sáng khác chưa đầy một mét, lao vụt qua người trên ngọn lửa phụt sang bên đang bay lên — sau này Harry đoán là khoảng ba trăm kilômét một giờ.
 Nếu có bất kỳ tiếng la hét nào của các Thần sáng bị nướng thì cậu cũng không nghe thấy, nhưng đây không phải là bằng chứng theo cách này hay cách khác, bởi vì tất cả những gì Harry đang nghe thấy vào lúc này là một tiếng động cực kỳ lớn.
-Một vàibình tĩnh hơn nếu không muốn nói là yên tĩnh hơngiây sau, dường như không có bất kỳ Thần sáng nào xung quanh, hay Giám ngục hay bất kỳ sinh vật ngọn lửa có cánh khổng lồ nào, và dinh thự rộng lớn và khủng khiếp của Azkaban trông nhỏ bé một cách đáng ngạc nhiên từ độ cao này.
+Một vài giây yên tĩnh hơn — nếu không muốn nói là bình tĩnh hơn — sau đó, dường như không còn bất kỳ Thần sáng nào xung quanh, cũng không có Giám ngục hay bất kỳ sinh vật có cánh phun lửa khổng lồ nào, và dinh thự rộng lớn đáng sợ của Azkaban trông thật nhỏ bé từ độ cao này.
 Harry hướng cây chổi về phía Mặt trời, có thể nhìn thấy lờ mờ qua những đám mây, nó không ở cao trên bầu trời vào thời điểm này trong ngày và tháng mùa đông, và cây chổi tăng tốc thêm hai giây nữa theo hướng đó và tăng tốc rất nhanh đáng kinh ngạc trước khi tên lửa nhiên liệu rắn tự đốt cháy.
-Sau đó, khi Harry có thể nghe thấy chính mình nghĩ lại, khi chỉ có tiếng gió hú từ tốc độ lố bịch của chúng, và những ngón tay nắm chặt cây chổi được phù phép của Harry chỉ đơn thuần chống lại lực cản giảm tốc của việc di chuyển nhanh hơn vận tốc cuối cùng, đó là lúc Harry thực sự nghĩ tất cả những thứ đó về cơ học Newton, vật lý Aristoteles, chổi bay và tên lửa cũng như tầm quan trọng của sự tò mò và việc nó sẽ không bao giờ làm bất cứ điều gì trong Nhà Gryffindor này nữa hoặc ít nhất là không bao giờ làm nữa. cho đến sau khi anh ấy biết được bí mật về sự bất tử của Chúa tể Hắc ám vàtại saoanh ấy lại nghe theo Giáo sư Quirinus “Tôi đảm bảo với bạn, cậu bé, tôi sẽ không thử làm điều này nếu tôi không lường trước được khả năng sống sót của chính mình” Quirrell thay vì Giáo sư Michael “Con trai, nếu con tự mình thử làm bất cứ điều gì với tên lửa, ý tôi làbất cứ điều gìnếu không có sự giám sát chuyên nghiệp được đào tạo, con sẽ chết và điều đó sẽ khiến Mẹ buồn” Verres-Evans.
+Sau đó, khi Harry có thể nghe thấy chính mình nghĩ lại, khi chỉ còn tiếng gió hú từ tốc độ điên rồ của họ, và những ngón tay nắm chặt cán chổi phù phép giờ chỉ còn đang chống lại lực cản của không khí khi đã chậm lại dưới vận tốc cuối, đó mới là lúc Harry thực sự nghĩ về tất cả những chuyện cơ học Newton, vật lý Aristotle, chổi bay và tên lửa; cũng như tầm quan trọng của sự tò mò, và về việc cậu sẽ không bao giờ làm bất cứ điều gì kiểu này nữa trong Nhà Gryffindor — hoặc ít nhất là không bao giờ nữa, cho đến khi cậu biết được bí mật về sự bất tử của Chúa tể Hắc ám, và lý do tại sao cậu nghe theo Giáo sư Quirinus — "Tôi đảm bảo với cậu, thưa cậu bé, tôi sẽ không thử làm điều này nếu tôi không lường trước được khả năng sống sót của chính mình" — Quirrell thay vì Giáo sư Michael — "Con trai, nếu con tự mình thử làm bất cứ điều gì với tên lửa, ý tôi là bất cứ điều gì, mà không có sự giám sát chuyên nghiệp, con sẽ chết, và điều đó sẽ khiến Mẹ buồn" — Verres-Evans.
 ---
 "CÁI GÌ?" Amelia hét lên trước gương.
 ---
-Gió đã giảm xuống mức có thể chịu đựng được khi lực cản của không khí làm họ chậm lại, tạo cho Harry nhiều cơ hội để lắng nghe âm thanh vo ve, vo ve dường như lấp đầy toàn bộ não của anh.
+Gió đã giảm xuống mức chịu đựng được khi lực cản không khí làm họ chậm lại, tạo cho Harry nhiều cơ hội để nghe thấy tiếng vo ve, vo ve dường như đang lấp đầy cả bộ não cậu.
 Giáo sư Quirrell lẽ ra phải niệm Bùa Im lặng lên ống xả tên lửa…rõ ràng là có những giới hạn đối với những gì Bùa Im lặng có thể làm…nghĩ lại, lẽ ra Harry nên Biến hình một cặp nút tai chứ không chỉ tin tưởng vào Bùa Im lặng, mặc dù điều đó có lẽ cũng chưa đủ…
 Chà, phép thuật chữa lành có lẽ có thứ gì đó để điều trị tổn thương thính giác vĩnh viễn.
 Không, thực sự, phép thuật chữa lành có lẽ có thứ gì đó để chữa trị điều đó. Anh ấy đã chứng kiến ​​những học sinh đến gặp bà Pomfrey với những vết thương nghe có vẻ tệ hơn rất nhiều…
-Có cách nào để cấy một nhân cách tưởng tượng vào đầu người khác không?Hufflepuff hỏi. Tôi không muốn sống trong nhà của bạn nữa.
-Harry gạt tất cả những điều đó vào trong tâm trí mình, thực sự anh không thể làm gì được vào lúc này. Có điều gì mà anh ấynênphải lo lắng không—
+Có cách nào để cấy một nhân cách tưởng tượng vào đầu người khác không? Hufflepuff hỏi. Tôi không muốn sống trong nhà của bạn nữa.
+Harry gạt tất cả những điều đó vào trong tâm trí mình, thực sự anh không thể làm gì được vào lúc này. Có điều gì mà anh ấy nênphải lo lắng không—
 Sau đó Harry liếc nhìn về phía sau, lần đầu tiên nhớ lại việc kiểm tra xem Bellatrix hay Giáo sư Quirrell có bị thổi bay khỏi cán chổi hay không.
 Nhưng con rắn xanh vẫn còn trong dây cương, người phụ nữ gầy gò vẫn bám vào cán chổi, sắc mặt vẫn đầy vẻ bệnh hoạn, đôi mắt vẫn sáng ngời nguy hiểm. Vai cô ấy run lên như đang cười điên dại, và môi cô ấy mấp máy như muốn hét lên, nhưng không có âm thanh nào phát ra—
 Ồ, đúng rồi.
 Harry cởi mũ áo choàng ra, gõ nhẹ vào tai để cho cô biết rằng anh không thể nghe thấy.
 Ngay lúc đó Bellatrix nắm lấy cây đũa phép của mình, chĩa vào Harry, và đột nhiên tiếng ù trong tai anh giảm đi, anh có thể nghe thấy tiếng cô.
-Một lúc sau anh hối hận; những lời nguyền rủa mà cô ấy hét vào Azkaban, Giám ngục, Thần sáng, cụ Dumbledore, Lucius, Bartemy Couch, cái gọi là Hội Phượng Hoàng, và tất cả những kẻ cản đường Chúa tể Hắc ám của cô, v.v., đều không phù hợp với những thính giả trẻ tuổi và nhạy cảm hơn; và tiếng cười của cô đang làm đau đôi tai mới lành của anh.
-“Đủ rồi, Bella, ” cuối cùng Harry cũng nói, và giọng cô ấy dừng lại ngay lập tức.
+Một lúc sau cậu hối hận; những lời nguyền rủa mà cô ấy hét lên về Azkaban, Giám ngục, Thần sáng, cụ Dumbledore, Lucius, Bartemius Crouch, cái gọi là Hội Phượng hoàng, và tất cả những kẻ cản đường Chúa tể Hắc ám của cô, v.v., đều không phù hợp với thính giả trẻ tuổi và nhạy cảm hơn; và tiếng cười của cô đang làm đau đôi tai mới lành của cậu.
+"Đủ rồi, Bella," cuối cùng Harry cũng nói, và giọng cô lập tức dừng lại.
 Có một sự tạm dừng. Harry kéo tấm áo choàng qua đầu, chỉ theo những nguyên tắc chung; và ngay lập tức nhận ra rằng họ có thể có kính viễn vọng ở dưới đó hoặc thứ gì đó, nhìn lại việc kéo mũ trùm đầu của anh ấy xuống dù chỉ trong giây lát đã là một hành động cực kỳ ngu ngốc, anh ấy hy vọng toàn bộ nhiệm vụ không kết thúc thất bại chỉ vì một lỗi đó…
-Chúng ta thực sự không phù hợp với việc này phải không?Slytherin quan sát.
+Chúng ta thực sự không phù hợp với việc này phải không? Slytherin quan sát.
 Này, Hufflepuff phản đối theo phản xạ, chúng ta không thể mong đợi làm được điều gì hoàn hảo ngay lần đầu tiên, có lẽ chúng ta chỉ cần luyện tập thêm thôiquên mất tôi đã nói điều đó.
 Harry nhìn lại lần nữa, thấy Bellatrix đang nhìn quanh với vẻ mặt bối rối, thắc mắc. Đầu cô cứ quay, quay mãi.
 Và cuối cùng Bellatrix nói, giọng cô ấy giờ đã trầm hơn, "Chúa ơi, chúng ta đang ở đâu?"
-Ý bạn là gì?là những gì Harry muốn nói, nhưng Chúa tể Hắc ám không bao giờ thừa nhận mình không hiểu bất cứ điều gì, nên Harry trả lời một cách khô khan: “Chúng ta đang ở trên một cây chổi.”
+Ý bạn là gì? là những gì Harry muốn nói, nhưng Chúa tể Hắc ám không bao giờ thừa nhận mình không hiểu bất cứ điều gì, nên Harry trả lời một cách khô khan: “Chúng ta đang ở trên một cây chổi.”
 Cô ấy có nghĩ rằng mình đã chết, rằng đây là Thiên đường không?
 Tay của Bellatrix vẫn bị xích vào cán chổi nên chỉ có một ngón tay đưa lên và chỉ khi cô ấy nói, “đó là gì?”
 Harry nhìn theo hướng ngón tay của cô và thấy… thực ra thì không có gì đặc biệt cả…
 Sau đó Harry nhận ra. Sau khi họ đã lên đủ cao, không còn đám mây nào che khuất nữa.
 “Đó là Mặt trời, Bella thân yêu.”
 Nó phát ra được kiểm soát một cách đáng kể, Chúa tể Hắc ám có vẻ hoàn toàn bình tĩnh và có lẽ hơi thiếu kiên nhẫn với cô ấy, ngay cả khi những giọt nước mắt bắt đầu lăn dài trên má Harry.
-Trong cái lạnh vô tận, trong bóng tối đen kịt, Mặt trời chắc chắn đã…
+Trong cái lạnh vô tận, trong bóng tối đen kịt, Mặt trời hẳn đã…
 Một kỷ niệm vui…
 Đầu Bellatrix cứ quay hoài.
-“Và những thứ mềm mại?” cô ấy nói.
-“Mây.”
-Có một khoảng lặng, rồi Bellatrix nói, "Nhưnghọ làgì?"
-Harry không trả lời cô, không đời nào giọng anh có thể ổn định, chắc chắn ổn định, tất cả những gì anh có thể làm là giữ nhịp thở hoàn toàn đều đặn khi khóc.
+"Và những thứ mềm mại kia?" cô nói.
+"Mây."
+Có một khoảng lặng, rồi Bellatrix hỏi, "Nhưng họ là gì?"
+Harry không trả lời cô. Không đời nào giọng cậu có thể ổn định được — chắc chắn là không ổn định — tất cả những gì cậu có thể làm là giữ nhịp thở hoàn toàn đều đặn trong khi khóc.
 Một lúc sau, Bellatrix thở ra nhẹ nhàng đến mức Harry gần như không nghe thấy, “Đẹp…”
 Khuôn mặt cô từ từ thả lỏng, màu sắc trở nên nhợt nhạt gần như nhanh chóng như khi nó xuất hiện.
 Cơ thể xương xẩu của cô đổ sụp xuống cán chổi.
 Cây đũa phép mượn treo lủng lẳng vô hồn trên sợi dây đeo trên bàn tay bất động của cô.
-Bạn cókhiếnphảiđùa—
-Lúc đó tâm trí Harry nhớ lại, lọ thuốc Pepper-Up đã phải trả giá; Bellatrix sẽngủ một giấc khá lâu, Giáo sư Quirrell đã nói.
+Bạn có khiến mình phải đùa—
+Lúc đó tâm trí Harry nhớ lại, lọ thuốc Pepper-Up đã phải trả giá; Bellatrix sẽ ngủ một giấc khá lâu, Giáo sư Quirrell đã nói.
 Và cùng lúc đó, một phần khác của Harry hoàn toàn bị thuyết phục, khi nhìn lại người phụ nữ hốc hác trắng như phấn, dường như chết dưới ánh nắng chói chang hơn bất cứ thứ gì Harry từng thấy còn sống, rằng bà ấy đãchết, rằng bà ấy vừa thốt ra lời cuối cùng, rằng Giáo sư Quirrell đã đánh giá sai liều lượng—
 —hoặc cố tình hy sinh Bellatrix để bảo vệ lối thoát của chính họ—
 Cô ấy có thở không?
 Harry không thể nhìn thấy liệu cô ấy có thở hay không.
 Trên cán chổi không có cách nào để đưa tay ra sau và bắt mạch cho cô ấy.
 Harry nhìn về phía trước để chắc chắn rằng họ không đụng phải bất kỳ tảng đá bay nào, tiếp tục hướng cây chổi về phía Mặt trời, cậu bé vô hình và người phụ nữ có thể đã chết lao đi vào buổi chiều, trong khi những ngón tay của cậu nắm chặt vào gỗ đến nỗi chúng trở nên trắng bệch.
-Anh ta không thể quay lại và thực hiện hô hấp nhân tạo.
-Anh ấy không thể sử dụng bất cứ thứ gì từ bộ dụng cụ chữa bệnh của mình.
+Cậu không thể quay lại và thực hiện hô hấp nhân tạo.
+Cậu không thể sử dụng bất cứ thứ gì từ bộ dụng cụ chữa bệnh của mình.
 Tin rằng giáo sư Quirrell không gây nguy hiểm cho cô ấy?
-Kỳ lạ, thật kỳ lạ, ngay cả khi thực sự tin rằng Giáo sư Quirrell không có ý giết Thần Sáng (vì điều đósẽlà ngu ngốc), nghĩ đến những lời trấn an của Giáo sư Phòng thủ cũng không còn cảm thấy yên tâm nữa.
+Kỳ lạ, thật kỳ lạ, ngay cả khi thực sự tin rằng Giáo sư Quirrell không có ý giết Thần sáng (vì điều đósẽlà ngu ngốc), nghĩ đến những lời trấn an của Giáo sư Phòng thủ cũng không còn cảm thấy yên tâm nữa.
 Sau đó Harry chợt nhận ra rằng cậu vẫn chưa kiểm tra—
 Harry nhìn lại và rít lên, “Thầy ơi?”
 Con rắn không cựa quậy trong dây cương và không nói một lời.
@@ -93,7 +93,7 @@ Có một tiếng nổ như sấm từ phía sau cánh cửa kim loại gần đ
 "KHÔNG-"
 “Vậy thì tôi yêu cầu cây chổi nhanh nhất của bạn ngay lập tức!”
 Nơi mà Ameliamuốnở là cùng với Thần sáng, người đã bị thương bởi Fiendfyre hoặc bất cứ thứ gì.
-Điều cô ấycầnlàm là tìm ra những gì cụ Dumbledore biết.
+Điều cô ấy cầnlàm là tìm ra những gì cụ Dumbledore biết.
 "Bạn!" bà phù thủy già sủa vào đội xung quanh bà. “Hãy tiếp tục dọn dẹp các hành lang cho đến khi bạn ở dưới cùng, có thể họ vẫn chưa trốn thoát hết!” Và sau đó, nói với ông phù thủy già, "Hai cây chổi. Ông có thể tóm tắt cho tôi khi chúng ta bay lên không trung. "
 Có một cái nhìn chằm chằm, nhưng không lâu.
 ---
@@ -103,7 +103,7 @@ Mặt trời, chỉ chiếu sáng hai người trong một thời gian ngắn, n
 “Ai đứng đằng sau chuyện đó?” Amelia hét lên với cây chổi bay cách cô một bước.
 "Một trong hai người, " cụ Dumbledore đáp lại, "Tôi không biết, vào lúc này, là ai. Nếu là người đầu tiên thì chúng ta đang gặp rắc rối. Nếu là người thứ hai, tất cả chúng ta đang gặp rắc rối lớn hơn nhiều. "
 Amelia không tiếc hơi thở dài. “Khi nào thì cậu biết?”
-Giọng nói của vị phù thủy già nghe có vẻ dữ tợn, trầm lặng nhưng bằng cách nào đó lại vượt lên trên gió. "Ba thứ họ cần để đạt đến sự hoàn hảo, nếu đó là một: thịt của người hầu trung thành nhất của Chúa tể Hắc ám, máu của kẻ thù lớn nhất của Chúa tể Hắc ám, và lối vào một ngôi mộ nào đó. Tôi đã nghĩ Harry Potter an toàn, với nỗ lực chiếm Azkaban của họ nhưng đều thất bại—dù tôi vẫn cử người canh gác cậu ấy—nhưng giờ tôi thực sự lo sợ. Họ có quyền truy cập vào Thời gian, ai đó có Xoay thời gian đang gửi tin nhắn cho họ; và tôi nghi ngờ vụ bắt cóc Harry Potter đã diễn ra vài giờ trước. Đó là lý do tại saochúng tôichưa nghe nói về việc ở trong Azkaban, nơi mà Thời gian không thể tự kết nối được với tương lai của chúng ta, bạn thấy đấy.”
+Giọng nói của vị phù thủy già nghe có vẻ dữ tợn, trầm lặng nhưng bằng cách nào đó lại vượt lên trên gió. "Ba thứ họ cần để đạt đến sự hoàn hảo, nếu đó là một: thịt của người hầu trung thành nhất của Chúa tể Hắc ám, máu của kẻ thù lớn nhất của Chúa tể Hắc ám, và lối vào một ngôi mộ nào đó. Tôi đã nghĩ Harry Potter an toàn, với nỗ lực chiếm Azkaban của họ nhưng đều thất bại—dù tôi vẫn cử người canh gác cậu ấy—nhưng giờ tôi thực sự lo sợ. Họ có quyền truy cập vào Thời gian, ai đó có Xoay thời gian đang gửi tin nhắn cho họ; và tôi nghi ngờ vụ bắt có c Harry Potter đã diễn ra vài giờ trước. Đó là lý do tại saochúng tôichưa nghe nói về việc ở trong Azkaban, nơi mà Thời gian không thể tự kết nối được với tương lai của chúng ta, bạn thấy đấy.”
 “Và nếu là cái khác?” Amelia hét lên. Những gì cô đã nghe đã đủ đáng lo ngại rồi; nghe có vẻ giống như nghi lễ đen tối nhất trong các nghi lễ Hắc ám và tập trung vào chính Chúa tể Hắc ám đã chết.
 Lão pháp sư, sắc mặt bây giờ càng dữ tợn hơn, không nói gì, chỉ lắc đầu.
 ---
@@ -116,8 +116,8 @@ Cô ấy tỏ ra lo lắng, nghĩ về một vật thể trừu tượng, xa xă
 Như thể người nói không phải là Harry mà là một phần khác của anh đằng sau một tấm kính khác, một lời thì thầm phát ra từ môi anh. “Con rắn xanh trên lưng cô ấy là Thú vật.” Tiếng thì thầm không cao, không lạnh lùng, chỉ lặng lẽ. “Anh ấy bất tỉnh rồi.”
 Đầu mụ phù thủy ngước lên để nhìn vào nơi giọng nói đó dường như phát ra từ khoảng không, rồi lại nhìn xuống Bellatrix. “Anh không phải là ông Jaffe.”
 “Đó chính là Hóa thú sư, ” môi Harry thì thầm. Ồ, Harry nghĩ sau tấm kính, lắng nghe âm thanh từ môi mình, điều đó có lý; Giáo sư Quirrell hẳn đã dùng một cái tên khác.
-“Kể từ khi nào màanh ấya—bah, quên nó đi.” Mụ phù thủy đặt cây đũa phép lên mũi con rắn một lúc rồi lắc đầu thật mạnh. “Anh ấy không có vấn đề gì mà nghỉ ngơi một ngày cũng không khỏi. Cô ấy…”
-“Bây giờ cậu có thể đánh thức anh ấy dậy được không?” môi Harry thì thầm. Đó có phải là ý tưởng hay không?Harry nghĩ, nhưng đôi môi của anh ấy dường như chắc chắn đang nghĩ như vậy.
+“Kể từ khi nào màanh ấy a—bah, quên nó đi.” Mụ phù thủy đặt cây đũa phép lên mũi con rắn một lúc rồi lắc đầu thật mạnh. “Anh ấy không có vấn đề gì mà nghỉ ngơi một ngày cũng không khỏi. Cô ấy…”
+“Bây giờ cậu có thể đánh thức anh ấy dậy được không?” môi Harry thì thầm. Đó có phải là ý tưởng hay không? Harry nghĩ, nhưng đôi môi của anh ấy dường như chắc chắn đang nghĩ như vậy.
 Lại là cái lắc đầu sắc bén. “Nếu Innervate không có tác dụng với anh ta—” mụ phù thủy bắt đầu.
 “Tôi chưa hề thử, ” môi Harry thì thầm.
 "Cái gì? Tại sao—ồ, đừng bận tâm. Nội tâm. "
@@ -135,11 +135,11 @@ Cây đũa phép của mụ phù thủy đang gõ chỗ này chỗ kia, chọc v
 “Thật sao?” Giáo sư Phòng thủ nói, có vẻ hơi ngạc nhiên.
 "Một chút cũng không. Nếu tôi không nợ anh—"
 Giáo sư Phòng thủ bắt đầu cười lớn, rồi chuyển thành một cơn ho.
-Bạn nghĩ sao?Slytherin nói với Nhà phê bình nội tâm, trong khi Harry lắng nghe từ phía sau bức tường kính. Hiệu suất hay thực tế?
+Bạn nghĩ sao? Slytherin nói với Nhà phê bình nội tâm, trong khi Harry lắng nghe từ phía sau bức tường kính. Hiệu suất hay thực tế?
 Không thể nói được, Nhà phê bình nội tâm của Harry nói. Hiện tại tôi không ở trạng thái quan trọng nhất.
-Có ai có thể nghĩ ra cách thăm dò tốt để thu thập thêm thông tin không?Ravenclaw nói.
+Có ai có thể nghĩ ra cách thăm dò tốt để thu thập thêm thông tin không? Ravenclaw nói.
 Lại có tiếng thì thầm từ khoảng không phía trên cán chổi: “Có cơ hội nào để xóa bỏ tất cả những gì đã gây ra cho cô ấy?”
-"Ồ, để xem. Tính hợp pháp và những nghi lễ Hắc ám chưa được biết đến, mười năm để thiết lập, tiếp theo là mười năm tiếp xúc với Dementor? Hủy bỏđiều đó? Bạn điên rồi, Mister Dù-Bạn-Là ai. Câu hỏi đặt ra là liệu có còn gìcòn lạihay không, và tôi cho rằng đó có thể là một trong ba cơ hội—" Phù thủy đột nhiên cắt ngang. Giọng cô khi nói lại đã trầm hơn. "Nếu trước đây bạn là bạn của cô ấy... thì không, bạn sẽ không bao giờ lấy lại được cô ấy. Tốt nhất hãy hiểu điều đó ngay bây giờ. "
+"Ồ, để xem. Tính hợp pháp và những nghi lễ Hắc ám chưa được biết đến, mười năm để thiết lập, tiếp theo là mười năm tiếp xúc với Giám ngục? Hủy bỏđiều đó? Bạn điên rồi, Mister Dù-Bạn-Là ai. Câu hỏi đặt ra là liệu có còn gìcòn lạihay không, và tôi cho rằng đó có thể là một trong ba cơ hội—" Phù thủy đột nhiên cắt ngang. Giọng cô khi nói lại đã trầm hơn. "Nếu trước đây bạn là bạn của cô ấy... thì không, bạn sẽ không bao giờ lấy lại được cô ấy. Tốt nhất hãy hiểu điều đó ngay bây giờ. "
 Tôi bỏ phiếu rằng đây là một buổi biểu diễn, Nhà phê bình Nội tâm nói. Cô ấy sẽ không thốt ra tất cả những điều đó để trả lời một câu hỏi trừ khi cô ấy đang tìm kiếm cơ hội.
 Đã lưu ý, nhưng tôi không tin tưởng lắm vào điều đó, Ravenclaw nói. Thật khó để không để sự nghi ngờ kiểm soát nhận thức của bạn khi bạn đang cố gắng cân nhắc những bằng chứng tinh vi đến vậy.
 “Anh đã cho cô ấy thuốc gì?” mụ phù thủy nói sau khi mở miệng Bellatrix và nhìn vào bên trong, cây đũa phép của bà ta lóe lên nhiều màu sắc chiếu sáng.
@@ -155,7 +155,7 @@ Sau đó cô đứng dậy, và người phụ nữ gầy gò xanh xao nổi lê
 “Thế đấy, ” mụ phù thủy ngắt lời, “Tôi sẽ đưa cô ấy ra khỏi đây trước khi có ai làm hại cô ấy nữa—” Một cánh tay vòng ra để ôm lấy hình dạng xương xẩu của Bellatrix Black vào bên cạnh cô ấy, và cả hai đều biến mất cùng với tiếng POP lớn! của sự hiện ra.
 Và có sự im lặng ở nơi gồ ghề đó, ngoại trừ tiếng sóng vỗ nhẹ nhàng và một chút gió thổi.
 Tôi nghĩ buổi biểu diễn đã kết thúc, Nhà phê bình nội tâm nói. Tôi cho nó 2 sao rưỡi trên 5 sao. Cô ấy có lẽ không phải là một diễn viên giàu kinh nghiệm.
-Tôi tự hỏi liệu một người chữa bệnh thực sự có vẻ giả tạo hơn một diễn viên được yêu cầu đóng vai không?Ravenclaw trầm ngâm.
+Tôi tự hỏi liệu một người chữa bệnh thực sự có vẻ giả tạo hơn một diễn viên được yêu cầu đóng vai không? Ravenclaw trầm ngâm.
 Giống như xem một chương trình truyền hình, cảm giác là vậy, giống như xem một chương trình truyền hình có những nhân vật mà bạn không đặc biệt đồng cảm, đó là tất cả những gì có thể nhìn thấy và cảm nhận được từ phía sau những bức tường kính.
 Bằng cách nào đó, Harry đã tự mình cử động được đôi môi của mình, gửi giọng nói của chính mình vào bầu không khí tĩnh lặng của bình minh, và rồi ngạc nhiên khi nghe thấy câu hỏi của chính mình. “Rốt cuộc thì bạn có bao nhiêu người khác nhau vậy?”
 Người đàn ông xanh xao nằm trên mặt đất không cười, nhưng từ trên cán chổi, Harry nhìn thấy khóe môi của Giáo sư Quirrell cong lên, khóe môi cười mỉa mai quen thuộc. "Tôi không thể nói rằng tôi bận tâm đến việc đếm. Bạn có bao nhiêu?"

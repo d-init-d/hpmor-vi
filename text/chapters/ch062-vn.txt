@@ -1,27 +1,447 @@
-60. Thí Nghiệm Nhà Tù Stanford, Phần X
+﻿60. Thí Nghiệm Nhà Tù Stanford, Phần X
 
-"Tỉnh dậy. " Mắt Harry bật mở khi hắn tỉnh dậy với một cơn nghẹn thở, một cú giật bừa của cơ thể nằm sấp. Hắn không nhớ gì về những giấc mơ, có lẽ não hắn đã quá kiệt sức để mơ, dường như hắn vừa nhắm mắt rồi nghe thấy từ đó được nói ra một lúc sau.
+"Tỉnh dậy." Mắt Harry bật mở khi hắn tỉnh dậy với một cơn nghẹn thở, một cú giật bừa của cơ thể nằm sấp. Hắn không nhớ gì về những giấc mơ, có lẽ não hắn đã quá kiệt sức để mơ, dường như hắn vừa nhắm mắt rồi nghe thấy từ đó được nói ra một lúc sau.
 
-"Cậu phải tỉnh dậy, " giọng của Quirinus Quirrell nói. "Tôi đã cho cậu nhiều thời gian nhất có thể, nhưng sẽ là khôn ngoan nếu giữ lại ít nhất một lần sử dụng Chiếc Đồng Hồ Thời Gian. Chẳng bao lâu nữa chúng ta phải quay ngược lại bốn tiếng về Mary's Place, xuất hiện trong mọi khía cạnh như thể chúng ta đã không làm gì thú vị trong ngày này. Tôi muốn nói chuyện với cậu trước đó. "
+"Cậu phải tỉnh dậy," giọng của Quirinus Quirrell nói. "Tôi đã cho cậu nhiều thời gian nhất có thể, nhưng sẽ là khôn ngoan nếu giữ lại ít nhất một lần sử dụng Chiếc Đồng Hồ Thời Gian. Chẳng bao lâu nữa chúng ta phải quay ngược lại bốn tiếng về Mary's Place, xuất hiện trong mọi khía cạnh như thể chúng ta đã không làm gì thú vị trong ngày này. Tôi muốn nói chuyện với cậu trước đó."
 
-Harry từ từ ngồi dậy trong bóng tối. Cơ thể hắn đau nhức, và không chỉ ở những nơi nó đã nằm trên bê tông cứng. Những hình ảnh lăn qua nhau trong ký ức hắn, mọi thứ mà bộ não vô thức của hắn quá mệt mỏi để phóng thích thành một cơn ác mộng đàng hoàng. Mười hai khoảng trống kinh khủng trôi dọc một hành lang kim loại, làm xỉn kim loại xung quanh, ánh sáng mờ đi và nhiệt độ giảm xuống khi sự trống rỗng cố hút mọi sự sống ra khỏi thế giới—
-
-Da trắng như phấn, căng trên xương chỉ còn lại sau khi mỡ và cơ bắp đã biến mất—
-
-Một cánh cửa kim loại—
-
-Giọng một người phụ nữ—
-
-Không, tôi không có ý đó, xin đừng chết—
-
-Tôi không thể nhớ tên của những đứa con mình nữa—
-
-Đừng đi, đừng lấy nó đi, đừng đừng đừng—
+Harry từ từ ngồi dậy trong bóng tối. Cơ thể hắn đau nhức, và không chỉ ở những nơi nó đã nằm trên bê tông cứng. Những hình ảnh lăn qua nhau trong ký ức hắn, mọi thứ mà bộ não vô thức của hắn quá mệt mỏi để phóng thích thành một cơn ác mộng đàng hoàng. Mười hai khoảng trống kinh khủng trôi dọc một hành lang kim loại, làm xỉn kim loại xung quanh, ánh sáng mờ đi và nhiệt độ giảm xuống khi sự trống rỗng cố hút mọi sự sống ra khỏi thế giới— Da trắng như phấn, căng trên xương chỉ còn lại sau khi mỡ và cơ bắp đã biến mất— Một cánh cửa kim loại— Giọng một người phụ nữ— Không, tôi không có ý đó, xin đừng chết— Tôi không thể nhớ tên của những đứa con mình nữa— Đừng đi, đừng lấy nó đi, đừng đừng đừng—
 
 "Đó là nơi nào?" Harry nói khàn khàn, bằng một giọng bị đẩy ra từ cổ họng như nước bị ép qua một cái ống quá nhỏ, trong bóng tối nó nghe như gần như tan vỡ như giọng của Bellatrix Black đã từng. "Đó là nơi nào? Đó không phải là nhà tù, đó là Địa Ngục!"
 
-"Địa ngục?" giọng bình thản của Giáo sư Phòng Thủ nói. "Cậu muốn nói đến huyền thoại hình phạt của Kitô giáo? Tôi cho là có một sự tương đồng. "
+"Địa ngục?" giọng bình thản của Giáo sư Phòng Thủ nói. "Cậu muốn nói đến huyền thoại hình phạt của Kitô giáo? Tôi cho là có một sự tương đồng."
 
 "Làm sao—" giọng Harry bị nghẹn lại, có thứ gì đó lớn mắc trong cổ họng. "Làm sao—làm sao bọn họ—"
 
-Người ta đã xây cái đó, ai đó đã tạo ra Azkaban, họ đã cố ý tạo ra nó, họ đã làm một cách có chủ đích, người phụ nữ đó, cô ấy đã có...
+Người ta đã xây cái đó, ai đó đã tạo ra Azkaban, họ đã cố ý tạo ra nó, họ đã làm một cách có chủ đích, người phụ nữ đó, cô ấy đã có con, những đứa con mà cô ấy sẽ không nhớ ra, một vị quan tòa nào đó đã quyết định rằng điều đó sẽ xảy ra với cô ấy, ai đó đã cần phải kéo cô vào cái phòng giam đó và khóa cửa lại trong khi cô la hét, ai đó cho cô ăn mỗi ngày rồi bỏ đi mà không bao giờ thả cô ra — "Làm sao con người có thể làm được điều đó?"
+
+"Tại sao họ lại không?" Giáo sư Phòng Thủ nói. Một ánh sáng xanh nhợt bừng lên trong kho hàng, phủ sáng một trần bê tông cao hồn như hang động và một sàn bê tông đầy bụi; và Giáo sư Quirrell ngồi cách đó một khoảng, dựa lưng vào bức tường sơn; ánh sáng xanh nhợt biến những bức tường thành bề mặt sông băng, bụi trên sàn thành tuyết điểm xốp, và chính người đàn ông đó trở thành một bức tượng băng, được bao phủ trong bóng tối nơi áo choàng đen của hắn buông phủ trên người.
+
+"Những tù nhân của Azkaban có ích gì cho họ?" Miệng Harry há hốc ra nhưng không có lời nào thoát ra. Một nụ cười nhạt cong trên môi Giáo sư Phòng Thủ.
+
+"Cậu biết không, Mr Potter, nếu Kẻ-Mà-Không-Được-Nhắc-Tên đã đến cai trị nước Anh phép thuật, và xây dựng một nơi như Azkaban, hắn sẽ xây nó vì hắn thấy đau khổ của kẻ thù là thú vui. Và nếu thay vào đó hắn bắt đầu thấy nỗi đau của họ khó chịu, thì hắn sẽ ra lệnh phá hủy Azkaban vào ngày mai. Còn về những kẻ đã xây Azkaban, và những kẻ không phá hủy nó, trong khi thuyết giảng những bài cao đẹp và tưởng tượng rằng mình không phải là ác quỷ… ừ, Mr Potter, tôi nghĩ nếu tôi có lựa chọn giữa việc uống trà với bọn họ, hay uống trà với Kẻ-Mà-Bạn-Biết-Đó, tôi sẽ thấy ít phản cảm hơn khi ở bên Chúa Tể Ác Quỷ."
+
+"Tôi không hiểu," Harry nói, giọng hắn đang run, hắn đã đọc về thí nghiệm kinh điển về tâm lý học nhà tù, những sinh viên đại học bình thường đã trở nên tàn bạo ngay khi được phân vai trò cai ngục; chỉ đến bây giờ hắn mới nhận ra rằng thí nghiệm đó đã không xem xét đúng câu hỏi, câu hỏi quan trọng nhất, họ đã không nhìn vào những người then chốt, không phải những cai ngục mà là tất cả những người khác, "Tôi thực sự không hiểu, Giáo sư Quirrell, làm sao mọi người có thể đứng nhìn và để điều này xảy ra, tại sao đất nước Anh phép thuật lại làm điều này—"
+
+Giọng Harry dừng lại. Mắt của Giáo sư Phòng Thủ dường như vẫn cùng màu như mọi khi, dưới ánh sáng xanh nhợt, vì ánh sáng đó cùng màu với mống mắt của Quirinus Quirrell, những mảnh băng không bao giờ tan.
+
+"Chào mừng, Mr Potter, đến với cuộc đối mặt đầu tiên của cậu với thực tế của chính trị. Những sinh vật khốn khổ trong Azkaban có thể mang lại lợi ích gì cho bất kỳ phe phái nào? Ai sẽ được lợi khi giúp đỡ họ? Một chính trị gia ngỏ ý đứng về phía họ sẽ tự liên kết mình với tội phạm, với sự yếu đuối, với những thứ kinh tởm mà người ta thà không nghĩ đến. Mặt khác, chính trị gia có thể thể hiện sức mạnh và sự tàn ác bằng cách đòi hỏi án tù dài hơn; để thể hiện sức mạnh đòi hỏi phải có nạn nhân để nghiền nát bên dưới, rốt cuộc. Và đám đông vỗ tay ủng hộ, vì đó là bản năng của họ khi theo kẻ chiến thắng."
+
+Một tiếng cười lạnh lẽo đầy thú vị.
+
+"Cậu thấy không, Mr Potter, chẳng ai thực sự tin rằng họ sẽ đến Azkaban, nên họ không thấy có hại gì cho bản thân. Còn về những gì họ gây ra cho người khác… Tôi cho là cậu đã từng được nghe rằng con người quan tâm đến những thứ đó? Đó là một lời nói dối, Mr Potter, người ta không quan tâm chút nào, và nếu cậu đã không có một tuổi thơ được bảo bọc quá mức, cậu đã nhận ra điều đó từ lâu rồi. Hãy tự an ủi với điều này: những người hiện đang là tù nhân ở Azkaban đã bỏ phiếu cho cùng những Bộ trưởng Phép Thuật đã hứa sẽ đưa phòng giam của họ đến gần Giám ngục hơn. Tôi thú nhận, Mr Potter, rằng tôi thấy ít hy vọng cho nền dân chủ như một hình thức quản lý hiệu quả, nhưng tôi ngưỡng mộ tính thơ mộng của cách nó làm cho nạn nhân của nó đồng lõa trong sự tự hủy diệt của chính mình."
+
+Cái "bản ngã" mới được tập hợp gần đây của Harry đang có nguy cơ vỡ tan thành từng mảnh, những lời nói rơi như những nhát búa đập vào ý thức của hắn, dồn hắn lùi lại, từng bước một, về phía bờ vực nơi ẩn náu một hố sâu thẳm vô biên; và hắn đang cố gắng tìm thứ gì đó để cứu mình, một lời đốp lại khéo léo sẽ bác bỏ những lời đó, nhưng không có gì đến. Giáo sư Phòng Thủ quan sát Harry, ánh mắt phản chiếu nhiều tò mò hơn là mệnh lệnh.
+
+"Rất đơn giản, Mr Potter, để hiểu Azkaban đã được xây dựng như thế nào, và nó tiếp tục tồn tại ra sao. Đàn ông quan tâm đến những gì chính họ kỳ vọng sẽ chịu đựng hoặc đạt được; và miễn là họ không kỳ vọng nó sẽ quay lại với chính họ, sự tàn bạo và vô tâm của họ là vô hạn. Tất cả những pháp sư khác của đất nước này không khác gì bên trong so với kẻ đã tìm cách thống trị họ, Kẻ-Mà-Bạn-Biết-Đó; họ chỉ thiếu sức mạnh của hắn và sự… thẳng thắn của hắn."
+
+Hai tay cậu bé nắm chặt thành hai nắm đấm đến mức móng tay đâm vào lòng bàn tay, nếu các ngón tay trắng bệch hay mặt hắn tái nhợt thì không thể thấy được, vì ánh sáng xanh mờ đổ mọi thứ thành băng hoặc bóng tối.
+
+"Cậu đã từng đề nghị hỗ trợ tôi nếu tham vọng của tôi là trở thành Chúa Tể Ác Quỷ tiếp theo. Đó là lý do sao, thưa Giáo sư?"
+
+Giáo sư Phòng Thủ nghiêng đầu, một nụ cười mỏng trên môi.
+
+"Hãy học tất cả những gì tôi có thể dạy cậu, Mr Potter, và cậu sẽ cai trị đất nước này theo thời gian. Sau đó cậu có thể phá hủy nhà tù mà nền dân chủ đã tạo ra, nếu cậu thấy Azkaban vẫn xúc phạm nhạy cảm của cậu. Thích hay không, Mr Potter, cậu đã chứng kiến ngày hôm nay rằng ý chí của cậu mâu thuẫn với ý chí của dân chúng đất nước này, và rằng cậu không cúi đầu rồi phục tùng quyết định của họ khi điều đó xảy ra. Vậy nên đối với họ, dù họ có biết điều đó hay không, và dù cậu có thừa nhận hay không, cậu chính là Chúa Tể Ác Quỷ tiếp theo của họ."
+
+Trong ánh sáng đơn sắc, không dao động, cậu bé và Giáo sư Phòng Thủ đều giống như những bức tượng băng bất động, mống mắt của họ giảm xuống còn cùng màu, trông rất giống nhau trong ánh sáng đó. Harry nhìn thẳng vào đôi mắt nhợt nhạt đó. Tất cả những câu hỏi đã kìm nén bấy lâu, những thứ hắn đã tự nhủ rằng hắn đang để dành cho đến Ngày Tháng Ba. Đó là một lời nói dối, Harry bây giờ biết rồi, một sự lừa dối bản thân, hắn đã im lặng vì sợ những gì hắn có thể nghe. Và bây giờ tất cả đang tuôn ra từ môi hắn, cùng một lúc.
+
+"Ngày đầu tiên của lớp học, cậu đã cố thuyết phục bạn cùng lớp rằng tôi là kẻ giết người."
+
+"Cậu là." Một cách đầy thú vị.
+
+"Nhưng nếu câu hỏi của cậu là tại sao tôi nói với bọn họ điều đó, Mr Potter, thì câu trả lời là cậu sẽ thấy sự mơ hồ là một đồng minh vĩ đại trên con đường đến quyền lực của cậu. Hãy cho một dấu hiệu của Slytherin vào một ngày, rồi mâu thuẫn với dấu hiệu của Gryffindor vào ngày hôm sau; và những người Slytherin sẽ có thể tin vào điều họ muốn, trong khi những người Gryffindor tranh luận đến mức ủng hộ cậu. Miễn là có sự không chắc chắn, người ta có thể tin bất cứ điều gì có vẻ là lợi ích của chính họ. Và miễn là cậu có vẻ mạnh mẽ, miễn là cậu có vẻ như đang thắng, bản năng của họ sẽ nói với họ rằng lợi ích của họ nằm ở bên cậu. Hãy luôn bước trong bóng tối, và cả ánh sáng lẫn bóng tối sẽ theo cậu."
+
+"Và," cậu bé nói, giọng đều đều, "rốt cuộc cậu muốn gì từ tất cả cái này?"
+
+Giáo sư Quirrell đã dựa lưng vào tường nhiều hơn nữa từ chỗ hắn ngồi, làm cho khuôn mặt chìm vào bóng tối, mắt hắn chuyển từ băng nhợt thành những hố đen như mắt dạng rắn của hắn.
+
+"Tôi mong muốn đất nước Anh trở nên mạnh mẽ dưới sự lãnh đạo của một nhà lãnh đạo mạnh mẽ; đó là mong muốn của tôi. Còn về lý do tại sao," Giáo sư Quirrell mỉm cười không vui, "tôi nghĩ chúng sẽ vẫn là của riêng tôi."
+
+"Cảm giác về điều rủi ro mà tôi cảm nhận được xung quanh anh." Những lời này ngày càng khó nói hơn, khi chủ đề nhảy múa ngày càng gần hơn với một điều gì đó khủng khiếp và cấm kỵ. "Anh luôn luôn biết nó có nghĩa gì."
+
+"Tôi đã có một vài phỏng đoán," Giáo sư Quirrell nói, biểu cảm không thể đọc được. "Và tôi sẽ chưa nói tất cả những gì tôi đã đoán. Nhưng đây là điều tôi sẽ nói cho anh: đó là điều rủi ro của anh tỏa sáng khi chúng ta đến gần nhau, không phải của tôi."
+
+Lần đầu tiên, não của Harry có thể đánh dấu đây là một khẳng định đáng ngờ và có thể là dối trá, thay vì tin vào tất cả những gì nó nghe thấy.
+
+"Tại sao đôi khi anh biến thành zombie?"
+
+"Lý do cá nhân," Giáo sư Quirrell nói với giọng hoàn toàn không có hài hước.
+
+"Động cơ ngầm của anh khi cứu Bellatrix là gì?"
+
+Có một khoảng im lặng ngắn, trong đó Harry cố gắng hết sức kiểm soát hơi thở, giữ cho nó đều đặn. Cuối cùng Giáo sư Phòng thủ chỉ nhún vai, như thể đó không quan trọng gì.
+
+"Tôi đã gần như nói thẳng ra cho anh đấy, Mr Potter. Tôi đã nói cho anh tất cả những gì anh cần để suy ra câu trả lời, nếu anh đã trưởng thành đủ để xem xét câu hỏi rõ ràng đầu tiên đó. Bellatrix Black là đầy tớ mạnh nhất của Chúa tể Bóng tối, lòng trung thành của cô ấy được đảm bảo nhất; cô ấy là người duy nhất có khả năng được tin tưởng với một phần nào đó trong kiến thức đã mất của Slytherin lẽ ra thuộc về anh."
+
+Từ từ cơn giận bò qua Harry, từ từ cơn thịnh nộ, một điều gì đó khủng khiếp bắt đầu sôi sục trong máu anh, chỉ còn vài khoảnh khắc nữa là anh sẽ nói ra điều mà anh không nên nói khi hai người họ ở một mình trong một nhà kho bỏ hoang—
+
+"Nhưng cô ấy vô tội," Giáo sư Phòng thủ nói. Ông không mỉm cười. "Và mức độ mà tất cả các lựa chọn của cô ấy đã bị tước đoạt khỏi cô, đến nỗi cô ấy không bao giờ có cơ hội chuộc lỗi cho những sai lầm của chính mình… tôi thấy nó quá mức, Mr Potter. Nếu cô ấy không nói cho anh điều gì hữu ích—"
+
+Giáo sư Phòng thủ lại nhún vai một cách nhỏ.
+
+"Tôi sẽ không coi công việc hôm nay là lãng phí."
+
+"Thật cao thượng từ anh," Harry nói lạnh lùng. "Vậy nếu tất cả phù thủy đều giống như Ngài-Biết-Ai bên trong, anh có phải là ngoại lệ không?"
+
+Mắt Giáo sư Phòng thủ vẫn còn trong bóng tối, những hố đen không thể nhìn vào.
+
+"Hãy gọi đó là một ý muốn nhất thời, Mr Potter. Đôi khi tôi thấy vui khi đóng vai một anh hùng. Ai biết được nhưng Ngài-Biết-Ai cũng sẽ nói điều tương tự."
+
+Harry há to miệng lần cuối—
+
+Và nhận ra rằng anh không thể nói được, anh không thể hỏi câu hỏi cuối cùng, câu hỏi quan trọng nhất, anh không thể làm cho những lời đó ra. Mặc dù một sự từ chối như vậy bị cấm đối với một người duy lý, cho tất cả những gì anh từng ngâm nga Litani Tarski hay Litani Gendlin hay thề rằng bất cứ điều gì có thể bị phá hủy bởi sự thật nên được như vậy, trong khoảnh khắc đó, anh vẫn không thể khiến bản thân nói câu hỏi cuối cùng ra miệng. Mặc dù anh biết mình đang suy nghĩ sai, mặc dù anh biết mình được kỳ vọng phải tốt hơn thế này, anh vẫn không thể nói ra nó.
+
+"Bây giờ đến lượt tôi hỏi anh."
+
+Lưng Giáo sư Quirrell thẳng lên từ vị trí anh đã dựa vào bức tường bê tông được sơn như băng.
+
+"Tôi đang thắc mắc, Mr Potter, liệu anh có muốn nói gì về việc suýt giết tôi và phá hủy nỗ lực chung của chúng ta. Tôi được biết rằng trong những trường hợp như vậy, một lời xin lỗi được coi là dấu hiệu của sự tôn trọng. Nhưng anh đã không đưa ra cho tôi một lời nào. Chỉ là anh chưa kịp nói chuyện đó, Mr Potter?"
+
+Giọng nói bình thản, viền im lặng rất mỏng và sắc bén đến nỗi nó sẽ cắt xuyên qua anh trước khi anh nhận ra mình đang bị sát hại.
+
+Và Harry chỉ nhìn Giáo sư Phòng thủ bằng đôi mắt lạnh lùng sẽ không bao giờ dao động trước bất cứ điều gì; không phải cái chết, ngay cả bây giờ. Anh không còn ở Azkaban nữa, không còn sợ phần trong anh khiến anh không biết sợ; và viên ngọc quý rắn chắc là Harry đã xoay để đối mặt với căng thẳng, xoay nhẹ nhàng từ mặt này sang mặt khác, từ sáng đến tối, từ ấm đến lạnh. Một động thái tính toán của anh, để khiến tôi cảm thấy có lỗi, đặt tôi vào vị trí phải đầu hàng? Cảm xúc chân thật từ anh?
+
+"Tôi hiểu," Giáo sư Quirrell nói. "Tôi đoán điều đó trả lời—"
+
+"Không," cậu bé nói bằng giọng bình tĩnh, điềm tĩnh, "anh không được phép đóng khung cuộc trò chuyện dễ dàng như vậy, Giáo sư. Tôi đã tốn rất nhiều công sức để bảo vệ anh và đưa anh ra khỏi Azkaban an toàn, sau khi tôi nghĩ anh đã cố giết một sĩ quan cảnh sát. Điều đó bao gồm việc đối mặt với mười hai Con Giám ngục mà không có Lời nguyền Bảo trợ. Tôi tự hỏi, nếu tôi đã xin lỗi khi anh đòi hỏi, anh có nói 'cảm ơn' đáp lại không? Hay tôi đúng khi nghĩ rằng đó là sự đầu hàng của tôi mà anh đòi hỏi, không chỉ sự tôn trọng của tôi?"
+
+Có một khoảng dừng, và rồi giọng Giáo sư Quirrell vang lên đáp, lạnh lẽo công khai với nguy hiểm không còn che đậy.
+
+"Có vẻ như anh vẫn không thể chấp nhận thua cuộc, Mr Potter."
+
+Bóng tối nhìn chằm chằm từ đôi mắt Harry mà không hề dao động, chính Giáo sư Phòng thủ bị giảm xuống thành một vật phàm trong chúng.
+
+"Ồ, và anh đang suy nghĩ xem liệu anh có nên giả vờ thua tôi và giả vờ khiêm nhường trước sự giận dữ của tôi, để bảo toàn kế hoạch của anh không? Ý nghĩ về một lời xin lỗi giả tạo có tính toán có thoáng qua tâm trí anh không? Tôi cũng không, Giáo sư Quirrell."
+
+Giáo sư Phòng thủ cười, trầm và không vui, trống rỗng hơn khoảng không giữa các vì sao, nguy hiểm như chân không chứa đầy bức xạ cứng.
+
+"Không, Mr Potter, anh vẫn chưa rút ra được bài học, hoàn toàn không."
+
+"Tôi đã nghĩ đến việc thua nhiều lần, ở Azkaban," cậu bé nói, giọng đều đặn. "Rằng tôi nên đơn giản từ bỏ và giao nộp bản thân cho các Thần sáng. Thua cuộc là điều hợp lý để làm. Tôi nghe thấy giọng anh nói với tôi, trong tâm trí tôi; và tôi đã làm vậy, nếu tôi ở đó một mình. Nhưng tôi không thể khiến bản thân để mất anh."
+
+Có sự im lặng sau đó, một lúc lâu; như thể ngay cả Giáo sư Phòng thủ cũng không thể nghĩ ra được phải nói gì về điều đó.
+
+"Tôi tò mò," Giáo sư Quirrell cuối cùng cũng lên tiếng. "Anh nghĩ tôi nên xin lỗi vì điều gì, chính xác? Tôi đã cho anh chỉ dẫn rõ ràng trong trường hợp có cuộc chiến. Anh phải ở xuống, tránh ra, không phát bất kỳ phép thuật nào. Anh đã vi phạm những chỉ dẫn đó và phá hủy nhiệm vụ."
+
+"Tôi không đưa ra bất kỳ quyết định nào," cậu bé nói đều đặn, "không có lựa chọn nào trong đó, chỉ có một mong ước rằng Thần sáng không được chết, và Bảo trợ của tôi đã ở đó. Để mong ước đó không bao giờ xảy ra, anh nên cảnh báo tôi rằng anh có thể hù dọa bằng Lời nguyền Tử thần. Mặc định, tôi cho rằng nếu anh chỉ đũa phép vào ai đó và nói Avada Kedavra, đó là vì anh muốn họ chết. Đó không phải là quy tắc đầu tiên của An toàn Lời nguyền Không thể tha thứ sao?"
+
+"Quy tắc là cho các cuộc đấu kiếm," Giáo sư Phòng thủ nói. Một số sự lạnh lẽo đã quay trở lại giọng anh.
+
+"Và đấu kiếm là một môn thể thao, không phải một nhánh của Chiến đấu phép thuật. Trong một cuộc chiến thực sự, một lời nguyền không thể chặn và phải tránh là một chiến thuật không thể thiếu. Tôi đã nghĩ điều này hiển nhiên với anh, nhưng có vẻ tôi đánh giá sai trí tuệ của anh."
+
+"Cũng có vẻ như thiếu thận trọng với tôi," cậu bé nói, tiếp tục như thể người kia chưa nói gì, "là không nói với tôi rằng việc tôi phát bất kỳ phép thuật nào lên anh có thể giết chết cả hai chúng ta. Nếu anh bị tai nạn và tôi đã thử một Lời nguyền Hồi sinh, hay một Bùa Bay? Sự dốt nát đó, mà anh cho phép vì những mục đích tôi không thể đoán được, cũng đóng góp một phần vào thảm họa này."
+
+Có một sự im lặng khác. Mắt Giáo sư Phòng thủ đã thu hẹp lại, và có một vẻ bối rối nhẹ trên khuôn mặt anh, như thể anh đã gặp một tình huống hoàn toàn xa lạ; và vẫn không có lời nào từ anh.
+
+"Ừ," cậu bé nói. Mắt anh không hề dao động khỏi mắt Giáo sư Phòng thủ.
+
+"Tôi chắc chắn hối tiếc vì đã làm đau anh, Giáo sư. Nhưng tôi không nghĩ tình huống này đòi hỏi tôi phải đầu hàng anh. Tôi thực sự không bao giờ hiểu được khái niệm xin lỗi, huống chi là áp dụng vào tình huống như thế này; nếu anh có sự hối tiếc của tôi, nhưng không có sự đầu hàng của tôi, đó có tính là nói xin lỗi không?"
+
+Lại một lần nữa tiếng cười lạnh lẽo đó, tối hơn khoảng trống giữa các vì sao.
+
+"Tôi không biết," Giáo sư Phòng thủ nói, "tôi cũng không bao giờ hiểu khái niệm xin lỗi. Thủ đoạn đó sẽ vô ích giữa chúng ta, có vẻ như, khi cả hai chúng ta đều biết nó là một lời nói dối. Vậy thì chúng ta không nói về nó nữa. Công nợ giữa chúng ta sẽ được giải quyết theo thời gian."
+
+Có một khoảng im lặng một lúc.
+
+"Nhân tiện," cậu bé nói. "Hermione Granger sẽ không bao giờ xây Azkaban, bất kể ai sẽ bị nhốt vào đó. Và cô ấy sẽ chết trước khi làm đau một người vô tội. Chỉ nhắc anh điều đó, vì anh đã nói trước đó rằng tất cả phù thủy đều giống như Ngài-Biết-Ai bên trong, và điều đó chỉ là sai như một sự thật đơn giản. Tôi đã nhận ra điều đó sớm hơn nếu tôi không bị," cậu bé nở một nụ cười méo mó ngắn, "căng thẳng."
+
+Mắt Giáo sư Phòng thủ hơi híp, biểu cảm xa xăm.
+
+"Nội tâm của con người không phải lúc nào cũng giống như vẻ bề ngoài của họ, Mr Potter. Có thể cô ấy chỉ mong muốn người khác nghĩ cô ấy là một cô gái ngoan. Cô ấy không thể—"
+
+"—sử dụng Lời Nguyền Bùa hộ mệnh—"
+
+"Hah," cậu bé nói; nụ cười của cậu có vẻ thật hơn bây giờ, ấm hơn. "Cô ấy đang gặp rắc rối vì đúng lý do tương tự như tôi đã gặp. Có đủ ánh sáng trong cô ấy để tiêu diệt Giám ngục, tôi chắc chắn. Cô ấy sẽ không thể ngăn bản thân mình tiêu diệt Giám ngục, thậm chí khi phải trả giá bằng chính mạng sống của mình…"
+
+Cậu bé ngắt lời, rồi giọng cậu quay lại.
+
+"Có lẽ tôi không phải là một người tốt như vậy; nhưng họ tồn tại, và cô ấy là một trong số họ."
+
+Khô khan.
+
+"Cô ấy còn trẻ, và thể hiện lòng tốt thì tốn rất ít."
+
+Có một khoảng dừng ở đây. Rồi cậu bé nói, "Thưa Giáo sư, tôi phải hỏi, khi ông nhìn thấy một thứ gì đó toàn màu đen và ảm đạm, có bao giờ ông nghĩ đến việc cố gắng cải thiện nó không? Ví dụ, có, một điều gì đó trong đầu mọi người bị hỏng nặng khiến họ nghĩ rằng tra tấn tội phạm là chuyện tuyệt vời, nhưng điều đó không có nghĩa là họ thực sự ác ở bên trong; và có lẽ nếu ông dạy họ những điều đúng đắn, chỉ cho họ thấy họ đang làm sai ở đâu, ông có thể thay đổi—"
+
+Giáo sư Quirrell cười, lúc đó, và không phải với sự trống rỗng như trước.
+
+"À, Mr Potter, đôi khi tôi lại quên mất cậu mới có bao nhiêu tuổi. Thà đổi màu của bầu trời còn dễ hơn."
+
+Một tiếng cười khác, lạnh hơn.
+
+"Và lý do khiến cậu dễ dàng tha thứ cho những kẻ ngu ngốc đó và nghĩ tốt về họ, Mr Potter, là vì chính cậu chưa từng bị tổn thương nặng nề. Cậu sẽ nghĩ ít thiện cảm hơn với lũ đần độn thường thường sau lần đầu sự ngu xuẩn của chúng khiến cậu mất thứ gì đó quý giá. Chẳng hạn như một trăm đồng Galleon từ túi của chính cậu, có lẽ, hơn là cái chết đau đớn của một trăm người lạ."
+
+Giáo sư Phòng Thủ đang mỉm cười một cách mỏng manh. Hắn lấy đồng hồ bỏ túi từ trong áo choàng ra, nhìn vào nó.
+
+"Chúng ta hãy đi thôi, nếu không còn gì để nói giữa chúng ta."
+
+"Giáo sư không có câu hỏi nào về những thứ không thể mà tôi đã làm để đưa chúng ta thoát khỏi Azkaban?"
+
+"Không," Giáo sư Phòng Thủ nói. "Tôi nghĩ tôi đã giải được hầu hết trong số đó rồi. Còn những cái khác, thật hiếm khi tôi gặp được một người mà tôi không thể nhìn thấu ngay lập tức, dù là bạn hay thù. Tôi sẽ tự mình đoán ra những câu đố về cậu, đến lúc đó."
+
+Giáo sư Phòng Thủ đẩy mình dậy, chống tay xuống tường cả hai tay và đứng lên, trơn tru nếu hơi chậm. Cậu bé, kém duyên dáng hơn, làm tương tự.
+
+Và cậu bé bật ra câu hỏi cuối cùng và đáng sợ nhất mà trước đó cậu đã không thể hỏi được; như thể việc nói nó ra sẽ khiến nó trở thành sự thật, và như thể nó đã không, rồi, vô cùng hiển nhiên.
+
+"Tại sao tôi lại không giống những đứa trẻ khác cùng tuổi với tôi?"
+
+Ở một con đường vắng vẻ của Phố Diagon, nơi những mảnh rác không bị Vanish có thể thấy mắc kẹt ở rìa con đường gạch và những bức tường gạch trống trải bao quanh nó, cùng với đất rải rác và các dấu hiệu bỏ bê khác, một pháp sư già và con phượng hoàng của hắn Dịch chuyển vào tồn tại.
+
+Người pháp sư đã đang thò tay vào trong áo choàng để lấy đồng hồ cát khi, theo thói quen, mắt hắn nhảy đến một điểm ngẫu nhiên giữa đường và tường, để ghi nhớ nó—
+
+Và người pháp sư già nháy mắt trong ngạc nhiên; có một mảnh giấy da ở điểm đó. Một nét cau mày đi qua khuôn mặt Dumbledore khi ông bước tới và nhặt mảnh giấy vụn lên, mở nó ra. Trên đó là một từ duy nhất "KHÔNG", và không hơn không kém. Từ từ người pháp sư để nó rơi khỏi ngón tay. Vô thức ông với xuống mặt đường, và nhặt lên mảnh giấy da gần nhất, trông đáng kinh ngạc là giống với mảnh ông vừa nhặt; ông chạm nó bằng đũa phép, và một lúc sau nó được khắc cùng từ "KHÔNG", bằng cùng nét chữ, chính là nét chữ của ông.
+
+Người pháp sư già đã định quay về ba tiếng trước, đến lúc Harry Potter đầu tiên đến Phố Diagon. Ông đã quan sát, qua các dụng cụ của mình, cậu bé rời Hogwarts, và điều đó không thể đảo ngược (nỗ lực duy nhất của ông để đánh lừa chính dụng cụ của mình, và do đó kiểm soát Thời Gian mà không làm thay đổi vẻ bề ngoài của nó đối với chính mình, đã kết thúc trong một thảm họa đủ để thuyết phục ông không bao giờ thử lại trò đó nữa). Ông đã hy vọng sẽ đón cậu bé vào khoảnh khắc có thể sớm nhất sau khi cậu đến, và đưa cậu đến một nơi an toàn khác, nếu không phải Hogwarts (vì các dụng cụ của ông đã không cho thấy cậu bé quay lại). Nhưng bây giờ—
+
+"Một nghịch lý nếu tôi đón cậu ngay sau khi cậu đến Phố Diagon?" người pháp sư già tự nhủ. "Có lẽ bọn họ đã không đưa kế hoạch đột nhập Azkaban vào vận hành cho đến sau khi họ xác nhận cậu đã đến đây… hoặc là… có lẽ…"
+
+Bê tông sơn, sàn cứng và trần xa, hai nhân vật đối mặt nhau ở hai phía. Một kẻ mang hình dáng của một người đàn ông ngoài ba mươi và đã bắt đầu hói, và một tâm trí mang hình của một cậu bé mười một tuổi với một vết sẹo trên trán. Băng và bóng tối, ánh sáng xanh nhạt.
+
+"Tôi không biết," người đàn ông nói.
+
+Cậu bé chỉ nhìn hắn. Và rồi nói, "Ồ, thật sao?"
+
+"Thật sự," người đàn ông nói. "Tôi không biết gì cả, và những phỏng đoán của tôi tôi sẽ không nói. Nhưng tôi sẽ nói rằng—"
+
+---
+
+*Ghi chú: Phần còn lại của chương (dialogue Harry-Quirrell kết thúc) tiếp tục trong ch063 theo cấu trúc HPMOR.*
+
+------------------------------------------------------------------------
+
+Một giờ trước đó, sau khi sử dụng lượt quay cuối cùng còn lại của Đồng Hồ Thời Gian sau khi khoác lên Áo choàng Tàng hình, Harry cất chiếc đồng hồ cát vào trong áo.
+
+Và hắn tiến về phía tầng hầm Slytherin, bước đi nhanh nhất có thể với đôi chân vô hình, dù không chạy. May thay, văn phòng của Phó Hiệu trưởng đã ở tầng thấp hơn của Hogwarts…
+
+Vài cầu thang kế tiếp, mỗi bước hai bậc thay vì ba bậc, Harry dừng lại ở một hành lang mà phía cuối đường cong là lối vào ký túc xá Slytherin.
+
+Harry lấy một tờ giấy da (không phải giấy thường) từ túi, lấy một cây bút lông vũ (không phải bút) từ túi đũa phép, và nói với cây bút lông vũ,"Viết những chữ cái này chính xác như tôi nói: Z-P-G-B-S-Y, khoảng trắng, F-V-Y-I-R-E-B-A-G-U-R-G-E-R-R."
+
+Có hai loại mã trong mật mã học, loại mã khiến em gái nhỏ không đọc được tin nhắn của bạn và loại mã khiến chính phủ lớn không đọc được tin nhắn của bạn, và đây là loại đầu tiên, nhưng tốt hơn là không có gì. Về lý thuyết, không ai nên đọc nó; nhưng ngay cả khi họ đọc được, họ cũng sẽ không nhớ bất cứ điều thú vị nào trừ khi họ giải mã trước.
+
+Harry sau đó cho tờ giấy da vào một phong bì giấy da, và dùng đũa phép để tan một ít sáp xanh để niêm phong nó.
+
+Về nguyên tắc, tất nhiên Harry có thể làm tất cả những điều đó từ nhiều giờ trước, nhưng có cách nào đó việc đợi cho đến sau khi nghe tin nhắn từ chính miệng Giáo sư McGonagall khiến nó ít giống "Xáo Trộn Thời Gian" hơn.
+
+Harry sau đó cho phong bì đó vào một phong bì khác, bên trong đã có một tờ giấy khác với hướng dẫn khác, và năm đồng Sickles bạc.
+
+Hắn đóng phong bì đó (bên ngoài đã có tên viết sẵn), niêm phong bằng thêm sáp xanh, và ấn một đồng Sickle cuối cùng vào vết niêm phong.
+
+Sau đó Harry cho phong bì đó vào một phong bì khác nữa trên đó có ghi tên lớn "Merry Tavington". Và Harry nhìn trộm quanh góc nơi bức chân dung cau có làm cửa vào ký túc xá Slytherin đang đợi; và vì không muốn bức chân dung nhớ rằng không ai nhìn thấy ai đó vô hình, Harry sử dụng Bùa Lơ lửng để phong bì bay đến người cau có, và chạm nó vào anh ta.
+
+Người cau có nhìn xuống phong bì, nhìn kỹ qua kính đơn, thở dài, quay mặt về phía bên trong ký túc xá Slytherin, và gọi, "Tin nhắn cho Merry Tavington!"
+
+Phong bì sau đó được phép rơi xuống sàn.
+
+Vài khoảnh khắc sau cánh cửa chân dung mở ra, và Merry giật lấy phong bì từ sàn.
+
+Cô sẽ mở ra và tìm thấy một đồng Sickle và một phong bì địa chỉ gửi cho một học sinh năm tư tên Margaret Bulstrode.
+
+(Slytherin làm kiểu này suốt ngày, và một đồng Sickle chắc chắn là một đơn đặt hàng gấp.)
+
+Margaret sẽ mở phong bì của cô, và tìm thấy năm đồng Sickles cùng với một phong bì cần thả ở một lớp học không sử dụng…
+
+… sau khi cô sử dụng Đồng Hồ Thời Gian của mình để quay ngược năm giờ…
+
+…để cô sẽ tìm thấy năm đồng Sickles khác đang đợi cô, nếu cô đến đủ nhanh.
+
+Và một Harry Potter vô hình sẽ đợi trong lớp học đó từ ba giờ chiều đến ba giờ rưỡi, phòng trường hợp ai đó thử bài kiểm tra hiển nhiên.
+
+Chà, điều đó đã hiển nhiên với Giáo sư Quirrell, dù sao.
+
+Nó cũng đã hiển nhiên với Giáo sư Quirrell rằng (a) Margaret Bulstrode có Đồng Hồ Thời Gian và (b) cô không quá nghiêm ngặt về cách cô sử dụng nó, ví dụ như kể cho em gái nhỏ những mẩu tin đồn thực sự tốt "trước" khi bất cứ ai khác đã nghe.
+
+Một phần căng thẳng tan biến khi Harry rời khỏi cánh cửa chân dung, vẫn vô hình. Có cách nào đó tâm trí hắn vẫn lo lắng về kế hoạch, ngay cả khi biết rằng nó đã thành công. Bây giờ chỉ còn lại cuộc đối đầu với Dumbledore, và sau đó hắn hoàn thành trong ngày… hắn sẽ đến tượng nhân sỏng của Hiệu trưởng lúc 9 giờ tối, vì làm lúc 8 giờ tối sẽ đáng nghi ngờ hơn. Bằng cách này hắn có thể nói rằng hắn chỉ hiểu sai ý của Giáo sư McGonagall khi cô nói "sau đó"…
+
+Cơn đau âm ỉ lại bóp tim Harry khi hắn nghĩ đến Giáo sư McGonagall.
+
+Vì vậy Harry lui một chút vào mặt tối của mình, người đã mang vẻ bình tĩnh và giữ sự mệt mỏi ra khỏi khuôn mặt, và tiếp tục đi.
+
+Sẽ có ngày thanh toán, nhưng đôi khi bạn phải vay tất cả những gì bạn có thể hôm nay, và để các khoản thanh toán đến hạn vào ngày mai.
+
+------------------------------------------------------------------------
+
+Ngay cả mặt tối của Harry cũng đang cảm thấy kiệt sức vào lúc cầu thang xoắn ốc đã đưa hắn đến cánh cửa sồi lớn là cổng cuối cùng dẫn đến văn phòng Dumbledore; nhưng vì bây giờ Harry đã hợp pháp là bốn giờ quá giờ đi ngủ tự nhiên của mình, an toàn để để một số sự mệt mỏi hiện ra, về thể chất nếu không phải về mặt cảm xúc.
+
+Cánh cửa sồi mở ra—
+
+Mắt Harry đã tập trung theo hướng của chiếc bàn lớn, ngai phía sau nó; nên mất một lúc để nhận ra rằng ngai trống không, bàn trống trơn chỉ còn lại một cuốn sách da buộc; và sau đó Harry chuyển tầm nhìn để thấy pháp sư đứng giữa đống đồ lặt vặt của ông, những thiết bị bí ẩn không xác định trong vô số. Fawkes và Mũ Phân Loại chiếm vị trí tương ứng của chúng, một ngọn lửa sáng chói vui vẻ bùng cháy trong một ngóc ngách mà Harry trước đây không nhận ra là một lò sưởi, và có hai cây dù và ba đôi giày đỏ cho chân trái. Mọi thứ đều ở đúng vị trí và đúng hình dạng thông thường trừ chính pháp sư già kia, đứng cao và mặc áo choàng đen trang trọng nhất. Đó là một cú sốc cho mắt, những bộ áo choàng đó trên người đó, như thể Harry đã thấy cha mình mặc complet công sở.
+
+Albus Dumbledore rất già nua về diện mạo, và u sầu.
+
+"Xin chào, Harry," người pháp sư già nói.
+
+Từ bên trong một bản thân thay thế được duy trì như một cấu trúc Occlumency, một Harry vô tội người tuyệt đối không biết gì đang xảy ra đã nghiêng đầu lạnh lùng, và nói, "Hiệu trưởng. Con mong là Ngài đã nhận được phản hồi từ Phó Hiệu trưởng McGonagall rồi, nên nếu tiện cho Ngài, con thực sự muốn biết chuyện gì đang xảy ra."
+
+"Vâng," người pháp sư già nói, "đã đến lúc, Harry Potter." Lưng thẳng lên, chỉ hơi thôi vì người pháp sư đã đứng thẳng; nhưng có cách nào đó thậm chí sự thay đổi nhỏ đó khiến người pháp sư dường như cao hơn một feet, và mạnh mẽ hơn nếu không trẻ hơn, đáng gờm dù không nguy hiểm, sức mạnh của ông tụ lại quanh như một mũ trùm. Với giọng nói rõ ràng, ông nói: "Ngày hôm nay cuộc chiến của ngươi chống Voldemort đã bắt đầu."
+
+"Gì cơ?" nói Harry bên ngoài người không biết gì, trong khi một thứ gì đó đang quan sát từ bên trong nghĩ tương tự chỉ với nhiều tục tĩu hơn nhiều.
+
+"Bellatrix Black đã bị đưa khỏi Azkaban, cô đã thoát khỏi một nhà tù không thể thoát," người pháp sư già nói. "Đó là một chiến công mang dấu ấn của Voldemort nếu tôi từng thấy; và cô, người đầy tớ trung thành nhất của hắn, là một trong ba điều kiện cần thiết để hắn trở lại trong một thân xác mới. Sau mười năm kẻ thù ngươi đã đánh bại một lần đã trở lại, như lời tiên tri đã tuyên bố."
+
+Không phần nào của Harry có thể nghĩ ra điều gì để nói về điều đó, ít nhất không trong vài giây trước khi người pháp sư già tiếp tục.
+
+"Nó cần thay đổi ít với ngươi, cho bây giờ," người pháp sư già nói. "Ta đã bắt đầu tái thiết lập Hội Phượng hoàng sẽ phục vụ ngươi, ta đã báo cho những linh hồn ít ỏi có thể và nên hiểu: Amelia Bones, Alastor Moody, Bartemius Crouch, và một số khác. Về lời tiên tri—vâng, có một lời tiên tri—ta đã không nói với họ, nhưng họ biết Voldemort đã trở lại, và họ biết ngươi sẽ đóng một vai trò thiết yếu nào đó. Họ và ta sẽ chiến đấu cuộc chiến của ngươi trong những giai đoạn ít nguy hiểm hơn, trong khi ngươi trưởng thành hơn, và có thể khôn ngoan hơn, ở đây tại Hogwarts." Bàn tay của người pháp sư già giơ lên, như thể cầu xin. "Vì vậy với ngươi, cho bây giờ, chỉ có một thay đổi, và ta van nài ngươi hiểu sự cần thiết của nó. Ngươi có nhận ra cuốn sách trên bàn ta không, Harry?"
+
+Phần bên trong của Harry đang hét lên và đập đầu vào những bức tường tưởng tượng, trong khi Harry bên ngoài quay đầu và nhìn chằm chằm vào thứ hóa ra là—
+
+Có một khoảng dừng khá dài.
+
+Sau đó Harry nói, "Đó là một bản sao của Chúa Tể Của Những Chiếc Nhẫn bởi J. R. R. Tolkien."
+
+"Ngươi đã nhận ra một trích dẫn từ cuốn sách đó," Dumbledore nói, ánh mắt dồn dật, "nên ta cho là ngươi nhớ nó rõ. Nếu ta sai, hãy để ta được sửa lại."
+
+Harry chỉ nhìn chằm chằm ông.
+
+"Điều quan trọng cần hiểu," Dumbledore nói, "là cuốn sách này không mô tả một cuộc chiến phép thuật một cách thực tế. John Tolkien chưa bao giờ chiến đấu với Voldemort. Cuộc chiến của ngươi sẽ không giống những cuốn sách ngươi đã đọc. Cuộc sống thực không giống như truyện. Ngươi có hiểu không, Harry?"
+
+Harry, khá chậm rãi, gật đầu; và sau đó lắc đầu không.
+
+"Cụ thể," Dumbledore nói, "có một điều rất ngu ngốc mà Gandalf làm trong cuốn sách đầu tiên. Ông ấy mắc nhiều sai lầm, Tolkien's wizard làm vậy; nhưng sai lầm này là tồi tệ nhất. Sai lầm đó là: khi Gandalf lần đầu nghi ngờ, dù chỉ trong một khoảnh khắc, rằng Frodo giữ Chiếc Nhẫn Một, ông nên đưa Frodo đến Rivendell ngay lập tức. Ông ấy có thể đã xấu hổ, vị pháp sư già đó, nếu nghi ngờ của ông hóa ra sai. Ông ấy có thể thấy nó awkward khi ra lệnh như vậy cho Frodo, và Frodo sẽ bị bất tiện rất nhiều, cần phải gác lại nhiều kế hoạch và thú tiêu khiển khác. Nhưng một chút xấu hổ, và awkwardness, và bất tiện, không là gì so với việc mất cả cuộc chiến của ngươi, khi chín Cư Dân Áo Choàng Đen đánh xuống vùng Shire trong khi ngươi đang đọc những cuộn giấy cũ ở Minas Tirith, và lấy Nhẫn ngay lập tức. Và không chỉ Frodo sẽ bị tổn thương; toàn Trung Địa sẽ rơi vào nô dịch. Nếu đó không chỉ là một câu chuyện, Harry, họ đã thua cuộc chiến của họ. Ngươi có hiểu những gì ta đang nói với ngươi không?"
+
+"Ờ…" Harry nói, "không chính xác lắm…" Có điều gì đó về Dumbledore khi ông ở trạng thái này, khiến khó giữ được sự lạnh lùng đúng mức; mặt tối của hắn gặp khó khăn với những thứ kỳ lạ.
+
+"Vậy ta sẽ nói rõ ràng," người pháp sư già nói. Giọng ông nghiêm khắc, mắt ông buồn. "Frodo nên được đưa đến Rivendell ngay lập tức bởi chính Gandalf—và Frodo không bao giờ nên rời Rivendell mà không có người bảo vệ. Không nên có đêm kinh hoàng ở Bree, không có Barrow-downs, không có Weathertop nơi Frodo bị thương, họ có thể đã thua cả cuộc chiến của họ bất cứ lúc nào trong số đó, vì sự ngu xuẩn của Gandalf! Ngươi có hiểu bây giờ những gì ta đang nói với ngươi, con trai của Michael và Petunia không?"
+
+Và Harry người không biết gì đã hiểu.
+
+Và Harry người không biết gì thấy rằng đó là điều thông minh, khôn ngoan, thông thái và đúng đắn để làm.
+
+Và Harry người không biết gì đã nói đúng những gì Harry vô tội sẽ nói, trong khi người quan sát im lặng hét lên trong bối rối và đau đớn.
+
+"Ngài đang nói," Harry nói, giọng hắn run rẩy khi cảm xúc bên trong thiêu đốt xuyên qua sự bình tĩnh bên ngoài, "rằng con sẽ không được về nhà với ba mẹ con cho dịp Lễ Phục Sinh."
+
+"Ngươi sẽ gặp lại họ," người pháp sư già nói nhanh. "Ta sẽ năn nỉ họ đến đây ở bên ngươi, ta sẽ dành cho họ mọi cử chỉ tôn trọng trong những lần thăm. Nhưng ngươi sẽ không được về nhà cho dịp Lễ Phục Sinh, Harry. Ngươi sẽ không được về nhà cho mùa hè. Ngươi sẽ không còn ăn trưa ở Phố Diagon nữa, dù có Giáo sư Quirrell canh chừng ngươi. Máu của ngươi là điều kiện thứ hai Voldemort cần để trở lại mạnh như trước. Vì vậy ngươi không bao giờ được rời khỏi phạm vi bùa phép của Hogwarts nữa trừ khi có lý do thiết yếu, và một người bảo vệ đủ mạnh để chống lại bất kỳ cuộc tấn công nào đủ lâu để đưa ngươi đến nơi an toàn."
+
+Nước mắt bắt đầu ở khóe mắt của Harry. "Đó là một yêu cầu?" giọng hắn run. "Hay là một mệnh lệnh?"
+
+"Ta xin lỗi, Harry," người pháp sư già nói nhẹ nhàng. "Hy vọng cha mẹ ngươi sẽ thấy sự cần thiết; nhưng nếu không… ta e rằng họ không có đường lui; luật pháp, dù sai trái, không công nhận họ là người giám hộ của ngươi. Ta xin lỗi, Harry, và ta sẽ hiểu nếu ngươi khinh thường ta vì điều này, nhưng nó phải được thực hiện."
+
+Harry quay mặt, nhìn cửa, hắn không thể nhìn Dumbledore nữa, không thể tin tưởng vào khuôn mặt mình.
+
+Đây là cái giá cho chính ngươi, Hufflepuff trong tâm trí hắn nói, ngay cả khi ngươi đã áp đặt cái giá cho người khác. Điều đó có thay đổi toàn bộ quan điểm của ngươi về vấn đề này không, theo cách Giáo sư Quirrell nghĩ nó sẽ không?
+
+Tự động, mặt nạ của Harry vô tội nói đúng những gì nó sẽ nói: "Ba mẹ con có đang gặp nguy hiểm không? Họ có cần được đưa đến đây không?"
+
+"Không," giọng người pháp sư già nói. "Ta không nghĩ vậy. Những Kẻ Ăn Tử Thần đã học được, về cuối cuộc chiến, không tấn công gia đình của Hội. Và nếu Voldemort bây giờ hành động mà không có đồng minh cũ của hắn, hắn vẫn biết rằng ta mới là người đưa ra quyết định cho bây giờ, và hắn biết rằng ta sẽ không đưa cho hắn bất cứ thứ gì để đổi lấy bất kỳ mối đe dọa nào đến gia đình ngươi. Ta đã dạy hắn rằng ta không nhượng bộ trước khủng bố, và vì vậy hắn sẽ không thử."
+
+Harry quay lại, và thấy sự lạnh lùng trên khuôn mặt người pháp sư già phù hợp với sự thay đổi trong giọng nói của ông, mắt xanh của Dumbledore đã cứng như thép sau cặp kính, nó không phù hợp với con người nhưng phù hợp với bộ áo choàng đen trang trọng.
+
+"Là vậy thôi sao?" giọng Harry run rẩy nói. Sau hắn sẽ suy nghĩ về điều này, sau hắn sẽ nghĩ ra một biện pháp đối phó khôn ngoan nào đó, sau hắn sẽ hỏi Giáo sư Quirrell có cách nào thuyết phục Hiệu trưởng rằng ông đã sai không. Bây giờ, duy trì mặt nạ đang chiếm toàn bộ sự tập trung của Harry.
+
+"Voldemort đã sử dụng một đồ vật của Muggle để thoát khỏi Azkaban," người pháp sư già nói. "Hắn đang theo dõi ngươi và học hỏi từ ngươi, Harry Potter. Sớm một người đàn ông tên Arthur Weasley tại Bộ sẽ ban hành sắc lệnh rằng mọi việc sử dụng đồ vật của Muggle phải chấm dứt trong các cuộc chiến của Giáo sư Phòng Thủ. Trong tương lai, khi ngươi có một ý hay, hãy giữ nó gần bên mình hơn."
+
+Nó có vẻ không quan trọng so với điều đó. Harry chỉ gật đầu, và nói lại, "Là vậy thôi sao?"
+
+Có một khoảng dừng.
+
+"Làm ơn," người pháp sư già nói bằng giọng thì thầm. "Ta không có quyền yêu cầu sự tha thứ của ngươi, Harry James Potter-Evans-Verres, nhưng làm ơn, ít nhất hãy nói rằng ngươi hiểu tại sao." Có nước mắt trong mắt người pháp sư già.
+
+"Con hiểu," giọng Harry bên ngoài người đã hiểu nói, "con muốn nói… con đã có suy nghĩ về điều đó… tự hỏi liệu con có thể thuyết phục Ngài và ba mẹ cho con ở lại Hogwarts trong mùa hè như những đứa trẻ mồ côi, để con có thể đọc thư viện ở đây, nó thú vị hơn ở Hogwarts mà…"
+
+Một tiếng nghẹn từ cổ họng Albus Dumbledore.
+
+Harry quay lại về phía cửa. Đó không phải là thoát không bị tổn thương, nhưng đó là thoát.
+
+Hắn bước một bước về phía trước.
+
+Tay hắn với tới tay nắm cửa.
+
+Một tiếng hét chói tai xé không khí—
+
+Như trong chuyển động chậm, khi Harry quay, hắn thấy con phượng hoàng đã lao qua không trung và đang bay về phía hắn.
+
+Từ Harry thật, người biết rõ tội lỗi của chính mình, một cơn hoảng loạn tràn đến, hắn đã không nghĩ đến điều đó, đã không dự đoán nó, hắn đã chuẩn bị đối mặt Dumbledore nhưng hắn đã quên mất Fawkes—
+
+Vỗ, vỗ, và vỗ, ba lần cánh phượng hoàng vỗ như ngọn lửa bùng lên rồi tắt, thời gian dường như trôi quá chậm khi Fawkes bay qua những thiết bị bíẩn về phía Harry đứng.
+
+Và chim có màu đỏ-vàng đang lơ lửng trước mặt hắn với những đường cánh nhẹ nhàng, lơ lửng trong không khí như ngọn nến.
+
+"Có chuyện gì vậy, Fawkes?" Harry giả nói trong bối rối, nhìn thẳng vào mắt phượng hoàng, như hắn sẽ làm nếu hắn vô tội. Harry thật, cảm thấy cùng sự khó chịu kinh khủng bên trong như khi Giáo sư McGonagall đã bày tỏ niềm tin vào hắn, nghĩ, Ta đã trở nên ác ngày hôm nay sao, Fawkes? Ta không nghĩ ta là ác… Ngươi có ghét ta bây giờ không? Nếu ta đã trở thành thứ gì đó mà phượng hoàng ghét, có lẽ ta nên từ bỏ ngay bây giờ, từ bỏ mọi thứ ngay bây giờ và thú nhận—
+
+Fawkes hét, tiếng hét kinh khủng nhất Harry từng nghe, một tiếng hét khiến tất cả các thiết bị rung động và làm tất cả những bức tranh ngủ bắt đầu lay động.
+
+Nó đâm xuyên qua tất cả các phòng thủ của Harry như một thanh kiếm nóng bỏng xuyên qua bơ, sụp đổ tất cả các lớp của hắn như một quả bóng xì phồ bị chọc thủng, xáo trộnưu tiên của hắn trong tích tắc khi hắn nhớ ra điều quan trọng nhất; nước mắt bắt đầu tràn ra từ mắt Harry, chảy xuống má, giọng hắn nghẹn thở khi những lời tuôn ra từ cổ họng như ho ra dung nham—
+
+"Fawkes nói," giọng Harry nói, "hắn muốn con, làm, điều gì đó, về, những tù nhân, ở Azkaban—"
+
+"Fawkes, không!" người pháp sư già nói. Dumbledore bước tới, với tay về phía phượng hoàng với bàn tay cầu xin. Giọng người pháp sư già gần như tuyệt vọng như tiếng hét của phượng hoàng đã vậy. "Ngươi không thể yêu cầu điều đó của hắn, Fawkes, hắn vẫn chỉ là một đứa trẻ!"
+
+"Ngài đã đến Azkaban," Harry thì thầm, "Ngài đã mang Fawkes theo, hắn thấy—Ngài thấy—Ngài ở đó, Ngài thấy—TẠI SAO NGÀI KHÔNG LÀM GÌ? TẠI SAO NGÀI KHÔNG THẢ HỌ RA?"
+
+Khi các nhạc cụ ngừng rung động, Harry nhận ra rằng Fawkes đã hét cùng lúc với tiếng hét của chính hắn, rằng phượng hoàng bây giờ đang bay bên cạnh Harry và đối mặt Dumbledore ở bên hắn, đầu đỏ-vàng ngang với của hắn.
+
+"Ngươi có thể," người pháp sư già thì thầm, "ngươi thực sự có thể nghe rõ giọng của phượng hoàng như vậy không?"
+
+Harry đang khóc gần như không nói được, vì tất cả những cánh cửa kim loại hắn đã đi qua, những giọng nói hắn đã nghe, những kýức tồi tệ nhất, lời cầu xin tuyệt vọng khi hắn bước đi, tất cả đã bùng nổ trong tâm trí hắn như lửa khi tiếng hét của phượng hoàng, tất cả các pháo đài bên trong đều bị phá hủy. Harry không biết liệu hắn thực sự có thể nghe rõ giọng của phượng hoàng như vậy không, liệu hắn có thể hiểu Fawkes mà không cần biết trước. Tất cả Harry biết là hắn có một lý do hợp lý để nói những điều Giáo sư Quirrell đã nói hắn không bao giờ được nêu trong cuộc trò chuyện từ nay trở đi; vì đây chính xác là những gì Harry vô tội sẽ nói, sẽ làm, nếu hắn đã nghe rõ như vậy. "Họ đang đau—chúng ta phải giúp họ—"
+
+"Ta không thể!" Albus Dumbledore kêu lên. "Harry, Fawkes, ta không thể, không có gì ta có thể làm!"
+
+Một tiếng hét chói tai khác.
+
+"TẠI SAO KHÔNG? CỨ VÀO ĐÓ VÀ ĐƯA HỌ RA!"
+
+Người pháp sư già quay mắt khỏi phượng hoàng, mắt ông gặp mắt Harry thay vào đó. "Harry, nói với Fawkes giúp ta! Nói với hắn rằng không đơn giản như vậy! Phượng hoàng không phải động vật đơn thuần nhưng chúng vẫn là động vật, Harry, chúng không thể hiểu—"
+
+"Con cũng không hiểu," Harry nói, giọng hắn run rẩy. "Con không hiểu tại sao Ngài lại nuôi người bằng Giám ngục! Azkaban không phải là nhà tù, đó là phòng tra tấn và Ngài đang tra tấn những người đó đến chết!"
+
+"Percival," người pháp sư già nói khàn đặc, "Percival Dumbledore, cha ruột của ta, Harry, cha ta đã chết ở Azkaban! Ta biết, ta biết đó là một điều kinh hoàng! Nhưng ngươi muốn ta làm gì? Phá Azkaban bằng vũ lực? Ngươi muốn ta tuyên bố nổi loạn công khai chống lại Bộ?"
+
+CAW!
+
+Có một khoảng dừng, và giọng Harry run rẩy nói, "Fawkes không biết gì về chính phủ, hắn chỉ muốn Ngài—đưa những tù nhân ra—khỏi các phòng giam của họ—và hắn sẽ giúp Ngài chiến đấu, nếu bất cứ ai cản đường—và—và con cũng vậy, Hiệu trưởng! Con sẽ đi với Ngài và phá hủy bất kỳ Giám ngục nào đến gần! Chúng ta sẽ lo về hậu quả chính trị sau, con đánh cược rằng Ngài và con cùng nhau có thể thoát khỏi nó—"
+
+"Harry," người pháp sư già thì thầm, "phượng hoàng không hiểu làm thế nào việc thắng một trận chiến có thể thua cả cuộc chiến." Nước mắt đang chảy trên má người pháp sư già, nhỏ xuống bộ râu bạc của ông. "Trận chiến là tất cả những gì họ biết. Họ tốt, nhưng không khôn ngoan. Đó là lý do tại sao họ chọn pháp sư làm chủ nhân của họ."
+
+"Ngài có thể đưa những Giám ngục ra chỗ con có thể tấn công họ không?" giọng Harry đang cầu xin. "Đưa chúng ra từng nhóm mười lăm—con nghĩ con có thể phá hủy nhiều như vậy mỗi lần mà không tự hại mình—"
+
+Người pháp sư già lắc đầu. "Đã khó khăn để qua mặt việc mất một con—họ có thể cho ta thêm một con, nhưng không bao giờ hai—chúng được coi là tài sản quốc gia, Harry, vũ khí trong trường hợp chiến tranh—"
+
+Sự giận dữ bùng lên trong Harry khi đó, bùng lên như lửa, nó có thể đến từ nơi phượng hoàng bây giờ đậu trên vai hắn, và nó có thể đến từ mặt tối của chính hắn, và hai cơn giận hòa trộn trong hắn, lạnh và nóng, và đó là một giọng lạ khi từ cổ họng hắn nói, "Nói cho con biết điều này. Một chính phủ phải làm gì, những cử tri phải làm gì với nền dân chủ của họ, những người dân của một đất nước phải làm gì, trước khi con nên quyết định rằng con không còn ở bên họ nữa?"
+
+Mắt người pháp sư già mở to khi ông nhìn cậu bé với một con phượng hoàng trên vai. "Harry… đó là lời của ngươi, hay của Giáo sư Phòng Thủ—"
+
+"Vì phải có một giới hạn, đúng không? Và nếu đó không phải là Azkaban, thì đâu là giới hạn?"
+
+"Harry, nghe ta, làm ơn, hãy nghe ta! Các pháp sư không thể sống cùng nhau nếu mỗi người tuyên bố nổi loạn chống lại toàn bộ, mỗi khi họ không đồng ý! Luôn luôn sẽ có điều gì đó—"
+
+"Azkaban không chỉ là điều gì đó! Nó là ác!"
+
+"Vâng, thậm chí là ác! Thậm chí một số điều ác, Harry, vì pháp sư không hoàn toàn tốt! Và thế mà sống trong hòa bình vẫn tốt hơn là trong hỗn loạn; và để ngươi và ta phá Azkaban bằng vũ lực sẽ là sự khởi đầu của hỗn loạn, ngươi không thấy sao?" Giọng người pháp sư già đang cầu xin. "Và có thể phản đối ý chí của đồng nghiệp một cách công khai hoặc bí mật, mà không ghét họ, mà không tuyên bố họ là ác quỷ và kẻ thù! Ta không nghĩ những người của đất nước này xứng đáng điều đó từ ngươi, Harry! Và ngay cả nếu một số trong họ xứng đáng—còn những đứa trẻ thì sao, những học sinh ở Hogwarts thì sao, những người tốt xen lẫn với kẻ xấu?"
+
+Harry nhìn vai mình nơi Fawkes đã đậu, thấy mắt phượng hoàng nhìn lại hắn, chúng không rực sáng nhưng chúng vẫn rực cháy, ngọn lửa đỏ trong biển lửa vàng.
+
+Ngươi nghĩ sao, Fawkes?
+
+"Caw?" phượng hoàng nói.
+
+Fawkes không hiểu cuộc trò chuyện.
+
+Cậu bé nhìn người pháp sư già, và nói bằng giọng nghẹn ngào, "Hoặc có lẽ những con phượng hoàng khôn ngoan hơn chúng ta, thông minh hơn chúng ta, có lẽ chúng theo chúng ta xung quanh hy vọng rằng một ngày nào đó chúng ta sẽ lắng nghe chúng, một ngày nào đó chúng ta sẽ hiểu ra, một ngày nào đó chúng ta sẽ chỉ đưa, những tù nhân, ra, khỏi các phòng giam của họ—"
+
+Harry quay người và kéo cánh cửa sồi mở ra và bước lên cầu thang và đóng sầm cửa lại sau lưng.
+
+Cầu thang bắt đầu xoay, Harry bắt đầu đi xuống, và hắn vùi mặt vào hai tay, và bắt đầu khóc.
+
+Phải đến khi hắn đi được nửa đường xuống hắn mới nhận ra sự khác biệt, nhận ra hơi ấm vẫn lan tỏa trong hắn, và nhận ra rằng—
+
+"Fawkes?" Harry thì thầm.
+
+—phượng hoàng vẫn ở trên vai hắn, đậu đó như hắn đã thấy hắn vài lần trên vai Dumbledore.
+
+Harry nhìn lại vào đôi mắt, ngọn lửa đỏ trong lửa vàng.
+
+"Ngươi không phải là phượng hoàng của ta bây giờ… phải không?"
+
+Caw!
+
+"Ồ," Harry nói, giọng hắn run một chút, "con vui khi nghe điều đó, Fawkes, vì con không nghĩ—Hiệu trưởng—con không nghĩ ông ấy xứng đáng—"
+
+Harry dừng lại, hít một hơi.
+
+"Con không nghĩ ông ấy xứng đáng điều đó, Fawkes, ông ấy đang cố làm điều đúng…"
+
+Caw!
+
+"Nhưng ngươi đang giận với ông ấy và cố đưa ra một điểm. Con hiểu."
+
+Phượng hoàng ghé đầu vào vai Harry, và tượng nhân sỏng đi mượt sang một bên để Harry đi qua trở lại các hành lang của Hogwarts.
