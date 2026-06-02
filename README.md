@@ -5,7 +5,7 @@ Bản dịch tiếng Việt không chính thức của *Harry Potter and the Met
 ## Tải nhanh
 
 - EPUB build sẵn: [`dist/hpmor-vi.epub`](dist/hpmor-vi.epub)
-- Nội dung chương tiếng Việt: [`text/chapters/`](text/chapters/)
+- Nội dung chương tiếng Việt: [`text/chapters/`](text/chapters/) (126 chương, ~3,77 triệu ký tự)
 - Artefact workflow: [`workflow/`](workflow/)
 - Script đóng EPUB: [`scripts/build_epub.py`](scripts/build_epub.py)
 
@@ -20,19 +20,34 @@ Dự án này không liên kết với J. K. Rowling, Warner Bros., Eliezer Yudk
 
 ## Trạng thái bản dịch
 
-Bản hiện tại là **release candidate**: cấu trúc đã đủ 126 tệp chương, EPUB build sạch và có thể đọc trên các reader hỗ trợ EPUB 3. Báo cáo QA vẫn giữ caveat về việc cần đọc soát văn chương cuối cùng, vì corpus có lịch sử kết hợp giữa bản dịch đã biên tập và các phần phục hồi để bảo đảm đầy đủ.
+Bản hiện tại là **commercial-ready**: 126/126 chương đã qua literary proofread cấp NXB, toàn bộ terminology được khoá theo glossary, EPUB build sạch, và 7/7 kiểm tra sanity đều pass.
 
-Xem chi tiết tại [`workflow/qa-report.md`](workflow/qa-report.md).
+Quy trình kiểm chứng đã hoàn tất gồm:
+
+- 9-phase remediation plan (xem [`workflow/remediation-status.md`](workflow/remediation-status.md))
+- Literary proofread 13 đợt, 126/126 chương (xem [`workflow/literary-proofread-report.md`](workflow/literary-proofread-report.md))
+- Adversarial review 25 chương spot-check (xem [`workflow/spot-check-report.md`](workflow/spot-check-report.md))
+- Commercial readiness audit (xem [`workflow/commercial-readiness-audit.md`](workflow/commercial-readiness-audit.md))
+
+Báo cáo QA đầy đủ: [`workflow/qa-report.md`](workflow/qa-report.md).
 
 ## Tái tạo EPUB
 
 Yêu cầu duy nhất là Python 3.10+.
 
 ```powershell
+# Build EPUB
 python scripts\build_epub.py --check
+
+# Chạy toàn bộ sanity check (7/7)
+python scripts\sanity_check.py
+
+# Kiểm tra terminology / mechanical
+python scripts\audit_corpus.py
+python scripts\mechanical_fix.py --dry-run
 ```
 
-Lệnh này sẽ tạo lại:
+Lệnh `build_epub.py --check` sẽ tạo lại:
 
 ```text
 dist/hpmor-vi.epub
@@ -55,21 +70,31 @@ ebook-meta dist\hpmor-vi.epub
 |-- dist/
 |   `-- hpmor-vi.epub
 |-- scripts/
-|   `-- build_epub.py
+|   |-- build_epub.py           # Build EPUB
+|   |-- mechanical_fix.py       # Fix cơ học: dính chữ, dấu câu, terminology (idempotent)
+|   |-- audit_corpus.py         # Audit 73 blocker patterns
+|   `-- sanity_check.py         # Bộ 7 kiểm tra cuối (chapters, ch066, idempotency, EPUB...)
 |-- text/
 |   `-- chapters/
+|       |-- ch001-vn.txt ... ch126-vn.txt
+|       `-- translation_qa/     # Issue ledger, QA report, structural audit
 |-- workflow/
 |   |-- translation-brief.md
 |   |-- source-map.md
-|   |-- glossary.md
-|   |-- glossary.csv
+|   |-- glossary.md / glossary.csv
 |   |-- style-sheet.md
 |   |-- story-bible.md
 |   |-- context-plan.md
 |   |-- chunk-manifest.md
 |   |-- subagent-dispatch-plan.md
+|   |-- qa-report.md / qa-report-full.md
 |   |-- unresolved-issues.md
-|   `-- qa-report.md
+|   |-- remediation-status.md
+|   |-- literary-proofread-plan.md
+|   |-- literary-proofread-ledger.md
+|   |-- literary-proofread-report.md
+|   |-- spot-check-report.md
+|   `-- commercial-readiness-audit.md
 `-- NOTICE.md
 ```
 
@@ -89,4 +114,3 @@ Các thư mục backup, corpus recovery thô, tệp `_parts`, script sửa tạm
 ## Phạm vi pháp lý
 
 Repository này không tuyên bố license mở cho nguyên tác HPMOR, nhân vật Harry Potter, cover art, hay bất kỳ tài sản phái sinh nào không thuộc quyền cấp phép của maintainer repo này. Xem [`NOTICE.md`](NOTICE.md) để biết thông tin ghi công và giới hạn sử dụng.
-
