@@ -133,6 +133,10 @@ def check_specific_errors() -> bool:
         ("ch099-vn.txt", r"thìanh ấynghĩ", "thìanh ấynghĩ fused"),
         ("ch103-vn.txt", r"cócó điều gì đó", "cócó điều gì đó dedup"),
         ("ch107-vn.txt", r"vàthực hiện", "vàthực hiện fused"),
+        # QA pass 5 (2026-06-02): Lý Lan terminology residuals
+        ("ch017-vn.txt", r"Death Glare", "Death Glare residual (Lý Lan = Ánh nhìn Chết chóc)"),
+        ("ch111-vn.txt", r"\. Eater hỏi|Voldemort\. Eater", "Eater residual (Death Eater typo)"),
+        ("ch017-vn.txt", r"Death Eater", "Death Eater residual (Lý Lan = Tử thần Thực tử)"),
     ]
     all_pass = True
     for fname, pattern, label in targets:
@@ -202,11 +206,20 @@ def check_audit_zero_blockers() -> bool:
 def check_independent_scan_zero() -> bool:
     """Run the user's independent regex scans directly (not via audit) and confirm 0 hits."""
     banner("Check 6: independent scan — broad regex + không?\\w = 0")
+    # Original 9-connector set
     p_broad = re.compile(r"[a-zà-ỹ](và|thì|không|bạn|thực|Những|anh|ấy|có)[a-zà-ỹ]")
+    # Extended 6-connector set (QA pass 4: mở rộng thêm một/là/rất/như/với/... — 2026-06-02)
+    p_broad_ext = re.compile(r"[a-zà-ỹ](một|là|rất|như|với|hay|hơn)[a-zà-ỹ]")
     p_khong = re.compile(r"không\?\w")
+    # Ch111 'vào' → 'và o' typo class
+    p_va_o = re.compile(r" và o[a-zà-ỹ]")
     broad_hits = 0
+    broad_ext_hits = 0
+    va_o_hits = 0
     khong_hits = 0
     broad_examples: list[tuple[str, int, str]] = []
+    broad_ext_examples: list[tuple[str, int, str]] = []
+    va_o_examples: list[tuple[str, int, str]] = []
     khong_examples: list[tuple[str, int, str]] = []
     for path in sorted(CHAPTER_DIR.glob("ch*-vn.txt")):
         text = path.read_text(encoding="utf-8")
@@ -215,6 +228,16 @@ def check_independent_scan_zero() -> bool:
             if len(broad_examples) < 5:
                 line_no = text.count("\n", 0, m.start()) + 1
                 broad_examples.append((path.name, line_no, m.group()))
+        for m in p_broad_ext.finditer(text):
+            broad_ext_hits += 1
+            if len(broad_ext_examples) < 5:
+                line_no = text.count("\n", 0, m.start()) + 1
+                broad_ext_examples.append((path.name, line_no, m.group()))
+        for m in p_va_o.finditer(text):
+            va_o_hits += 1
+            if len(va_o_examples) < 5:
+                line_no = text.count("\n", 0, m.start()) + 1
+                va_o_examples.append((path.name, line_no, m.group()))
         for m in p_khong.finditer(text):
             khong_hits += 1
             if len(khong_examples) < 5:
@@ -226,6 +249,18 @@ def check_independent_scan_zero() -> bool:
             print(f"    {fname}:{line_no}  {grp!r}")
         return False
     ok("broad fused-word regex: 0 hits")
+    if broad_ext_hits > 0:
+        fail(f"extended broad regex still has {broad_ext_hits} hit(s)")
+        for fname, line_no, grp in broad_ext_examples:
+            print(f"    {fname}:{line_no}  {grp!r}")
+        return False
+    ok("extended broad fused-word regex: 0 hits")
+    if va_o_hits > 0:
+        fail(f"'và o' typo regex still has {va_o_hits} hit(s)")
+        for fname, line_no, grp in va_o_examples:
+            print(f"    {fname}:{line_no}  {grp!r}")
+        return False
+    ok("'và o' → 'vào' typo regex: 0 hits")
     if khong_hits > 0:
         fail(f"không?\\w regex still has {khong_hits} hit(s)")
         for fname, line_no, grp in khong_examples:

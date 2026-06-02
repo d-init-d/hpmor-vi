@@ -28,8 +28,35 @@ Quy trình kiểm chứng đã hoàn tất gồm:
 - Literary proofread 13 đợt, 126/126 chương (xem [`workflow/literary-proofread-report.md`](workflow/literary-proofread-report.md))
 - Adversarial review 25 chương spot-check (xem [`workflow/spot-check-report.md`](workflow/spot-check-report.md))
 - Commercial readiness audit (xem [`workflow/commercial-readiness-audit.md`](workflow/commercial-readiness-audit.md))
+- **QA pass 4 (2026-06-02)**: phát hiện và sửa 132 lỗi fused-word/typo thật còn sót, mở rộng audit/fix scripts thêm 110+ pattern (xem [`workflow/qa-report-2026-06-02.md`](workflow/qa-report-2026-06-02.md))
+- **QA pass 5 (2026-06-02)**: audit chuyên sâu theo tiêu chuẩn Lý Lan (NXB Trẻ), sửa 2 residual English ("Death Glare" → "Ánh nhìn Chết chóc", "Eater" residual trong ch111)
 
 Báo cáo QA đầy đủ: [`workflow/qa-report.md`](workflow/qa-report.md).
+
+## Thuật ngữ theo chuẩn Lý Lan (NXB Trẻ)
+
+Toàn bộ thuật ngữ đã được khoá theo bản dịch chính thức Lý Lan của bộ *Harry Potter* (NXB Trẻ). Glossary cốt lõi:
+
+| Nguyên tác | Bản dịch | Số lần dùng |
+|---|---|---|
+| Dementor | **Giám ngục** | 347 |
+| Auror | **Thần sáng** | 306 |
+| Patronus | **Bùa hộ mệnh** | 216 |
+| Death Eater | **Tử thần Thực tử** | 27 |
+| Killing Curse | **Lời nguyền Chết chóc** | nhiều |
+| Dark Lord | **Chúa tể Hắc ám** | 539 |
+| Headmaster | **Hiệu trưởng** | 658 |
+| Head Table | **Bàn Trưởng** | 30 |
+| Transfiguration (class) | **Biến hình** | 290 |
+| Phoenix (chim) | **Phượng hoàng** | nhiều |
+| Order of the Phoenix | **Hội Phượng hoàng** | nhiều |
+| Diagon Alley | **Hẻm Xéo** | nhiều |
+| Death Glare | **Ánh nhìn Chết chóc** | 1 |
+| Wand (phép thuật) | **đũa phép** | nhiều |
+| Hogwarts / Gringotts / Azkaban / Fawkes | giữ nguyên tiếng Anh | — |
+| Wingardium Leviosa / Avada Kedavra | giữ nguyên (tên phép) | — |
+
+Mọi thay đổi terminology đều đi qua kiểm duyệt của `audit_corpus.py` (80+ blocker pattern) và `mechanical_fix.py` (idempotent).
 
 ## Tái tạo EPUB
 
@@ -45,6 +72,13 @@ python scripts\sanity_check.py
 # Kiểm tra terminology / mechanical
 python scripts\audit_corpus.py
 python scripts\mechanical_fix.py --dry-run
+```
+
+**Lưu ý encoding**: trên Windows console, cần `PYTHONIOENCODING=utf-8` hoặc dùng `py -X utf8`:
+
+```powershell
+$env:PYTHONIOENCODING="utf-8"
+py -X utf8 scripts\sanity_check.py
 ```
 
 Lệnh `build_epub.py --check` sẽ tạo lại:
@@ -70,14 +104,16 @@ ebook-meta dist\hpmor-vi.epub
 |-- dist/
 |   `-- hpmor-vi.epub
 |-- scripts/
-|   |-- build_epub.py           # Build EPUB
-|   |-- mechanical_fix.py       # Fix cơ học: dính chữ, dấu câu, terminology (idempotent)
-|   |-- audit_corpus.py         # Audit 73 blocker patterns
-|   `-- sanity_check.py         # Bộ 7 kiểm tra cuối (chapters, ch066, idempotency, EPUB...)
+|   |-- build_epub.py                # Build EPUB
+|   |-- mechanical_fix.py            # Fix cơ học: dính chữ, dấu câu, terminology (idempotent)
+|   |-- audit_corpus.py              # Audit 80+ blocker patterns
+|   |-- sanity_check.py              # Bộ 7 kiểm tra cuối (chapters, ch066, idempotency, EPUB...)
+|   |-- _fix_residual_fused.py       # One-shot script: 32 fused-word đã biết (QA pass 4)
+|   `-- _scan_extra_fused.py         # Quét fused-word 2-char bổ sung (auxiliary)
 |-- text/
 |   `-- chapters/
 |       |-- ch001-vn.txt ... ch126-vn.txt
-|       `-- translation_qa/     # Issue ledger, QA report, structural audit
+|       `-- translation_qa/          # Issue ledger, QA report, structural audit
 |-- workflow/
 |   |-- translation-brief.md
 |   |-- source-map.md
@@ -87,14 +123,15 @@ ebook-meta dist\hpmor-vi.epub
 |   |-- context-plan.md
 |   |-- chunk-manifest.md
 |   |-- subagent-dispatch-plan.md
-|   |-- qa-report.md / qa-report-full.md
+|   |-- qa-report.md / qa-report-full.md / qa-report-2026-06-02.md
 |   |-- unresolved-issues.md
 |   |-- remediation-status.md
 |   |-- literary-proofread-plan.md
 |   |-- literary-proofread-ledger.md
 |   |-- literary-proofread-report.md
 |   |-- spot-check-report.md
-|   `-- commercial-readiness-audit.md
+|   |-- commercial-readiness-audit.md
+|   `-- ready-to-ship-plan.md
 `-- NOTICE.md
 ```
 

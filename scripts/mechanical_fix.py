@@ -164,6 +164,76 @@ WORD_CONCAT_FIXES = [
     (re.compile(r"giỏi\.võ"), "giỏi. võ"),
     (re.compile(r"yếu đuối\.một"), "yếu đuối. một"),
     (re.compile(r"cậucó"), "cậu có"),
+    # --- QA pass 4 (2026-06-02): extended connector set found by independent scan ---
+    # mở rộng connector list (một|là|rất|như|với) — bắt được 25 fused-word thật
+    # mà broad regex cũ bỏ sót.
+    (re.compile(r"([a-zA-Zà-ỹÀ-Ỹ])(một|là|rất|như|với|hay|hơn)([A-Za-zà-ỹÀ-Ỹ])"), r"\1 \2 \3"),
+    # --- QA pass 4: specific fused-word patterns ---
+    (re.compile(r"biếtviệc"), "biết việc"),
+    (re.compile(r"cáchlàm"), "cách làm"),
+    (re.compile(r"phảimua"), "phải mua"),
+    (re.compile(r"sẽcực kỳ"), "sẽ cực kỳ"),
+    (re.compile(r"khó chịunếu"), "khó chịu nếu"),
+    (re.compile(r"đầu tiênlàm"), "đầu tiên làm"),
+    (re.compile(r"muốnlàm"), "muốn làm"),
+    (re.compile(r"đượcnhững"), "được những"),
+    (re.compile(r"những gìanh"), "những gì anh"),
+    (re.compile(r"trôngrấttức"), "trông rất tức"),
+    (re.compile(r"phải nghĩchúng"), "phải nghĩ chúng"),
+    (re.compile(r"cầnmộttrong"), "cần một trong"),
+    (re.compile(r"nàoanh"), "nào anh"),
+    (re.compile(r"đượcmột ngày"), "được một ngày"),
+    (re.compile(r"đượcmột cách"), "được một cách"),
+    (re.compile(r"hiểu đượcmột nửa"), "hiểu được một nửa"),
+    (re.compile(r"nửađiều"), "nửa điều"),
+    (re.compile(r"biếtmột bí mật"), "biết một bí mật"),
+    (re.compile(r"vềbất kỳ"), "về bất kỳ"),
+    (re.compile(r"Malfoyvềbất"), "Malfoy về bất"),
+    (re.compile(r"điều đólàvì"), "điều đó là vì"),
+    (re.compile(r"điều đólàhiển nhiên"), "điều đó là hiển nhiên"),
+    (re.compile(r"điều đólàm cho"), "điều đó làm cho"),  # CORRECT — keep
+    # Actually "đó làm cho" = "that makes" is correct; only flag fused "đólàm" with no space
+    (re.compile(r"đólàm(?![ ]cho)"), "đó làm"),  # fused "đólàm" → "đó làm" only when not followed by " cho"
+    (re.compile(r"bất kỳ aikhác"), "bất kỳ ai khác"),
+    (re.compile(r"bất kỳ aikhông"), "bất kỳ ai không"),
+    (re.compile(r"nhưhọlàm"), "như họ làm"),
+    (re.compile(r"lừahọlàm"), "lừa họ làm"),
+    (re.compile(r"ngườilàm!"), "người làm!"),
+    (re.compile(r"Slytherinbây giờ"), "Slytherin bây giờ"),
+    (re.compile(r"học sinhgiỏi nhất"), "học sinh giỏi nhất"),
+    (re.compile(r"phầncủa"), "phần của"),
+    (re.compile(r"cậulàm tốt"), "cậu làm tốt"),
+    (re.compile(r"cầncái đó"), "cần cái đó"),
+    (re.compile(r"biếtlàcậunói"), "biết là cậu nói"),
+    (re.compile(r"rằngLuciusnói"), "rằng Lucius nói"),
+    (re.compile(r"rằngcụ Dumbledore"), "rằng cụ Dumbledore"),
+    (re.compile(r"Dumbledorenói"), "Dumbledore nói"),
+    (re.compile(r"nàobạn có thể"), "nào bạn có thể"),
+    (re.compile(r"cầnlàm là"), "cần làm là"),
+    (re.compile(r"phảithú vị"), "phải thú vị"),
+    (re.compile(r"mìnhmuốnlàm"), "mình muốn làm"),
+    (re.compile(r"làvô hình"), "là vô hình"),
+    (re.compile(r"Bạnlàngười"), "Bạn là người"),
+    (re.compile(r"mô tảnhững"), "mô tả những"),
+    (re.compile(r"vềmột sốtương"), "về một số tương"),
+    (re.compile(r"chỉmộttrong"), "chỉ một trong"),
+    (re.compile(r"bạn là mộtTử"), "bạn là một Tử"),
+    (re.compile(r"niềm tinsau"), "niềm tin sau"),
+    (re.compile(r"nghiêm trọnglàban"), "nghiêm trọng là ban"),
+    (re.compile(r"nhìnrấtkỳ lạ"), "nhìn rất kỳ lạ"),
+    (re.compile(r"cố gắnglàm"), "cố gắng làm"),
+    (re.compile(r"Nếulàcụ Dumbledore"), "Nếu là cụ Dumbledore"),
+    (re.compile(r"bất tửnghĩa là"), "bất tử nghĩa là"),
+    (re.compile(r"mãi mãivớibạn"), "mãi mãi với bạn"),
+    (re.compile(r"Anh tađã"), "Anh ta đã"),
+    (re.compile(r"những gìthực sựđang"), "những gì thực sự đang"),
+    (re.compile(r"bình thườngmà"), "bình thường mà"),
+    (re.compile(r"những điềubình thường"), "những điều bình thường"),
+    (re.compile(r"bắtGranger"), "bắt Granger"),
+    # Ch111 'vào' mis-typed as 'và o' (global fix)
+    (re.compile(r" và o([a-zà-ỹ])"), r" vào \1"),
+    # Ch111 'vàng' mis-typed as 'và ng'
+    (re.compile(r"và ngrồi"), "vàng rồi"),
 ]
 
 # URL / time spacing — strict, only match broken forms
@@ -252,6 +322,17 @@ TERMINOLOGY_FIXES = [
     (re.compile(r"\bPatronus\b"), "Bùa hộ mệnh"),
     (re.compile(r"\bpatronus\b"), "bùa hộ mệnh"),
     (re.compile(r"\bPATRONUS\b"), "BÙA HỘ MỆNH"),
+    # Lý Lan terminology fixes (2026-06-02 QA pass 5)
+    # Đảm bảo các từ ngữ đặc biệt khớp với bản dịch chính thức Lý Lan (NXB Trẻ).
+    # Death Glare → Ánh nhìn Chết chóc (theo pattern "Lời nguyền Chết chóc" đã dùng)
+    (re.compile(r"\bDeath\s+Glare\b"), "Ánh nhìn Chết chóc"),
+    (re.compile(r"\bdeath\s+glare\b"), "ánh nhìn chết chóc"),
+    # Death Eater → Tử thần Thực tử (capitalized for proper noun)
+    (re.compile(r"\bDeath\s+Eater\b"), "Tử thần Thực tử"),
+    (re.compile(r"\bdeath\s+eater\b"), "tử thần thực tử"),
+    # Eater residual (where "Death" was dropped) → expand to "Tử thần Thực tử"
+    (re.compile(r"\bEater\b"), "Tử thần Thực tử"),
+    (re.compile(r"\beater\b"), "tử thần thực tử"),
     # 'Bàn Chính' (legacy form for Head Table) — normalize to 'Bàn Trưởng'
     (re.compile(r"\bBàn\s+Chính\b"), "Bàn Trưởng"),
     # Quirrell/Voldemort voice: keep 'Mr Potter' in formal contexts.
